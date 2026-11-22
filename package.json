@@ -1,1 +1,13 @@
-{"name":"zhixu-knowledge-studio","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"python3 -m http.server 5173","start":"python3 -m http.server 5173","check":"node --check app.js"}}
+{
+  "name": "zhixu-knowledge-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 5173",
+    "start": "python3 -m http.server 5173",
+    "check": "node --check app.js && node --check data-loader.js",
+    "build:data": "node scripts/build-runtime.mjs",
+    "test": "node --test tests/*.test.mjs"
+  }
+}
