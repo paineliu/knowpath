@@ -2,6 +2,12 @@
 
 面向小学至高中的知识图谱浏览与编辑工作台，直接读取 `data/` 中六个学科的 v3 数据包，无需安装依赖。
 
+## 在线体验与项目介绍
+
+- [打开知序](https://paineliu.github.io/knowpath/)
+- [阅读项目介绍](https://paineliu.github.io/knowpath/intro.html)
+- [可直接复制的分享文案](https://paineliu.github.io/knowpath/intro.html#share)
+
 ## 运行
 
 ```sh
