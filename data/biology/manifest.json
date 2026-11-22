@@ -1,0 +1,208 @@
+{
+  "schemaVersion": "3.0",
+  "subject": "biology",
+  "sourceSnapshot": "dfc910e9f68594df5b4f26932c32346045f2b4880f6c5db4e95c6665e313103f",
+  "source": {
+    "project": "cn-math-taxonomy",
+    "repository": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+    "license": "CC-BY-NC-4.0",
+    "files_sha256": {
+      "topics.json": "564e5df6d7a63d47ff8cba058f7c8e3f771d3ebf08758d02a8a6e2d1f1e748e4",
+      "dependencies.json": "739a4dc02c79b9e8d38c6f587e6f3ed17b87a255c85fd84ea675667f40007be9",
+      "questions.json": "5f4de7e3229b0dfa86ac163ab43dcbde6457c544f7bdb73a39bf9d6ec83988b1"
+    },
+    "revision_patches_sha256": {
+      "biology_revision_junior.json": "da175afb789c3a60a930c5ec4cd2eba91e4d4d5f85c7c076a8cf614509f21970",
+      "biology_revision_senior.json": "52027df6076b4f4079938370a7569d917531f153f1a20a51385b297050c0982c"
+    }
+  },
+  "inputHashes": {
+    "biology_topics.json": "6ff856094cce224152b3baa689c0dab89fb1ec4a310c4ec910268b5f075e298d",
+    "biology_depend.json": "900152731a9afea5b136c144d9294474c7ec18bdcdddaceabdaa8897a787ef81",
+    "biology_questions.json": "2c6f490e763d4146205f2a7d3c98ff7a7297bc1889b034c1ec9b29f79e7c9258"
+  },
+  "status": "ai_revised_draft_not_teacher_validated",
+  "scope": "生物初中及高中，继承原库覆盖范围；不独立声称课程完整性。",
+  "sourceSnapshotLimitations": [
+    "保留原编号及大部分原题；未修订条目标为 inherited_unreviewed，AI修订与新增题也未经完整教师审核。",
+    "部分原节点仍是整节、实验或复习活动；node_kind区分这些内容单元，不表示已全部拆成最小能力。",
+    "课标与教材册次继承原库，未重新核实；exact等原映射标记不代表本次权威复核。",
+    "必要先修仅用于安排直接测查，不据后续题答对或答错推断前置点掌握或薄弱。",
+    "计算、概念和应用分别记录证据；每维一道题不构成稳定掌握结论，尚未经过学生样本验证。",
+    "纸笔题无法证明实验操作、测量习惯或真实探究能力，须另行观察操作过程。",
+    "新结构与原页面不直接兼容，须适配集合字段、关系类型、人工评分及诊断策略。",
+    "生物的procedure维度也包括观察记录、分类和图表规则执行，不把计算能力当作所有生物学习的前提。"
+  ],
+  "sourceRevisionSummary": {
+    "topics": 201,
+    "dependencies": 376,
+    "questions": 876,
+    "updated_topics": 84,
+    "updated_existing_edges": 75,
+    "added_edges": 34,
+    "updated_existing_questions": 26,
+    "added_questions": 72,
+    "three_dimension_topic_count": 24,
+    "relations": {
+      "recommended_before": 168,
+      "related": 6,
+      "prerequisite": 202
+    }
+  },
+  "relations": {
+    "prerequisite": "候选必要基础，失败后可安排直接测查，不断言根因。",
+    "recommended_before": "建议学习顺序、支持知识或可选方法，不作必要门槛。",
+    "related": "比较、迁移或主题关联，不用于诊断回溯。"
+  },
+  "diagnosticPolicy": {
+    "infer_ancestor_mastery": false,
+    "infer_weakness_from_descendant_failure": false,
+    "traverse_relations": [
+      "prerequisite"
+    ],
+    "check_alternative_groups": true,
+    "unmeasured_status": "unknown",
+    "cross_subject_links": "navigation_only"
+  },
+  "masteryRequiresDirectEvidence": true,
+  "assessmentPolicy": {
+    "dimensions": {
+      "procedure": "在明确规则下计算、观察记录、分类或读取图表；不要求每个生物主题都出数值题。",
+      "concept": "辨析概念、结构与功能、机制、条件、反例及常见误区。",
+      "application": "选择生物学模型或证据，设置对照、处理变量与约束，并解释结论及其边界。"
+    },
+    "score_reporting": "三维分别记录，不按总分直接判掌握；未作答及未人工评分为unknown。",
+    "administration": "同组全部提交前不展示答案、解析或误区，避免题间提示。",
+    "human_grading": "short/self须人工评分；有rubric者按分项标准给分，不能只比较最后数字。",
+    "experimental_performance": "written_items_only_not_evidence_of_hands_on_skill",
+    "verification": "原题verify中的字符串或数字常量仅说明答案字段一致；算式一致也不证明题意或模型独立正确。",
+    "assumptions_display": "题干与biological_assumptions共同定义题目条件；展示题目时应同时提供假设。",
+    "scientific_validity": "单次观察、相关关系或少量后代不能无条件证明机制、因果或固定遗传比例。"
+  },
+  "evidenceScope": "item_only",
+  "gradingDefaults": {
+    "numeric": "automatic",
+    "choice": "automatic",
+    "short": "human",
+    "self": "human"
+  },
+  "questionFieldDefaults": {
+    "measures": [],
+    "assessment_focus": "unspecified",
+    "explanation": "简答题省略时使用 answer"
+  },
+  "placementLabels": {
+    "10": "必修第一册",
+    "11": "必修第二册",
+    "12": "选择性必修第一册",
+    "13": "选择性必修第二册",
+    "14": "选择性必修第三册"
+  },
+  "artifactHashes": {
+    "biology_topics.json": "70950f98704590bdaf1e2e0777972e139451a6898b7417f2adea9e962465f475",
+    "biology_depend.json": "28b6019787f1d26dd57e5c0d375361f457a3986e6da481d209151a8b0c6114fd",
+    "biology_questions.json": "bed102a763f0604ae720ef8f3b0b01cc6ed3f9b71420560d245485a5679ccc82",
+    "biology_reviews.json": "691287caa4c1b51b36e942d3b18f5fd10f6da108489c001d19761cdf67ad17bf"
+  },
+  "artifactSetId": "68f486a747490d022b35d68827fa9cb6d2d9c0f69e667a7963e5559d268cfe39",
+  "practiceMinimum": 4,
+  "questionCounts": {
+    "original": 876,
+    "addedPractice": 0
+  },
+  "verificationSummary": {
+    "expression_or_literal_consistency_passed": 824,
+    "without_expression_verification": 52,
+    "mismatch_count": 0,
+    "verification_kinds": {
+      "answer_literal_consistency_only": 757,
+      "expression_consistency_only": 67,
+      "not_available": 52
+    },
+    "meaning": "仅格式及表达式/字面量一致性；并非全部题目独立解答通过。"
+  },
+  "reviewPolicy": "所有对象等待建立逐项审查基线；sourceReviewStatus 保留来源状态。",
+  "experimentalPerformance": "not_measured_by_written_items",
+  "reviewFindings": [
+    {
+      "issue": "教材顺序被当作必要依赖",
+      "original_example": [
+        "cnb_j016",
+        "cnb_j015"
+      ],
+      "explanation": "学习鸟和哺乳动物并不必须先学两栖动物和爬行动物，原理由以课序和比较为主。"
+    },
+    {
+      "issue": "比较学习被当作必要前提",
+      "original_example": [
+        "cnb_j028",
+        "cnb_j027"
+      ],
+      "explanation": "呼吸作用与光合作用适合比较，但可分别建立概念，比较本身不构成必要门槛。"
+    },
+    {
+      "issue": "节点目标与测评不完全对应",
+      "original_example": [
+        "cnb_j001",
+        "cnb_j058"
+      ],
+      "explanation": "原观察活动套用了结构功能的泛化标准；显隐性节点的样题只问相对性状定义，不能充分检验显隐性推理。"
+    },
+    {
+      "issue": "课堂模型适用范围未充分限定",
+      "original_example": [
+        "cnb_h104",
+        "cnb_h039"
+      ],
+      "explanation": "生态能量输入需说明系统边界与能量来源；遗传比例需说明基因型、独立分配等条件。"
+    },
+    {
+      "issue": "全能性与多种细胞分化能力混淆",
+      "original_example": [
+        "cnb_h033"
+      ],
+      "explanation": "修订为形成完整个体的潜能；核移植的证据不能直接推广为完整分化体细胞可自行形成个体。"
+    },
+    {
+      "issue": "演替示例被写成固定普遍路径",
+      "original_example": [
+        "cnb_h101"
+      ],
+      "explanation": "地衣至森林的序列只是特定条件下的教学示例，终态取决于环境与干扰等条件。"
+    },
+    {
+      "issue": "起源假说与已证实事实未充分区分",
+      "original_example": [
+        "cnb_j061",
+        "cnb_j064"
+      ],
+      "explanation": "区分生命起源假说、支持部分步骤的实验和未解决问题；共同祖先证据不等于已确定唯一具名祖先物种。"
+    }
+  ],
+  "reviewReferences": [
+    {
+      "title": "NOAA: photosynthesis and chemosynthesis",
+      "url": "https://oceanexplorer.noaa.gov/ocean-fact/photochemo/",
+      "supports": "化能合成支持的食物网说明能量来源不可无条件写成太阳能。",
+      "topicIds": [
+        "cnb_h104"
+      ]
+    },
+    {
+      "title": "NHGRI: Linkage",
+      "url": "https://www.genome.gov/genetics-glossary/Linkage",
+      "supports": "同一染色体上邻近基因倾向共同遗传，不能不核对条件即相乘遗传概率。",
+      "topicIds": [
+        "cnb_h039"
+      ]
+    },
+    {
+      "title": "NLM MeSH: Totipotent Stem Cells",
+      "url": "https://www.ncbi.nlm.nih.gov/mesh/68039901",
+      "supports": "全能性以形成完整个体的潜能为界，不等同于能分化成多种细胞。",
+      "topicIds": [
+        "cnb_h033"
+      ]
+    }
+  ]
+}

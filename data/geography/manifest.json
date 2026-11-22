@@ -1,0 +1,160 @@
+{
+  "schemaVersion": "3.0",
+  "subject": "geography",
+  "sourceSnapshot": "9732c25aaf0381a22a748cbd9f640650c6ee5fb87701d3039efedaa8e0f2c509",
+  "source": {
+    "project": "cn-math-taxonomy",
+    "repository": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+    "license": "CC-BY-NC-4.0",
+    "files_sha256": {
+      "topics.json": "564e5df6d7a63d47ff8cba058f7c8e3f771d3ebf08758d02a8a6e2d1f1e748e4",
+      "dependencies.json": "739a4dc02c79b9e8d38c6f587e6f3ed17b87a255c85fd84ea675667f40007be9",
+      "questions.json": "5f4de7e3229b0dfa86ac163ab43dcbde6457c544f7bdb73a39bf9d6ec83988b1"
+    },
+    "revision_patches_sha256": {
+      "geography_revision_junior.json": "ad99badaa02972e4c19825b7d26c6d08e42dd5c14cded21a23b3e5153feac2ce",
+      "geography_revision_senior.json": "88c542e2c2fefe1fd540cc7bdb0ca477e18f28f0aa199bd3ff31b7cea61ffd85"
+    }
+  },
+  "inputHashes": {
+    "geography_topics.json": "7945dda8e16e7aed1b7178ccb93104e39418d4f69b79469f70a9350c0e896213",
+    "geography_depend.json": "4cf1d821076e86e56e192580da28c2a51cbd2155c94f7ed8addc52d6cebd62c5",
+    "geography_questions.json": "ada60f6574260ae1e63070ee11abf8358e692edf4fa840cd58e5fccdf56a9bc3"
+  },
+  "status": "ai_revised_draft_not_teacher_validated",
+  "scope": "地理初中及高中，继承原库覆盖范围；不独立声称课程完整性。",
+  "sourceSnapshotLimitations": [
+    "保留原编号及大部分原题；未修订条目标为 inherited_unreviewed，AI修订与新增题也未经完整教师审核。",
+    "部分原节点仍是整节、实验或复习活动；node_kind区分这些内容单元，不表示已全部拆成最小能力。",
+    "课标与教材册次继承原库，未重新核实；exact等原映射标记不代表本次权威复核。",
+    "必要先修仅用于安排直接测查，不据后续题答对或答错推断前置点掌握或薄弱。",
+    "计算、概念和应用分别记录证据；每维一道题不构成稳定掌握结论，尚未经过学生样本验证。",
+    "纸笔题无法证明实验操作、测量习惯或真实探究能力，须另行观察操作过程。",
+    "新结构与原页面不直接兼容，须适配集合字段、关系类型、人工评分及诊断策略。"
+  ],
+  "sourceRevisionSummary": {
+    "topics": 178,
+    "dependencies": 322,
+    "questions": 784,
+    "updated_topics": 74,
+    "updated_existing_edges": 65,
+    "added_edges": 20,
+    "updated_existing_questions": 16,
+    "added_questions": 72,
+    "three_dimension_topic_count": 24,
+    "relations": {
+      "recommended_before": 170,
+      "related": 10,
+      "prerequisite": 142
+    }
+  },
+  "relations": {
+    "prerequisite": "候选必要基础，失败后可安排直接测查，不断言根因。",
+    "recommended_before": "建议学习顺序、支持知识或可选方法，不作必要门槛。",
+    "related": "比较、迁移或主题关联，不用于诊断回溯。"
+  },
+  "diagnosticPolicy": {
+    "infer_ancestor_mastery": false,
+    "infer_weakness_from_descendant_failure": false,
+    "traverse_relations": [
+      "prerequisite"
+    ],
+    "check_alternative_groups": true,
+    "unmeasured_status": "unknown",
+    "cross_subject_links": "navigation_only"
+  },
+  "masteryRequiresDirectEvidence": true,
+  "assessmentPolicy": {
+    "dimensions": {
+      "procedure": "按给定规则计算、定位或提取地图图表信息。",
+      "concept": "辨析空间概念、尺度、地理过程、因果机制及适用条件。",
+      "application": "选择地理资料或模型，分析区域与尺度条件、比较方案并解释证据及限制。"
+    },
+    "score_reporting": "三维分别记录，不按总分直接判掌握；未作答及未人工评分为unknown。",
+    "administration": "同组全部提交前不展示答案、解析或误区，避免题间提示。",
+    "human_grading": "short/self须人工评分；有rubric者按分项标准给分，不能只比较最后数字。",
+    "experimental_performance": "written_items_only_not_evidence_of_hands_on_skill",
+    "verification": "原题verify中的字符串或数字常量仅说明答案字段一致；算式一致也不证明题意或模型独立正确。",
+    "assumptions_display": "题干与geographic_assumptions共同定义条件，展示题目时须提供。",
+    "material_provenance": "模拟数据和材料明确标注；真实资料应保留出处、时间和必要语境，不以自编材料冒充史实或实测。"
+  },
+  "evidenceScope": "item_only",
+  "gradingDefaults": {
+    "numeric": "automatic",
+    "choice": "automatic",
+    "short": "human",
+    "self": "human"
+  },
+  "questionFieldDefaults": {
+    "measures": [],
+    "assessment_focus": "unspecified",
+    "explanation": "简答题省略时使用 answer"
+  },
+  "placementLabels": {
+    "10": "必修第一册",
+    "11": "必修第二册",
+    "12": "选择性必修第一册",
+    "13": "选择性必修第二册",
+    "14": "选择性必修第三册"
+  },
+  "artifactHashes": {
+    "geography_topics.json": "85a4a154b00a9976178b4ad9708938db621103ac2b56585dd7b0c1a815359a0e",
+    "geography_depend.json": "6cbcb6bd2ddf06092f17ffab0c6fa6f7fe2a463fd0c4f69c73e40b3a63019dec",
+    "geography_questions.json": "529373fa1840bcc60878acb126df4ad85c20d3d0830ba79eeff17c5fe7a07ef5",
+    "geography_reviews.json": "094370f4bbb7f6b3222163b399dac381350f85706b1e3cab5e33fb2a0a951bde"
+  },
+  "artifactSetId": "18bf9eb70dd2c271a5554f324e4f75cde4413787ab7ff0dbe1672a99d1162265",
+  "practiceMinimum": 4,
+  "questionCounts": {
+    "original": 784,
+    "addedPractice": 0
+  },
+  "verificationSummary": {
+    "expression_or_literal_consistency_passed": 731,
+    "without_expression_verification": 53,
+    "mismatch_count": 0,
+    "verification_kinds": {
+      "answer_literal_consistency_only": 700,
+      "expression_consistency_only": 31,
+      "not_available": 53
+    },
+    "meaning": "仅格式及表达式/字面量一致性；并非全部题目独立解答通过。"
+  },
+  "reviewPolicy": "所有对象等待建立逐项审查基线；sourceReviewStatus 保留来源状态。",
+  "experimentalPerformance": "not_measured_by_written_items",
+  "fieldworkPerformance": "not_measured_by_written_items",
+  "reviewFindings": [
+    {
+      "issue": "知识层次与教学课序混淆",
+      "original_example": [
+        "cng_j002",
+        "cng_j001"
+      ],
+      "explanation": "使用地球仪不以先掌握地球的宇宙环境为必要前提。"
+    },
+    {
+      "issue": "过程解释可能被简化成单因素",
+      "original_example": [
+        "cng_h041",
+        "cng_h036"
+      ],
+      "explanation": "城镇化需区分人口比重、空间与经济变化，人口迁移只是相关过程之一。"
+    },
+    {
+      "issue": "原题与目标的匹配仍需逐项评估",
+      "explanation": "原库以事实识记选择题为主，本次核心题组补空间资料、尺度、模型适用与证据判断。"
+    }
+  ],
+  "reviewReferences": [
+    {
+      "title": "USGS: topographic map quadrangles and scale",
+      "url": "https://www.usgs.gov/faqs/why-are-usgs-topographic-maps-called-quadrangles",
+      "supports": "比例尺是图上与地面长度的比，换算要统一单位。"
+    },
+    {
+      "title": "NOAA: weather and climate",
+      "url": "https://www.noaa.gov/explainers/what-s-difference-between-climate-and-weather",
+      "supports": "天气与气候涉及不同时间尺度，单次天气不能直接替代气候统计判断。"
+    }
+  ]
+}

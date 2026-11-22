@@ -1,0 +1,4323 @@
+{
+  "schemaVersion": "3.0",
+  "subject": "history",
+  "sourceSnapshot": "8f4061d1b5a8daba5de382dda05ae01bf581e249744c7789484ddcc63aab8ea7",
+  "count": 513,
+  "dependencies": [
+    {
+      "id": "cnh_j001__cnh_j002",
+      "sourceTopicId": "cnh_j001",
+      "targetTopicId": "cnh_j002",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「远古时期的人类活动」，再学「原始农业与史前社会」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j002__cnh_j003",
+      "sourceTopicId": "cnh_j002",
+      "targetTopicId": "cnh_j003",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「原始农业与史前社会」，再学「中华文明的起源」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j003__cnh_j004",
+      "sourceTopicId": "cnh_j003",
+      "targetTopicId": "cnh_j004",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「中华文明的起源」，再学「夏商西周王朝的更替」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j004__cnh_j005",
+      "sourceTopicId": "cnh_j004",
+      "targetTopicId": "cnh_j005",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「夏商西周王朝的更替」，再学「动荡变化中的春秋时期」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j005__cnh_j006",
+      "sourceTopicId": "cnh_j005",
+      "targetTopicId": "cnh_j006",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「动荡变化中的春秋时期」，再学「战国时期的社会变革」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j006__cnh_j007",
+      "sourceTopicId": "cnh_j006",
+      "targetTopicId": "cnh_j007",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「战国时期的社会变革」，再学「百家争鸣」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j007__cnh_j008",
+      "sourceTopicId": "cnh_j007",
+      "targetTopicId": "cnh_j008",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「百家争鸣」，再学「夏商周时期的科技与文化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j008__cnh_j009",
+      "sourceTopicId": "cnh_j008",
+      "targetTopicId": "cnh_j009",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「夏商周时期的科技与文化」，再学「秦统一中国」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j009__cnh_j010",
+      "sourceTopicId": "cnh_j009",
+      "targetTopicId": "cnh_j010",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「秦统一中国」，再学「秦末农民大起义」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j012__cnh_j013",
+      "sourceTopicId": "cnh_j012",
+      "targetTopicId": "cnh_j013",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「大一统王朝的巩固」，再学「东汉的兴衰」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j013__cnh_j014",
+      "sourceTopicId": "cnh_j013",
+      "targetTopicId": "cnh_j014",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「东汉的兴衰」，再学「丝绸之路的开通与经营西域」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j014__cnh_j015",
+      "sourceTopicId": "cnh_j014",
+      "targetTopicId": "cnh_j015",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「丝绸之路的开通与经营西域」，再学「秦汉时期的科技与文化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j015__cnh_j016",
+      "sourceTopicId": "cnh_j015",
+      "targetTopicId": "cnh_j016",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「秦汉时期的科技与文化」，再学「三国鼎立」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j016__cnh_j017",
+      "sourceTopicId": "cnh_j016",
+      "targetTopicId": "cnh_j017",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「三国鼎立」，再学「西晋的短暂统一和北方各族的内迁」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j017__cnh_j018",
+      "sourceTopicId": "cnh_j017",
+      "targetTopicId": "cnh_j018",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「西晋的短暂统一和北方各族的内迁」，再学「东晋南朝政治和江南地区开发」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j018__cnh_j019",
+      "sourceTopicId": "cnh_j018",
+      "targetTopicId": "cnh_j019",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「东晋南朝政治和江南地区开发」，再学「北朝政治和北方民族大交融」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j019__cnh_j020",
+      "sourceTopicId": "cnh_j019",
+      "targetTopicId": "cnh_j020",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「北朝政治和北方民族大交融」，再学「三国两晋南北朝时期的科技与文化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j020__cnh_j021",
+      "sourceTopicId": "cnh_j020",
+      "targetTopicId": "cnh_j021",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「三国两晋南北朝时期的科技与文化」，再学「从考古发现看中华文明的起源与形成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j021__cnh_j022",
+      "sourceTopicId": "cnh_j021",
+      "targetTopicId": "cnh_j022",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「从考古发现看中华文明的起源与形成」，再学「隋朝统一与灭亡」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j022__cnh_j023",
+      "sourceTopicId": "cnh_j022",
+      "targetTopicId": "cnh_j023",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「隋朝统一与灭亡」，再学「唐朝建立与“贞观之治”」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j025__cnh_j026",
+      "sourceTopicId": "cnh_j025",
+      "targetTopicId": "cnh_j026",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「安史之乱与唐朝衰亡」，再学「隋唐时期的民族交往与交融」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j026__cnh_j027",
+      "sourceTopicId": "cnh_j026",
+      "targetTopicId": "cnh_j027",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「隋唐时期的民族交往与交融」，再学「隋唐时期的中外文化交流」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j027__cnh_j028",
+      "sourceTopicId": "cnh_j027",
+      "targetTopicId": "cnh_j028",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「隋唐时期的中外文化交流」，再学「隋唐时期的科技与文化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j028__cnh_j029",
+      "sourceTopicId": "cnh_j028",
+      "targetTopicId": "cnh_j029",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「隋唐时期的科技与文化」，再学「北宋的政治」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j029__cnh_j030",
+      "sourceTopicId": "cnh_j029",
+      "targetTopicId": "cnh_j030",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「北宋的政治」，再学「辽、西夏与北宋并立」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j030__cnh_j031",
+      "sourceTopicId": "cnh_j030",
+      "targetTopicId": "cnh_j031",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「辽、西夏与北宋并立」，再学「金与南宋对峙」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j031__cnh_j032",
+      "sourceTopicId": "cnh_j031",
+      "targetTopicId": "cnh_j032",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「金与南宋对峙」，再学「元朝的建立与统一」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j032__cnh_j033",
+      "sourceTopicId": "cnh_j032",
+      "targetTopicId": "cnh_j033",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「元朝的建立与统一」，再学「辽宋夏金元时期经济的繁荣」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j033__cnh_j034",
+      "sourceTopicId": "cnh_j033",
+      "targetTopicId": "cnh_j034",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「辽宋夏金元时期经济的繁荣」，再学「辽宋夏金元时期的对外交流」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j034__cnh_j035",
+      "sourceTopicId": "cnh_j034",
+      "targetTopicId": "cnh_j035",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「辽宋夏金元时期的对外交流」，再学「辽宋夏金元时期的科技与文化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j035__cnh_j036",
+      "sourceTopicId": "cnh_j035",
+      "targetTopicId": "cnh_j036",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「辽宋夏金元时期的科技与文化」，再学「明朝的统治」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j036__cnh_j037",
+      "sourceTopicId": "cnh_j036",
+      "targetTopicId": "cnh_j037",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「明朝的统治」，再学「明朝的对外关系」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j037__cnh_j038",
+      "sourceTopicId": "cnh_j037",
+      "targetTopicId": "cnh_j038",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「明朝的对外关系」，再学「明朝的灭亡和清朝的建立」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j038__cnh_j039",
+      "sourceTopicId": "cnh_j038",
+      "targetTopicId": "cnh_j039",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「明朝的灭亡和清朝的建立」，再学「清朝的边疆治理」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j039__cnh_j040",
+      "sourceTopicId": "cnh_j039",
+      "targetTopicId": "cnh_j040",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「清朝的边疆治理」，再学「清朝君主专制的强化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j040__cnh_j041",
+      "sourceTopicId": "cnh_j040",
+      "targetTopicId": "cnh_j041",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「清朝君主专制的强化」，再学「明清时期社会经济的发展」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j041__cnh_j042",
+      "sourceTopicId": "cnh_j041",
+      "targetTopicId": "cnh_j042",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「明清时期社会经济的发展」，再学「明清时期的科技与文化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j042__cnh_j043",
+      "sourceTopicId": "cnh_j042",
+      "targetTopicId": "cnh_j043",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「明清时期的科技与文化」，再学「我国传统节日的起源与传承」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j043__cnh_j044",
+      "sourceTopicId": "cnh_j043",
+      "targetTopicId": "cnh_j044",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「我国传统节日的起源与传承」，再学「鸦片战争」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j045__cnh_j046",
+      "sourceTopicId": "cnh_j045",
+      "targetTopicId": "cnh_j046",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「第二次鸦片战争」，再学「太平天国运动」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j046__cnh_j047",
+      "sourceTopicId": "cnh_j046",
+      "targetTopicId": "cnh_j047",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「太平天国运动」，再学「洋务运动和边疆危机」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j047__cnh_j048",
+      "sourceTopicId": "cnh_j047",
+      "targetTopicId": "cnh_j048",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「洋务运动和边疆危机」，再学「甲午中日战争与列强瓜分中国狂潮」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j048__cnh_j049",
+      "sourceTopicId": "cnh_j048",
+      "targetTopicId": "cnh_j049",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「甲午中日战争与列强瓜分中国狂潮」，再学「戊戌变法」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j049__cnh_j050",
+      "sourceTopicId": "cnh_j049",
+      "targetTopicId": "cnh_j050",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「戊戌变法」，再学「义和团运动和八国联军侵华」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j050__cnh_j051",
+      "sourceTopicId": "cnh_j050",
+      "targetTopicId": "cnh_j051",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「义和团运动和八国联军侵华」，再学「中国同盟会」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j052__cnh_j053",
+      "sourceTopicId": "cnh_j052",
+      "targetTopicId": "cnh_j053",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「辛亥革命」，再学「帝制复辟与军阀割据」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j053__cnh_j054",
+      "sourceTopicId": "cnh_j053",
+      "targetTopicId": "cnh_j054",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「帝制复辟与军阀割据」，再学「五四运动」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j055__cnh_j056",
+      "sourceTopicId": "cnh_j055",
+      "targetTopicId": "cnh_j056",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「中国共产党诞生」，再学「国共合作与北伐战争」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j056__cnh_j057",
+      "sourceTopicId": "cnh_j056",
+      "targetTopicId": "cnh_j057",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「国共合作与北伐战争」，再学「毛泽东开辟井冈山道路」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j058__cnh_j059",
+      "sourceTopicId": "cnh_j058",
+      "targetTopicId": "cnh_j059",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「中国工农红军长征与遵义会议」，再学「从九一八事变到西安事变」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j060__cnh_j061",
+      "sourceTopicId": "cnh_j060",
+      "targetTopicId": "cnh_j061",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「七七事变与全民族抗战」，再学「全民族抗战中的正面战场和敌后战场」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j061__cnh_j062",
+      "sourceTopicId": "cnh_j061",
+      "targetTopicId": "cnh_j062",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「全民族抗战中的正面战场和敌后战场」，再学「抗日战争的胜利」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j062__cnh_j063",
+      "sourceTopicId": "cnh_j062",
+      "targetTopicId": "cnh_j063",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「抗日战争的胜利」，再学「国民党挑起内战」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j064__cnh_j065",
+      "sourceTopicId": "cnh_j064",
+      "targetTopicId": "cnh_j065",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「人民解放战争的胜利」，再学「探寻红色文化的历史基因」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j065__cnh_j066",
+      "sourceTopicId": "cnh_j065",
+      "targetTopicId": "cnh_j066",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「探寻红色文化的历史基因」，再学「中华人民共和国成立」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j066__cnh_j067",
+      "sourceTopicId": "cnh_j066",
+      "targetTopicId": "cnh_j067",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「中华人民共和国成立」，再学「巩固人民民主政权」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j067__cnh_j068",
+      "sourceTopicId": "cnh_j067",
+      "targetTopicId": "cnh_j068",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「巩固人民民主政权」，再学「社会主义制度建立」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j068__cnh_j069",
+      "sourceTopicId": "cnh_j068",
+      "targetTopicId": "cnh_j069",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「社会主义制度建立」，再学「独立自主的和平外交」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j069__cnh_j070",
+      "sourceTopicId": "cnh_j069",
+      "targetTopicId": "cnh_j070",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「独立自主的和平外交」，再学「艰辛探索与曲折发展」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j070__cnh_j071",
+      "sourceTopicId": "cnh_j070",
+      "targetTopicId": "cnh_j071",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「艰辛探索与曲折发展」，再学「社会主义建设的巨大成就和先锋模范」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j071__cnh_j072",
+      "sourceTopicId": "cnh_j071",
+      "targetTopicId": "cnh_j072",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「社会主义建设的巨大成就和先锋模范」，再学「国防现代化起步和外交工作新突破」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j072__cnh_j073",
+      "sourceTopicId": "cnh_j072",
+      "targetTopicId": "cnh_j073",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「国防现代化起步和外交工作新突破」，再学「伟大的历史转折」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j074__cnh_j075",
+      "sourceTopicId": "cnh_j074",
+      "targetTopicId": "cnh_j075",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「改革开放的起步」，再学「改革开放和社会主义现代化建设的全面展开」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j075__cnh_j076",
+      "sourceTopicId": "cnh_j075",
+      "targetTopicId": "cnh_j076",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「改革开放和社会主义现代化建设的全面展开」，再学「社会主义初级阶段基本路线」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j076__cnh_j077",
+      "sourceTopicId": "cnh_j076",
+      "targetTopicId": "cnh_j077",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「社会主义初级阶段基本路线」，再学「加快改革开放和社会主义现代化建设步伐」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j077__cnh_j078",
+      "sourceTopicId": "cnh_j077",
+      "targetTopicId": "cnh_j078",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「加快改革开放和社会主义现代化建设步伐」，再学「中国特色社会主义事业取得新成就」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j078__cnh_j079",
+      "sourceTopicId": "cnh_j078",
+      "targetTopicId": "cnh_j079",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「中国特色社会主义事业取得新成就」，再学「国防和外交工作新局面」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j079__cnh_j080",
+      "sourceTopicId": "cnh_j079",
+      "targetTopicId": "cnh_j080",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「国防和外交工作新局面」，再学「开始全面建设小康社会」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j080__cnh_j081",
+      "sourceTopicId": "cnh_j080",
+      "targetTopicId": "cnh_j081",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「开始全面建设小康社会」，再学「夺取全面建设小康社会新胜利」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j081__cnh_j082",
+      "sourceTopicId": "cnh_j081",
+      "targetTopicId": "cnh_j082",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「夺取全面建设小康社会新胜利」，再学「推进国防军队建设和外交工作」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j082__cnh_j083",
+      "sourceTopicId": "cnh_j082",
+      "targetTopicId": "cnh_j083",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「推进国防军队建设和外交工作」，再学「擘画中国梦宏伟蓝图」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j083__cnh_j084",
+      "sourceTopicId": "cnh_j083",
+      "targetTopicId": "cnh_j084",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「擘画中国梦宏伟蓝图」，再学「决胜全面建成小康社会」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j084__cnh_j085",
+      "sourceTopicId": "cnh_j084",
+      "targetTopicId": "cnh_j085",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「决胜全面建成小康社会」，再学「维护国家安全和推进祖国统一」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j085__cnh_j086",
+      "sourceTopicId": "cnh_j085",
+      "targetTopicId": "cnh_j086",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「维护国家安全和推进祖国统一」，再学「构建人类命运共同体与中国特色大国外交」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j086__cnh_j087",
+      "sourceTopicId": "cnh_j086",
+      "targetTopicId": "cnh_j087",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「构建人类命运共同体与中国特色大国外交」，再学「实现第一个百年奋斗目标」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j087__cnh_j088",
+      "sourceTopicId": "cnh_j087",
+      "targetTopicId": "cnh_j088",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「实现第一个百年奋斗目标」，再学「开启全面建设社会主义现代化国家新征程」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j088__cnh_j089",
+      "sourceTopicId": "cnh_j088",
+      "targetTopicId": "cnh_j089",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「开启全面建设社会主义现代化国家新征程」，再学「新时代社会生活的巨大变化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j089__cnh_j090",
+      "sourceTopicId": "cnh_j089",
+      "targetTopicId": "cnh_j090",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「新时代社会生活的巨大变化」，再学「从原始社会到奴隶社会」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j090__cnh_j091",
+      "sourceTopicId": "cnh_j090",
+      "targetTopicId": "cnh_j091",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「从原始社会到奴隶社会」，再学「古代两河流域」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j091__cnh_j092",
+      "sourceTopicId": "cnh_j091",
+      "targetTopicId": "cnh_j092",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「古代两河流域」，再学「古代埃及」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j092__cnh_j093",
+      "sourceTopicId": "cnh_j092",
+      "targetTopicId": "cnh_j093",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「古代埃及」，再学「古代印度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j093__cnh_j094",
+      "sourceTopicId": "cnh_j093",
+      "targetTopicId": "cnh_j094",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「古代印度」，再学「古代希腊」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j094__cnh_j095",
+      "sourceTopicId": "cnh_j094",
+      "targetTopicId": "cnh_j095",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「古代希腊」，再学「古代罗马」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j095__cnh_j096",
+      "sourceTopicId": "cnh_j095",
+      "targetTopicId": "cnh_j096",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「古代罗马」，再学「法兰克王国和西欧封建制度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j096__cnh_j097",
+      "sourceTopicId": "cnh_j096",
+      "targetTopicId": "cnh_j097",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「法兰克王国和西欧封建制度」，再学「西欧的城市和大学」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j097__cnh_j098",
+      "sourceTopicId": "cnh_j097",
+      "targetTopicId": "cnh_j098",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「西欧的城市和大学」，再学「拜占庭帝国」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j098__cnh_j099",
+      "sourceTopicId": "cnh_j098",
+      "targetTopicId": "cnh_j099",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「拜占庭帝国」，再学「封建时代的日本」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j099__cnh_j100",
+      "sourceTopicId": "cnh_j099",
+      "targetTopicId": "cnh_j100",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「封建时代的日本」，再学「阿拉伯帝国」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j100__cnh_j101",
+      "sourceTopicId": "cnh_j100",
+      "targetTopicId": "cnh_j101",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「阿拉伯帝国」，再学「中古时期的非洲和美洲」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j101__cnh_j102",
+      "sourceTopicId": "cnh_j101",
+      "targetTopicId": "cnh_j102",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「中古时期的非洲和美洲」，再学「西欧经济社会发展与文艺复兴运动」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j102__cnh_j103",
+      "sourceTopicId": "cnh_j102",
+      "targetTopicId": "cnh_j103",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「西欧经济社会发展与文艺复兴运动」，再学「探寻新航路」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j103__cnh_j104",
+      "sourceTopicId": "cnh_j103",
+      "targetTopicId": "cnh_j104",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「探寻新航路」，再学「早期殖民掠夺」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j104__cnh_j105",
+      "sourceTopicId": "cnh_j104",
+      "targetTopicId": "cnh_j105",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「早期殖民掠夺」，再学「英国资产阶级革命」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j105__cnh_j106",
+      "sourceTopicId": "cnh_j105",
+      "targetTopicId": "cnh_j106",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「英国资产阶级革命」，再学「美国的独立」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j106__cnh_j107",
+      "sourceTopicId": "cnh_j106",
+      "targetTopicId": "cnh_j107",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「美国的独立」，再学「法国大革命和拿破仑帝国」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j107__cnh_j108",
+      "sourceTopicId": "cnh_j107",
+      "targetTopicId": "cnh_j108",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「法国大革命和拿破仑帝国」，再学「第一次工业革命」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j110__cnh_j111",
+      "sourceTopicId": "cnh_j110",
+      "targetTopicId": "cnh_j111",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「第一国际和巴黎公社」，再学「唱响“国际歌”」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j111__cnh_j112",
+      "sourceTopicId": "cnh_j111",
+      "targetTopicId": "cnh_j112",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「唱响“国际歌”」，再学「殖民地人民的反抗斗争」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j112__cnh_j113",
+      "sourceTopicId": "cnh_j112",
+      "targetTopicId": "cnh_j113",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「殖民地人民的反抗斗争」，再学「俄国的改革」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j113__cnh_j114",
+      "sourceTopicId": "cnh_j113",
+      "targetTopicId": "cnh_j114",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「俄国的改革」，再学「美国内战」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j114__cnh_j115",
+      "sourceTopicId": "cnh_j114",
+      "targetTopicId": "cnh_j115",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「美国内战」，再学「日本明治维新」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j115__cnh_j116",
+      "sourceTopicId": "cnh_j115",
+      "targetTopicId": "cnh_j116",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「日本明治维新」，再学「第二次工业革命」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j116__cnh_j117",
+      "sourceTopicId": "cnh_j116",
+      "targetTopicId": "cnh_j117",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「第二次工业革命」，再学「工业化国家的社会变化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j117__cnh_j118",
+      "sourceTopicId": "cnh_j117",
+      "targetTopicId": "cnh_j118",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「工业化国家的社会变化」，再学「近代科学与文化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j118__cnh_j119",
+      "sourceTopicId": "cnh_j118",
+      "targetTopicId": "cnh_j119",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「近代科学与文化」，再学「第一次世界大战」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j120__cnh_j121",
+      "sourceTopicId": "cnh_j120",
+      "targetTopicId": "cnh_j121",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「列宁与十月革命」，再学「《凡尔赛条约》和《九国公约》」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j121__cnh_j122",
+      "sourceTopicId": "cnh_j121",
+      "targetTopicId": "cnh_j122",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「《凡尔赛条约》和《九国公约》」，再学「苏联的社会主义建设」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j122__cnh_j123",
+      "sourceTopicId": "cnh_j122",
+      "targetTopicId": "cnh_j123",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「苏联的社会主义建设」，再学「亚非拉民族民主运动的高涨」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j123__cnh_j124",
+      "sourceTopicId": "cnh_j123",
+      "targetTopicId": "cnh_j124",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「亚非拉民族民主运动的高涨」，再学「罗斯福新政」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j124__cnh_j125",
+      "sourceTopicId": "cnh_j124",
+      "targetTopicId": "cnh_j125",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「罗斯福新政」，再学「法西斯国家的侵略扩张」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j127__cnh_j128",
+      "sourceTopicId": "cnh_j127",
+      "targetTopicId": "cnh_j128",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「冷战」，再学「二战后资本主义的新变化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j128__cnh_j129",
+      "sourceTopicId": "cnh_j128",
+      "targetTopicId": "cnh_j129",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「二战后资本主义的新变化」，再学「社会主义的发展与挫折」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j129__cnh_j130",
+      "sourceTopicId": "cnh_j129",
+      "targetTopicId": "cnh_j130",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「社会主义的发展与挫折」，再学「亚非拉国家的新发展」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j130__cnh_j131",
+      "sourceTopicId": "cnh_j130",
+      "targetTopicId": "cnh_j131",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「亚非拉国家的新发展」，再学「联合国与世界贸易组织」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j131__cnh_j132",
+      "sourceTopicId": "cnh_j131",
+      "targetTopicId": "cnh_j132",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「联合国与世界贸易组织」，再学「冷战后的世界格局」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j132__cnh_j133",
+      "sourceTopicId": "cnh_j132",
+      "targetTopicId": "cnh_j133",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「冷战后的世界格局」，再学「不断发展的现代社会」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j133__cnh_j134",
+      "sourceTopicId": "cnh_j133",
+      "targetTopicId": "cnh_j134",
+      "relation": "recommended_before",
+      "reason": "按统编版历史的教学顺序，先学「不断发展的现代社会」，再学「时事溯源」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j006__cnh_j009",
+      "sourceTopicId": "cnh_j006",
+      "targetTopicId": "cnh_j009",
+      "relation": "related",
+      "reason": "可作为分析秦统一中国的背景或解释线索，但需结合材料检验其作用，不把事件原因等同学习的必要前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "explanatory_background"
+    },
+    {
+      "id": "cnh_j010__cnh_j011",
+      "sourceTopicId": "cnh_j010",
+      "targetTopicId": "cnh_j011",
+      "relation": "recommended_before",
+      "reason": "先了解秦末农民大起义有助建立西汉建立和“文景之治”的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j011__cnh_j012",
+      "sourceTopicId": "cnh_j011",
+      "targetTopicId": "cnh_j012",
+      "relation": "recommended_before",
+      "reason": "先了解西汉建立和“文景之治”有助建立大一统王朝的巩固的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j012__cnh_j014",
+      "sourceTopicId": "cnh_j012",
+      "targetTopicId": "cnh_j014",
+      "relation": "related",
+      "reason": "可作为分析丝绸之路的开通与经营西域的背景或解释线索，但需结合材料检验其作用，不把事件原因等同学习的必要前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "explanatory_background"
+    },
+    {
+      "id": "cnh_j023__cnh_j024",
+      "sourceTopicId": "cnh_j023",
+      "targetTopicId": "cnh_j024",
+      "relation": "recommended_before",
+      "reason": "先了解唐朝建立与“贞观之治”有助建立“开元盛世”的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j024__cnh_j025",
+      "sourceTopicId": "cnh_j024",
+      "targetTopicId": "cnh_j025",
+      "relation": "recommended_before",
+      "reason": "先了解“开元盛世”有助建立安史之乱与唐朝衰亡的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j040__cnh_j044",
+      "sourceTopicId": "cnh_j040",
+      "targetTopicId": "cnh_j044",
+      "relation": "related",
+      "reason": "可作为分析鸦片战争的背景或解释线索，但需结合材料检验其作用，不把事件原因等同学习的必要前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "explanatory_background"
+    },
+    {
+      "id": "cnh_j044__cnh_j045",
+      "sourceTopicId": "cnh_j044",
+      "targetTopicId": "cnh_j045",
+      "relation": "recommended_before",
+      "reason": "先了解鸦片战争有助建立第二次鸦片战争的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j051__cnh_j052",
+      "sourceTopicId": "cnh_j051",
+      "targetTopicId": "cnh_j052",
+      "relation": "related",
+      "reason": "可作为分析辛亥革命的背景或解释线索，但需结合材料检验其作用，不把事件原因等同学习的必要前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "explanatory_background"
+    },
+    {
+      "id": "cnh_j054__cnh_j055",
+      "sourceTopicId": "cnh_j054",
+      "targetTopicId": "cnh_j055",
+      "relation": "related",
+      "reason": "可作为分析中国共产党诞生的背景或解释线索，但需结合材料检验其作用，不把事件原因等同学习的必要前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "explanatory_background"
+    },
+    {
+      "id": "cnh_j055__cnh_j057",
+      "sourceTopicId": "cnh_j055",
+      "targetTopicId": "cnh_j057",
+      "relation": "recommended_before",
+      "reason": "先了解中国共产党诞生有助建立毛泽东开辟井冈山道路的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j057__cnh_j058",
+      "sourceTopicId": "cnh_j057",
+      "targetTopicId": "cnh_j058",
+      "relation": "recommended_before",
+      "reason": "先了解毛泽东开辟井冈山道路有助建立中国工农红军长征与遵义会议的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j059__cnh_j060",
+      "sourceTopicId": "cnh_j059",
+      "targetTopicId": "cnh_j060",
+      "relation": "recommended_before",
+      "reason": "先了解从九一八事变到西安事变有助建立七七事变与全民族抗战的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j060__cnh_j062",
+      "sourceTopicId": "cnh_j060",
+      "targetTopicId": "cnh_j062",
+      "relation": "recommended_before",
+      "reason": "先了解七七事变与全民族抗战有助建立抗日战争的胜利的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j063__cnh_j064",
+      "sourceTopicId": "cnh_j063",
+      "targetTopicId": "cnh_j064",
+      "relation": "recommended_before",
+      "reason": "先了解国民党挑起内战有助建立人民解放战争的胜利的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j064__cnh_j066",
+      "sourceTopicId": "cnh_j064",
+      "targetTopicId": "cnh_j066",
+      "relation": "recommended_before",
+      "reason": "先了解人民解放战争的胜利有助建立中华人民共和国成立的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j066__cnh_j068",
+      "sourceTopicId": "cnh_j066",
+      "targetTopicId": "cnh_j068",
+      "relation": "recommended_before",
+      "reason": "先了解中华人民共和国成立有助建立社会主义制度建立的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j073__cnh_j074",
+      "sourceTopicId": "cnh_j073",
+      "targetTopicId": "cnh_j074",
+      "relation": "recommended_before",
+      "reason": "先了解伟大的历史转折有助建立改革开放的起步的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j108__cnh_j109",
+      "sourceTopicId": "cnh_j108",
+      "targetTopicId": "cnh_j109",
+      "relation": "related",
+      "reason": "可作为分析马克思主义的诞生的背景或解释线索，但需结合材料检验其作用，不把事件原因等同学习的必要前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "explanatory_background"
+    },
+    {
+      "id": "cnh_j109__cnh_j110",
+      "sourceTopicId": "cnh_j109",
+      "targetTopicId": "cnh_j110",
+      "relation": "recommended_before",
+      "reason": "先了解马克思主义的诞生有助建立第一国际和巴黎公社的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j116__cnh_j119",
+      "sourceTopicId": "cnh_j116",
+      "targetTopicId": "cnh_j119",
+      "relation": "related",
+      "reason": "可作为分析第一次世界大战的背景或解释线索，但需结合材料检验其作用，不把事件原因等同学习的必要前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "explanatory_background"
+    },
+    {
+      "id": "cnh_j119__cnh_j120",
+      "sourceTopicId": "cnh_j119",
+      "targetTopicId": "cnh_j120",
+      "relation": "recommended_before",
+      "reason": "先了解第一次世界大战有助建立列宁与十月革命的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j125__cnh_j126",
+      "sourceTopicId": "cnh_j125",
+      "targetTopicId": "cnh_j126",
+      "relation": "related",
+      "reason": "可作为分析第二次世界大战的背景或解释线索，但需结合材料检验其作用，不把事件原因等同学习的必要前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "explanatory_background"
+    },
+    {
+      "id": "cnh_j126__cnh_j127",
+      "sourceTopicId": "cnh_j126",
+      "targetTopicId": "cnh_j127",
+      "relation": "recommended_before",
+      "reason": "先了解第二次世界大战有助建立冷战的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j003__cnh_j021",
+      "sourceTopicId": "cnh_j003",
+      "targetTopicId": "cnh_j021",
+      "relation": "recommended_before",
+      "reason": "「从考古发现看文明起源」是方法课，需要手里已有良渚等具体发现，才有东西可拿来分析。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j005__cnh_j007",
+      "sourceTopicId": "cnh_j005",
+      "targetTopicId": "cnh_j007",
+      "relation": "recommended_before",
+      "reason": "百家争鸣是诸子对礼崩乐坏的回应，春秋时期王室衰微、诸侯争霸是这场争鸣的出发点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j004__cnh_j009",
+      "sourceTopicId": "cnh_j004",
+      "targetTopicId": "cnh_j009",
+      "relation": "recommended_before",
+      "reason": "把秦的郡县制同西周的分封制放在一起比较，才看得出统一后的新制度新在哪里。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j009__cnh_j012",
+      "sourceTopicId": "cnh_j009",
+      "targetTopicId": "cnh_j012",
+      "relation": "recommended_before",
+      "reason": "汉武帝加强中央集权，是在承袭秦朝郡县制和皇帝制度的基础上进一步巩固。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j007__cnh_j012",
+      "sourceTopicId": "cnh_j007",
+      "targetTopicId": "cnh_j012",
+      "relation": "recommended_before",
+      "reason": "「罢黜百家，独尊儒术」要拿儒家同其他各家的主张相比，才知道为什么选中儒学。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j011__cnh_j013",
+      "sourceTopicId": "cnh_j011",
+      "targetTopicId": "cnh_j013",
+      "relation": "recommended_before",
+      "reason": "光武帝建立东汉是重新恢复刘氏汉朝，需要先知道西汉怎样建立、怎样衰落。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j013__cnh_j015",
+      "sourceTopicId": "cnh_j013",
+      "targetTopicId": "cnh_j015",
+      "relation": "recommended_before",
+      "reason": "蔡伦改进造纸术、张仲景和华佗的医学成就大多出现在东汉，先有东汉的社会背景再学这些成就。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j013__cnh_j016",
+      "sourceTopicId": "cnh_j013",
+      "targetTopicId": "cnh_j016",
+      "relation": "recommended_before",
+      "reason": "先了解东汉的兴衰有助建立三国鼎立的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j017__cnh_j019",
+      "sourceTopicId": "cnh_j017",
+      "targetTopicId": "cnh_j019",
+      "relation": "related",
+      "reason": "可作为分析北朝政治和北方民族大交融的背景或解释线索，但需结合材料检验其作用，不把事件原因等同学习的必要前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "explanatory_background"
+    },
+    {
+      "id": "cnh_j019__cnh_j022",
+      "sourceTopicId": "cnh_j019",
+      "targetTopicId": "cnh_j022",
+      "relation": "recommended_before",
+      "reason": "先了解北朝政治和北方民族大交融有助建立隋朝统一与灭亡的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j023__cnh_j026",
+      "sourceTopicId": "cnh_j023",
+      "targetTopicId": "cnh_j026",
+      "relation": "recommended_before",
+      "reason": "文成公主入藏发生在唐太宗时期，唐朝的强盛和贞观年间的民族政策是这次和亲的背景。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j014__cnh_j027",
+      "sourceTopicId": "cnh_j014",
+      "targetTopicId": "cnh_j027",
+      "relation": "recommended_before",
+      "reason": "唐朝的中外交往沿着汉代开通的丝绸之路延伸，先知道丝路怎样开通，才懂这条通道的作用。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j025__cnh_j029",
+      "sourceTopicId": "cnh_j025",
+      "targetTopicId": "cnh_j029",
+      "relation": "recommended_before",
+      "reason": "北宋初年加强中央集权，针对的正是唐末藩镇割据和五代十国的混乱，先知道唐为何衰亡。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j029__cnh_j031",
+      "sourceTopicId": "cnh_j029",
+      "targetTopicId": "cnh_j031",
+      "relation": "recommended_before",
+      "reason": "北宋重文轻武、军队战斗力弱，是靖康之变中无力抵抗金军的重要原因。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j018__cnh_j033",
+      "sourceTopicId": "cnh_j018",
+      "targetTopicId": "cnh_j033",
+      "relation": "recommended_before",
+      "reason": "宋元时期南方经济超过北方，源头在东晋南朝以来江南的开发。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j027__cnh_j034",
+      "sourceTopicId": "cnh_j027",
+      "targetTopicId": "cnh_j034",
+      "relation": "recommended_before",
+      "reason": "宋元的海外贸易和港口是隋唐中外交流的继续，海上丝绸之路也由此兴起。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j028__cnh_j035",
+      "sourceTopicId": "cnh_j028",
+      "targetTopicId": "cnh_j035",
+      "relation": "recommended_before",
+      "reason": "毕昇的活字印刷是在隋唐雕版印刷的基础上改进而来，两者对照才知道改进了什么。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j032__cnh_j036",
+      "sourceTopicId": "cnh_j032",
+      "targetTopicId": "cnh_j036",
+      "relation": "recommended_before",
+      "reason": "先了解元朝的建立与统一有助建立明朝的统治的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j036__cnh_j038",
+      "sourceTopicId": "cnh_j036",
+      "targetTopicId": "cnh_j038",
+      "relation": "recommended_before",
+      "reason": "明朝后期朝政腐败、君权高度集中后的弊端，是农民起义和明朝灭亡的前因。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j032__cnh_j039",
+      "sourceTopicId": "cnh_j032",
+      "targetTopicId": "cnh_j039",
+      "relation": "recommended_before",
+      "reason": "元朝行省制度和对西藏、台湾等地的管辖，是清朝治理边疆的历史基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j036__cnh_j040",
+      "sourceTopicId": "cnh_j036",
+      "targetTopicId": "cnh_j040",
+      "relation": "recommended_before",
+      "reason": "清朝设军机处、大兴文字狱，是明朝君主专制不断强化趋势的继续和推进。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j033__cnh_j041",
+      "sourceTopicId": "cnh_j033",
+      "targetTopicId": "cnh_j041",
+      "relation": "recommended_before",
+      "reason": "明清农业、手工业、商业的发展是在宋元经济繁荣的基础上展开的，比较才看得出新变化。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j041__cnh_j044",
+      "sourceTopicId": "cnh_j041",
+      "targetTopicId": "cnh_j044",
+      "relation": "recommended_before",
+      "reason": "清朝自给自足的小农经济抵制外来商品，是英国不满现状、走私鸦片的背景。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j044__cnh_j046",
+      "sourceTopicId": "cnh_j044",
+      "targetTopicId": "cnh_j046",
+      "relation": "recommended_before",
+      "reason": "鸦片战争后赔款转嫁到百姓身上，社会矛盾尖锐，洪秀全才得以聚起人心。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j045__cnh_j047",
+      "sourceTopicId": "cnh_j045",
+      "targetTopicId": "cnh_j047",
+      "relation": "recommended_before",
+      "reason": "两次鸦片战争中暴露的列强船坚炮利，是洋务派提出「师夷长技」的直接刺激。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j047__cnh_j049",
+      "sourceTopicId": "cnh_j047",
+      "targetTopicId": "cnh_j049",
+      "relation": "recommended_before",
+      "reason": "学「戊戌变法」前先知道「洋务运动」试图自强而未触及制度，才懂变法为什么要改制度。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j040__cnh_j049",
+      "sourceTopicId": "cnh_j040",
+      "targetTopicId": "cnh_j049",
+      "relation": "recommended_before",
+      "reason": "变法要把君主专制改为君主立宪，先认清清朝君主专制的强化，才懂改革的难处。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j049__cnh_j051",
+      "sourceTopicId": "cnh_j049",
+      "targetTopicId": "cnh_j051",
+      "relation": "recommended_before",
+      "reason": "维新变法失败，让人看到改良行不通，革命派主张推翻清朝的主张才有市场。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j052__cnh_j054",
+      "sourceTopicId": "cnh_j052",
+      "targetTopicId": "cnh_j054",
+      "relation": "recommended_before",
+      "reason": "辛亥革命后民主共和有名无实，才有新文化运动反思传统，这是五四运动的思想前奏。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j051__cnh_j056",
+      "sourceTopicId": "cnh_j051",
+      "targetTopicId": "cnh_j056",
+      "relation": "recommended_before",
+      "reason": "国民党一大对三民主义作了新解释，先知道同盟会时期的三民主义，才看得出新在哪里。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j048__cnh_j059",
+      "sourceTopicId": "cnh_j048",
+      "targetTopicId": "cnh_j059",
+      "relation": "recommended_before",
+      "reason": "日本自甲午战争就吞并台湾、窥视东北，九一八事变是其一贯侵华野心的延续。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j058__cnh_j061",
+      "sourceTopicId": "cnh_j058",
+      "targetTopicId": "cnh_j061",
+      "relation": "recommended_before",
+      "reason": "红军长征到达陕北，后来改编为八路军、新四军开赴敌后，这是敌后战场的力量来源。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j057__cnh_j065",
+      "sourceTopicId": "cnh_j057",
+      "targetTopicId": "cnh_j065",
+      "relation": "recommended_before",
+      "reason": "井冈山革命旧址是红色遗址的典型例子，先知道这段历史，才会读遗址里的信息。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j058__cnh_j065",
+      "sourceTopicId": "cnh_j058",
+      "targetTopicId": "cnh_j065",
+      "relation": "recommended_before",
+      "reason": "遵义会议会址、长征沿线的纪念地，是用文物认识红色历史的代表。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j068__cnh_j070",
+      "sourceTopicId": "cnh_j068",
+      "targetTopicId": "cnh_j070",
+      "relation": "recommended_before",
+      "reason": "先了解社会主义制度建立有助建立艰辛探索与曲折发展的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j069__cnh_j072",
+      "sourceTopicId": "cnh_j069",
+      "targetTopicId": "cnh_j072",
+      "relation": "recommended_before",
+      "reason": "20世纪70年代的外交突破，是在新中国多年独立自主和平外交的积累上取得的。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j070__cnh_j073",
+      "sourceTopicId": "cnh_j070",
+      "targetTopicId": "cnh_j073",
+      "relation": "related",
+      "reason": "可作为分析伟大的历史转折的背景或解释线索，但需结合材料检验其作用，不把事件原因等同学习的必要前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "explanatory_background"
+    },
+    {
+      "id": "cnh_j073__cnh_j076",
+      "sourceTopicId": "cnh_j073",
+      "targetTopicId": "cnh_j076",
+      "relation": "recommended_before",
+      "reason": "社会主义初级阶段理论的提出，以十一届三中全会确立的解放思想、实事求是路线为基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j077__cnh_j080",
+      "sourceTopicId": "cnh_j077",
+      "targetTopicId": "cnh_j080",
+      "relation": "recommended_before",
+      "reason": "加入世贸组织是社会主义市场经济体制建立、对外开放扩大之后的重要一步。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j080__cnh_j084",
+      "sourceTopicId": "cnh_j080",
+      "targetTopicId": "cnh_j084",
+      "relation": "recommended_before",
+      "reason": "决胜全面建成小康社会，是在开始全面建设小康社会这个目标上的最后冲刺。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j078__cnh_j085",
+      "sourceTopicId": "cnh_j078",
+      "targetTopicId": "cnh_j085",
+      "relation": "recommended_before",
+      "reason": "祖国统一的方针中的一国两制，在香港、澳门回归中已有实践，先学回归再学统一方针。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j062__cnh_j085",
+      "sourceTopicId": "cnh_j062",
+      "targetTopicId": "cnh_j085",
+      "relation": "recommended_before",
+      "reason": "台湾光复让台湾重回祖国怀抱，是理解今天台湾问题和统一主张的历史前提。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j069__cnh_j086",
+      "sourceTopicId": "cnh_j069",
+      "targetTopicId": "cnh_j086",
+      "relation": "recommended_before",
+      "reason": "命运共同体的主张可追溯到和平共处五项原则，一脉相承的外交理念放在一起学。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j084__cnh_j087",
+      "sourceTopicId": "cnh_j084",
+      "targetTopicId": "cnh_j087",
+      "relation": "related",
+      "reason": "可作为分析实现第一个百年奋斗目标的背景或解释线索，但需结合材料检验其作用，不把事件原因等同学习的必要前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "explanatory_background"
+    },
+    {
+      "id": "cnh_j055__cnh_j087",
+      "sourceTopicId": "cnh_j055",
+      "targetTopicId": "cnh_j087",
+      "relation": "recommended_before",
+      "reason": "建党一百年的庆祝，要回到1921年中共一大，才明白一百年是从哪里数起的。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j083__cnh_j088",
+      "sourceTopicId": "cnh_j083",
+      "targetTopicId": "cnh_j088",
+      "relation": "recommended_before",
+      "reason": "新征程上的中国式现代化，是中国梦的具体落实，先知道中国梦的内涵。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j074__cnh_j089",
+      "sourceTopicId": "cnh_j074",
+      "targetTopicId": "cnh_j089",
+      "relation": "recommended_before",
+      "reason": "衣食住行的变化，起点是家庭联产承包和经济特区带来的城乡生活变化。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j095__cnh_j098",
+      "sourceTopicId": "cnh_j095",
+      "targetTopicId": "cnh_j098",
+      "relation": "recommended_before",
+      "reason": "先了解古代罗马有助建立拜占庭帝国的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j023__cnh_j099",
+      "sourceTopicId": "cnh_j023",
+      "targetTopicId": "cnh_j099",
+      "relation": "recommended_before",
+      "reason": "大化改新仿照唐朝的律令和中央官制，先知道唐朝的制度，才看得出改在哪里。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j095__cnh_j102",
+      "sourceTopicId": "cnh_j095",
+      "targetTopicId": "cnh_j102",
+      "relation": "recommended_before",
+      "reason": "文艺复兴要「复兴」的就是古希腊罗马的文化，不先了解古典文化，就不懂复兴什么。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j035__cnh_j103",
+      "sourceTopicId": "cnh_j035",
+      "targetTopicId": "cnh_j103",
+      "relation": "recommended_before",
+      "reason": "指南针由中国传入欧洲，航海者才敢驶向远洋，是新航路开辟的技术条件之一。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j101__cnh_j104",
+      "sourceTopicId": "cnh_j101",
+      "targetTopicId": "cnh_j104",
+      "relation": "recommended_before",
+      "reason": "玛雅、阿兹特克、印加是早期殖民者征服和掠夺的对象，先知道这些古文明，才懂掠夺的代价。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j104__cnh_j106",
+      "sourceTopicId": "cnh_j104",
+      "targetTopicId": "cnh_j106",
+      "relation": "recommended_before",
+      "reason": "北美十三个殖民地正是早期殖民扩张的产物，先知道殖民过程，才懂独立战争为何发生。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j105__cnh_j108",
+      "sourceTopicId": "cnh_j105",
+      "targetTopicId": "cnh_j108",
+      "relation": "recommended_before",
+      "reason": "英国资产阶级革命确立了有利于工商业的政治环境，这是工业革命首先在英国发生的重要前提。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j106__cnh_j112",
+      "sourceTopicId": "cnh_j106",
+      "targetTopicId": "cnh_j112",
+      "relation": "recommended_before",
+      "reason": "拉丁美洲独立运动受到美国独立战争的鼓舞，可对照两场独立运动的相似与不同。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j106__cnh_j114",
+      "sourceTopicId": "cnh_j106",
+      "targetTopicId": "cnh_j114",
+      "relation": "recommended_before",
+      "reason": "美国内战的矛盾，可追溯到独立后1787年宪法对奴隶制问题的暂时妥协。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j099__cnh_j115",
+      "sourceTopicId": "cnh_j099",
+      "targetTopicId": "cnh_j115",
+      "relation": "recommended_before",
+      "reason": "明治维新终结的是日本的幕府统治，先知道幕府怎样统治日本。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j108__cnh_j116",
+      "sourceTopicId": "cnh_j108",
+      "targetTopicId": "cnh_j116",
+      "relation": "recommended_before",
+      "reason": "第二次工业革命的电力时代，要拿第一次工业革命的蒸汽时代作对照，才看出新在哪里。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j109__cnh_j120",
+      "sourceTopicId": "cnh_j109",
+      "targetTopicId": "cnh_j120",
+      "relation": "recommended_before",
+      "reason": "布尔什维克和列宁以马克思主义为指导发动十月革命，先知道马克思主义的基本主张。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j119__cnh_j121",
+      "sourceTopicId": "cnh_j119",
+      "targetTopicId": "cnh_j121",
+      "relation": "recommended_before",
+      "reason": "先了解第一次世界大战有助建立《凡尔赛条约》和《九国公约》的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j054__cnh_j121",
+      "sourceTopicId": "cnh_j054",
+      "targetTopicId": "cnh_j121",
+      "relation": "recommended_before",
+      "reason": "巴黎和会上中国外交失败、山东权益被转让，五四运动已经学过，现在从会议全局看这个结局。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j120__cnh_j122",
+      "sourceTopicId": "cnh_j120",
+      "targetTopicId": "cnh_j122",
+      "relation": "recommended_before",
+      "reason": "先了解列宁与十月革命有助建立苏联的社会主义建设的时序和背景；这是叙事顺序建议，不要求先掌握前一整课才能学习本课。",
+      "contentOrigin": "revised",
+      "historicalRelation": "chronological_context"
+    },
+    {
+      "id": "cnh_j121__cnh_j123",
+      "sourceTopicId": "cnh_j121",
+      "targetTopicId": "cnh_j123",
+      "relation": "recommended_before",
+      "reason": "凡尔赛—华盛顿体系无视殖民地人民的诉求，成为民族民主运动重新高涨的重要刺激。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j121__cnh_j125",
+      "sourceTopicId": "cnh_j121",
+      "targetTopicId": "cnh_j125",
+      "relation": "recommended_before",
+      "reason": "德国法西斯上台，利用了人民对《凡尔赛条约》的不满，先知道条约内容。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j059__cnh_j125",
+      "sourceTopicId": "cnh_j059",
+      "targetTopicId": "cnh_j125",
+      "relation": "recommended_before",
+      "reason": "日本在东方发动九一八事变，是法西斯国家扩张的开端之一，八年级已经学过它的经过。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j060__cnh_j126",
+      "sourceTopicId": "cnh_j060",
+      "targetTopicId": "cnh_j126",
+      "relation": "recommended_before",
+      "reason": "七七事变后中国全民族抗战，开辟了世界反法西斯战争的东方战场。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j122__cnh_j127",
+      "sourceTopicId": "cnh_j122",
+      "targetTopicId": "cnh_j127",
+      "relation": "recommended_before",
+      "reason": "冷战是美苏两种社会制度之间的对峙，先知道苏联社会主义制度的由来，才懂对峙的根源。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j124__cnh_j128",
+      "sourceTopicId": "cnh_j124",
+      "targetTopicId": "cnh_j128",
+      "relation": "recommended_before",
+      "reason": "二战后福利国家的出现，可追溯到罗斯福新政开创的国家干预经济的做法。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j122__cnh_j129",
+      "sourceTopicId": "cnh_j122",
+      "targetTopicId": "cnh_j129",
+      "relation": "recommended_before",
+      "reason": "东欧剧变和苏联解体，要回头看苏联模式的特点和长期积累的问题。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j123__cnh_j130",
+      "sourceTopicId": "cnh_j123",
+      "targetTopicId": "cnh_j130",
+      "relation": "recommended_before",
+      "reason": "印度独立承接的是此前甘地领导的非暴力不合作运动，民族运动是独立后发展的起点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j126__cnh_j131",
+      "sourceTopicId": "cnh_j126",
+      "targetTopicId": "cnh_j131",
+      "relation": "related",
+      "reason": "可作为分析联合国与世界贸易组织的背景或解释线索，但需结合材料检验其作用，不把事件原因等同学习的必要前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "explanatory_background"
+    },
+    {
+      "id": "cnh_j129__cnh_j132",
+      "sourceTopicId": "cnh_j129",
+      "targetTopicId": "cnh_j132",
+      "relation": "related",
+      "reason": "可作为分析冷战后的世界格局的背景或解释线索，但需结合材料检验其作用，不把事件原因等同学习的必要前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "explanatory_background"
+    },
+    {
+      "id": "cnh_j003__cnh_h001",
+      "sourceTopicId": "cnh_j003",
+      "targetTopicId": "cnh_h001",
+      "relation": "recommended_before",
+      "reason": "初中《中华文明的起源》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j004__cnh_h001",
+      "sourceTopicId": "cnh_j004",
+      "targetTopicId": "cnh_h001",
+      "relation": "recommended_before",
+      "reason": "初中《夏商西周王朝的更替》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h001__cnh_h002",
+      "sourceTopicId": "cnh_h001",
+      "targetTopicId": "cnh_h002",
+      "relation": "recommended_before",
+      "reason": "《中华文明的起源与早期国家》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j006__cnh_h002",
+      "sourceTopicId": "cnh_j006",
+      "targetTopicId": "cnh_h002",
+      "relation": "recommended_before",
+      "reason": "初中《战国时期的社会变革》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h002__cnh_h003",
+      "sourceTopicId": "cnh_h002",
+      "targetTopicId": "cnh_h003",
+      "relation": "recommended_before",
+      "reason": "《诸侯纷争与变法运动》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j007__cnh_h003",
+      "sourceTopicId": "cnh_j007",
+      "targetTopicId": "cnh_h003",
+      "relation": "recommended_before",
+      "reason": "初中《百家争鸣》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h002__cnh_h004",
+      "sourceTopicId": "cnh_h002",
+      "targetTopicId": "cnh_h004",
+      "relation": "recommended_before",
+      "reason": "《诸侯纷争与变法运动》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j009__cnh_h004",
+      "sourceTopicId": "cnh_j009",
+      "targetTopicId": "cnh_h004",
+      "relation": "recommended_before",
+      "reason": "初中《秦统一中国》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h003__cnh_h004",
+      "sourceTopicId": "cnh_h003",
+      "targetTopicId": "cnh_h004",
+      "relation": "recommended_before",
+      "reason": "法家思想是秦朝政治的重要理论来源。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h004__cnh_h005",
+      "sourceTopicId": "cnh_h004",
+      "targetTopicId": "cnh_h005",
+      "relation": "recommended_before",
+      "reason": "《秦统一多民族封建国家的建立》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j010__cnh_h005",
+      "sourceTopicId": "cnh_j010",
+      "targetTopicId": "cnh_h005",
+      "relation": "recommended_before",
+      "reason": "初中《秦末农民大起义》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j011__cnh_h005",
+      "sourceTopicId": "cnh_j011",
+      "targetTopicId": "cnh_h005",
+      "relation": "recommended_before",
+      "reason": "西汉建立与文景之治的基本史实是本课后半部分的基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h005__cnh_h006",
+      "sourceTopicId": "cnh_h005",
+      "targetTopicId": "cnh_h006",
+      "relation": "recommended_before",
+      "reason": "《秦末农民战争与西汉的建立》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j012__cnh_h006",
+      "sourceTopicId": "cnh_j012",
+      "targetTopicId": "cnh_h006",
+      "relation": "recommended_before",
+      "reason": "初中《大一统王朝的巩固》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j014__cnh_h006",
+      "sourceTopicId": "cnh_j014",
+      "targetTopicId": "cnh_h006",
+      "relation": "recommended_before",
+      "reason": "张骞通西域与丝绸之路是汉武帝对外经略的重要内容。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h006__cnh_h007",
+      "sourceTopicId": "cnh_h006",
+      "targetTopicId": "cnh_h007",
+      "relation": "recommended_before",
+      "reason": "《汉武帝的大一统与两汉的衰亡》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j016__cnh_h007",
+      "sourceTopicId": "cnh_j016",
+      "targetTopicId": "cnh_h007",
+      "relation": "recommended_before",
+      "reason": "初中《三国鼎立》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j017__cnh_h007",
+      "sourceTopicId": "cnh_j017",
+      "targetTopicId": "cnh_h007",
+      "relation": "recommended_before",
+      "reason": "初中《西晋的短暂统一和北方各族的内迁》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h007__cnh_h008",
+      "sourceTopicId": "cnh_h007",
+      "targetTopicId": "cnh_h008",
+      "relation": "recommended_before",
+      "reason": "《三国两晋南北朝的政权更迭》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j019__cnh_h008",
+      "sourceTopicId": "cnh_j019",
+      "targetTopicId": "cnh_h008",
+      "relation": "recommended_before",
+      "reason": "初中《北朝政治和北方民族大交融》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j018__cnh_h008",
+      "sourceTopicId": "cnh_j018",
+      "targetTopicId": "cnh_h008",
+      "relation": "recommended_before",
+      "reason": "初中《东晋南朝政治和江南地区开发》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h008__cnh_h009",
+      "sourceTopicId": "cnh_h008",
+      "targetTopicId": "cnh_h009",
+      "relation": "recommended_before",
+      "reason": "《北方民族交融与江南的开发》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j022__cnh_h009",
+      "sourceTopicId": "cnh_j022",
+      "targetTopicId": "cnh_h009",
+      "relation": "recommended_before",
+      "reason": "初中《隋朝统一与灭亡》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j023__cnh_h009",
+      "sourceTopicId": "cnh_j023",
+      "targetTopicId": "cnh_h009",
+      "relation": "recommended_before",
+      "reason": "初中《唐朝建立与“贞观之治”》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j024__cnh_h009",
+      "sourceTopicId": "cnh_j024",
+      "targetTopicId": "cnh_h009",
+      "relation": "recommended_before",
+      "reason": "开元盛世的基本史实在初中已学。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h009__cnh_h010",
+      "sourceTopicId": "cnh_h009",
+      "targetTopicId": "cnh_h010",
+      "relation": "recommended_before",
+      "reason": "《隋唐的统一与盛世》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j025__cnh_h010",
+      "sourceTopicId": "cnh_j025",
+      "targetTopicId": "cnh_h010",
+      "relation": "recommended_before",
+      "reason": "初中《安史之乱与唐朝衰亡》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h009__cnh_h011",
+      "sourceTopicId": "cnh_h009",
+      "targetTopicId": "cnh_h011",
+      "relation": "recommended_before",
+      "reason": "《隋唐的统一与盛世》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_h010__cnh_h011",
+      "sourceTopicId": "cnh_h010",
+      "targetTopicId": "cnh_h011",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（上）》的教学顺序，先学「安史之乱、藩镇割据与五代十国」，再学「隋唐制度的变化与创新」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j020__cnh_h012",
+      "sourceTopicId": "cnh_j020",
+      "targetTopicId": "cnh_h012",
+      "relation": "recommended_before",
+      "reason": "初中《三国两晋南北朝时期的科技与文化》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j028__cnh_h012",
+      "sourceTopicId": "cnh_j028",
+      "targetTopicId": "cnh_h012",
+      "relation": "recommended_before",
+      "reason": "初中《隋唐时期的科技与文化》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h011__cnh_h012",
+      "sourceTopicId": "cnh_h011",
+      "targetTopicId": "cnh_h012",
+      "relation": "recommended_before",
+      "reason": "科举制与统一国家的出现，是隋唐文化繁荣的重要条件。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h010__cnh_h013",
+      "sourceTopicId": "cnh_h010",
+      "targetTopicId": "cnh_h013",
+      "relation": "recommended_before",
+      "reason": "《安史之乱、藩镇割据与五代十国》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j029__cnh_h013",
+      "sourceTopicId": "cnh_j029",
+      "targetTopicId": "cnh_h013",
+      "relation": "recommended_before",
+      "reason": "初中《北宋的政治》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j031__cnh_h013",
+      "sourceTopicId": "cnh_j031",
+      "targetTopicId": "cnh_h013",
+      "relation": "recommended_before",
+      "reason": "金与南宋对峙是本课后半部分的基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h012__cnh_h013",
+      "sourceTopicId": "cnh_h012",
+      "targetTopicId": "cnh_h013",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（上）》的教学顺序，先学「三国至隋唐的文化」，再学「两宋的政治和军事」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h013__cnh_h014",
+      "sourceTopicId": "cnh_h013",
+      "targetTopicId": "cnh_h014",
+      "relation": "recommended_before",
+      "reason": "《两宋的政治和军事》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j030__cnh_h014",
+      "sourceTopicId": "cnh_j030",
+      "targetTopicId": "cnh_h014",
+      "relation": "recommended_before",
+      "reason": "初中《辽、西夏与北宋并立》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j032__cnh_h014",
+      "sourceTopicId": "cnh_j032",
+      "targetTopicId": "cnh_h014",
+      "relation": "recommended_before",
+      "reason": "初中《元朝的建立与统一》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h014__cnh_h015",
+      "sourceTopicId": "cnh_h014",
+      "targetTopicId": "cnh_h015",
+      "relation": "recommended_before",
+      "reason": "《辽夏金元的统治》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j033__cnh_h015",
+      "sourceTopicId": "cnh_j033",
+      "targetTopicId": "cnh_h015",
+      "relation": "recommended_before",
+      "reason": "初中《辽宋夏金元时期经济的繁荣》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j035__cnh_h015",
+      "sourceTopicId": "cnh_j035",
+      "targetTopicId": "cnh_h015",
+      "relation": "recommended_before",
+      "reason": "初中《辽宋夏金元时期的科技与文化》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h014__cnh_h016",
+      "sourceTopicId": "cnh_h014",
+      "targetTopicId": "cnh_h016",
+      "relation": "recommended_before",
+      "reason": "《辽夏金元的统治》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j036__cnh_h016",
+      "sourceTopicId": "cnh_j036",
+      "targetTopicId": "cnh_h016",
+      "relation": "recommended_before",
+      "reason": "初中《明朝的统治》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j038__cnh_h016",
+      "sourceTopicId": "cnh_j038",
+      "targetTopicId": "cnh_h016",
+      "relation": "recommended_before",
+      "reason": "初中《明朝的灭亡和清朝的建立》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h015__cnh_h016",
+      "sourceTopicId": "cnh_h015",
+      "targetTopicId": "cnh_h016",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（上）》的教学顺序，先学「辽宋夏金元的经济、社会与文化」，再学「从明朝建立到清军入关」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h016__cnh_h017",
+      "sourceTopicId": "cnh_h016",
+      "targetTopicId": "cnh_h017",
+      "relation": "recommended_before",
+      "reason": "《从明朝建立到清军入关》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j039__cnh_h017",
+      "sourceTopicId": "cnh_j039",
+      "targetTopicId": "cnh_h017",
+      "relation": "recommended_before",
+      "reason": "初中《清朝的边疆治理》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j040__cnh_h017",
+      "sourceTopicId": "cnh_j040",
+      "targetTopicId": "cnh_h017",
+      "relation": "recommended_before",
+      "reason": "初中《清朝君主专制的强化》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h016__cnh_h018",
+      "sourceTopicId": "cnh_h016",
+      "targetTopicId": "cnh_h018",
+      "relation": "recommended_before",
+      "reason": "《从明朝建立到清军入关》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j041__cnh_h018",
+      "sourceTopicId": "cnh_j041",
+      "targetTopicId": "cnh_h018",
+      "relation": "recommended_before",
+      "reason": "初中《明清时期社会经济的发展》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j042__cnh_h018",
+      "sourceTopicId": "cnh_j042",
+      "targetTopicId": "cnh_h018",
+      "relation": "recommended_before",
+      "reason": "初中《明清时期的科技与文化》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h017__cnh_h018",
+      "sourceTopicId": "cnh_h017",
+      "targetTopicId": "cnh_h018",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（上）》的教学顺序，先学「清朝前中期的鼎盛与危机」，再学「明至清中叶的经济与文化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h017__cnh_h019",
+      "sourceTopicId": "cnh_h017",
+      "targetTopicId": "cnh_h019",
+      "relation": "recommended_before",
+      "reason": "《清朝前中期的鼎盛与危机》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_h018__cnh_h019",
+      "sourceTopicId": "cnh_h018",
+      "targetTopicId": "cnh_h019",
+      "relation": "recommended_before",
+      "reason": "理解英国为何觊觎中国市场，要先了解明清时期商品经济的发展与对外贸易状况。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j045__cnh_h019",
+      "sourceTopicId": "cnh_j045",
+      "targetTopicId": "cnh_h019",
+      "relation": "recommended_before",
+      "reason": "初中《第二次鸦片战争》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h019__cnh_h020",
+      "sourceTopicId": "cnh_h019",
+      "targetTopicId": "cnh_h020",
+      "relation": "recommended_before",
+      "reason": "《两次鸦片战争》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j046__cnh_h020",
+      "sourceTopicId": "cnh_j046",
+      "targetTopicId": "cnh_h020",
+      "relation": "recommended_before",
+      "reason": "初中《太平天国运动》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j047__cnh_h020",
+      "sourceTopicId": "cnh_j047",
+      "targetTopicId": "cnh_h020",
+      "relation": "recommended_before",
+      "reason": "初中《洋务运动和边疆危机》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h020__cnh_h021",
+      "sourceTopicId": "cnh_h020",
+      "targetTopicId": "cnh_h021",
+      "relation": "recommended_before",
+      "reason": "《太平天国运动与洋务运动》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j048__cnh_h021",
+      "sourceTopicId": "cnh_j048",
+      "targetTopicId": "cnh_h021",
+      "relation": "recommended_before",
+      "reason": "初中《甲午中日战争与列强瓜分中国狂潮》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h021__cnh_h022",
+      "sourceTopicId": "cnh_h021",
+      "targetTopicId": "cnh_h022",
+      "relation": "recommended_before",
+      "reason": "《甲午战争与瓜分危机的加剧》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j049__cnh_h022",
+      "sourceTopicId": "cnh_j049",
+      "targetTopicId": "cnh_h022",
+      "relation": "recommended_before",
+      "reason": "初中《戊戌变法》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j050__cnh_h022",
+      "sourceTopicId": "cnh_j050",
+      "targetTopicId": "cnh_h022",
+      "relation": "recommended_before",
+      "reason": "初中《义和团运动和八国联军侵华》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h022__cnh_h023",
+      "sourceTopicId": "cnh_h022",
+      "targetTopicId": "cnh_h023",
+      "relation": "recommended_before",
+      "reason": "《戊戌变法与义和团运动》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j052__cnh_h023",
+      "sourceTopicId": "cnh_j052",
+      "targetTopicId": "cnh_h023",
+      "relation": "recommended_before",
+      "reason": "初中《辛亥革命》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h023__cnh_h024",
+      "sourceTopicId": "cnh_h023",
+      "targetTopicId": "cnh_h024",
+      "relation": "recommended_before",
+      "reason": "《辛亥革命》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j053__cnh_h024",
+      "sourceTopicId": "cnh_j053",
+      "targetTopicId": "cnh_h024",
+      "relation": "recommended_before",
+      "reason": "初中《帝制复辟与军阀割据》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h024__cnh_h025",
+      "sourceTopicId": "cnh_h024",
+      "targetTopicId": "cnh_h025",
+      "relation": "recommended_before",
+      "reason": "《北洋军阀统治时期的政治、经济与文化》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j055__cnh_h025",
+      "sourceTopicId": "cnh_j055",
+      "targetTopicId": "cnh_h025",
+      "relation": "recommended_before",
+      "reason": "初中《中国共产党诞生》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h025__cnh_h026",
+      "sourceTopicId": "cnh_h025",
+      "targetTopicId": "cnh_h026",
+      "relation": "recommended_before",
+      "reason": "《五四运动与中国共产党的诞生》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j056__cnh_h026",
+      "sourceTopicId": "cnh_j056",
+      "targetTopicId": "cnh_h026",
+      "relation": "recommended_before",
+      "reason": "初中《国共合作与北伐战争》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h026__cnh_h027",
+      "sourceTopicId": "cnh_h026",
+      "targetTopicId": "cnh_h027",
+      "relation": "recommended_before",
+      "reason": "《国共合作与国民革命》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_h027__cnh_h028",
+      "sourceTopicId": "cnh_h027",
+      "targetTopicId": "cnh_h028",
+      "relation": "recommended_before",
+      "reason": "《南京国民政府的统治》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j058__cnh_h028",
+      "sourceTopicId": "cnh_j058",
+      "targetTopicId": "cnh_h028",
+      "relation": "recommended_before",
+      "reason": "初中《中国工农红军长征与遵义会议》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h027__cnh_h029",
+      "sourceTopicId": "cnh_h027",
+      "targetTopicId": "cnh_h029",
+      "relation": "recommended_before",
+      "reason": "《南京国民政府的统治》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_h028__cnh_h029",
+      "sourceTopicId": "cnh_h028",
+      "targetTopicId": "cnh_h029",
+      "relation": "recommended_before",
+      "reason": "西安事变与统一战线的形成，与红军长征到达陕北后的局势相关。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j060__cnh_h029",
+      "sourceTopicId": "cnh_j060",
+      "targetTopicId": "cnh_h029",
+      "relation": "recommended_before",
+      "reason": "初中《七七事变与全民族抗战》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h029__cnh_h030",
+      "sourceTopicId": "cnh_h029",
+      "targetTopicId": "cnh_h030",
+      "relation": "recommended_before",
+      "reason": "《从局部抗战到全国抗战》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j061__cnh_h030",
+      "sourceTopicId": "cnh_j061",
+      "targetTopicId": "cnh_h030",
+      "relation": "recommended_before",
+      "reason": "初中《全民族抗战中的正面战场和敌后战场》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j062__cnh_h030",
+      "sourceTopicId": "cnh_j062",
+      "targetTopicId": "cnh_h030",
+      "relation": "recommended_before",
+      "reason": "初中《抗日战争的胜利》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h030__cnh_h031",
+      "sourceTopicId": "cnh_h030",
+      "targetTopicId": "cnh_h031",
+      "relation": "recommended_before",
+      "reason": "《全民族浴血奋战与抗日战争的胜利》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j064__cnh_h031",
+      "sourceTopicId": "cnh_j064",
+      "targetTopicId": "cnh_h031",
+      "relation": "recommended_before",
+      "reason": "初中《人民解放战争的胜利》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h031__cnh_h032",
+      "sourceTopicId": "cnh_h031",
+      "targetTopicId": "cnh_h032",
+      "relation": "recommended_before",
+      "reason": "《人民解放战争》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j067__cnh_h032",
+      "sourceTopicId": "cnh_j067",
+      "targetTopicId": "cnh_h032",
+      "relation": "recommended_before",
+      "reason": "初中《巩固人民民主政权》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j068__cnh_h032",
+      "sourceTopicId": "cnh_j068",
+      "targetTopicId": "cnh_h032",
+      "relation": "recommended_before",
+      "reason": "初中《社会主义制度建立》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h032__cnh_h033",
+      "sourceTopicId": "cnh_h032",
+      "targetTopicId": "cnh_h033",
+      "relation": "recommended_before",
+      "reason": "《中华人民共和国成立和向社会主义的过渡》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j070__cnh_h033",
+      "sourceTopicId": "cnh_j070",
+      "targetTopicId": "cnh_h033",
+      "relation": "recommended_before",
+      "reason": "初中《艰辛探索与曲折发展》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j071__cnh_h033",
+      "sourceTopicId": "cnh_j071",
+      "targetTopicId": "cnh_h033",
+      "relation": "recommended_before",
+      "reason": "初中《社会主义建设的巨大成就和先锋模范》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j072__cnh_h033",
+      "sourceTopicId": "cnh_j072",
+      "targetTopicId": "cnh_h033",
+      "relation": "recommended_before",
+      "reason": "国防现代化起步和外交新突破在初中已学。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h033__cnh_h034",
+      "sourceTopicId": "cnh_h033",
+      "targetTopicId": "cnh_h034",
+      "relation": "recommended_before",
+      "reason": "《社会主义建设在探索中曲折发展》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j074__cnh_h034",
+      "sourceTopicId": "cnh_j074",
+      "targetTopicId": "cnh_h034",
+      "relation": "recommended_before",
+      "reason": "初中《改革开放的起步》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j077__cnh_h034",
+      "sourceTopicId": "cnh_j077",
+      "targetTopicId": "cnh_h034",
+      "relation": "recommended_before",
+      "reason": "加快改革开放步伐与市场经济目标的确立，初中已有基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h034__cnh_h035",
+      "sourceTopicId": "cnh_h034",
+      "targetTopicId": "cnh_h035",
+      "relation": "recommended_before",
+      "reason": "《中国特色社会主义的开创与发展》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j078__cnh_h035",
+      "sourceTopicId": "cnh_j078",
+      "targetTopicId": "cnh_h035",
+      "relation": "recommended_before",
+      "reason": "初中《中国特色社会主义事业取得新成就》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h034__cnh_h036",
+      "sourceTopicId": "cnh_h034",
+      "targetTopicId": "cnh_h036",
+      "relation": "recommended_before",
+      "reason": "《中国特色社会主义的开创与发展》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j079__cnh_h036",
+      "sourceTopicId": "cnh_j079",
+      "targetTopicId": "cnh_h036",
+      "relation": "recommended_before",
+      "reason": "初中《国防和外交工作新局面》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h035__cnh_h036",
+      "sourceTopicId": "cnh_h035",
+      "targetTopicId": "cnh_h036",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（上）》的教学顺序，先学「改革开放以来的经济与社会成就」，再学「改革开放以来的政治文明与国际地位」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h035__cnh_h037",
+      "sourceTopicId": "cnh_h035",
+      "targetTopicId": "cnh_h037",
+      "relation": "recommended_before",
+      "reason": "《改革开放以来的经济与社会成就》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j083__cnh_h037",
+      "sourceTopicId": "cnh_j083",
+      "targetTopicId": "cnh_h037",
+      "relation": "recommended_before",
+      "reason": "初中《擘画中国梦宏伟蓝图》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h036__cnh_h037",
+      "sourceTopicId": "cnh_h036",
+      "targetTopicId": "cnh_h037",
+      "relation": "recommended_before",
+      "reason": "新时代全面依法治国与国际地位的提升，延续了改革开放以来的政治文明建设。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h037__cnh_h038",
+      "sourceTopicId": "cnh_h037",
+      "targetTopicId": "cnh_h038",
+      "relation": "recommended_before",
+      "reason": "《中国特色社会主义进入新时代》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j087__cnh_h038",
+      "sourceTopicId": "cnh_j087",
+      "targetTopicId": "cnh_h038",
+      "relation": "recommended_before",
+      "reason": "初中《实现第一个百年奋斗目标》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j091__cnh_h039",
+      "sourceTopicId": "cnh_j091",
+      "targetTopicId": "cnh_h039",
+      "relation": "recommended_before",
+      "reason": "初中《古代两河流域》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j092__cnh_h039",
+      "sourceTopicId": "cnh_j092",
+      "targetTopicId": "cnh_h039",
+      "relation": "recommended_before",
+      "reason": "初中《古代埃及》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j093__cnh_h039",
+      "sourceTopicId": "cnh_j093",
+      "targetTopicId": "cnh_h039",
+      "relation": "recommended_before",
+      "reason": "古代印度的种姓制度与宗教是本课的内容基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h038__cnh_h039",
+      "sourceTopicId": "cnh_h038",
+      "targetTopicId": "cnh_h039",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史课序，学完《中外历史纲要（上）》的「新时代中国特色社会主义的伟大成就」后进入《中外历史纲要（下）》的「古代东方文明的产生与早期发展」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j094__cnh_h040",
+      "sourceTopicId": "cnh_j094",
+      "targetTopicId": "cnh_h040",
+      "relation": "recommended_before",
+      "reason": "初中《古代希腊》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j095__cnh_h040",
+      "sourceTopicId": "cnh_j095",
+      "targetTopicId": "cnh_h040",
+      "relation": "recommended_before",
+      "reason": "初中《古代罗马》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h039__cnh_h040",
+      "sourceTopicId": "cnh_h039",
+      "targetTopicId": "cnh_h040",
+      "relation": "recommended_before",
+      "reason": "与东方君主专制对照，才能看出希腊城邦民主的特点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h040__cnh_h041",
+      "sourceTopicId": "cnh_h040",
+      "targetTopicId": "cnh_h041",
+      "relation": "recommended_before",
+      "reason": "《古代希腊罗马文明》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_h039__cnh_h041",
+      "sourceTopicId": "cnh_h039",
+      "targetTopicId": "cnh_h041",
+      "relation": "recommended_before",
+      "reason": "《古代东方文明的产生与早期发展》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_h040__cnh_h042",
+      "sourceTopicId": "cnh_h040",
+      "targetTopicId": "cnh_h042",
+      "relation": "recommended_before",
+      "reason": "《古代希腊罗马文明》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j096__cnh_h042",
+      "sourceTopicId": "cnh_j096",
+      "targetTopicId": "cnh_h042",
+      "relation": "recommended_before",
+      "reason": "初中《法兰克王国和西欧封建制度》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j097__cnh_h042",
+      "sourceTopicId": "cnh_j097",
+      "targetTopicId": "cnh_h042",
+      "relation": "recommended_before",
+      "reason": "初中《西欧的城市和大学》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j098__cnh_h042",
+      "sourceTopicId": "cnh_j098",
+      "targetTopicId": "cnh_h042",
+      "relation": "recommended_before",
+      "reason": "初中《拜占庭帝国》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h041__cnh_h042",
+      "sourceTopicId": "cnh_h041",
+      "targetTopicId": "cnh_h042",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（下）》的教学顺序，先学「古代世界的帝国与文明的交流」，再学「中古时期的欧洲」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j100__cnh_h043",
+      "sourceTopicId": "cnh_j100",
+      "targetTopicId": "cnh_h043",
+      "relation": "recommended_before",
+      "reason": "初中《阿拉伯帝国》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j099__cnh_h043",
+      "sourceTopicId": "cnh_j099",
+      "targetTopicId": "cnh_h043",
+      "relation": "recommended_before",
+      "reason": "初中《封建时代的日本》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h042__cnh_h043",
+      "sourceTopicId": "cnh_h042",
+      "targetTopicId": "cnh_h043",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（下）》的教学顺序，先学「中古时期的欧洲」，再学「中古时期的亚洲」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j101__cnh_h044",
+      "sourceTopicId": "cnh_j101",
+      "targetTopicId": "cnh_h044",
+      "relation": "recommended_before",
+      "reason": "初中《中古时期的非洲和美洲》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h043__cnh_h044",
+      "sourceTopicId": "cnh_h043",
+      "targetTopicId": "cnh_h044",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（下）》的教学顺序，先学「中古时期的亚洲」，再学「古代非洲与美洲」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h042__cnh_h045",
+      "sourceTopicId": "cnh_h042",
+      "targetTopicId": "cnh_h045",
+      "relation": "recommended_before",
+      "reason": "《中古时期的欧洲》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j102__cnh_h045",
+      "sourceTopicId": "cnh_j102",
+      "targetTopicId": "cnh_h045",
+      "relation": "recommended_before",
+      "reason": "初中《西欧经济社会发展与文艺复兴运动》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j103__cnh_h045",
+      "sourceTopicId": "cnh_j103",
+      "targetTopicId": "cnh_h045",
+      "relation": "recommended_before",
+      "reason": "初中《探寻新航路》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h044__cnh_h045",
+      "sourceTopicId": "cnh_h044",
+      "targetTopicId": "cnh_h045",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（下）》的教学顺序，先学「古代非洲与美洲」，再学「全球航路的开辟」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h045__cnh_h046",
+      "sourceTopicId": "cnh_h045",
+      "targetTopicId": "cnh_h046",
+      "relation": "recommended_before",
+      "reason": "《全球航路的开辟》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j104__cnh_h046",
+      "sourceTopicId": "cnh_j104",
+      "targetTopicId": "cnh_h046",
+      "relation": "recommended_before",
+      "reason": "初中《早期殖民掠夺》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h042__cnh_h047",
+      "sourceTopicId": "cnh_h042",
+      "targetTopicId": "cnh_h047",
+      "relation": "recommended_before",
+      "reason": "《中古时期的欧洲》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j102__cnh_h047",
+      "sourceTopicId": "cnh_j102",
+      "targetTopicId": "cnh_h047",
+      "relation": "recommended_before",
+      "reason": "初中《西欧经济社会发展与文艺复兴运动》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h046__cnh_h047",
+      "sourceTopicId": "cnh_h046",
+      "targetTopicId": "cnh_h047",
+      "relation": "recommended_before",
+      "reason": "商品经济发展与资产阶级壮大是思想解放运动的社会基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h047__cnh_h048",
+      "sourceTopicId": "cnh_h047",
+      "targetTopicId": "cnh_h048",
+      "relation": "recommended_before",
+      "reason": "《欧洲的思想解放运动》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j105__cnh_h048",
+      "sourceTopicId": "cnh_j105",
+      "targetTopicId": "cnh_h048",
+      "relation": "recommended_before",
+      "reason": "初中《英国资产阶级革命》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j106__cnh_h048",
+      "sourceTopicId": "cnh_j106",
+      "targetTopicId": "cnh_h048",
+      "relation": "recommended_before",
+      "reason": "初中《美国的独立》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h048__cnh_h049",
+      "sourceTopicId": "cnh_h048",
+      "targetTopicId": "cnh_h049",
+      "relation": "recommended_before",
+      "reason": "《英国与美国的资产阶级革命》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j107__cnh_h049",
+      "sourceTopicId": "cnh_j107",
+      "targetTopicId": "cnh_h049",
+      "relation": "recommended_before",
+      "reason": "初中《法国大革命和拿破仑帝国》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j115__cnh_h049",
+      "sourceTopicId": "cnh_j115",
+      "targetTopicId": "cnh_h049",
+      "relation": "recommended_before",
+      "reason": "日本明治维新是资本主义制度扩展的例子，初中已有基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j108__cnh_h050",
+      "sourceTopicId": "cnh_j108",
+      "targetTopicId": "cnh_h050",
+      "relation": "recommended_before",
+      "reason": "初中《第一次工业革命》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j116__cnh_h050",
+      "sourceTopicId": "cnh_j116",
+      "targetTopicId": "cnh_h050",
+      "relation": "recommended_before",
+      "reason": "初中《第二次工业革命》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j117__cnh_h050",
+      "sourceTopicId": "cnh_j117",
+      "targetTopicId": "cnh_h050",
+      "relation": "recommended_before",
+      "reason": "工业化国家的社会变化在初中已学。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h049__cnh_h050",
+      "sourceTopicId": "cnh_h049",
+      "targetTopicId": "cnh_h050",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（下）》的教学顺序，先学「法国大革命与资本主义制度的扩展」，再学「影响世界的工业革命」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h050__cnh_h051",
+      "sourceTopicId": "cnh_h050",
+      "targetTopicId": "cnh_h051",
+      "relation": "recommended_before",
+      "reason": "《影响世界的工业革命》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j109__cnh_h051",
+      "sourceTopicId": "cnh_j109",
+      "targetTopicId": "cnh_h051",
+      "relation": "recommended_before",
+      "reason": "初中《马克思主义的诞生》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h050__cnh_h052",
+      "sourceTopicId": "cnh_h050",
+      "targetTopicId": "cnh_h052",
+      "relation": "recommended_before",
+      "reason": "《影响世界的工业革命》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_h046__cnh_h052",
+      "sourceTopicId": "cnh_h046",
+      "targetTopicId": "cnh_h052",
+      "relation": "recommended_before",
+      "reason": "《全球联系的初步建立与世界格局的演变》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_h051__cnh_h052",
+      "sourceTopicId": "cnh_h051",
+      "targetTopicId": "cnh_h052",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（下）》的教学顺序，先学「马克思主义的诞生与传播」，再学「资本主义世界殖民体系的形成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h052__cnh_h053",
+      "sourceTopicId": "cnh_h052",
+      "targetTopicId": "cnh_h053",
+      "relation": "recommended_before",
+      "reason": "《资本主义世界殖民体系的形成》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j112__cnh_h053",
+      "sourceTopicId": "cnh_j112",
+      "targetTopicId": "cnh_h053",
+      "relation": "recommended_before",
+      "reason": "初中《殖民地人民的反抗斗争》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h052__cnh_h054",
+      "sourceTopicId": "cnh_h052",
+      "targetTopicId": "cnh_h054",
+      "relation": "recommended_before",
+      "reason": "《资本主义世界殖民体系的形成》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j121__cnh_h054",
+      "sourceTopicId": "cnh_j121",
+      "targetTopicId": "cnh_h054",
+      "relation": "recommended_before",
+      "reason": "初中《《凡尔赛条约》和《九国公约》》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h053__cnh_h054",
+      "sourceTopicId": "cnh_h053",
+      "targetTopicId": "cnh_h054",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（下）》的教学顺序，先学「亚非拉民族独立运动」，再学「第一次世界大战与战后国际秩序」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h051__cnh_h055",
+      "sourceTopicId": "cnh_h051",
+      "targetTopicId": "cnh_h055",
+      "relation": "recommended_before",
+      "reason": "《马克思主义的诞生与传播》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_h054__cnh_h055",
+      "sourceTopicId": "cnh_h054",
+      "targetTopicId": "cnh_h055",
+      "relation": "recommended_before",
+      "reason": "《第一次世界大战与战后国际秩序》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j122__cnh_h055",
+      "sourceTopicId": "cnh_j122",
+      "targetTopicId": "cnh_h055",
+      "relation": "recommended_before",
+      "reason": "初中《苏联的社会主义建设》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h053__cnh_h056",
+      "sourceTopicId": "cnh_h053",
+      "targetTopicId": "cnh_h056",
+      "relation": "recommended_before",
+      "reason": "《亚非拉民族独立运动》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_h054__cnh_h056",
+      "sourceTopicId": "cnh_h054",
+      "targetTopicId": "cnh_h056",
+      "relation": "recommended_before",
+      "reason": "《第一次世界大战与战后国际秩序》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j123__cnh_h056",
+      "sourceTopicId": "cnh_j123",
+      "targetTopicId": "cnh_h056",
+      "relation": "recommended_before",
+      "reason": "初中《亚非拉民族民主运动的高涨》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h055__cnh_h056",
+      "sourceTopicId": "cnh_h055",
+      "targetTopicId": "cnh_h056",
+      "relation": "recommended_before",
+      "reason": "十月革命的影响推动了殖民地的民族解放斗争。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h054__cnh_h057",
+      "sourceTopicId": "cnh_h054",
+      "targetTopicId": "cnh_h057",
+      "relation": "recommended_before",
+      "reason": "《第一次世界大战与战后国际秩序》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j126__cnh_h057",
+      "sourceTopicId": "cnh_j126",
+      "targetTopicId": "cnh_h057",
+      "relation": "recommended_before",
+      "reason": "初中《第二次世界大战》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h056__cnh_h057",
+      "sourceTopicId": "cnh_h056",
+      "targetTopicId": "cnh_h057",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（下）》的教学顺序，先学「亚非拉民族民主运动的高涨」，再学「第二次世界大战与战后国际秩序的形成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h057__cnh_h058",
+      "sourceTopicId": "cnh_h057",
+      "targetTopicId": "cnh_h058",
+      "relation": "recommended_before",
+      "reason": "《第二次世界大战与战后国际秩序的形成》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j127__cnh_h058",
+      "sourceTopicId": "cnh_j127",
+      "targetTopicId": "cnh_h058",
+      "relation": "recommended_before",
+      "reason": "初中《冷战》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j132__cnh_h058",
+      "sourceTopicId": "cnh_j132",
+      "targetTopicId": "cnh_h058",
+      "relation": "recommended_before",
+      "reason": "冷战后的世界格局在初中已有基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h057__cnh_h059",
+      "sourceTopicId": "cnh_h057",
+      "targetTopicId": "cnh_h059",
+      "relation": "recommended_before",
+      "reason": "《第二次世界大战与战后国际秩序的形成》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j128__cnh_h059",
+      "sourceTopicId": "cnh_j128",
+      "targetTopicId": "cnh_h059",
+      "relation": "recommended_before",
+      "reason": "初中《二战后资本主义的新变化》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h058__cnh_h059",
+      "sourceTopicId": "cnh_h058",
+      "targetTopicId": "cnh_h059",
+      "relation": "recommended_before",
+      "reason": "西欧一体化与美国的冷战战略有关，要先知道冷战的背景。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h055__cnh_h060",
+      "sourceTopicId": "cnh_h055",
+      "targetTopicId": "cnh_h060",
+      "relation": "recommended_before",
+      "reason": "《十月革命的胜利与苏联的社会主义实践》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_h058__cnh_h060",
+      "sourceTopicId": "cnh_h058",
+      "targetTopicId": "cnh_h060",
+      "relation": "recommended_before",
+      "reason": "《冷战与国际格局的演变》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j129__cnh_h060",
+      "sourceTopicId": "cnh_j129",
+      "targetTopicId": "cnh_h060",
+      "relation": "recommended_before",
+      "reason": "初中《社会主义的发展与挫折》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h059__cnh_h060",
+      "sourceTopicId": "cnh_h059",
+      "targetTopicId": "cnh_h060",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（下）》的教学顺序，先学「资本主义国家的新变化」，再学「社会主义国家的发展与变化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h056__cnh_h061",
+      "sourceTopicId": "cnh_h056",
+      "targetTopicId": "cnh_h061",
+      "relation": "recommended_before",
+      "reason": "《亚非拉民族民主运动的高涨》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_h057__cnh_h061",
+      "sourceTopicId": "cnh_h057",
+      "targetTopicId": "cnh_h061",
+      "relation": "recommended_before",
+      "reason": "《第二次世界大战与战后国际秩序的形成》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j130__cnh_h061",
+      "sourceTopicId": "cnh_j130",
+      "targetTopicId": "cnh_h061",
+      "relation": "recommended_before",
+      "reason": "初中《亚非拉国家的新发展》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h060__cnh_h061",
+      "sourceTopicId": "cnh_h060",
+      "targetTopicId": "cnh_h061",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（下）》的教学顺序，先学「社会主义国家的发展与变化」，再学「世界殖民体系的瓦解与新兴国家的发展」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h058__cnh_h062",
+      "sourceTopicId": "cnh_h058",
+      "targetTopicId": "cnh_h062",
+      "relation": "recommended_before",
+      "reason": "多极化趋势在冷战期间已发展，冷战结束改变了发展环境；两者是时段与背景联系，不把前课整节作为必过门槛。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_h059__cnh_h062",
+      "sourceTopicId": "cnh_h059",
+      "targetTopicId": "cnh_h062",
+      "relation": "recommended_before",
+      "reason": "《资本主义国家的新变化》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j131__cnh_h062",
+      "sourceTopicId": "cnh_j131",
+      "targetTopicId": "cnh_h062",
+      "relation": "recommended_before",
+      "reason": "初中《联合国与世界贸易组织》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j132__cnh_h062",
+      "sourceTopicId": "cnh_j132",
+      "targetTopicId": "cnh_h062",
+      "relation": "recommended_before",
+      "reason": "初中《冷战后的世界格局》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h061__cnh_h062",
+      "sourceTopicId": "cnh_h061",
+      "targetTopicId": "cnh_h062",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史《中外历史纲要（下）》的教学顺序，先学「世界殖民体系的瓦解与新兴国家的发展」，再学「世界多极化与经济全球化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h062__cnh_h063",
+      "sourceTopicId": "cnh_h062",
+      "targetTopicId": "cnh_h063",
+      "relation": "recommended_before",
+      "reason": "《世界多极化与经济全球化》为本课提供时段、制度或背景参照；历史过程的先行条件不等于学习者必须先完成该整节目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_j133__cnh_h063",
+      "sourceTopicId": "cnh_j133",
+      "targetTopicId": "cnh_h063",
+      "relation": "recommended_before",
+      "reason": "初中《不断发展的现代社会》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_j086__cnh_h063",
+      "sourceTopicId": "cnh_j086",
+      "targetTopicId": "cnh_h063",
+      "relation": "recommended_before",
+      "reason": "初中《构建人类命运共同体与中国特色大国外交》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h004__cnh_h064",
+      "sourceTopicId": "cnh_h004",
+      "targetTopicId": "cnh_h064",
+      "relation": "recommended_before",
+      "reason": "郡县制在战国已有发展，秦统一后在全国推行；秦朝史实为制度专题实例，不能把整个建国过程当所有制度判读的先修。",
+      "contentOrigin": "revised",
+      "historicalRelation": "institutional_case"
+    },
+    {
+      "id": "cnh_h063__cnh_h064",
+      "sourceTopicId": "cnh_h063",
+      "targetTopicId": "cnh_h064",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史课序，学完《中外历史纲要（下）》的「和平发展合作共赢的历史潮流」后进入选择性必修1《国家制度与社会治理》的「从分封制到中央集权制度的确立」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h064__cnh_h065",
+      "sourceTopicId": "cnh_h064",
+      "targetTopicId": "cnh_h065",
+      "relation": "prerequisite",
+      "reason": "比较后世中央与地方权力安排，需区分中央集权与君主专制概念。",
+      "contentOrigin": "revised",
+      "historicalRelation": "conceptual_background"
+    },
+    {
+      "id": "cnh_h011__cnh_h065",
+      "sourceTopicId": "cnh_h011",
+      "targetTopicId": "cnh_h065",
+      "relation": "prerequisite",
+      "reason": "三省六部制是隋唐制度创新的核心内容。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h040__cnh_h066",
+      "sourceTopicId": "cnh_h040",
+      "targetTopicId": "cnh_h066",
+      "relation": "prerequisite",
+      "reason": "雅典民主与罗马共和是古代希腊罗马文明的政治成就，须先了解两地的城邦与国家形态。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h065__cnh_h066",
+      "sourceTopicId": "cnh_h065",
+      "targetTopicId": "cnh_h066",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修1《国家制度与社会治理》的教学顺序，先学「中国古代中央集权与君主专制的发展」，再学「古代希腊罗马的民主与共和」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h048__cnh_h067",
+      "sourceTopicId": "cnh_h048",
+      "targetTopicId": "cnh_h067",
+      "relation": "prerequisite",
+      "reason": "比较近代代议制度需识别相应制度文本、权力机构和时期。",
+      "contentOrigin": "revised",
+      "historicalRelation": "conceptual_background"
+    },
+    {
+      "id": "cnh_h066__cnh_h067",
+      "sourceTopicId": "cnh_h066",
+      "targetTopicId": "cnh_h067",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修1《国家制度与社会治理》的教学顺序，先学「古代希腊罗马的民主与共和」，再学「近代西方的代议制与分权制衡」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h032__cnh_h068",
+      "sourceTopicId": "cnh_h032",
+      "targetTopicId": "cnh_h068",
+      "relation": "prerequisite",
+      "reason": "当代政治制度建立在新中国成立和政权巩固的基础上。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h067__cnh_h068",
+      "sourceTopicId": "cnh_h067",
+      "targetTopicId": "cnh_h068",
+      "relation": "recommended_before",
+      "reason": "民国初年的分权设计借鉴了西方代议制的思想。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h013__cnh_h069",
+      "sourceTopicId": "cnh_h013",
+      "targetTopicId": "cnh_h069",
+      "relation": "recommended_before",
+      "reason": "历代改革专题不限于王安石变法，宋代只是一个比较案例。",
+      "contentOrigin": "revised",
+      "historicalRelation": "comparative_case"
+    },
+    {
+      "id": "cnh_h068__cnh_h069",
+      "sourceTopicId": "cnh_h068",
+      "targetTopicId": "cnh_h069",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修1《国家制度与社会治理》的教学顺序，先学「中国近代至当代政治制度的演变」，再学「中国历代变法和改革」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h011__cnh_h070",
+      "sourceTopicId": "cnh_h011",
+      "targetTopicId": "cnh_h070",
+      "relation": "prerequisite",
+      "reason": "科举制是隋唐制度创新的重要内容。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h069__cnh_h070",
+      "sourceTopicId": "cnh_h069",
+      "targetTopicId": "cnh_h070",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修1《国家制度与社会治理》的教学顺序，先学「中国历代变法和改革」，再学「中国古代官员的选拔与管理」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h067__cnh_h071",
+      "sourceTopicId": "cnh_h067",
+      "targetTopicId": "cnh_h071",
+      "relation": "prerequisite",
+      "reason": "文官制度是在议会政治和政党轮替的背景下产生的。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h070__cnh_h071",
+      "sourceTopicId": "cnh_h070",
+      "targetTopicId": "cnh_h071",
+      "relation": "recommended_before",
+      "reason": "可与中国古代科举制比较考试选官的异同。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h070__cnh_h072",
+      "sourceTopicId": "cnh_h070",
+      "targetTopicId": "cnh_h072",
+      "relation": "prerequisite",
+      "reason": "只有了解科举制的内容与作用，才能理解废除科举的意义。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h071__cnh_h072",
+      "sourceTopicId": "cnh_h071",
+      "targetTopicId": "cnh_h072",
+      "relation": "recommended_before",
+      "reason": "近代中国的文官考试制度受西方文官制度影响。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h003__cnh_h073",
+      "sourceTopicId": "cnh_h003",
+      "targetTopicId": "cnh_h073",
+      "relation": "prerequisite",
+      "reason": "法家与儒家的主张是古代法律和教化的思想来源。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h006__cnh_h073",
+      "sourceTopicId": "cnh_h006",
+      "targetTopicId": "cnh_h073",
+      "relation": "recommended_before",
+      "reason": "汉武帝时期儒学地位是法律教化的阶段案例，不能代表古代专题全部前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "historical_case"
+    },
+    {
+      "id": "cnh_h072__cnh_h073",
+      "sourceTopicId": "cnh_h072",
+      "targetTopicId": "cnh_h073",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修1《国家制度与社会治理》的教学顺序，先学「近代以来中国的官员选拔与管理」，再学「中国古代的法治与教化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h047__cnh_h074",
+      "sourceTopicId": "cnh_h047",
+      "targetTopicId": "cnh_h074",
+      "relation": "prerequisite",
+      "reason": "近代西方法律观念以启蒙思想为理论基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h073__cnh_h074",
+      "sourceTopicId": "cnh_h073",
+      "targetTopicId": "cnh_h074",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修1《国家制度与社会治理》的教学顺序，先学「中国古代的法治与教化」，再学「近代西方的法律与教化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h068__cnh_h075",
+      "sourceTopicId": "cnh_h068",
+      "targetTopicId": "cnh_h075",
+      "relation": "prerequisite",
+      "reason": "法治建设以当代政治制度和宪法为基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h036__cnh_h075",
+      "sourceTopicId": "cnh_h036",
+      "targetTopicId": "cnh_h075",
+      "relation": "prerequisite",
+      "reason": "改革开放以来的政治文明建设包含法治建设的主要进展。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h074__cnh_h075",
+      "sourceTopicId": "cnh_h074",
+      "targetTopicId": "cnh_h075",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修1《国家制度与社会治理》的教学顺序，先学「近代西方的法律与教化」，再学「当代中国的法治与精神文明建设」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h017__cnh_h076",
+      "sourceTopicId": "cnh_h017",
+      "targetTopicId": "cnh_h076",
+      "relation": "recommended_before",
+      "reason": "民族对外交往跨多个时代，清代边疆治理只是专题实例。",
+      "contentOrigin": "revised",
+      "historicalRelation": "historical_case"
+    },
+    {
+      "id": "cnh_h075__cnh_h076",
+      "sourceTopicId": "cnh_h075",
+      "targetTopicId": "cnh_h076",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修1《国家制度与社会治理》的教学顺序，先学「当代中国的法治与精神文明建设」，再学「中国古代的民族关系与对外交往」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h049__cnh_h077",
+      "sourceTopicId": "cnh_h049",
+      "targetTopicId": "cnh_h077",
+      "relation": "prerequisite",
+      "reason": "法国大革命推动了民族主义和民族国家观念的传播。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h076__cnh_h077",
+      "sourceTopicId": "cnh_h076",
+      "targetTopicId": "cnh_h077",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修1《国家制度与社会治理》的教学顺序，先学「中国古代的民族关系与对外交往」，再学「近代西方民族国家与国际法的发展」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h068__cnh_h078",
+      "sourceTopicId": "cnh_h068",
+      "targetTopicId": "cnh_h078",
+      "relation": "prerequisite",
+      "reason": "民族区域自治制度属于当代基本政治制度之一。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h077__cnh_h078",
+      "sourceTopicId": "cnh_h077",
+      "targetTopicId": "cnh_h078",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修1《国家制度与社会治理》的教学顺序，先学「近代西方民族国家与国际法的发展」，再学「当代中国的民族政策」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h032__cnh_h079",
+      "sourceTopicId": "cnh_h032",
+      "targetTopicId": "cnh_h079",
+      "relation": "prerequisite",
+      "reason": "新中国初期的外交方针与国家的成立直接相连。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h058__cnh_h079",
+      "sourceTopicId": "cnh_h058",
+      "targetTopicId": "cnh_h079",
+      "relation": "recommended_before",
+      "reason": "冷战提供新中国部分外交活动背景，外交概念和资料可另行建立。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_h078__cnh_h079",
+      "sourceTopicId": "cnh_h078",
+      "targetTopicId": "cnh_h079",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修1《国家制度与社会治理》的教学顺序，先学「当代中国的民族政策」，再学「当代中国的外交」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h015__cnh_h080",
+      "sourceTopicId": "cnh_h015",
+      "targetTopicId": "cnh_h080",
+      "relation": "recommended_before",
+      "reason": "货币使用跨多个时期，宋元交子只是一例，不要求先掌握整个宋元经济文化单元。",
+      "contentOrigin": "revised",
+      "historicalRelation": "historical_case"
+    },
+    {
+      "id": "cnh_h079__cnh_h080",
+      "sourceTopicId": "cnh_h079",
+      "targetTopicId": "cnh_h080",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修1《国家制度与社会治理》的教学顺序，先学「当代中国的外交」，再学「货币的使用与演变」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h080__cnh_h081",
+      "sourceTopicId": "cnh_h080",
+      "targetTopicId": "cnh_h081",
+      "relation": "recommended_before",
+      "reason": "理解货币本位与国际货币体系，需要先了解货币的职能与演变。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h057__cnh_h081",
+      "sourceTopicId": "cnh_h057",
+      "targetTopicId": "cnh_h081",
+      "relation": "recommended_before",
+      "reason": "布雷顿森林会议在1944年战争结束前召开，战后秩序为相关背景而非必须先学完整二战史。",
+      "contentOrigin": "revised",
+      "historicalRelation": "contextual_background"
+    },
+    {
+      "id": "cnh_h011__cnh_h082",
+      "sourceTopicId": "cnh_h011",
+      "targetTopicId": "cnh_h082",
+      "relation": "prerequisite",
+      "reason": "租庸调制与均田制是隋唐制度的重要内容。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h080__cnh_h082",
+      "sourceTopicId": "cnh_h080",
+      "targetTopicId": "cnh_h082",
+      "relation": "prerequisite",
+      "reason": "赋役折银以货币尤其是白银的广泛流通为条件。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h081__cnh_h082",
+      "sourceTopicId": "cnh_h081",
+      "targetTopicId": "cnh_h082",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修1《国家制度与社会治理》的教学顺序，先学「世界货币体系的形成」，再学「中国赋税制度的演变」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h016__cnh_h083",
+      "sourceTopicId": "cnh_h016",
+      "targetTopicId": "cnh_h083",
+      "relation": "recommended_before",
+      "reason": "明代黄册里甲是户籍专题实例，不是所有时期户籍治理学习的硬门槛。",
+      "contentOrigin": "revised",
+      "historicalRelation": "historical_case"
+    },
+    {
+      "id": "cnh_h082__cnh_h083",
+      "sourceTopicId": "cnh_h082",
+      "targetTopicId": "cnh_h083",
+      "relation": "recommended_before",
+      "reason": "户籍制度服务于赋役征收，与赋税制度互相依存。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h067__cnh_h084",
+      "sourceTopicId": "cnh_h067",
+      "targetTopicId": "cnh_h084",
+      "relation": "prerequisite",
+      "reason": "地方自治与近代议会政治和分权思想相联系。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h083__cnh_h084",
+      "sourceTopicId": "cnh_h083",
+      "targetTopicId": "cnh_h084",
+      "relation": "recommended_before",
+      "reason": "可与中国古代的户籍与基层管理相比较。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h059__cnh_h085",
+      "sourceTopicId": "cnh_h059",
+      "targetTopicId": "cnh_h085",
+      "relation": "recommended_before",
+      "reason": "战后福利国家是社会保障发展的重要阶段，不等于整个专题必先完成该国别通史。",
+      "contentOrigin": "revised",
+      "historicalRelation": "historical_case"
+    },
+    {
+      "id": "cnh_h084__cnh_h085",
+      "sourceTopicId": "cnh_h084",
+      "targetTopicId": "cnh_h085",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修1《国家制度与社会治理》的教学顺序，先学「世界主要国家的基层治理」，再学「世界主要国家的社会保障」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j002__cnh_h086",
+      "sourceTopicId": "cnh_j002",
+      "targetTopicId": "cnh_h086",
+      "relation": "recommended_before",
+      "reason": "初中《原始农业与史前社会》可用于复习相关史实；高中本课可用材料重新建立基础，不要求先掌握该初中整节全部目标。",
+      "contentOrigin": "revised",
+      "historicalRelation": "cross_stage_review"
+    },
+    {
+      "id": "cnh_h085__cnh_h086",
+      "sourceTopicId": "cnh_h085",
+      "targetTopicId": "cnh_h086",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史课序，学完选择性必修1《国家制度与社会治理》的「世界主要国家的社会保障」后进入选择性必修2《经济与社会生活》的「从食物采集到食物生产」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h045__cnh_h087",
+      "sourceTopicId": "cnh_h045",
+      "targetTopicId": "cnh_h087",
+      "relation": "prerequisite",
+      "reason": "物种大交换以新航路开辟、美洲与旧大陆的联系为前提。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h086__cnh_h087",
+      "sourceTopicId": "cnh_h086",
+      "targetTopicId": "cnh_h087",
+      "relation": "recommended_before",
+      "reason": "理解作物传播的影响，需要先知道食物生产对社会的基本意义。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h050__cnh_h088",
+      "sourceTopicId": "cnh_h050",
+      "targetTopicId": "cnh_h088",
+      "relation": "recommended_before",
+      "reason": "现代食物生产与工业技术相关，但其安全储备分析不要求先掌握工业革命所有史实。",
+      "contentOrigin": "revised",
+      "historicalRelation": "thematic_continuity"
+    },
+    {
+      "id": "cnh_h087__cnh_h088",
+      "sourceTopicId": "cnh_h087",
+      "targetTopicId": "cnh_h088",
+      "relation": "recommended_before",
+      "reason": "现代粮食产量的提高是对此前作物交流和品种改良的延续。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h002__cnh_h089",
+      "sourceTopicId": "cnh_h002",
+      "targetTopicId": "cnh_h089",
+      "relation": "recommended_before",
+      "reason": "铁器牛耕是工具史阶段实例，不能把战国政治变革整节当古代工具史必要前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "historical_case"
+    },
+    {
+      "id": "cnh_h086__cnh_h089",
+      "sourceTopicId": "cnh_h086",
+      "targetTopicId": "cnh_h089",
+      "relation": "prerequisite",
+      "reason": "古代生产工具的改进服务于农业生产的发展。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h088__cnh_h089",
+      "sourceTopicId": "cnh_h088",
+      "targetTopicId": "cnh_h089",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修2《经济与社会生活》的教学顺序，先学「现代食物的生产、储备与食品安全」，再学「古代的生产工具与劳作」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h050__cnh_h090",
+      "sourceTopicId": "cnh_h050",
+      "targetTopicId": "cnh_h090",
+      "relation": "prerequisite",
+      "reason": "工业革命的背景、过程与影响是理解技术变革的前提。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h089__cnh_h090",
+      "sourceTopicId": "cnh_h089",
+      "targetTopicId": "cnh_h090",
+      "relation": "recommended_before",
+      "reason": "与古代工具对比，才能看出机器和新动力带来的变化。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h090__cnh_h091",
+      "sourceTopicId": "cnh_h090",
+      "targetTopicId": "cnh_h091",
+      "relation": "prerequisite",
+      "reason": "工厂制度是机器与新动力广泛应用的结果。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h090__cnh_h092",
+      "sourceTopicId": "cnh_h090",
+      "targetTopicId": "cnh_h092",
+      "relation": "recommended_before",
+      "reason": "现代科技有历史积累关系，不表示每个现代案例必须先完成整个工业革命技术单元。",
+      "contentOrigin": "revised",
+      "historicalRelation": "thematic_continuity"
+    },
+    {
+      "id": "cnh_h091__cnh_h092",
+      "sourceTopicId": "cnh_h091",
+      "targetTopicId": "cnh_h092",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修2《经济与社会生活》的教学顺序，先学「工厂制度与劳作方式的变化」，再学「现代科技进步与人类社会发展」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h015__cnh_h093",
+      "sourceTopicId": "cnh_h015",
+      "targetTopicId": "cnh_h093",
+      "relation": "recommended_before",
+      "reason": "古代商业跨多个时期，宋元商业不是认识早期贸易的必要前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "historical_case"
+    },
+    {
+      "id": "cnh_h092__cnh_h093",
+      "sourceTopicId": "cnh_h092",
+      "targetTopicId": "cnh_h093",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修2《经济与社会生活》的教学顺序，先学「现代科技进步与人类社会发展」，再学「古代的商业贸易」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h046__cnh_h094",
+      "sourceTopicId": "cnh_h046",
+      "targetTopicId": "cnh_h094",
+      "relation": "prerequisite",
+      "reason": "世界市场的初步形成是全球联系建立的重要内容。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h050__cnh_h094",
+      "sourceTopicId": "cnh_h050",
+      "targetTopicId": "cnh_h094",
+      "relation": "prerequisite",
+      "reason": "工业革命使世界市场最终形成。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h093__cnh_h094",
+      "sourceTopicId": "cnh_h093",
+      "targetTopicId": "cnh_h094",
+      "relation": "recommended_before",
+      "reason": "可与古代区域性贸易相比，认识世界市场的特点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h094__cnh_h095",
+      "sourceTopicId": "cnh_h094",
+      "targetTopicId": "cnh_h095",
+      "relation": "prerequisite",
+      "reason": "近代商业制度与消费生活的变化以世界市场的形成为背景。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_j124__cnh_h096",
+      "sourceTopicId": "cnh_j124",
+      "targetTopicId": "cnh_h096",
+      "relation": "recommended_before",
+      "reason": "新政为干预经济的案例，可结合本课材料学习，不把初中整节掌握作为唯一入口。",
+      "contentOrigin": "revised",
+      "historicalRelation": "historical_case"
+    },
+    {
+      "id": "cnh_h095__cnh_h096",
+      "sourceTopicId": "cnh_h095",
+      "targetTopicId": "cnh_h096",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修2《经济与社会生活》的教学顺序，先学「近代商业制度与消费生活的变化」，再学「20世纪以来的经济危机与国家干预」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h062__cnh_h097",
+      "sourceTopicId": "cnh_h062",
+      "targetTopicId": "cnh_h097",
+      "relation": "recommended_before",
+      "reason": "全球化议题相互联系，生活方式专题可凭具体资料建立，不以时事格局整节为门槛。",
+      "contentOrigin": "revised",
+      "historicalRelation": "thematic_connection"
+    },
+    {
+      "id": "cnh_h096__cnh_h097",
+      "sourceTopicId": "cnh_h096",
+      "targetTopicId": "cnh_h097",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修2《经济与社会生活》的教学顺序，先学「20世纪以来的经济危机与国家干预」，再学「战后经济全球化与生活方式的变迁」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h093__cnh_h098",
+      "sourceTopicId": "cnh_h093",
+      "targetTopicId": "cnh_h098",
+      "relation": "prerequisite",
+      "reason": "古代集镇和城市的兴衰与商业贸易的发展密切相关。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h097__cnh_h098",
+      "sourceTopicId": "cnh_h097",
+      "targetTopicId": "cnh_h098",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修2《经济与社会生活》的教学顺序，先学「战后经济全球化与生活方式的变迁」，再学「古代的村落、集镇和城市」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h050__cnh_h099",
+      "sourceTopicId": "cnh_h050",
+      "targetTopicId": "cnh_h099",
+      "relation": "prerequisite",
+      "reason": "近代城市的兴起是工业革命带来的重要社会后果。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h098__cnh_h099",
+      "sourceTopicId": "cnh_h098",
+      "targetTopicId": "cnh_h099",
+      "relation": "recommended_before",
+      "reason": "与古代城市对比，才能看出近代工业城市的新变化。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h099__cnh_h100",
+      "sourceTopicId": "cnh_h099",
+      "targetTopicId": "cnh_h100",
+      "relation": "prerequisite",
+      "reason": "现代城市化是近代城市兴起的延续，必须先了解近代城市的形成。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h050__cnh_h101",
+      "sourceTopicId": "cnh_h050",
+      "targetTopicId": "cnh_h101",
+      "relation": "prerequisite",
+      "reason": "铁路和轮船的发明来自工业革命的技术成就。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h009__cnh_h101",
+      "sourceTopicId": "cnh_h009",
+      "targetTopicId": "cnh_h101",
+      "relation": "prerequisite",
+      "reason": "隋朝大运河的开通与隋唐统一国家的建设联系紧密。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h100__cnh_h101",
+      "sourceTopicId": "cnh_h100",
+      "targetTopicId": "cnh_h101",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修2《经济与社会生活》的教学顺序，先学「现代城市化进程与城市问题」，再学「水陆交通的变迁」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h101__cnh_h102",
+      "sourceTopicId": "cnh_h101",
+      "targetTopicId": "cnh_h102",
+      "relation": "prerequisite",
+      "reason": "现代交通是在近代铁路和轮船基础上的进一步发展。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h042__cnh_h103",
+      "sourceTopicId": "cnh_h042",
+      "targetTopicId": "cnh_h103",
+      "relation": "prerequisite",
+      "reason": "黑死病发生在中世纪后期的欧洲，是理解疫病影响的重要背景。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h102__cnh_h103",
+      "sourceTopicId": "cnh_h102",
+      "targetTopicId": "cnh_h103",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修2《经济与社会生活》的教学顺序，先学「现代交通运输的新变化」，再学「历史上的疫病与医学成就」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h103__cnh_h104",
+      "sourceTopicId": "cnh_h103",
+      "targetTopicId": "cnh_h104",
+      "relation": "prerequisite",
+      "reason": "现代医疗卫生体系是应对历史上疫病的成果，须先了解疫病与医学成就。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h003__cnh_h105",
+      "sourceTopicId": "cnh_h003",
+      "targetTopicId": "cnh_h105",
+      "relation": "prerequisite",
+      "reason": "诸子百家学说奠定了中华文化的思想基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h104__cnh_h105",
+      "sourceTopicId": "cnh_h104",
+      "targetTopicId": "cnh_h105",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史课序，学完选择性必修2《经济与社会生活》的「现代医疗卫生体系与社会生活」后进入选择性必修3《文化交流与传播》的「中华优秀传统文化的内涵与特点」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h105__cnh_h106",
+      "sourceTopicId": "cnh_h105",
+      "targetTopicId": "cnh_h106",
+      "relation": "prerequisite",
+      "reason": "只有先了解中华文化的内涵，才能理解它的世界意义。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h015__cnh_h106",
+      "sourceTopicId": "cnh_h015",
+      "targetTopicId": "cnh_h106",
+      "relation": "prerequisite",
+      "reason": "四大发明在宋元时期的发展成熟与西传是重要内容。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h039__cnh_h107",
+      "sourceTopicId": "cnh_h039",
+      "targetTopicId": "cnh_h107",
+      "relation": "prerequisite",
+      "reason": "古代两河流域与埃及是东方文明的代表。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h043__cnh_h107",
+      "sourceTopicId": "cnh_h043",
+      "targetTopicId": "cnh_h107",
+      "relation": "recommended_before",
+      "reason": "阿拉伯文化提供中古阶段案例，古代西亚非洲文化不应全体依赖中古亚洲。",
+      "contentOrigin": "revised",
+      "historicalRelation": "historical_case"
+    },
+    {
+      "id": "cnh_h106__cnh_h107",
+      "sourceTopicId": "cnh_h106",
+      "targetTopicId": "cnh_h107",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修3《文化交流与传播》的教学顺序，先学「中华文化的世界意义」，再学「古代西亚、非洲文化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h047__cnh_h108",
+      "sourceTopicId": "cnh_h047",
+      "targetTopicId": "cnh_h108",
+      "relation": "recommended_before",
+      "reason": "思想解放只是欧洲文化发展的部分阶段，古典和中古文化可分别建立。",
+      "contentOrigin": "revised",
+      "historicalRelation": "thematic_connection"
+    },
+    {
+      "id": "cnh_h107__cnh_h108",
+      "sourceTopicId": "cnh_h107",
+      "targetTopicId": "cnh_h108",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修3《文化交流与传播》的教学顺序，先学「古代西亚、非洲文化」，再学「欧洲文化的形成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h039__cnh_h109",
+      "sourceTopicId": "cnh_h039",
+      "targetTopicId": "cnh_h109",
+      "relation": "prerequisite",
+      "reason": "古印度是古代东方文明之一，是认识南亚文化的起点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h108__cnh_h109",
+      "sourceTopicId": "cnh_h108",
+      "targetTopicId": "cnh_h109",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修3《文化交流与传播》的教学顺序，先学「欧洲文化的形成」，再学「南亚与东亚的文化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h044__cnh_h110",
+      "sourceTopicId": "cnh_h044",
+      "targetTopicId": "cnh_h110",
+      "relation": "prerequisite",
+      "reason": "古代美洲文明是此前对美洲历史的学习内容。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h109__cnh_h110",
+      "sourceTopicId": "cnh_h109",
+      "targetTopicId": "cnh_h110",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修3《文化交流与传播》的教学顺序，先学「南亚与东亚的文化」，再学「古代美洲的文化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h008__cnh_h111",
+      "sourceTopicId": "cnh_h008",
+      "targetTopicId": "cnh_h111",
+      "relation": "recommended_before",
+      "reason": "魏晋民族交融是人口迁徙案例之一，不是古代所有迁徙研究前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "historical_case"
+    },
+    {
+      "id": "cnh_h042__cnh_h111",
+      "sourceTopicId": "cnh_h042",
+      "targetTopicId": "cnh_h111",
+      "relation": "recommended_before",
+      "reason": "日耳曼迁徙是欧洲阶段案例，不能作为其他古代区域迁徙的必要入口。",
+      "contentOrigin": "revised",
+      "historicalRelation": "historical_case"
+    },
+    {
+      "id": "cnh_h110__cnh_h111",
+      "sourceTopicId": "cnh_h110",
+      "targetTopicId": "cnh_h111",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修3《文化交流与传播》的教学顺序，先学「古代美洲的文化」，再学「古代人类的迁徙和区域文化的形成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h052__cnh_h112",
+      "sourceTopicId": "cnh_h052",
+      "targetTopicId": "cnh_h112",
+      "relation": "prerequisite",
+      "reason": "近代殖民活动与人口转移是资本主义世界殖民体系形成的一部分。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h111__cnh_h112",
+      "sourceTopicId": "cnh_h111",
+      "targetTopicId": "cnh_h112",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修3《文化交流与传播》的教学顺序，先学「古代人类的迁徙和区域文化的形成」，再学「近代殖民活动和人口的跨地域转移」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h112__cnh_h113",
+      "sourceTopicId": "cnh_h112",
+      "targetTopicId": "cnh_h113",
+      "relation": "recommended_before",
+      "reason": "现代移民与殖民迁徙既有连续又有差异，可比较而非假定必然线性演进。",
+      "contentOrigin": "revised",
+      "historicalRelation": "thematic_continuity"
+    },
+    {
+      "id": "cnh_h006__cnh_h114",
+      "sourceTopicId": "cnh_h006",
+      "targetTopicId": "cnh_h114",
+      "relation": "prerequisite",
+      "reason": "张骞通西域是丝绸之路开通的起点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h113__cnh_h114",
+      "sourceTopicId": "cnh_h113",
+      "targetTopicId": "cnh_h114",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修3《文化交流与传播》的教学顺序，先学「现代社会的移民和多元文化」，再学「古代的商路、贸易与文化交流」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h114__cnh_h115",
+      "sourceTopicId": "cnh_h114",
+      "targetTopicId": "cnh_h115",
+      "relation": "recommended_before",
+      "reason": "近代世界贸易不只是古代商路简单扩展，古代材料可作比较背景。",
+      "contentOrigin": "revised",
+      "historicalRelation": "comparative_case"
+    },
+    {
+      "id": "cnh_h094__cnh_h115",
+      "sourceTopicId": "cnh_h094",
+      "targetTopicId": "cnh_h115",
+      "relation": "prerequisite",
+      "reason": "世界市场的形成是近代文化交流扩展的经济背景。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h041__cnh_h116",
+      "sourceTopicId": "cnh_h041",
+      "targetTopicId": "cnh_h116",
+      "relation": "prerequisite",
+      "reason": "亚历山大帝国等古代帝国的扩张是战争与文化交锋的背景。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h042__cnh_h116",
+      "sourceTopicId": "cnh_h042",
+      "targetTopicId": "cnh_h116",
+      "relation": "recommended_before",
+      "reason": "十字军仅为战争文化交往的一个案例，不是所有古代战争讨论的前提。",
+      "contentOrigin": "revised",
+      "historicalRelation": "historical_case"
+    },
+    {
+      "id": "cnh_h115__cnh_h116",
+      "sourceTopicId": "cnh_h115",
+      "targetTopicId": "cnh_h116",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修3《文化交流与传播》的教学顺序，先学「近代以来的世界贸易与文化交流的扩展」，再学「古代战争与地域文化的演变」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h052__cnh_h117",
+      "sourceTopicId": "cnh_h052",
+      "targetTopicId": "cnh_h117",
+      "relation": "prerequisite",
+      "reason": "西方文化的扩张与资本主义世界殖民体系的形成同步。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h116__cnh_h117",
+      "sourceTopicId": "cnh_h116",
+      "targetTopicId": "cnh_h117",
+      "relation": "recommended_before",
+      "reason": "可与古代战争引发的文化交流相比较。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h057__cnh_h118",
+      "sourceTopicId": "cnh_h057",
+      "targetTopicId": "cnh_h118",
+      "relation": "prerequisite",
+      "reason": "战后国际文化合作机构是在二战后国际秩序重建中成立的。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h117__cnh_h118",
+      "sourceTopicId": "cnh_h117",
+      "targetTopicId": "cnh_h118",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修3《文化交流与传播》的教学顺序，先学「近代战争与西方文化的扩张」，再学「现代战争与不同文化的碰撞和交流」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h015__cnh_h119",
+      "sourceTopicId": "cnh_h015",
+      "targetTopicId": "cnh_h119",
+      "relation": "recommended_before",
+      "reason": "活字印刷是传承载体的一个阶段，口述器物等载体可独立分析。",
+      "contentOrigin": "revised",
+      "historicalRelation": "historical_case"
+    },
+    {
+      "id": "cnh_h118__cnh_h119",
+      "sourceTopicId": "cnh_h118",
+      "targetTopicId": "cnh_h119",
+      "relation": "recommended_before",
+      "reason": "按统编版高中历史选择性必修3《文化交流与传播》的教学顺序，先学「现代战争与不同文化的碰撞和交流」，再学「文化传承的多种载体及其发展」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnh_h119__cnh_h120",
+      "sourceTopicId": "cnh_h119",
+      "targetTopicId": "cnh_h120",
+      "relation": "prerequisite",
+      "reason": "文化遗产保护需要识别实物、文本与活态传承等载体及其证据价值。",
+      "contentOrigin": "revised",
+      "historicalRelation": "conceptual_background"
+    }
+  ],
+  "prerequisiteGroups": []
+}

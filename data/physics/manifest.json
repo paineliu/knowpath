@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "3.0",
+  "subject": "physics",
+  "sourceSnapshot": "dfffd8eea0eeceb969f47c9912b9881401176a148b5faa6e96c7324c03e214a2",
+  "source": {
+    "project": "cn-math-taxonomy",
+    "repository": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+    "license": "CC-BY-NC-4.0",
+    "files_sha256": {
+      "topics.json": "564e5df6d7a63d47ff8cba058f7c8e3f771d3ebf08758d02a8a6e2d1f1e748e4",
+      "dependencies.json": "739a4dc02c79b9e8d38c6f587e6f3ed17b87a255c85fd84ea675667f40007be9",
+      "questions.json": "5f4de7e3229b0dfa86ac163ab43dcbde6457c544f7bdb73a39bf9d6ec83988b1"
+    },
+    "revision_patches_sha256": {
+      "physics_revision_junior.json": "c1d195291f0f9144151f47e65b96b4524ef96b90afc51ec0ea94f549f4df8f3c",
+      "physics_revision_senior.json": "5976a9228a448ce9d0b501307ef41b3bff16c1487987eed13d826789406df30b"
+    }
+  },
+  "inputHashes": {
+    "physics_topics.json": "3d417c9683935912306ed1e1355ad31464b797ea3172bad7f6e3c34a1a4b716f",
+    "physics_depend.json": "cb25d3607d19d71b701f0d4104ed1ba6036474d55a2081171465962c832a7cd5",
+    "physics_questions.json": "b007158333b443a8d1a933a4571cd4a10abac5ebecc5230a1df007fdabd9e83a"
+  },
+  "status": "ai_revised_draft_not_teacher_validated",
+  "scope": "物理初中及高中，继承原库覆盖范围；不独立声称课程完整性。",
+  "sourceSnapshotLimitations": [
+    "保留原编号及大部分原题；未修订条目标为 inherited_unreviewed，AI修订与新增题也未经完整教师审核。",
+    "部分原节点仍是整节、实验或复习活动；node_kind区分这些内容单元，不表示已全部拆成最小能力。",
+    "课标与教材册次继承原库，未重新核实；exact等原映射标记不代表本次权威复核。",
+    "必要先修仅用于安排直接测查，不据后续题答对或答错推断前置点掌握或薄弱。",
+    "计算、概念和应用分别记录证据；每维一道题不构成稳定掌握结论，尚未经过学生样本验证。",
+    "纸笔题无法证明实验操作、测量习惯或真实探究能力，须另行观察操作过程。",
+    "新结构与原页面不直接兼容，须适配集合字段、关系类型、人工评分及诊断策略。"
+  ],
+  "sourceRevisionSummary": {
+    "topics": 269,
+    "dependencies": 674,
+    "questions": 1148,
+    "updated_topics": 16,
+    "updated_existing_edges": 77,
+    "added_edges": 37,
+    "updated_existing_questions": 10,
+    "added_questions": 72,
+    "three_dimension_topic_count": 24,
+    "relations": {
+      "recommended_before": 327,
+      "prerequisite": 347
+    }
+  },
+  "relations": {
+    "prerequisite": "候选必要基础，失败后可安排直接测查，不断言根因。",
+    "recommended_before": "建议学习顺序、支持知识或可选方法，不作必要门槛。",
+    "related": "比较、迁移或主题关联，不用于诊断回溯。"
+  },
+  "diagnosticPolicy": {
+    "infer_ancestor_mastery": false,
+    "infer_weakness_from_descendant_failure": false,
+    "traverse_relations": [
+      "prerequisite"
+    ],
+    "check_alternative_groups": true,
+    "unmeasured_status": "unknown",
+    "cross_subject_links": "navigation_only"
+  },
+  "masteryRequiresDirectEvidence": true,
+  "assessmentPolicy": {
+    "dimensions": {
+      "procedure": "明确模型下的定量计算、单位处理或规则执行。",
+      "concept": "辨析概念、适用条件、边界、反例与常见误区。",
+      "application": "选择模型或证据、处理约束、检验和解释结论。"
+    },
+    "score_reporting": "三维分别记录，不按总分直接判掌握；未作答及未人工评分为unknown。",
+    "administration": "同组全部提交前不展示答案、解析或误区，避免题间提示。",
+    "human_grading": "short/self须人工评分；有rubric者按分项标准给分，不能只比较最后数字。",
+    "experimental_performance": "written_items_only_not_evidence_of_hands_on_skill",
+    "verification": "原题verify中的字符串或数字常量仅说明答案字段一致；算式一致也不证明题意或模型独立正确。"
+  },
+  "evidenceScope": "item_only",
+  "gradingDefaults": {
+    "numeric": "automatic",
+    "choice": "automatic",
+    "short": "human",
+    "self": "human"
+  },
+  "questionFieldDefaults": {
+    "measures": [],
+    "assessment_focus": "unspecified",
+    "explanation": "简答题省略时使用 answer"
+  },
+  "placementLabels": {
+    "10": "必修第一册",
+    "11": "必修第二册",
+    "12": "必修第三册",
+    "13": "选择性必修第一册",
+    "14": "选择性必修第二册",
+    "15": "选择性必修第三册"
+  },
+  "artifactHashes": {
+    "physics_topics.json": "e0a1743686d7228d90fc086b92e40368a972fbee4b3c12782fcac669357fbd7b",
+    "physics_depend.json": "cbec7e5b2ebb88f7cce5f541b75cd8088ae7d9cc01ded63b2fb6ba1468ff3581",
+    "physics_questions.json": "9198e111cb9d2bb5732fc7ad449e18287c869f27bd35214fcb34b81dbaab7bf8",
+    "physics_reviews.json": "623ed60126a6e345fbc5a56f201bdeb73580b7c64aba1588ce5cc318966b73e9"
+  },
+  "artifactSetId": "472301190d03471215da7f771946fd94b5bb41e4761efcfdc202f9aee2001618",
+  "practiceMinimum": 4,
+  "questionCounts": {
+    "original": 1148,
+    "addedPractice": 0
+  },
+  "verificationSummary": {
+    "expression_or_literal_consistency_passed": 1100,
+    "without_expression_verification": 48,
+    "mismatch_count": 0,
+    "verification_kinds": {
+      "answer_literal_consistency_only": 708,
+      "expression_consistency_only": 392,
+      "not_available": 48
+    },
+    "meaning": "仅格式及表达式/字面量一致性；并非全部题目独立解答通过。"
+  },
+  "reviewPolicy": "所有对象等待建立逐项审查基线；sourceReviewStatus 保留来源状态。",
+  "experimentalPerformance": "not_measured_by_written_items",
+  "mathLinksPolicy": "supporting_reference_only_not_subject_prerequisite_or_mastery_evidence"
+}

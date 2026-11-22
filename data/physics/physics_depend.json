@@ -1,0 +1,5401 @@
+{
+  "schemaVersion": "3.0",
+  "subject": "physics",
+  "sourceSnapshot": "dfffd8eea0eeceb969f47c9912b9881401176a148b5faa6e96c7324c03e214a2",
+  "count": 674,
+  "dependencies": [
+    {
+      "id": "cnp_001__cnp_002",
+      "sourceTopicId": "cnp_001",
+      "targetTopicId": "cnp_002",
+      "relation": "recommended_before",
+      "reason": "「运动的描述」会用到「长度和时间的测量」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_001__cnp_003",
+      "sourceTopicId": "cnp_001",
+      "targetTopicId": "cnp_003",
+      "relation": "prerequisite",
+      "reason": "学「运动的快慢」要先会「长度和时间的测量」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_002__cnp_003",
+      "sourceTopicId": "cnp_002",
+      "targetTopicId": "cnp_003",
+      "relation": "recommended_before",
+      "reason": "「运动的快慢」会用到「运动的描述」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_003__cnp_004",
+      "sourceTopicId": "cnp_003",
+      "targetTopicId": "cnp_004",
+      "relation": "prerequisite",
+      "reason": "学「速度的测量」要先会「运动的快慢」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_005__cnp_006",
+      "sourceTopicId": "cnp_005",
+      "targetTopicId": "cnp_006",
+      "relation": "recommended_before",
+      "reason": "声的产生传播与音调、响度可分别观察；前者有助解释但不是辨别三特性的必要门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_006__cnp_007",
+      "sourceTopicId": "cnp_006",
+      "targetTopicId": "cnp_007",
+      "relation": "recommended_before",
+      "reason": "「声的利用」会用到「声音的特性」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_003__cnp_007",
+      "sourceTopicId": "cnp_003",
+      "targetTopicId": "cnp_007",
+      "relation": "recommended_before",
+      "reason": "「声的利用」会用到「运动的快慢」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_006__cnp_008",
+      "sourceTopicId": "cnp_006",
+      "targetTopicId": "cnp_008",
+      "relation": "recommended_before",
+      "reason": "「噪声的危害和控制」会用到「声音的特性」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_008__cnp_009",
+      "sourceTopicId": "cnp_008",
+      "targetTopicId": "cnp_009",
+      "relation": "prerequisite",
+      "reason": "学「跨学科实践：制作隔音房间模型」要先会「噪声的危害和控制」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_010__cnp_011",
+      "sourceTopicId": "cnp_010",
+      "targetTopicId": "cnp_011",
+      "relation": "prerequisite",
+      "reason": "学「熔化和凝固」要先会「温度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_010__cnp_012",
+      "sourceTopicId": "cnp_010",
+      "targetTopicId": "cnp_012",
+      "relation": "prerequisite",
+      "reason": "学「汽化和液化」要先会「温度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_011__cnp_012",
+      "sourceTopicId": "cnp_011",
+      "targetTopicId": "cnp_012",
+      "relation": "recommended_before",
+      "reason": "「汽化和液化」会用到「熔化和凝固」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_011__cnp_013",
+      "sourceTopicId": "cnp_011",
+      "targetTopicId": "cnp_013",
+      "relation": "recommended_before",
+      "reason": "升华、凝华是固气直接转变，不要求先掌握固液转变的全部规律。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_012__cnp_013",
+      "sourceTopicId": "cnp_012",
+      "targetTopicId": "cnp_013",
+      "relation": "recommended_before",
+      "reason": "其他物态变化用于对照，不应把并列变化类型作为必要条件。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_013__cnp_014",
+      "sourceTopicId": "cnp_013",
+      "targetTopicId": "cnp_014",
+      "relation": "prerequisite",
+      "reason": "学「跨学科实践：探索厨房中的物态变化问题」要先会「升华和凝华」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_015__cnp_016",
+      "sourceTopicId": "cnp_015",
+      "targetTopicId": "cnp_016",
+      "relation": "prerequisite",
+      "reason": "学「光的反射」要先会「光的直线传播」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_016__cnp_017",
+      "sourceTopicId": "cnp_016",
+      "targetTopicId": "cnp_017",
+      "relation": "prerequisite",
+      "reason": "学「平面镜成像」要先会「光的反射」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_016__cnp_018",
+      "sourceTopicId": "cnp_016",
+      "targetTopicId": "cnp_018",
+      "relation": "recommended_before",
+      "reason": "「光的折射」会用到「光的反射」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_015__cnp_018",
+      "sourceTopicId": "cnp_015",
+      "targetTopicId": "cnp_018",
+      "relation": "prerequisite",
+      "reason": "学「光的折射」要先会「光的直线传播」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_018__cnp_019",
+      "sourceTopicId": "cnp_018",
+      "targetTopicId": "cnp_019",
+      "relation": "prerequisite",
+      "reason": "学「光的色散」要先会「光的折射」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_018__cnp_020",
+      "sourceTopicId": "cnp_018",
+      "targetTopicId": "cnp_020",
+      "relation": "prerequisite",
+      "reason": "学「透镜」要先会「光的折射」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_020__cnp_021",
+      "sourceTopicId": "cnp_020",
+      "targetTopicId": "cnp_021",
+      "relation": "prerequisite",
+      "reason": "学「生活中的透镜」要先会「透镜」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_021__cnp_022",
+      "sourceTopicId": "cnp_021",
+      "targetTopicId": "cnp_022",
+      "relation": "recommended_before",
+      "reason": "照相机等生活应用可用于导入；凸透镜规律可直接通过实验学习。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_022__cnp_023",
+      "sourceTopicId": "cnp_022",
+      "targetTopicId": "cnp_023",
+      "relation": "prerequisite",
+      "reason": "学「眼睛和眼镜」要先会「凸透镜成像的规律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_022__cnp_024",
+      "sourceTopicId": "cnp_022",
+      "targetTopicId": "cnp_024",
+      "relation": "prerequisite",
+      "reason": "学「跨学科实践：制作望远镜」要先会「凸透镜成像的规律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_025__cnp_026",
+      "sourceTopicId": "cnp_025",
+      "targetTopicId": "cnp_026",
+      "relation": "prerequisite",
+      "reason": "学「密度」要先会「质量」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_026__cnp_027",
+      "sourceTopicId": "cnp_026",
+      "targetTopicId": "cnp_027",
+      "relation": "prerequisite",
+      "reason": "学「测量液体和固体的密度」要先会「密度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_027__cnp_028",
+      "sourceTopicId": "cnp_027",
+      "targetTopicId": "cnp_028",
+      "relation": "recommended_before",
+      "reason": "密度鉴别、求质量体积不必先完成所有密度测量实验。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_002__cnp_029",
+      "sourceTopicId": "cnp_002",
+      "targetTopicId": "cnp_029",
+      "relation": "recommended_before",
+      "reason": "「力」会用到「运动的描述」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_029__cnp_030",
+      "sourceTopicId": "cnp_029",
+      "targetTopicId": "cnp_030",
+      "relation": "prerequisite",
+      "reason": "学「弹力」要先会「力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_030__cnp_031",
+      "sourceTopicId": "cnp_030",
+      "targetTopicId": "cnp_031",
+      "relation": "recommended_before",
+      "reason": "「重力」会用到「弹力」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_025__cnp_031",
+      "sourceTopicId": "cnp_025",
+      "targetTopicId": "cnp_031",
+      "relation": "prerequisite",
+      "reason": "学「重力」要先会「质量」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_029__cnp_032",
+      "sourceTopicId": "cnp_029",
+      "targetTopicId": "cnp_032",
+      "relation": "prerequisite",
+      "reason": "学「牛顿第一定律」要先会「力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_032__cnp_033",
+      "sourceTopicId": "cnp_032",
+      "targetTopicId": "cnp_033",
+      "relation": "prerequisite",
+      "reason": "学「二力平衡」要先会「牛顿第一定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_031__cnp_033",
+      "sourceTopicId": "cnp_031",
+      "targetTopicId": "cnp_033",
+      "relation": "recommended_before",
+      "reason": "重力提供平衡实例；一般二力平衡条件不以重力计算为前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_033__cnp_034",
+      "sourceTopicId": "cnp_033",
+      "targetTopicId": "cnp_034",
+      "relation": "recommended_before",
+      "reason": "可直接研究摩擦产生条件和影响因素，二力平衡是测滑动摩擦力的一种方法。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_033__cnp_035",
+      "sourceTopicId": "cnp_033",
+      "targetTopicId": "cnp_035",
+      "relation": "recommended_before",
+      "reason": "二力平衡是合力为零的特例，不是理解同线合力的一般必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_031__cnp_036",
+      "sourceTopicId": "cnp_031",
+      "targetTopicId": "cnp_036",
+      "relation": "recommended_before",
+      "reason": "水平承重常用重力求压力，但侧向压力同样可定义压强。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_033__cnp_036",
+      "sourceTopicId": "cnp_033",
+      "targetTopicId": "cnp_036",
+      "relation": "recommended_before",
+      "reason": "「压强」会用到「二力平衡」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_036__cnp_037",
+      "sourceTopicId": "cnp_036",
+      "targetTopicId": "cnp_037",
+      "relation": "prerequisite",
+      "reason": "学「液体的压强」要先会「压强」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_026__cnp_037",
+      "sourceTopicId": "cnp_026",
+      "targetTopicId": "cnp_037",
+      "relation": "prerequisite",
+      "reason": "学「液体的压强」要先会「密度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_037__cnp_038",
+      "sourceTopicId": "cnp_037",
+      "targetTopicId": "cnp_038",
+      "relation": "recommended_before",
+      "reason": "大气压与液体压强可类比学习，但不要求先会液体压强公式。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_038__cnp_039",
+      "sourceTopicId": "cnp_038",
+      "targetTopicId": "cnp_039",
+      "relation": "prerequisite",
+      "reason": "学「跨学科实践：制作简易活塞式抽水机」要先会「大气压强」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_038__cnp_040",
+      "sourceTopicId": "cnp_038",
+      "targetTopicId": "cnp_040",
+      "relation": "recommended_before",
+      "reason": "流速与压强关系不以大气压测量为必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_037__cnp_041",
+      "sourceTopicId": "cnp_037",
+      "targetTopicId": "cnp_041",
+      "relation": "recommended_before",
+      "reason": "液体压力差可解释浮力，也可先由测力实验认识浮力。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_035__cnp_041",
+      "sourceTopicId": "cnp_035",
+      "targetTopicId": "cnp_041",
+      "relation": "recommended_before",
+      "reason": "「浮力」会用到「同一直线上二力的合成」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_041__cnp_042",
+      "sourceTopicId": "cnp_041",
+      "targetTopicId": "cnp_042",
+      "relation": "prerequisite",
+      "reason": "学「阿基米德原理」要先会「浮力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_026__cnp_042",
+      "sourceTopicId": "cnp_026",
+      "targetTopicId": "cnp_042",
+      "relation": "prerequisite",
+      "reason": "学「阿基米德原理」要先会「密度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_031__cnp_042",
+      "sourceTopicId": "cnp_031",
+      "targetTopicId": "cnp_042",
+      "relation": "prerequisite",
+      "reason": "学「阿基米德原理」要先会「重力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_042__cnp_043",
+      "sourceTopicId": "cnp_042",
+      "targetTopicId": "cnp_043",
+      "relation": "prerequisite",
+      "reason": "学「物体的浮沉条件及应用」要先会「阿基米德原理」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_033__cnp_043",
+      "sourceTopicId": "cnp_033",
+      "targetTopicId": "cnp_043",
+      "relation": "prerequisite",
+      "reason": "学「物体的浮沉条件及应用」要先会「二力平衡」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_043__cnp_044",
+      "sourceTopicId": "cnp_043",
+      "targetTopicId": "cnp_044",
+      "relation": "prerequisite",
+      "reason": "学「跨学科实践：制作微型密度计」要先会「物体的浮沉条件及应用」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_029__cnp_045",
+      "sourceTopicId": "cnp_029",
+      "targetTopicId": "cnp_045",
+      "relation": "prerequisite",
+      "reason": "学「功」要先会「力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_031__cnp_045",
+      "sourceTopicId": "cnp_031",
+      "targetTopicId": "cnp_045",
+      "relation": "recommended_before",
+      "reason": "重力做功是一类实例，恒力沿位移做功不必先掌握重力计算。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_045__cnp_046",
+      "sourceTopicId": "cnp_045",
+      "targetTopicId": "cnp_046",
+      "relation": "prerequisite",
+      "reason": "学「功率」要先会「功」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_003__cnp_046",
+      "sourceTopicId": "cnp_003",
+      "targetTopicId": "cnp_046",
+      "relation": "recommended_before",
+      "reason": "速度可类比功率，但比快慢的类比不是功率定义的物理前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_045__cnp_047",
+      "sourceTopicId": "cnp_045",
+      "targetTopicId": "cnp_047",
+      "relation": "prerequisite",
+      "reason": "学「动能和势能」要先会「功」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_047__cnp_048",
+      "sourceTopicId": "cnp_047",
+      "targetTopicId": "cnp_048",
+      "relation": "prerequisite",
+      "reason": "学「机械能及其转化」要先会「动能和势能」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_033__cnp_049",
+      "sourceTopicId": "cnp_033",
+      "targetTopicId": "cnp_049",
+      "relation": "prerequisite",
+      "reason": "学「杠杆」要先会「二力平衡」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_031__cnp_049",
+      "sourceTopicId": "cnp_031",
+      "targetTopicId": "cnp_049",
+      "relation": "recommended_before",
+      "reason": "杠杆可受非重力载荷，不要求先掌握重力计算。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_049__cnp_050",
+      "sourceTopicId": "cnp_049",
+      "targetTopicId": "cnp_050",
+      "relation": "prerequisite",
+      "reason": "学「跨学科实践：制作简易杆秤」要先会「杠杆」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_049__cnp_051",
+      "sourceTopicId": "cnp_049",
+      "targetTopicId": "cnp_051",
+      "relation": "recommended_before",
+      "reason": "杠杆模型可解释滑轮，滑轮也能由绳段受力直接分析。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_051__cnp_052",
+      "sourceTopicId": "cnp_051",
+      "targetTopicId": "cnp_052",
+      "relation": "recommended_before",
+      "reason": "机械效率适用于多种机械，并不要求先会所有滑轮知识。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_045__cnp_052",
+      "sourceTopicId": "cnp_045",
+      "targetTopicId": "cnp_052",
+      "relation": "prerequisite",
+      "reason": "学「机械效率」要先会「功」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_010__cnp_053",
+      "sourceTopicId": "cnp_010",
+      "targetTopicId": "cnp_053",
+      "relation": "prerequisite",
+      "reason": "学「热量 比热容」要先会「温度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_025__cnp_053",
+      "sourceTopicId": "cnp_025",
+      "targetTopicId": "cnp_053",
+      "relation": "prerequisite",
+      "reason": "学「热量 比热容」要先会「质量」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_054__cnp_055",
+      "sourceTopicId": "cnp_054",
+      "targetTopicId": "cnp_055",
+      "relation": "prerequisite",
+      "reason": "学「内能」要先会「分子动理论的初步知识」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_053__cnp_055",
+      "sourceTopicId": "cnp_053",
+      "targetTopicId": "cnp_055",
+      "relation": "recommended_before",
+      "reason": "「内能」会用到「热量 比热容」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_055__cnp_056",
+      "sourceTopicId": "cnp_055",
+      "targetTopicId": "cnp_056",
+      "relation": "recommended_before",
+      "reason": "内能转化是守恒的实例，不是认识一般能量转化的唯一入口。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_048__cnp_056",
+      "sourceTopicId": "cnp_048",
+      "targetTopicId": "cnp_056",
+      "relation": "recommended_before",
+      "reason": "机械能转化有助理解但不是一般能量守恒的唯一前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_055__cnp_057",
+      "sourceTopicId": "cnp_055",
+      "targetTopicId": "cnp_057",
+      "relation": "prerequisite",
+      "reason": "学「热机」要先会「内能」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_056__cnp_057",
+      "sourceTopicId": "cnp_056",
+      "targetTopicId": "cnp_057",
+      "relation": "recommended_before",
+      "reason": "「热机」会用到「能量的转化与守恒」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_057__cnp_058",
+      "sourceTopicId": "cnp_057",
+      "targetTopicId": "cnp_058",
+      "relation": "prerequisite",
+      "reason": "学「热机的效率」要先会「热机」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_053__cnp_058",
+      "sourceTopicId": "cnp_053",
+      "targetTopicId": "cnp_058",
+      "relation": "recommended_before",
+      "reason": "热机效率可由输入燃料能量和有用功定义；比热容只用于部分测热方法。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_058__cnp_059",
+      "sourceTopicId": "cnp_058",
+      "targetTopicId": "cnp_059",
+      "relation": "recommended_before",
+      "reason": "制作定性热机模型不以会热效率计算为必要门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_054__cnp_060",
+      "sourceTopicId": "cnp_054",
+      "targetTopicId": "cnp_060",
+      "relation": "recommended_before",
+      "reason": "「两种电荷」会用到「分子动理论的初步知识」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_060__cnp_061",
+      "sourceTopicId": "cnp_060",
+      "targetTopicId": "cnp_061",
+      "relation": "prerequisite",
+      "reason": "学「电流和电路」要先会「两种电荷」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_061__cnp_062",
+      "sourceTopicId": "cnp_061",
+      "targetTopicId": "cnp_062",
+      "relation": "prerequisite",
+      "reason": "学「串联电路和并联电路」要先会「电流和电路」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_061__cnp_063",
+      "sourceTopicId": "cnp_061",
+      "targetTopicId": "cnp_063",
+      "relation": "prerequisite",
+      "reason": "学「电流的测量」要先会「电流和电路」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_063__cnp_064",
+      "sourceTopicId": "cnp_063",
+      "targetTopicId": "cnp_064",
+      "relation": "recommended_before",
+      "reason": "测流是验证规律的方法；理想稳恒电路的电流关系不以熟练仪表操作为前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_062__cnp_064",
+      "sourceTopicId": "cnp_062",
+      "targetTopicId": "cnp_064",
+      "relation": "prerequisite",
+      "reason": "学「串、并联电路中电流的规律」要先会「串联电路和并联电路」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_061__cnp_065",
+      "sourceTopicId": "cnp_061",
+      "targetTopicId": "cnp_065",
+      "relation": "prerequisite",
+      "reason": "学「电压」要先会「电流和电路」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_063__cnp_065",
+      "sourceTopicId": "cnp_063",
+      "targetTopicId": "cnp_065",
+      "relation": "recommended_before",
+      "reason": "「电压」会用到「电流的测量」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_065__cnp_066",
+      "sourceTopicId": "cnp_065",
+      "targetTopicId": "cnp_066",
+      "relation": "prerequisite",
+      "reason": "学「串、并联电路中电压的规律」要先会「电压」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_064__cnp_066",
+      "sourceTopicId": "cnp_064",
+      "targetTopicId": "cnp_066",
+      "relation": "recommended_before",
+      "reason": "「串、并联电路中电压的规律」会用到「串、并联电路中电流的规律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_065__cnp_067",
+      "sourceTopicId": "cnp_065",
+      "targetTopicId": "cnp_067",
+      "relation": "recommended_before",
+      "reason": "电压与电阻可结合认识，但电阻作为阻碍电流的性质不必先会电压规律。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_067__cnp_068",
+      "sourceTopicId": "cnp_067",
+      "targetTopicId": "cnp_068",
+      "relation": "prerequisite",
+      "reason": "学「变阻器」要先会「电阻」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_068__cnp_069",
+      "sourceTopicId": "cnp_068",
+      "targetTopicId": "cnp_069",
+      "relation": "prerequisite",
+      "reason": "学「跨学科实践：制作简易调光台灯」要先会「变阻器」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_068__cnp_070",
+      "sourceTopicId": "cnp_068",
+      "targetTopicId": "cnp_070",
+      "relation": "recommended_before",
+      "reason": "变阻器用于控制变量实验，理论电压电流电阻关系不以其操作为必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_066__cnp_070",
+      "sourceTopicId": "cnp_066",
+      "targetTopicId": "cnp_070",
+      "relation": "recommended_before",
+      "reason": "「电流与电压、电阻的关系」会用到「串、并联电路中电压的规律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_070__cnp_071",
+      "sourceTopicId": "cnp_070",
+      "targetTopicId": "cnp_071",
+      "relation": "prerequisite",
+      "reason": "学「欧姆定律」要先会「电流与电压、电阻的关系」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_071__cnp_072",
+      "sourceTopicId": "cnp_071",
+      "targetTopicId": "cnp_072",
+      "relation": "prerequisite",
+      "reason": "学「电阻的测量」要先会「欧姆定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_065__cnp_072",
+      "sourceTopicId": "cnp_065",
+      "targetTopicId": "cnp_072",
+      "relation": "prerequisite",
+      "reason": "学「电阻的测量」要先会「电压」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_071__cnp_073",
+      "sourceTopicId": "cnp_071",
+      "targetTopicId": "cnp_073",
+      "relation": "prerequisite",
+      "reason": "学「欧姆定律在串、并联电路中的应用」要先会「欧姆定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_066__cnp_073",
+      "sourceTopicId": "cnp_066",
+      "targetTopicId": "cnp_073",
+      "relation": "prerequisite",
+      "reason": "学「欧姆定律在串、并联电路中的应用」要先会「串、并联电路中电压的规律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_064__cnp_073",
+      "sourceTopicId": "cnp_064",
+      "targetTopicId": "cnp_073",
+      "relation": "prerequisite",
+      "reason": "学「欧姆定律在串、并联电路中的应用」要先会「串、并联电路中电流的规律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_071__cnp_074",
+      "sourceTopicId": "cnp_071",
+      "targetTopicId": "cnp_074",
+      "relation": "recommended_before",
+      "reason": "电能、电功可由电能表和能量转化直接引入，不要求先会欧姆定律。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_045__cnp_074",
+      "sourceTopicId": "cnp_045",
+      "targetTopicId": "cnp_074",
+      "relation": "recommended_before",
+      "reason": "「电能 电功」会用到「功」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_074__cnp_075",
+      "sourceTopicId": "cnp_074",
+      "targetTopicId": "cnp_075",
+      "relation": "prerequisite",
+      "reason": "学「电功率」要先会「电能 电功」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_046__cnp_075",
+      "sourceTopicId": "cnp_046",
+      "targetTopicId": "cnp_075",
+      "relation": "recommended_before",
+      "reason": "「电功率」会用到「功率」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_075__cnp_076",
+      "sourceTopicId": "cnp_075",
+      "targetTopicId": "cnp_076",
+      "relation": "prerequisite",
+      "reason": "学「跨学科实践：为家庭节约用电提建议」要先会「电功率」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_075__cnp_077",
+      "sourceTopicId": "cnp_075",
+      "targetTopicId": "cnp_077",
+      "relation": "recommended_before",
+      "reason": "电功率可用于联系电热，但焦耳定律也能由电流、电阻、时间实验建立。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_065__cnp_078",
+      "sourceTopicId": "cnp_065",
+      "targetTopicId": "cnp_078",
+      "relation": "prerequisite",
+      "reason": "学「安全用电」要先会「电压」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_071__cnp_078",
+      "sourceTopicId": "cnp_071",
+      "targetTopicId": "cnp_078",
+      "relation": "recommended_before",
+      "reason": "「安全用电」会用到「欧姆定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_078__cnp_079",
+      "sourceTopicId": "cnp_078",
+      "targetTopicId": "cnp_079",
+      "relation": "prerequisite",
+      "reason": "学「家庭电路的基本组成」要先会「安全用电」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_075__cnp_079",
+      "sourceTopicId": "cnp_075",
+      "targetTopicId": "cnp_079",
+      "relation": "recommended_before",
+      "reason": "认识家庭电路组成和并联结构，不以会电功率计算为前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_062__cnp_079",
+      "sourceTopicId": "cnp_062",
+      "targetTopicId": "cnp_079",
+      "relation": "prerequisite",
+      "reason": "学「家庭电路的基本组成」要先会「串联电路和并联电路」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_079__cnp_080",
+      "sourceTopicId": "cnp_079",
+      "targetTopicId": "cnp_080",
+      "relation": "prerequisite",
+      "reason": "学「跨学科实践：为家庭电路做设计」要先会「家庭电路的基本组成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_081__cnp_082",
+      "sourceTopicId": "cnp_081",
+      "targetTopicId": "cnp_082",
+      "relation": "prerequisite",
+      "reason": "学「电生磁」要先会「磁现象 磁场」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_061__cnp_082",
+      "sourceTopicId": "cnp_061",
+      "targetTopicId": "cnp_082",
+      "relation": "prerequisite",
+      "reason": "学「电生磁」要先会「电流和电路」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_082__cnp_083",
+      "sourceTopicId": "cnp_082",
+      "targetTopicId": "cnp_083",
+      "relation": "prerequisite",
+      "reason": "学「电磁铁 电磁继电器」要先会「电生磁」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_082__cnp_084",
+      "sourceTopicId": "cnp_082",
+      "targetTopicId": "cnp_084",
+      "relation": "recommended_before",
+      "reason": "电动机利用通电导体在磁场中受力，不要求先学习电流磁场的全部规律。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_084__cnp_085",
+      "sourceTopicId": "cnp_084",
+      "targetTopicId": "cnp_085",
+      "relation": "prerequisite",
+      "reason": "学「跨学科实践：制作简易直流电动机」要先会「电动机」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_084__cnp_086",
+      "sourceTopicId": "cnp_084",
+      "targetTopicId": "cnp_086",
+      "relation": "recommended_before",
+      "reason": "电磁感应与电动机原理是不同现象，不能用一个作为另一个的必要门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_015__cnp_087",
+      "sourceTopicId": "cnp_015",
+      "targetTopicId": "cnp_087",
+      "relation": "recommended_before",
+      "reason": "光是电磁波实例，电磁波传播不要求先掌握几何光学直线传播。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_006__cnp_087",
+      "sourceTopicId": "cnp_006",
+      "targetTopicId": "cnp_087",
+      "relation": "recommended_before",
+      "reason": "「电磁波的海洋」会用到「声音的特性」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_087__cnp_088",
+      "sourceTopicId": "cnp_087",
+      "targetTopicId": "cnp_088",
+      "relation": "prerequisite",
+      "reason": "学「广播、电视和移动通信」要先会「电磁波的海洋」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_088__cnp_089",
+      "sourceTopicId": "cnp_088",
+      "targetTopicId": "cnp_089",
+      "relation": "recommended_before",
+      "reason": "卫星与光纤通信是并列应用，可由相关传播原理直接学习。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_016__cnp_089",
+      "sourceTopicId": "cnp_016",
+      "targetTopicId": "cnp_089",
+      "relation": "recommended_before",
+      "reason": "「卫星通信和光纤通信」会用到「光的反射」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_056__cnp_090",
+      "sourceTopicId": "cnp_056",
+      "targetTopicId": "cnp_090",
+      "relation": "prerequisite",
+      "reason": "学「能源利用的现状和面临的挑战」要先会「能量的转化与守恒」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_090__cnp_091",
+      "sourceTopicId": "cnp_090",
+      "targetTopicId": "cnp_091",
+      "relation": "recommended_before",
+      "reason": "能源问题提供背景，新能源原理可独立作为学习入口。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_091__cnp_092",
+      "sourceTopicId": "cnp_091",
+      "targetTopicId": "cnp_092",
+      "relation": "recommended_before",
+      "reason": "节能方案未必采用新能源，不能作为唯一必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_076__cnp_092",
+      "sourceTopicId": "cnp_076",
+      "targetTopicId": "cnp_092",
+      "relation": "recommended_before",
+      "reason": "「跨学科实践：为节约能源设计方案」会用到「跨学科实践：为家庭节约用电提建议」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_002__cnp_h001",
+      "sourceTopicId": "cnp_002",
+      "targetTopicId": "cnp_h001",
+      "relation": "prerequisite",
+      "reason": "学「质点和参考系」要先会「运动的描述」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_001__cnp_h001",
+      "sourceTopicId": "cnp_001",
+      "targetTopicId": "cnp_h001",
+      "relation": "recommended_before",
+      "reason": "「质点和参考系」会用到「长度和时间的测量」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h001__cnp_h002",
+      "sourceTopicId": "cnp_h001",
+      "targetTopicId": "cnp_h002",
+      "relation": "prerequisite",
+      "reason": "学「时间、时刻和位移」要先会「质点和参考系」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_001__cnp_h002",
+      "sourceTopicId": "cnp_001",
+      "targetTopicId": "cnp_h002",
+      "relation": "recommended_before",
+      "reason": "「时间、时刻和位移」会用到「长度和时间的测量」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h002__cnp_h003",
+      "sourceTopicId": "cnp_h002",
+      "targetTopicId": "cnp_h003",
+      "relation": "prerequisite",
+      "reason": "学「平均速度和瞬时速度」要先会「时间、时刻和位移」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_003__cnp_h003",
+      "sourceTopicId": "cnp_003",
+      "targetTopicId": "cnp_h003",
+      "relation": "prerequisite",
+      "reason": "学「平均速度和瞬时速度」要先会「运动的快慢」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h003__cnp_h004",
+      "sourceTopicId": "cnp_h003",
+      "targetTopicId": "cnp_h004",
+      "relation": "prerequisite",
+      "reason": "学「加速度」要先会「平均速度和瞬时速度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_003__cnp_h004",
+      "sourceTopicId": "cnp_003",
+      "targetTopicId": "cnp_h004",
+      "relation": "recommended_before",
+      "reason": "「加速度」会用到「运动的快慢」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h003__cnp_h005",
+      "sourceTopicId": "cnp_h003",
+      "targetTopicId": "cnp_h005",
+      "relation": "prerequisite",
+      "reason": "学「实验：探究小车速度随时间变化的规律」要先会「平均速度和瞬时速度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h004__cnp_h005",
+      "sourceTopicId": "cnp_h004",
+      "targetTopicId": "cnp_h005",
+      "relation": "recommended_before",
+      "reason": "「实验：探究小车速度随时间变化的规律」会用到「加速度」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_004__cnp_h005",
+      "sourceTopicId": "cnp_004",
+      "targetTopicId": "cnp_h005",
+      "relation": "recommended_before",
+      "reason": "「实验：探究小车速度随时间变化的规律」会用到「速度的测量」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h004__cnp_h006",
+      "sourceTopicId": "cnp_h004",
+      "targetTopicId": "cnp_h006",
+      "relation": "prerequisite",
+      "reason": "学「匀变速直线运动的速度与时间的关系」要先会「加速度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h005__cnp_h006",
+      "sourceTopicId": "cnp_h005",
+      "targetTopicId": "cnp_h006",
+      "relation": "recommended_before",
+      "reason": "「匀变速直线运动的速度与时间的关系」会用到「实验：探究小车速度随时间变化的规律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h006__cnp_h007",
+      "sourceTopicId": "cnp_h006",
+      "targetTopicId": "cnp_h007",
+      "relation": "prerequisite",
+      "reason": "学「匀变速直线运动的位移与时间的关系」要先会「匀变速直线运动的速度与时间的关系」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h003__cnp_h007",
+      "sourceTopicId": "cnp_h003",
+      "targetTopicId": "cnp_h007",
+      "relation": "recommended_before",
+      "reason": "「匀变速直线运动的位移与时间的关系」会用到「平均速度和瞬时速度」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h007__cnp_h008",
+      "sourceTopicId": "cnp_h007",
+      "targetTopicId": "cnp_h008",
+      "relation": "prerequisite",
+      "reason": "学「速度与位移的关系和匀变速运动的推论」要先会「匀变速直线运动的位移与时间的关系」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h006__cnp_h008",
+      "sourceTopicId": "cnp_h006",
+      "targetTopicId": "cnp_h008",
+      "relation": "prerequisite",
+      "reason": "学「速度与位移的关系和匀变速运动的推论」要先会「匀变速直线运动的速度与时间的关系」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h006__cnp_h009",
+      "sourceTopicId": "cnp_h006",
+      "targetTopicId": "cnp_h009",
+      "relation": "prerequisite",
+      "reason": "学「自由落体运动」要先会「匀变速直线运动的速度与时间的关系」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h007__cnp_h009",
+      "sourceTopicId": "cnp_h007",
+      "targetTopicId": "cnp_h009",
+      "relation": "prerequisite",
+      "reason": "学「自由落体运动」要先会「匀变速直线运动的位移与时间的关系」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_031__cnp_h009",
+      "sourceTopicId": "cnp_031",
+      "targetTopicId": "cnp_h009",
+      "relation": "recommended_before",
+      "reason": "「自由落体运动」会用到「重力」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_031__cnp_h010",
+      "sourceTopicId": "cnp_031",
+      "targetTopicId": "cnp_h010",
+      "relation": "prerequisite",
+      "reason": "学「重力」要先会「重力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_025__cnp_h010",
+      "sourceTopicId": "cnp_025",
+      "targetTopicId": "cnp_h010",
+      "relation": "recommended_before",
+      "reason": "「重力」会用到「质量」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_030__cnp_h011",
+      "sourceTopicId": "cnp_030",
+      "targetTopicId": "cnp_h011",
+      "relation": "prerequisite",
+      "reason": "学「弹力与胡克定律」要先会「弹力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_033__cnp_h011",
+      "sourceTopicId": "cnp_033",
+      "targetTopicId": "cnp_h011",
+      "relation": "recommended_before",
+      "reason": "「弹力与胡克定律」会用到「二力平衡」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h011__cnp_h012",
+      "sourceTopicId": "cnp_h011",
+      "targetTopicId": "cnp_h012",
+      "relation": "recommended_before",
+      "reason": "实验可以用来发现胡克定律；先完整掌握定律不是开展探究的必要前提，弹力概念才是基础。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_030__cnp_h012",
+      "sourceTopicId": "cnp_030",
+      "targetTopicId": "cnp_h012",
+      "relation": "prerequisite",
+      "reason": "弹簧探究首先需识别弹力。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_034__cnp_h013",
+      "sourceTopicId": "cnp_034",
+      "targetTopicId": "cnp_h013",
+      "relation": "prerequisite",
+      "reason": "学「静摩擦力」要先会「摩擦力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_033__cnp_h013",
+      "sourceTopicId": "cnp_033",
+      "targetTopicId": "cnp_h013",
+      "relation": "prerequisite",
+      "reason": "学「静摩擦力」要先会「二力平衡」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h011__cnp_h013",
+      "sourceTopicId": "cnp_h011",
+      "targetTopicId": "cnp_h013",
+      "relation": "recommended_before",
+      "reason": "「静摩擦力」会用到「弹力与胡克定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_034__cnp_h014",
+      "sourceTopicId": "cnp_034",
+      "targetTopicId": "cnp_h014",
+      "relation": "prerequisite",
+      "reason": "学「滑动摩擦力」要先会「摩擦力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h011__cnp_h014",
+      "sourceTopicId": "cnp_h011",
+      "targetTopicId": "cnp_h014",
+      "relation": "recommended_before",
+      "reason": "滑动摩擦需要接触压力与摩擦概念，不必先会弹簧形变量定量规律。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h013__cnp_h014",
+      "sourceTopicId": "cnp_h013",
+      "targetTopicId": "cnp_h014",
+      "relation": "recommended_before",
+      "reason": "「滑动摩擦力」会用到「静摩擦力」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_029__cnp_h015",
+      "sourceTopicId": "cnp_029",
+      "targetTopicId": "cnp_h015",
+      "relation": "prerequisite",
+      "reason": "学「牛顿第三定律」要先会「力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_033__cnp_h015",
+      "sourceTopicId": "cnp_033",
+      "targetTopicId": "cnp_h015",
+      "relation": "recommended_before",
+      "reason": "作用反作用与平衡力应比较辨析，二力平衡不是理解相互作用的逻辑前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h010__cnp_h015",
+      "sourceTopicId": "cnp_h010",
+      "targetTopicId": "cnp_h015",
+      "relation": "recommended_before",
+      "reason": "「牛顿第三定律」会用到「重力」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_035__cnp_h016",
+      "sourceTopicId": "cnp_035",
+      "targetTopicId": "cnp_h016",
+      "relation": "prerequisite",
+      "reason": "学「力的合成」要先会「同一直线上二力的合成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h002__cnp_h016",
+      "sourceTopicId": "cnp_h002",
+      "targetTopicId": "cnp_h016",
+      "relation": "recommended_before",
+      "reason": "「力的合成」会用到「时间、时刻和位移」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h016__cnp_h017",
+      "sourceTopicId": "cnp_h016",
+      "targetTopicId": "cnp_h017",
+      "relation": "prerequisite",
+      "reason": "学「实验：探究两个互成角度的力的合成规律」要先会「力的合成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h012__cnp_h017",
+      "sourceTopicId": "cnp_h012",
+      "targetTopicId": "cnp_h017",
+      "relation": "recommended_before",
+      "reason": "「实验：探究两个互成角度的力的合成规律」会用到「实验：探究弹簧弹力与形变量的关系」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h016__cnp_h018",
+      "sourceTopicId": "cnp_h016",
+      "targetTopicId": "cnp_h018",
+      "relation": "prerequisite",
+      "reason": "学「力的分解」要先会「力的合成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h010__cnp_h018",
+      "sourceTopicId": "cnp_h010",
+      "targetTopicId": "cnp_h018",
+      "relation": "recommended_before",
+      "reason": "「力的分解」会用到「重力」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h016__cnp_h019",
+      "sourceTopicId": "cnp_h016",
+      "targetTopicId": "cnp_h019",
+      "relation": "prerequisite",
+      "reason": "学「共点力的平衡」要先会「力的合成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h018__cnp_h019",
+      "sourceTopicId": "cnp_h018",
+      "targetTopicId": "cnp_h019",
+      "relation": "prerequisite",
+      "reason": "学「共点力的平衡」要先会「力的分解」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_033__cnp_h019",
+      "sourceTopicId": "cnp_033",
+      "targetTopicId": "cnp_h019",
+      "relation": "recommended_before",
+      "reason": "「共点力的平衡」会用到「二力平衡」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h013__cnp_h019",
+      "sourceTopicId": "cnp_h013",
+      "targetTopicId": "cnp_h019",
+      "relation": "recommended_before",
+      "reason": "「共点力的平衡」会用到「静摩擦力」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_032__cnp_h020",
+      "sourceTopicId": "cnp_032",
+      "targetTopicId": "cnp_h020",
+      "relation": "prerequisite",
+      "reason": "学「牛顿第一定律」要先会「牛顿第一定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_033__cnp_h020",
+      "sourceTopicId": "cnp_033",
+      "targetTopicId": "cnp_h020",
+      "relation": "recommended_before",
+      "reason": "「牛顿第一定律」会用到「二力平衡」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h020__cnp_h021",
+      "sourceTopicId": "cnp_h020",
+      "targetTopicId": "cnp_h021",
+      "relation": "prerequisite",
+      "reason": "学「惯性与质量」要先会「牛顿第一定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_025__cnp_h021",
+      "sourceTopicId": "cnp_025",
+      "targetTopicId": "cnp_h021",
+      "relation": "recommended_before",
+      "reason": "「惯性与质量」会用到「质量」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h004__cnp_h022",
+      "sourceTopicId": "cnp_h004",
+      "targetTopicId": "cnp_h022",
+      "relation": "prerequisite",
+      "reason": "学「实验：探究加速度与力、质量的关系」要先会「加速度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h005__cnp_h022",
+      "sourceTopicId": "cnp_h005",
+      "targetTopicId": "cnp_h022",
+      "relation": "recommended_before",
+      "reason": "可直接使用加速度测量数据或其他测量方案，不必先完成特定小车实验。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h021__cnp_h022",
+      "sourceTopicId": "cnp_h021",
+      "targetTopicId": "cnp_h022",
+      "relation": "recommended_before",
+      "reason": "「实验：探究加速度与力、质量的关系」会用到「惯性与质量」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h004__cnp_h023",
+      "sourceTopicId": "cnp_h004",
+      "targetTopicId": "cnp_h023",
+      "relation": "prerequisite",
+      "reason": "学「牛顿第二定律」要先会「加速度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h021__cnp_h023",
+      "sourceTopicId": "cnp_h021",
+      "targetTopicId": "cnp_h023",
+      "relation": "prerequisite",
+      "reason": "学「牛顿第二定律」要先会「惯性与质量」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h016__cnp_h023",
+      "sourceTopicId": "cnp_h016",
+      "targetTopicId": "cnp_h023",
+      "relation": "prerequisite",
+      "reason": "学「牛顿第二定律」要先会「力的合成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h022__cnp_h023",
+      "sourceTopicId": "cnp_h022",
+      "targetTopicId": "cnp_h023",
+      "relation": "recommended_before",
+      "reason": "「牛顿第二定律」会用到「实验：探究加速度与力、质量的关系」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h023__cnp_h024",
+      "sourceTopicId": "cnp_h023",
+      "targetTopicId": "cnp_h024",
+      "relation": "prerequisite",
+      "reason": "学「力学单位制」要先会「牛顿第二定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_001__cnp_h024",
+      "sourceTopicId": "cnp_001",
+      "targetTopicId": "cnp_h024",
+      "relation": "recommended_before",
+      "reason": "「力学单位制」会用到「长度和时间的测量」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h023__cnp_h025",
+      "sourceTopicId": "cnp_h023",
+      "targetTopicId": "cnp_h025",
+      "relation": "prerequisite",
+      "reason": "学「牛顿运动定律的应用」要先会「牛顿第二定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h008__cnp_h025",
+      "sourceTopicId": "cnp_h008",
+      "targetTopicId": "cnp_h025",
+      "relation": "recommended_before",
+      "reason": "运动定律应用可只求加速度，不必每题都用无时间运动公式。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h014__cnp_h025",
+      "sourceTopicId": "cnp_h014",
+      "targetTopicId": "cnp_h025",
+      "relation": "recommended_before",
+      "reason": "滑动摩擦只在涉及滑动接触的问题中需要，不是所有牛顿定律应用的共同门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h018__cnp_h025",
+      "sourceTopicId": "cnp_h018",
+      "targetTopicId": "cnp_h025",
+      "relation": "recommended_before",
+      "reason": "一维应用不一定需要力的分解；按具体任务选用。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h025__cnp_h026",
+      "sourceTopicId": "cnp_h025",
+      "targetTopicId": "cnp_h026",
+      "relation": "prerequisite",
+      "reason": "学「连接体问题与整体法、隔离法」要先会「牛顿运动定律的应用」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h015__cnp_h026",
+      "sourceTopicId": "cnp_h015",
+      "targetTopicId": "cnp_h026",
+      "relation": "prerequisite",
+      "reason": "学「连接体问题与整体法、隔离法」要先会「牛顿第三定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h013__cnp_h026",
+      "sourceTopicId": "cnp_h013",
+      "targetTopicId": "cnp_h026",
+      "relation": "recommended_before",
+      "reason": "「连接体问题与整体法、隔离法」会用到「静摩擦力」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h023__cnp_h027",
+      "sourceTopicId": "cnp_h023",
+      "targetTopicId": "cnp_h027",
+      "relation": "prerequisite",
+      "reason": "学「超重和失重」要先会「牛顿第二定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h025__cnp_h027",
+      "sourceTopicId": "cnp_h025",
+      "targetTopicId": "cnp_h027",
+      "relation": "recommended_before",
+      "reason": "「超重和失重」会用到「牛顿运动定律的应用」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h009__cnp_h027",
+      "sourceTopicId": "cnp_h009",
+      "targetTopicId": "cnp_h027",
+      "relation": "recommended_before",
+      "reason": "「超重和失重」会用到「自由落体运动」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h003__cnp_h028",
+      "sourceTopicId": "cnp_h003",
+      "targetTopicId": "cnp_h028",
+      "relation": "prerequisite",
+      "reason": "学「曲线运动」要先会「平均速度和瞬时速度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h023__cnp_h028",
+      "sourceTopicId": "cnp_h023",
+      "targetTopicId": "cnp_h028",
+      "relation": "recommended_before",
+      "reason": "曲线运动的速度方向可从运动学定义理解，动力学解释再调用第二定律。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h028__cnp_h029",
+      "sourceTopicId": "cnp_h028",
+      "targetTopicId": "cnp_h029",
+      "relation": "prerequisite",
+      "reason": "学「运动的合成与分解」要先会「曲线运动」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h002__cnp_h029",
+      "sourceTopicId": "cnp_h002",
+      "targetTopicId": "cnp_h029",
+      "relation": "prerequisite",
+      "reason": "学「运动的合成与分解」要先会「时间、时刻和位移」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h016__cnp_h029",
+      "sourceTopicId": "cnp_h016",
+      "targetTopicId": "cnp_h029",
+      "relation": "recommended_before",
+      "reason": "「运动的合成与分解」会用到「力的合成」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h028__cnp_h030",
+      "sourceTopicId": "cnp_h028",
+      "targetTopicId": "cnp_h030",
+      "relation": "prerequisite",
+      "reason": "学「实验：探究平抛运动的特点」要先会「曲线运动」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h009__cnp_h030",
+      "sourceTopicId": "cnp_h009",
+      "targetTopicId": "cnp_h030",
+      "relation": "prerequisite",
+      "reason": "学「实验：探究平抛运动的特点」要先会「自由落体运动」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h029__cnp_h030",
+      "sourceTopicId": "cnp_h029",
+      "targetTopicId": "cnp_h030",
+      "relation": "recommended_before",
+      "reason": "「实验：探究平抛运动的特点」会用到「运动的合成与分解」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h029__cnp_h031",
+      "sourceTopicId": "cnp_h029",
+      "targetTopicId": "cnp_h031",
+      "relation": "prerequisite",
+      "reason": "学「平抛运动的规律」要先会「运动的合成与分解」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h009__cnp_h031",
+      "sourceTopicId": "cnp_h009",
+      "targetTopicId": "cnp_h031",
+      "relation": "prerequisite",
+      "reason": "学「平抛运动的规律」要先会「自由落体运动」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h030__cnp_h031",
+      "sourceTopicId": "cnp_h030",
+      "targetTopicId": "cnp_h031",
+      "relation": "recommended_before",
+      "reason": "「平抛运动的规律」会用到「实验：探究平抛运动的特点」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h031__cnp_h032",
+      "sourceTopicId": "cnp_h031",
+      "targetTopicId": "cnp_h032",
+      "relation": "recommended_before",
+      "reason": "斜抛和平抛均可从运动合成与匀变速规律建立，平抛是建议先学的特例。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h029__cnp_h032",
+      "sourceTopicId": "cnp_h029",
+      "targetTopicId": "cnp_h032",
+      "relation": "prerequisite",
+      "reason": "斜抛需把初速度和运动按方向分解。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h006__cnp_h032",
+      "sourceTopicId": "cnp_h006",
+      "targetTopicId": "cnp_h032",
+      "relation": "recommended_before",
+      "reason": "「斜抛运动」会用到「匀变速直线运动的速度与时间的关系」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h003__cnp_h033",
+      "sourceTopicId": "cnp_h003",
+      "targetTopicId": "cnp_h033",
+      "relation": "prerequisite",
+      "reason": "学「圆周运动的描述」要先会「平均速度和瞬时速度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h028__cnp_h033",
+      "sourceTopicId": "cnp_h028",
+      "targetTopicId": "cnp_h033",
+      "relation": "prerequisite",
+      "reason": "学「圆周运动的描述」要先会「曲线运动」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_003__cnp_h033",
+      "sourceTopicId": "cnp_003",
+      "targetTopicId": "cnp_h033",
+      "relation": "recommended_before",
+      "reason": "「圆周运动的描述」会用到「运动的快慢」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h033__cnp_h034",
+      "sourceTopicId": "cnp_h033",
+      "targetTopicId": "cnp_h034",
+      "relation": "prerequisite",
+      "reason": "学「向心力」要先会「圆周运动的描述」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h023__cnp_h034",
+      "sourceTopicId": "cnp_h023",
+      "targetTopicId": "cnp_h034",
+      "relation": "prerequisite",
+      "reason": "学「向心力」要先会「牛顿第二定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h034__cnp_h035",
+      "sourceTopicId": "cnp_h034",
+      "targetTopicId": "cnp_h035",
+      "relation": "prerequisite",
+      "reason": "学「实验：探究向心力大小与半径、角速度、质量的关系」要先会「向心力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h033__cnp_h035",
+      "sourceTopicId": "cnp_h033",
+      "targetTopicId": "cnp_h035",
+      "relation": "recommended_before",
+      "reason": "「实验：探究向心力大小与半径、角速度、质量的关系」会用到「圆周运动的描述」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h022__cnp_h035",
+      "sourceTopicId": "cnp_h022",
+      "targetTopicId": "cnp_h035",
+      "relation": "recommended_before",
+      "reason": "「实验：探究向心力大小与半径、角速度、质量的关系」会用到「实验：探究加速度与力、质量的关系」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h033__cnp_h036",
+      "sourceTopicId": "cnp_h033",
+      "targetTopicId": "cnp_h036",
+      "relation": "prerequisite",
+      "reason": "学「向心加速度」要先会「圆周运动的描述」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h034__cnp_h036",
+      "sourceTopicId": "cnp_h034",
+      "targetTopicId": "cnp_h036",
+      "relation": "recommended_before",
+      "reason": "向心加速度可由运动学求得，向心力不是其定义的必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h004__cnp_h036",
+      "sourceTopicId": "cnp_h004",
+      "targetTopicId": "cnp_h036",
+      "relation": "recommended_before",
+      "reason": "「向心加速度」会用到「加速度」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h036__cnp_h037",
+      "sourceTopicId": "cnp_h036",
+      "targetTopicId": "cnp_h037",
+      "relation": "prerequisite",
+      "reason": "学「生活中的圆周运动」要先会「向心加速度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h034__cnp_h037",
+      "sourceTopicId": "cnp_h034",
+      "targetTopicId": "cnp_h037",
+      "relation": "prerequisite",
+      "reason": "学「生活中的圆周运动」要先会「向心力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h013__cnp_h037",
+      "sourceTopicId": "cnp_h013",
+      "targetTopicId": "cnp_h037",
+      "relation": "recommended_before",
+      "reason": "「生活中的圆周运动」会用到「静摩擦力」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h027__cnp_h037",
+      "sourceTopicId": "cnp_h027",
+      "targetTopicId": "cnp_h037",
+      "relation": "recommended_before",
+      "reason": "「生活中的圆周运动」会用到「超重和失重」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h034__cnp_h038",
+      "sourceTopicId": "cnp_h034",
+      "targetTopicId": "cnp_h038",
+      "relation": "prerequisite",
+      "reason": "学「离心现象」要先会「向心力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h037__cnp_h038",
+      "sourceTopicId": "cnp_h037",
+      "targetTopicId": "cnp_h038",
+      "relation": "recommended_before",
+      "reason": "「离心现象」会用到「生活中的圆周运动」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h028__cnp_h039",
+      "sourceTopicId": "cnp_h028",
+      "targetTopicId": "cnp_h039",
+      "relation": "recommended_before",
+      "reason": "「行星的运动」会用到「曲线运动」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h033__cnp_h039",
+      "sourceTopicId": "cnp_h033",
+      "targetTopicId": "cnp_h039",
+      "relation": "recommended_before",
+      "reason": "「行星的运动」会用到「圆周运动的描述」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h039__cnp_h040",
+      "sourceTopicId": "cnp_h039",
+      "targetTopicId": "cnp_h040",
+      "relation": "recommended_before",
+      "reason": "行星运动提供历史与证据背景，不是理解引力表达式的必要门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h034__cnp_h040",
+      "sourceTopicId": "cnp_h034",
+      "targetTopicId": "cnp_h040",
+      "relation": "recommended_before",
+      "reason": "万有引力不限于圆周运动，两静止点质量也有引力；向心力用于轨道应用。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h015__cnp_h040",
+      "sourceTopicId": "cnp_h015",
+      "targetTopicId": "cnp_h040",
+      "relation": "recommended_before",
+      "reason": "「万有引力定律」会用到「牛顿第三定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h040__cnp_h041",
+      "sourceTopicId": "cnp_h040",
+      "targetTopicId": "cnp_h041",
+      "relation": "prerequisite",
+      "reason": "学「万有引力理论的成就」要先会「万有引力定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h034__cnp_h041",
+      "sourceTopicId": "cnp_h034",
+      "targetTopicId": "cnp_h041",
+      "relation": "prerequisite",
+      "reason": "学「万有引力理论的成就」要先会「向心力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h036__cnp_h041",
+      "sourceTopicId": "cnp_h036",
+      "targetTopicId": "cnp_h041",
+      "relation": "recommended_before",
+      "reason": "「万有引力理论的成就」会用到「向心加速度」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_026__cnp_h041",
+      "sourceTopicId": "cnp_026",
+      "targetTopicId": "cnp_h041",
+      "relation": "recommended_before",
+      "reason": "「万有引力理论的成就」会用到「密度」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h040__cnp_h042",
+      "sourceTopicId": "cnp_h040",
+      "targetTopicId": "cnp_h042",
+      "relation": "prerequisite",
+      "reason": "学「宇宙速度」要先会「万有引力定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h036__cnp_h042",
+      "sourceTopicId": "cnp_h036",
+      "targetTopicId": "cnp_h042",
+      "relation": "prerequisite",
+      "reason": "学「宇宙速度」要先会「向心加速度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h041__cnp_h042",
+      "sourceTopicId": "cnp_h041",
+      "targetTopicId": "cnp_h042",
+      "relation": "recommended_before",
+      "reason": "「宇宙速度」会用到「万有引力理论的成就」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h041__cnp_h043",
+      "sourceTopicId": "cnp_h041",
+      "targetTopicId": "cnp_h043",
+      "relation": "prerequisite",
+      "reason": "学「人造卫星的运行规律」要先会「万有引力理论的成就」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h042__cnp_h043",
+      "sourceTopicId": "cnp_h042",
+      "targetTopicId": "cnp_h043",
+      "relation": "recommended_before",
+      "reason": "人造卫星圆轨道规律可由万有引力与圆周动力学直接求得，不必先熟记宇宙速度。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h033__cnp_h043",
+      "sourceTopicId": "cnp_h033",
+      "targetTopicId": "cnp_h043",
+      "relation": "prerequisite",
+      "reason": "学「人造卫星的运行规律」要先会「圆周运动的描述」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h023__cnp_h044",
+      "sourceTopicId": "cnp_h023",
+      "targetTopicId": "cnp_h044",
+      "relation": "recommended_before",
+      "reason": "「相对论时空观与牛顿力学的局限性」会用到「牛顿第二定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h003__cnp_h044",
+      "sourceTopicId": "cnp_h003",
+      "targetTopicId": "cnp_h044",
+      "relation": "recommended_before",
+      "reason": "「相对论时空观与牛顿力学的局限性」会用到「平均速度和瞬时速度」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_045__cnp_h045",
+      "sourceTopicId": "cnp_045",
+      "targetTopicId": "cnp_h045",
+      "relation": "prerequisite",
+      "reason": "学「功」要先会「功」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h018__cnp_h045",
+      "sourceTopicId": "cnp_h018",
+      "targetTopicId": "cnp_h045",
+      "relation": "prerequisite",
+      "reason": "学「功」要先会「力的分解」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h002__cnp_h045",
+      "sourceTopicId": "cnp_h002",
+      "targetTopicId": "cnp_h045",
+      "relation": "recommended_before",
+      "reason": "「功」会用到「时间、时刻和位移」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h045__cnp_h046",
+      "sourceTopicId": "cnp_h045",
+      "targetTopicId": "cnp_h046",
+      "relation": "prerequisite",
+      "reason": "学「功率」要先会「功」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h003__cnp_h046",
+      "sourceTopicId": "cnp_h003",
+      "targetTopicId": "cnp_h046",
+      "relation": "prerequisite",
+      "reason": "学「功率」要先会「平均速度和瞬时速度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_046__cnp_h046",
+      "sourceTopicId": "cnp_046",
+      "targetTopicId": "cnp_h046",
+      "relation": "recommended_before",
+      "reason": "「功率」会用到「功率」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h045__cnp_h047",
+      "sourceTopicId": "cnp_h045",
+      "targetTopicId": "cnp_h047",
+      "relation": "prerequisite",
+      "reason": "学「重力势能」要先会「功」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h010__cnp_h047",
+      "sourceTopicId": "cnp_h010",
+      "targetTopicId": "cnp_h047",
+      "relation": "prerequisite",
+      "reason": "学「重力势能」要先会「重力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_047__cnp_h047",
+      "sourceTopicId": "cnp_047",
+      "targetTopicId": "cnp_h047",
+      "relation": "recommended_before",
+      "reason": "「重力势能」会用到「动能和势能」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h045__cnp_h048",
+      "sourceTopicId": "cnp_h045",
+      "targetTopicId": "cnp_h048",
+      "relation": "prerequisite",
+      "reason": "学「弹性势能」要先会「功」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h011__cnp_h048",
+      "sourceTopicId": "cnp_h011",
+      "targetTopicId": "cnp_h048",
+      "relation": "prerequisite",
+      "reason": "学「弹性势能」要先会「弹力与胡克定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h047__cnp_h048",
+      "sourceTopicId": "cnp_h047",
+      "targetTopicId": "cnp_h048",
+      "relation": "recommended_before",
+      "reason": "「弹性势能」会用到「重力势能」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h045__cnp_h049",
+      "sourceTopicId": "cnp_h045",
+      "targetTopicId": "cnp_h049",
+      "relation": "prerequisite",
+      "reason": "学「动能」要先会「功」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_047__cnp_h049",
+      "sourceTopicId": "cnp_047",
+      "targetTopicId": "cnp_h049",
+      "relation": "recommended_before",
+      "reason": "「动能」会用到「动能和势能」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h049__cnp_h050",
+      "sourceTopicId": "cnp_h049",
+      "targetTopicId": "cnp_h050",
+      "relation": "prerequisite",
+      "reason": "学「动能定理」要先会「动能」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h045__cnp_h050",
+      "sourceTopicId": "cnp_h045",
+      "targetTopicId": "cnp_h050",
+      "relation": "prerequisite",
+      "reason": "学「动能定理」要先会「功」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h023__cnp_h050",
+      "sourceTopicId": "cnp_h023",
+      "targetTopicId": "cnp_h050",
+      "relation": "recommended_before",
+      "reason": "「动能定理」会用到「牛顿第二定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h008__cnp_h050",
+      "sourceTopicId": "cnp_h008",
+      "targetTopicId": "cnp_h050",
+      "relation": "recommended_before",
+      "reason": "「动能定理」会用到「速度与位移的关系和匀变速运动的推论」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h047__cnp_h051",
+      "sourceTopicId": "cnp_h047",
+      "targetTopicId": "cnp_h051",
+      "relation": "prerequisite",
+      "reason": "学「机械能守恒定律」要先会「重力势能」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h048__cnp_h051",
+      "sourceTopicId": "cnp_h048",
+      "targetTopicId": "cnp_h051",
+      "relation": "recommended_before",
+      "reason": "只含动能和重力势能的守恒问题不需要弹性势能，涉及弹簧时再测查。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h050__cnp_h051",
+      "sourceTopicId": "cnp_h050",
+      "targetTopicId": "cnp_h051",
+      "relation": "prerequisite",
+      "reason": "学「机械能守恒定律」要先会「动能定理」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_048__cnp_h051",
+      "sourceTopicId": "cnp_048",
+      "targetTopicId": "cnp_h051",
+      "relation": "recommended_before",
+      "reason": "「机械能守恒定律」会用到「机械能及其转化」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h034__cnp_h051",
+      "sourceTopicId": "cnp_h034",
+      "targetTopicId": "cnp_h051",
+      "relation": "recommended_before",
+      "reason": "「机械能守恒定律」会用到「向心力」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h051__cnp_h052",
+      "sourceTopicId": "cnp_h051",
+      "targetTopicId": "cnp_h052",
+      "relation": "prerequisite",
+      "reason": "学「实验：验证机械能守恒定律」要先会「机械能守恒定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h005__cnp_h052",
+      "sourceTopicId": "cnp_h005",
+      "targetTopicId": "cnp_h052",
+      "relation": "recommended_before",
+      "reason": "机械能实验可以采用光电门等方案，不必先做同一小车实验。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h009__cnp_h052",
+      "sourceTopicId": "cnp_h009",
+      "targetTopicId": "cnp_h052",
+      "relation": "recommended_before",
+      "reason": "「实验：验证机械能守恒定律」会用到「自由落体运动」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_060__cnp_h053",
+      "sourceTopicId": "cnp_060",
+      "targetTopicId": "cnp_h053",
+      "relation": "prerequisite",
+      "reason": "学「电荷」要先会「两种电荷」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_054__cnp_h053",
+      "sourceTopicId": "cnp_054",
+      "targetTopicId": "cnp_h053",
+      "relation": "recommended_before",
+      "reason": "「电荷」会用到「分子动理论的初步知识」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h053__cnp_h054",
+      "sourceTopicId": "cnp_h053",
+      "targetTopicId": "cnp_h054",
+      "relation": "prerequisite",
+      "reason": "学「库仑定律」要先会「电荷」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h016__cnp_h054",
+      "sourceTopicId": "cnp_h016",
+      "targetTopicId": "cnp_h054",
+      "relation": "recommended_before",
+      "reason": "「库仑定律」会用到「力的合成」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h015__cnp_h054",
+      "sourceTopicId": "cnp_h015",
+      "targetTopicId": "cnp_h054",
+      "relation": "recommended_before",
+      "reason": "「库仑定律」会用到「牛顿第三定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h019__cnp_h054",
+      "sourceTopicId": "cnp_h019",
+      "targetTopicId": "cnp_h054",
+      "relation": "recommended_before",
+      "reason": "「库仑定律」会用到「共点力的平衡」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h054__cnp_h055",
+      "sourceTopicId": "cnp_h054",
+      "targetTopicId": "cnp_h055",
+      "relation": "recommended_before",
+      "reason": "场强E=F/q定义不以点电荷库仑公式为前提；点电荷场的计算才需库仑定律。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h023__cnp_h055",
+      "sourceTopicId": "cnp_h023",
+      "targetTopicId": "cnp_h055",
+      "relation": "recommended_before",
+      "reason": "「电场强度」会用到「牛顿第二定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h055__cnp_h056",
+      "sourceTopicId": "cnp_h055",
+      "targetTopicId": "cnp_h056",
+      "relation": "prerequisite",
+      "reason": "学「电场线与电场的叠加」要先会「电场强度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h016__cnp_h056",
+      "sourceTopicId": "cnp_h016",
+      "targetTopicId": "cnp_h056",
+      "relation": "prerequisite",
+      "reason": "学「电场线与电场的叠加」要先会「力的合成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h056__cnp_h057",
+      "sourceTopicId": "cnp_h056",
+      "targetTopicId": "cnp_h057",
+      "relation": "recommended_before",
+      "reason": "一般静电防护可先从电荷迁移理解，不必先掌握电场叠加。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h053__cnp_h057",
+      "sourceTopicId": "cnp_h053",
+      "targetTopicId": "cnp_h057",
+      "relation": "prerequisite",
+      "reason": "学「静电的防止与利用」要先会「电荷」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h045__cnp_h058",
+      "sourceTopicId": "cnp_h045",
+      "targetTopicId": "cnp_h058",
+      "relation": "prerequisite",
+      "reason": "学「电势能」要先会「功」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h055__cnp_h058",
+      "sourceTopicId": "cnp_h055",
+      "targetTopicId": "cnp_h058",
+      "relation": "prerequisite",
+      "reason": "学「电势能」要先会「电场强度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h047__cnp_h058",
+      "sourceTopicId": "cnp_h047",
+      "targetTopicId": "cnp_h058",
+      "relation": "recommended_before",
+      "reason": "「电势能」会用到「重力势能」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h058__cnp_h059",
+      "sourceTopicId": "cnp_h058",
+      "targetTopicId": "cnp_h059",
+      "relation": "prerequisite",
+      "reason": "学「电势」要先会「电势能」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h055__cnp_h059",
+      "sourceTopicId": "cnp_h055",
+      "targetTopicId": "cnp_h059",
+      "relation": "recommended_before",
+      "reason": "「电势」会用到「电场强度」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h059__cnp_h060",
+      "sourceTopicId": "cnp_h059",
+      "targetTopicId": "cnp_h060",
+      "relation": "prerequisite",
+      "reason": "学「电势差」要先会「电势」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h058__cnp_h060",
+      "sourceTopicId": "cnp_h058",
+      "targetTopicId": "cnp_h060",
+      "relation": "prerequisite",
+      "reason": "学「电势差」要先会「电势能」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h060__cnp_h061",
+      "sourceTopicId": "cnp_h060",
+      "targetTopicId": "cnp_h061",
+      "relation": "prerequisite",
+      "reason": "学「等势面」要先会「电势差」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h056__cnp_h061",
+      "sourceTopicId": "cnp_h056",
+      "targetTopicId": "cnp_h061",
+      "relation": "recommended_before",
+      "reason": "等势面需要电势概念；叠加方法只在特定场构形中使用。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h060__cnp_h062",
+      "sourceTopicId": "cnp_h060",
+      "targetTopicId": "cnp_h062",
+      "relation": "prerequisite",
+      "reason": "学「电势差与电场强度的关系」要先会「电势差」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h055__cnp_h062",
+      "sourceTopicId": "cnp_h055",
+      "targetTopicId": "cnp_h062",
+      "relation": "prerequisite",
+      "reason": "学「电势差与电场强度的关系」要先会「电场强度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h060__cnp_h063",
+      "sourceTopicId": "cnp_h060",
+      "targetTopicId": "cnp_h063",
+      "relation": "prerequisite",
+      "reason": "学「电容器的电容」要先会「电势差」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h053__cnp_h063",
+      "sourceTopicId": "cnp_h053",
+      "targetTopicId": "cnp_h063",
+      "relation": "recommended_before",
+      "reason": "「电容器的电容」会用到「电荷」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h063__cnp_h064",
+      "sourceTopicId": "cnp_h063",
+      "targetTopicId": "cnp_h064",
+      "relation": "prerequisite",
+      "reason": "学「实验：观察电容器的充、放电现象」要先会「电容器的电容」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h060__cnp_h064",
+      "sourceTopicId": "cnp_h060",
+      "targetTopicId": "cnp_h064",
+      "relation": "recommended_before",
+      "reason": "「实验：观察电容器的充、放电现象」会用到「电势差」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h060__cnp_h065",
+      "sourceTopicId": "cnp_h060",
+      "targetTopicId": "cnp_h065",
+      "relation": "prerequisite",
+      "reason": "学「带电粒子在电场中的加速」要先会「电势差」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h050__cnp_h065",
+      "sourceTopicId": "cnp_h050",
+      "targetTopicId": "cnp_h065",
+      "relation": "prerequisite",
+      "reason": "学「带电粒子在电场中的加速」要先会「动能定理」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h023__cnp_h065",
+      "sourceTopicId": "cnp_h023",
+      "targetTopicId": "cnp_h065",
+      "relation": "recommended_before",
+      "reason": "「带电粒子在电场中的加速」会用到「牛顿第二定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h065__cnp_h066",
+      "sourceTopicId": "cnp_h065",
+      "targetTopicId": "cnp_h066",
+      "relation": "recommended_before",
+      "reason": "粒子可带给定初速度入射，先掌握电场加速不是分析偏转的必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h031__cnp_h066",
+      "sourceTopicId": "cnp_h031",
+      "targetTopicId": "cnp_h066",
+      "relation": "prerequisite",
+      "reason": "学「带电粒子在电场中的偏转」要先会「平抛运动的规律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h062__cnp_h066",
+      "sourceTopicId": "cnp_h062",
+      "targetTopicId": "cnp_h066",
+      "relation": "recommended_before",
+      "reason": "「带电粒子在电场中的偏转」会用到「电势差与电场强度的关系」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h053__cnp_h067",
+      "sourceTopicId": "cnp_h053",
+      "targetTopicId": "cnp_h067",
+      "relation": "prerequisite",
+      "reason": "学「电源和电流」要先会「电荷」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_061__cnp_h067",
+      "sourceTopicId": "cnp_061",
+      "targetTopicId": "cnp_h067",
+      "relation": "recommended_before",
+      "reason": "「电源和电流」会用到「电流和电路」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h055__cnp_h067",
+      "sourceTopicId": "cnp_h055",
+      "targetTopicId": "cnp_h067",
+      "relation": "recommended_before",
+      "reason": "「电源和电流」会用到「电场强度」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h067__cnp_h068",
+      "sourceTopicId": "cnp_h067",
+      "targetTopicId": "cnp_h068",
+      "relation": "prerequisite",
+      "reason": "学「欧姆定律与伏安特性曲线」要先会「电源和电流」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_071__cnp_h068",
+      "sourceTopicId": "cnp_071",
+      "targetTopicId": "cnp_h068",
+      "relation": "prerequisite",
+      "reason": "学「欧姆定律与伏安特性曲线」要先会「欧姆定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h068__cnp_h069",
+      "sourceTopicId": "cnp_h068",
+      "targetTopicId": "cnp_h069",
+      "relation": "recommended_before",
+      "reason": "电阻定律所需的是电阻含义，不要求先完整分析非线性伏安曲线。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_067__cnp_h069",
+      "sourceTopicId": "cnp_067",
+      "targetTopicId": "cnp_h069",
+      "relation": "prerequisite",
+      "reason": "电阻率定律需要电阻的含义。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_001__cnp_h070",
+      "sourceTopicId": "cnp_001",
+      "targetTopicId": "cnp_h070",
+      "relation": "prerequisite",
+      "reason": "学「实验：长度的测量及其测量工具的选用」要先会「长度和时间的测量」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h069__cnp_h070",
+      "sourceTopicId": "cnp_h069",
+      "targetTopicId": "cnp_h070",
+      "relation": "recommended_before",
+      "reason": "「实验：长度的测量及其测量工具的选用」会用到「电阻定律与电阻率」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h070__cnp_h071",
+      "sourceTopicId": "cnp_h070",
+      "targetTopicId": "cnp_h071",
+      "relation": "prerequisite",
+      "reason": "学「实验：导体电阻率的测量」要先会「实验：长度的测量及其测量工具的选用」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h069__cnp_h071",
+      "sourceTopicId": "cnp_h069",
+      "targetTopicId": "cnp_h071",
+      "relation": "prerequisite",
+      "reason": "学「实验：导体电阻率的测量」要先会「电阻定律与电阻率」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h068__cnp_h071",
+      "sourceTopicId": "cnp_h068",
+      "targetTopicId": "cnp_h071",
+      "relation": "recommended_before",
+      "reason": "「实验：导体电阻率的测量」会用到「欧姆定律与伏安特性曲线」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h068__cnp_h072",
+      "sourceTopicId": "cnp_h068",
+      "targetTopicId": "cnp_h072",
+      "relation": "recommended_before",
+      "reason": "串并联拓扑和基本规律不以非线性伏安曲线为前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_073__cnp_h072",
+      "sourceTopicId": "cnp_073",
+      "targetTopicId": "cnp_h072",
+      "relation": "recommended_before",
+      "reason": "「串联电路和并联电路」会用到「欧姆定律在串、并联电路中的应用」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h067__cnp_h072",
+      "sourceTopicId": "cnp_h067",
+      "targetTopicId": "cnp_h072",
+      "relation": "recommended_before",
+      "reason": "「串联电路和并联电路」会用到「电源和电流」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h072__cnp_h073",
+      "sourceTopicId": "cnp_h072",
+      "targetTopicId": "cnp_h073",
+      "relation": "prerequisite",
+      "reason": "学「电表的改装」要先会「串联电路和并联电路」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h068__cnp_h073",
+      "sourceTopicId": "cnp_h068",
+      "targetTopicId": "cnp_h073",
+      "relation": "prerequisite",
+      "reason": "学「电表的改装」要先会「欧姆定律与伏安特性曲线」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h073__cnp_h074",
+      "sourceTopicId": "cnp_h073",
+      "targetTopicId": "cnp_h074",
+      "relation": "recommended_before",
+      "reason": "正确使用多用电表不要求先掌握内部改装设计。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h072__cnp_h074",
+      "sourceTopicId": "cnp_h072",
+      "targetTopicId": "cnp_h074",
+      "relation": "recommended_before",
+      "reason": "「实验：练习使用多用电表」会用到「串联电路和并联电路」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h060__cnp_h075",
+      "sourceTopicId": "cnp_h060",
+      "targetTopicId": "cnp_h075",
+      "relation": "prerequisite",
+      "reason": "学「电功和电功率」要先会「电势差」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h067__cnp_h075",
+      "sourceTopicId": "cnp_h067",
+      "targetTopicId": "cnp_h075",
+      "relation": "prerequisite",
+      "reason": "学「电功和电功率」要先会「电源和电流」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_075__cnp_h075",
+      "sourceTopicId": "cnp_075",
+      "targetTopicId": "cnp_h075",
+      "relation": "recommended_before",
+      "reason": "「电功和电功率」会用到「电功率」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_074__cnp_h075",
+      "sourceTopicId": "cnp_074",
+      "targetTopicId": "cnp_h075",
+      "relation": "recommended_before",
+      "reason": "「电功和电功率」会用到「电能 电功」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h075__cnp_h076",
+      "sourceTopicId": "cnp_h075",
+      "targetTopicId": "cnp_h076",
+      "relation": "prerequisite",
+      "reason": "学「焦耳定律」要先会「电功和电功率」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h068__cnp_h076",
+      "sourceTopicId": "cnp_h068",
+      "targetTopicId": "cnp_h076",
+      "relation": "prerequisite",
+      "reason": "学「焦耳定律」要先会「欧姆定律与伏安特性曲线」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_077__cnp_h076",
+      "sourceTopicId": "cnp_077",
+      "targetTopicId": "cnp_h076",
+      "relation": "recommended_before",
+      "reason": "「焦耳定律」会用到「焦耳定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h076__cnp_h077",
+      "sourceTopicId": "cnp_h076",
+      "targetTopicId": "cnp_h077",
+      "relation": "prerequisite",
+      "reason": "学「家庭电路与安全用电」要先会「焦耳定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h072__cnp_h077",
+      "sourceTopicId": "cnp_h072",
+      "targetTopicId": "cnp_h077",
+      "relation": "recommended_before",
+      "reason": "「家庭电路与安全用电」会用到「串联电路和并联电路」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_079__cnp_h077",
+      "sourceTopicId": "cnp_079",
+      "targetTopicId": "cnp_h077",
+      "relation": "prerequisite",
+      "reason": "学「家庭电路与安全用电」要先会「家庭电路的基本组成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_078__cnp_h077",
+      "sourceTopicId": "cnp_078",
+      "targetTopicId": "cnp_h077",
+      "relation": "recommended_before",
+      "reason": "「家庭电路与安全用电」会用到「安全用电」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h060__cnp_h078",
+      "sourceTopicId": "cnp_h060",
+      "targetTopicId": "cnp_h078",
+      "relation": "prerequisite",
+      "reason": "学「电动势」要先会「电势差」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h067__cnp_h078",
+      "sourceTopicId": "cnp_h067",
+      "targetTopicId": "cnp_h078",
+      "relation": "prerequisite",
+      "reason": "学「电动势」要先会「电源和电流」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h075__cnp_h078",
+      "sourceTopicId": "cnp_h075",
+      "targetTopicId": "cnp_h078",
+      "relation": "recommended_before",
+      "reason": "「电动势」会用到「电功和电功率」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h078__cnp_h079",
+      "sourceTopicId": "cnp_h078",
+      "targetTopicId": "cnp_h079",
+      "relation": "prerequisite",
+      "reason": "学「闭合电路的欧姆定律」要先会「电动势」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h072__cnp_h079",
+      "sourceTopicId": "cnp_h072",
+      "targetTopicId": "cnp_h079",
+      "relation": "prerequisite",
+      "reason": "学「闭合电路的欧姆定律」要先会「串联电路和并联电路」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h068__cnp_h079",
+      "sourceTopicId": "cnp_h068",
+      "targetTopicId": "cnp_h079",
+      "relation": "prerequisite",
+      "reason": "学「闭合电路的欧姆定律」要先会「欧姆定律与伏安特性曲线」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_073__cnp_h079",
+      "sourceTopicId": "cnp_073",
+      "targetTopicId": "cnp_h079",
+      "relation": "recommended_before",
+      "reason": "「闭合电路的欧姆定律」会用到「欧姆定律在串、并联电路中的应用」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h079__cnp_h080",
+      "sourceTopicId": "cnp_h079",
+      "targetTopicId": "cnp_h080",
+      "relation": "prerequisite",
+      "reason": "学「闭合电路的动态分析与功率」要先会「闭合电路的欧姆定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h072__cnp_h080",
+      "sourceTopicId": "cnp_h072",
+      "targetTopicId": "cnp_h080",
+      "relation": "prerequisite",
+      "reason": "学「闭合电路的动态分析与功率」要先会「串联电路和并联电路」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h075__cnp_h080",
+      "sourceTopicId": "cnp_h075",
+      "targetTopicId": "cnp_h080",
+      "relation": "prerequisite",
+      "reason": "学「闭合电路的动态分析与功率」要先会「电功和电功率」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h079__cnp_h081",
+      "sourceTopicId": "cnp_h079",
+      "targetTopicId": "cnp_h081",
+      "relation": "prerequisite",
+      "reason": "学「实验：电池电动势和内阻的测量」要先会「闭合电路的欧姆定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h074__cnp_h081",
+      "sourceTopicId": "cnp_h074",
+      "targetTopicId": "cnp_h081",
+      "relation": "recommended_before",
+      "reason": "「实验：电池电动势和内阻的测量」会用到「实验：练习使用多用电表」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h073__cnp_h081",
+      "sourceTopicId": "cnp_h073",
+      "targetTopicId": "cnp_h081",
+      "relation": "recommended_before",
+      "reason": "「实验：电池电动势和内阻的测量」会用到「电表的改装」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_072__cnp_h081",
+      "sourceTopicId": "cnp_072",
+      "targetTopicId": "cnp_h081",
+      "relation": "recommended_before",
+      "reason": "「实验：电池电动势和内阻的测量」会用到「电阻的测量」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h051__cnp_h082",
+      "sourceTopicId": "cnp_h051",
+      "targetTopicId": "cnp_h082",
+      "relation": "recommended_before",
+      "reason": "能源问题需一般能量守恒与转化，不要求先会机械能守恒的定量问题。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h076__cnp_h082",
+      "sourceTopicId": "cnp_h076",
+      "targetTopicId": "cnp_h082",
+      "relation": "recommended_before",
+      "reason": "「能源与可持续发展」会用到「焦耳定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_090__cnp_h082",
+      "sourceTopicId": "cnp_090",
+      "targetTopicId": "cnp_h082",
+      "relation": "prerequisite",
+      "reason": "学「能源与可持续发展」要先会「能源利用的现状和面临的挑战」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_091__cnp_h082",
+      "sourceTopicId": "cnp_091",
+      "targetTopicId": "cnp_h082",
+      "relation": "recommended_before",
+      "reason": "「能源与可持续发展」会用到「新能源的发展」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_081__cnp_h083",
+      "sourceTopicId": "cnp_081",
+      "targetTopicId": "cnp_h083",
+      "relation": "prerequisite",
+      "reason": "学「磁场与磁感线」要先会「磁现象 磁场」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h056__cnp_h083",
+      "sourceTopicId": "cnp_h056",
+      "targetTopicId": "cnp_h083",
+      "relation": "recommended_before",
+      "reason": "「磁场与磁感线」会用到「电场线与电场的叠加」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h083__cnp_h084",
+      "sourceTopicId": "cnp_h083",
+      "targetTopicId": "cnp_h084",
+      "relation": "prerequisite",
+      "reason": "学「电流的磁场和安培定则」要先会「磁场与磁感线」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h067__cnp_h084",
+      "sourceTopicId": "cnp_h067",
+      "targetTopicId": "cnp_h084",
+      "relation": "recommended_before",
+      "reason": "「电流的磁场和安培定则」会用到「电源和电流」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_082__cnp_h084",
+      "sourceTopicId": "cnp_082",
+      "targetTopicId": "cnp_h084",
+      "relation": "prerequisite",
+      "reason": "学「电流的磁场和安培定则」要先会「电生磁」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h083__cnp_h085",
+      "sourceTopicId": "cnp_h083",
+      "targetTopicId": "cnp_h085",
+      "relation": "prerequisite",
+      "reason": "学「磁感应强度」要先会「磁场与磁感线」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h055__cnp_h085",
+      "sourceTopicId": "cnp_h055",
+      "targetTopicId": "cnp_h085",
+      "relation": "recommended_before",
+      "reason": "「磁感应强度」会用到「电场强度」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h084__cnp_h085",
+      "sourceTopicId": "cnp_h084",
+      "targetTopicId": "cnp_h085",
+      "relation": "recommended_before",
+      "reason": "「磁感应强度」会用到「电流的磁场和安培定则」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h085__cnp_h086",
+      "sourceTopicId": "cnp_h085",
+      "targetTopicId": "cnp_h086",
+      "relation": "prerequisite",
+      "reason": "学「磁通量」要先会「磁感应强度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h018__cnp_h086",
+      "sourceTopicId": "cnp_h018",
+      "targetTopicId": "cnp_h086",
+      "relation": "recommended_before",
+      "reason": "「磁通量」会用到「力的分解」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h086__cnp_h087",
+      "sourceTopicId": "cnp_h086",
+      "targetTopicId": "cnp_h087",
+      "relation": "prerequisite",
+      "reason": "学「电磁感应现象及应用」要先会「磁通量」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h084__cnp_h087",
+      "sourceTopicId": "cnp_h084",
+      "targetTopicId": "cnp_h087",
+      "relation": "recommended_before",
+      "reason": "「电磁感应现象及应用」会用到「电流的磁场和安培定则」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_086__cnp_h087",
+      "sourceTopicId": "cnp_086",
+      "targetTopicId": "cnp_h087",
+      "relation": "prerequisite",
+      "reason": "学「电磁感应现象及应用」要先会「磁生电」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_087__cnp_h088",
+      "sourceTopicId": "cnp_087",
+      "targetTopicId": "cnp_h088",
+      "relation": "prerequisite",
+      "reason": "学「电磁波的发现及应用」要先会「电磁波的海洋」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h087__cnp_h088",
+      "sourceTopicId": "cnp_h087",
+      "targetTopicId": "cnp_h088",
+      "relation": "recommended_before",
+      "reason": "「电磁波的发现及应用」会用到「电磁感应现象及应用」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h083__cnp_h088",
+      "sourceTopicId": "cnp_h083",
+      "targetTopicId": "cnp_h088",
+      "relation": "recommended_before",
+      "reason": "「电磁波的发现及应用」会用到「磁场与磁感线」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_088__cnp_h088",
+      "sourceTopicId": "cnp_088",
+      "targetTopicId": "cnp_h088",
+      "relation": "recommended_before",
+      "reason": "「电磁波的发现及应用」会用到「广播、电视和移动通信」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h088__cnp_h089",
+      "sourceTopicId": "cnp_h088",
+      "targetTopicId": "cnp_h089",
+      "relation": "recommended_before",
+      "reason": "能量量子化与电磁波历史相关，但不以发现和应用史的掌握为门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_010__cnp_h089",
+      "sourceTopicId": "cnp_010",
+      "targetTopicId": "cnp_h089",
+      "relation": "recommended_before",
+      "reason": "「能量量子化」会用到「温度」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h003__cnp_h090",
+      "sourceTopicId": "cnp_h003",
+      "targetTopicId": "cnp_h090",
+      "relation": "prerequisite",
+      "reason": "学「动量」要先会「平均速度和瞬时速度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h023__cnp_h090",
+      "sourceTopicId": "cnp_h023",
+      "targetTopicId": "cnp_h090",
+      "relation": "recommended_before",
+      "reason": "「动量」会用到「牛顿第二定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h049__cnp_h090",
+      "sourceTopicId": "cnp_h049",
+      "targetTopicId": "cnp_h090",
+      "relation": "recommended_before",
+      "reason": "「动量」会用到「动能」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_003__cnp_h090",
+      "sourceTopicId": "cnp_003",
+      "targetTopicId": "cnp_h090",
+      "relation": "recommended_before",
+      "reason": "「动量」会用到「运动的快慢」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h090__cnp_h091",
+      "sourceTopicId": "cnp_h090",
+      "targetTopicId": "cnp_h091",
+      "relation": "recommended_before",
+      "reason": "冲量可由力与时间定义独立引入，动量在动量定理中建立联系。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h023__cnp_h091",
+      "sourceTopicId": "cnp_h023",
+      "targetTopicId": "cnp_h091",
+      "relation": "recommended_before",
+      "reason": "定义恒力冲量不需要先推导第二定律，定理推导时再调用。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h018__cnp_h091",
+      "sourceTopicId": "cnp_h018",
+      "targetTopicId": "cnp_h091",
+      "relation": "recommended_before",
+      "reason": "「冲量」会用到「力的分解」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_029__cnp_h091",
+      "sourceTopicId": "cnp_029",
+      "targetTopicId": "cnp_h091",
+      "relation": "prerequisite",
+      "reason": "冲量定义需要力的大小方向和作用时间。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h091__cnp_h092",
+      "sourceTopicId": "cnp_h091",
+      "targetTopicId": "cnp_h092",
+      "relation": "prerequisite",
+      "reason": "学「动量定理」要先会「冲量」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h090__cnp_h092",
+      "sourceTopicId": "cnp_h090",
+      "targetTopicId": "cnp_h092",
+      "relation": "prerequisite",
+      "reason": "学「动量定理」要先会「动量」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h023__cnp_h092",
+      "sourceTopicId": "cnp_h023",
+      "targetTopicId": "cnp_h092",
+      "relation": "prerequisite",
+      "reason": "学「动量定理」要先会「牛顿第二定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h050__cnp_h092",
+      "sourceTopicId": "cnp_h050",
+      "targetTopicId": "cnp_h092",
+      "relation": "recommended_before",
+      "reason": "「动量定理」会用到「动能定理」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h092__cnp_h093",
+      "sourceTopicId": "cnp_h092",
+      "targetTopicId": "cnp_h093",
+      "relation": "prerequisite",
+      "reason": "学「动量守恒定律」要先会「动量定理」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h015__cnp_h093",
+      "sourceTopicId": "cnp_h015",
+      "targetTopicId": "cnp_h093",
+      "relation": "prerequisite",
+      "reason": "学「动量守恒定律」要先会「牛顿第三定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h051__cnp_h093",
+      "sourceTopicId": "cnp_h051",
+      "targetTopicId": "cnp_h093",
+      "relation": "recommended_before",
+      "reason": "「动量守恒定律」会用到「机械能守恒定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h093__cnp_h094",
+      "sourceTopicId": "cnp_h093",
+      "targetTopicId": "cnp_h094",
+      "relation": "prerequisite",
+      "reason": "学「实验：验证动量守恒定律」要先会「动量守恒定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h031__cnp_h094",
+      "sourceTopicId": "cnp_h031",
+      "targetTopicId": "cnp_h094",
+      "relation": "recommended_before",
+      "reason": "「实验：验证动量守恒定律」会用到「平抛运动的规律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h005__cnp_h094",
+      "sourceTopicId": "cnp_h005",
+      "targetTopicId": "cnp_h094",
+      "relation": "recommended_before",
+      "reason": "「实验：验证动量守恒定律」会用到「实验：探究小车速度随时间变化的规律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h093__cnp_h095",
+      "sourceTopicId": "cnp_h093",
+      "targetTopicId": "cnp_h095",
+      "relation": "prerequisite",
+      "reason": "学「弹性碰撞和非弹性碰撞」要先会「动量守恒定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h049__cnp_h095",
+      "sourceTopicId": "cnp_h049",
+      "targetTopicId": "cnp_h095",
+      "relation": "prerequisite",
+      "reason": "学「弹性碰撞和非弹性碰撞」要先会「动能」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_048__cnp_h095",
+      "sourceTopicId": "cnp_048",
+      "targetTopicId": "cnp_h095",
+      "relation": "recommended_before",
+      "reason": "「弹性碰撞和非弹性碰撞」会用到「机械能及其转化」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h095__cnp_h096",
+      "sourceTopicId": "cnp_h095",
+      "targetTopicId": "cnp_h096",
+      "relation": "prerequisite",
+      "reason": "学「碰撞问题的分析」要先会「弹性碰撞和非弹性碰撞」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h051__cnp_h096",
+      "sourceTopicId": "cnp_h051",
+      "targetTopicId": "cnp_h096",
+      "relation": "recommended_before",
+      "reason": "「碰撞问题的分析」会用到「机械能守恒定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h050__cnp_h096",
+      "sourceTopicId": "cnp_h050",
+      "targetTopicId": "cnp_h096",
+      "relation": "recommended_before",
+      "reason": "「碰撞问题的分析」会用到「动能定理」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h093__cnp_h097",
+      "sourceTopicId": "cnp_h093",
+      "targetTopicId": "cnp_h097",
+      "relation": "prerequisite",
+      "reason": "学「反冲现象与火箭」要先会「动量守恒定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h015__cnp_h097",
+      "sourceTopicId": "cnp_h015",
+      "targetTopicId": "cnp_h097",
+      "relation": "recommended_before",
+      "reason": "「反冲现象与火箭」会用到「牛顿第三定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h011__cnp_h098",
+      "sourceTopicId": "cnp_h011",
+      "targetTopicId": "cnp_h098",
+      "relation": "prerequisite",
+      "reason": "学「简谐运动」要先会「弹力与胡克定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h004__cnp_h098",
+      "sourceTopicId": "cnp_h004",
+      "targetTopicId": "cnp_h098",
+      "relation": "recommended_before",
+      "reason": "「简谐运动」会用到「加速度」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_005__cnp_h098",
+      "sourceTopicId": "cnp_005",
+      "targetTopicId": "cnp_h098",
+      "relation": "recommended_before",
+      "reason": "「简谐运动」会用到「声音的产生与传播」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h098__cnp_h099",
+      "sourceTopicId": "cnp_h098",
+      "targetTopicId": "cnp_h099",
+      "relation": "prerequisite",
+      "reason": "学「简谐运动的描述」要先会「简谐运动」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h033__cnp_h099",
+      "sourceTopicId": "cnp_h033",
+      "targetTopicId": "cnp_h099",
+      "relation": "recommended_before",
+      "reason": "「简谐运动的描述」会用到「圆周运动的描述」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_006__cnp_h099",
+      "sourceTopicId": "cnp_006",
+      "targetTopicId": "cnp_h099",
+      "relation": "recommended_before",
+      "reason": "「简谐运动的描述」会用到「声音的特性」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h099__cnp_h100",
+      "sourceTopicId": "cnp_h099",
+      "targetTopicId": "cnp_h100",
+      "relation": "prerequisite",
+      "reason": "学「简谐运动的回复力和能量」要先会「简谐运动的描述」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h023__cnp_h100",
+      "sourceTopicId": "cnp_h023",
+      "targetTopicId": "cnp_h100",
+      "relation": "prerequisite",
+      "reason": "学「简谐运动的回复力和能量」要先会「牛顿第二定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h011__cnp_h100",
+      "sourceTopicId": "cnp_h011",
+      "targetTopicId": "cnp_h100",
+      "relation": "recommended_before",
+      "reason": "「简谐运动的回复力和能量」会用到「弹力与胡克定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h051__cnp_h100",
+      "sourceTopicId": "cnp_h051",
+      "targetTopicId": "cnp_h100",
+      "relation": "recommended_before",
+      "reason": "「简谐运动的回复力和能量」会用到「机械能守恒定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h100__cnp_h101",
+      "sourceTopicId": "cnp_h100",
+      "targetTopicId": "cnp_h101",
+      "relation": "prerequisite",
+      "reason": "学「单摆」要先会「简谐运动的回复力和能量」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h018__cnp_h101",
+      "sourceTopicId": "cnp_h018",
+      "targetTopicId": "cnp_h101",
+      "relation": "prerequisite",
+      "reason": "学「单摆」要先会「力的分解」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h010__cnp_h101",
+      "sourceTopicId": "cnp_h010",
+      "targetTopicId": "cnp_h101",
+      "relation": "recommended_before",
+      "reason": "「单摆」会用到「重力」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h101__cnp_h102",
+      "sourceTopicId": "cnp_h101",
+      "targetTopicId": "cnp_h102",
+      "relation": "prerequisite",
+      "reason": "学「实验：用单摆测量重力加速度」要先会「单摆」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h005__cnp_h102",
+      "sourceTopicId": "cnp_h005",
+      "targetTopicId": "cnp_h102",
+      "relation": "recommended_before",
+      "reason": "「实验：用单摆测量重力加速度」会用到「实验：探究小车速度随时间变化的规律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h099__cnp_h103",
+      "sourceTopicId": "cnp_h099",
+      "targetTopicId": "cnp_h103",
+      "relation": "prerequisite",
+      "reason": "学「受迫振动与共振」要先会「简谐运动的描述」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h100__cnp_h103",
+      "sourceTopicId": "cnp_h100",
+      "targetTopicId": "cnp_h103",
+      "relation": "recommended_before",
+      "reason": "「受迫振动与共振」会用到「简谐运动的回复力和能量」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_006__cnp_h103",
+      "sourceTopicId": "cnp_006",
+      "targetTopicId": "cnp_h103",
+      "relation": "recommended_before",
+      "reason": "「受迫振动与共振」会用到「声音的特性」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h098__cnp_h104",
+      "sourceTopicId": "cnp_h098",
+      "targetTopicId": "cnp_h104",
+      "relation": "recommended_before",
+      "reason": "波可从周期振动的传播理解，不要求所有振动先满足简谐回复力规律。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_005__cnp_h104",
+      "sourceTopicId": "cnp_005",
+      "targetTopicId": "cnp_h104",
+      "relation": "recommended_before",
+      "reason": "「波的形成」会用到「声音的产生与传播」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h104__cnp_h105",
+      "sourceTopicId": "cnp_h104",
+      "targetTopicId": "cnp_h105",
+      "relation": "prerequisite",
+      "reason": "学「波的描述」要先会「波的形成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h099__cnp_h105",
+      "sourceTopicId": "cnp_h099",
+      "targetTopicId": "cnp_h105",
+      "relation": "prerequisite",
+      "reason": "学「波的描述」要先会「简谐运动的描述」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_003__cnp_h105",
+      "sourceTopicId": "cnp_003",
+      "targetTopicId": "cnp_h105",
+      "relation": "recommended_before",
+      "reason": "「波的描述」会用到「运动的快慢」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_006__cnp_h105",
+      "sourceTopicId": "cnp_006",
+      "targetTopicId": "cnp_h105",
+      "relation": "recommended_before",
+      "reason": "「波的描述」会用到「声音的特性」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h105__cnp_h106",
+      "sourceTopicId": "cnp_h105",
+      "targetTopicId": "cnp_h106",
+      "relation": "prerequisite",
+      "reason": "学「波的图像与振动图像」要先会「波的描述」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h099__cnp_h106",
+      "sourceTopicId": "cnp_h099",
+      "targetTopicId": "cnp_h106",
+      "relation": "prerequisite",
+      "reason": "学「波的图像与振动图像」要先会「简谐运动的描述」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h098__cnp_h106",
+      "sourceTopicId": "cnp_h098",
+      "targetTopicId": "cnp_h106",
+      "relation": "recommended_before",
+      "reason": "「波的图像与振动图像」会用到「简谐运动」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h105__cnp_h107",
+      "sourceTopicId": "cnp_h105",
+      "targetTopicId": "cnp_h107",
+      "relation": "prerequisite",
+      "reason": "学「波的反射、折射和衍射」要先会「波的描述」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_016__cnp_h107",
+      "sourceTopicId": "cnp_016",
+      "targetTopicId": "cnp_h107",
+      "relation": "recommended_before",
+      "reason": "「波的反射、折射和衍射」会用到「光的反射」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_018__cnp_h107",
+      "sourceTopicId": "cnp_018",
+      "targetTopicId": "cnp_h107",
+      "relation": "recommended_before",
+      "reason": "「波的反射、折射和衍射」会用到「光的折射」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h105__cnp_h108",
+      "sourceTopicId": "cnp_h105",
+      "targetTopicId": "cnp_h108",
+      "relation": "prerequisite",
+      "reason": "学「波的干涉」要先会「波的描述」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h107__cnp_h108",
+      "sourceTopicId": "cnp_h107",
+      "targetTopicId": "cnp_h108",
+      "relation": "recommended_before",
+      "reason": "「波的干涉」会用到「波的反射、折射和衍射」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h106__cnp_h108",
+      "sourceTopicId": "cnp_h106",
+      "targetTopicId": "cnp_h108",
+      "relation": "recommended_before",
+      "reason": "「波的干涉」会用到「波的图像与振动图像」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h105__cnp_h109",
+      "sourceTopicId": "cnp_h105",
+      "targetTopicId": "cnp_h109",
+      "relation": "prerequisite",
+      "reason": "学「多普勒效应」要先会「波的描述」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_006__cnp_h109",
+      "sourceTopicId": "cnp_006",
+      "targetTopicId": "cnp_h109",
+      "relation": "recommended_before",
+      "reason": "「多普勒效应」会用到「声音的特性」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h003__cnp_h109",
+      "sourceTopicId": "cnp_h003",
+      "targetTopicId": "cnp_h109",
+      "relation": "recommended_before",
+      "reason": "「多普勒效应」会用到「平均速度和瞬时速度」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_018__cnp_h110",
+      "sourceTopicId": "cnp_018",
+      "targetTopicId": "cnp_h110",
+      "relation": "prerequisite",
+      "reason": "学「光的折射」要先会「光的折射」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_016__cnp_h110",
+      "sourceTopicId": "cnp_016",
+      "targetTopicId": "cnp_h110",
+      "relation": "recommended_before",
+      "reason": "「光的折射」会用到「光的反射」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h105__cnp_h110",
+      "sourceTopicId": "cnp_h105",
+      "targetTopicId": "cnp_h110",
+      "relation": "recommended_before",
+      "reason": "「光的折射」会用到「波的描述」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h110__cnp_h111",
+      "sourceTopicId": "cnp_h110",
+      "targetTopicId": "cnp_h111",
+      "relation": "prerequisite",
+      "reason": "学「实验：测量玻璃的折射率」要先会「光的折射」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_015__cnp_h111",
+      "sourceTopicId": "cnp_015",
+      "targetTopicId": "cnp_h111",
+      "relation": "recommended_before",
+      "reason": "「实验：测量玻璃的折射率」会用到「光的直线传播」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h110__cnp_h112",
+      "sourceTopicId": "cnp_h110",
+      "targetTopicId": "cnp_h112",
+      "relation": "prerequisite",
+      "reason": "学「全反射」要先会「光的折射」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h108__cnp_h113",
+      "sourceTopicId": "cnp_h108",
+      "targetTopicId": "cnp_h113",
+      "relation": "prerequisite",
+      "reason": "学「光的干涉」要先会「波的干涉」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h110__cnp_h113",
+      "sourceTopicId": "cnp_h110",
+      "targetTopicId": "cnp_h113",
+      "relation": "recommended_before",
+      "reason": "「光的干涉」会用到「光的折射」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_019__cnp_h113",
+      "sourceTopicId": "cnp_019",
+      "targetTopicId": "cnp_h113",
+      "relation": "recommended_before",
+      "reason": "「光的干涉」会用到「光的色散」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h113__cnp_h114",
+      "sourceTopicId": "cnp_h113",
+      "targetTopicId": "cnp_h114",
+      "relation": "prerequisite",
+      "reason": "学「实验：用双缝干涉测量光的波长」要先会「光的干涉」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h070__cnp_h114",
+      "sourceTopicId": "cnp_h070",
+      "targetTopicId": "cnp_h114",
+      "relation": "recommended_before",
+      "reason": "「实验：用双缝干涉测量光的波长」会用到「实验：长度的测量及其测量工具的选用」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_019__cnp_h114",
+      "sourceTopicId": "cnp_019",
+      "targetTopicId": "cnp_h114",
+      "relation": "recommended_before",
+      "reason": "「实验：用双缝干涉测量光的波长」会用到「光的色散」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h107__cnp_h115",
+      "sourceTopicId": "cnp_h107",
+      "targetTopicId": "cnp_h115",
+      "relation": "prerequisite",
+      "reason": "学「光的衍射」要先会「波的反射、折射和衍射」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h113__cnp_h115",
+      "sourceTopicId": "cnp_h113",
+      "targetTopicId": "cnp_h115",
+      "relation": "recommended_before",
+      "reason": "「光的衍射」会用到「光的干涉」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_015__cnp_h115",
+      "sourceTopicId": "cnp_015",
+      "targetTopicId": "cnp_h115",
+      "relation": "recommended_before",
+      "reason": "「光的衍射」会用到「光的直线传播」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h104__cnp_h116",
+      "sourceTopicId": "cnp_h104",
+      "targetTopicId": "cnp_h116",
+      "relation": "prerequisite",
+      "reason": "学「光的偏振」要先会「波的形成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h115__cnp_h116",
+      "sourceTopicId": "cnp_h115",
+      "targetTopicId": "cnp_h116",
+      "relation": "recommended_before",
+      "reason": "「光的偏振」会用到「光的衍射」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_016__cnp_h116",
+      "sourceTopicId": "cnp_016",
+      "targetTopicId": "cnp_h116",
+      "relation": "recommended_before",
+      "reason": "「光的偏振」会用到「光的反射」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h113__cnp_h117",
+      "sourceTopicId": "cnp_h113",
+      "targetTopicId": "cnp_h117",
+      "relation": "recommended_before",
+      "reason": "可先认识激光特性再用干涉解释相干性，不把特定干涉知识作为全部内容门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_015__cnp_h117",
+      "sourceTopicId": "cnp_015",
+      "targetTopicId": "cnp_h117",
+      "relation": "recommended_before",
+      "reason": "「激光」会用到「光的直线传播」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h088__cnp_h117",
+      "sourceTopicId": "cnp_h088",
+      "targetTopicId": "cnp_h117",
+      "relation": "recommended_before",
+      "reason": "「激光」会用到「电磁波的发现及应用」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h085__cnp_h118",
+      "sourceTopicId": "cnp_h085",
+      "targetTopicId": "cnp_h118",
+      "relation": "prerequisite",
+      "reason": "学「安培力」要先会「磁感应强度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h083__cnp_h118",
+      "sourceTopicId": "cnp_h083",
+      "targetTopicId": "cnp_h118",
+      "relation": "prerequisite",
+      "reason": "学「安培力」要先会「磁场与磁感线」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h084__cnp_h118",
+      "sourceTopicId": "cnp_h084",
+      "targetTopicId": "cnp_h118",
+      "relation": "recommended_before",
+      "reason": "「安培力」会用到「电流的磁场和安培定则」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_081__cnp_h118",
+      "sourceTopicId": "cnp_081",
+      "targetTopicId": "cnp_h118",
+      "relation": "recommended_before",
+      "reason": "「安培力」会用到「磁现象 磁场」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h118__cnp_h119",
+      "sourceTopicId": "cnp_h118",
+      "targetTopicId": "cnp_h119",
+      "relation": "prerequisite",
+      "reason": "学「磁电式电表与安培力的应用」要先会「安培力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_084__cnp_h119",
+      "sourceTopicId": "cnp_084",
+      "targetTopicId": "cnp_h119",
+      "relation": "recommended_before",
+      "reason": "「磁电式电表与安培力的应用」会用到「电动机」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h019__cnp_h119",
+      "sourceTopicId": "cnp_h019",
+      "targetTopicId": "cnp_h119",
+      "relation": "recommended_before",
+      "reason": "「磁电式电表与安培力的应用」会用到「共点力的平衡」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h118__cnp_h120",
+      "sourceTopicId": "cnp_h118",
+      "targetTopicId": "cnp_h120",
+      "relation": "recommended_before",
+      "reason": "磁力可由带电粒子受力独立定义，安培力可作为相关宏观表征。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h085__cnp_h120",
+      "sourceTopicId": "cnp_h085",
+      "targetTopicId": "cnp_h120",
+      "relation": "prerequisite",
+      "reason": "学「洛伦兹力」要先会「磁感应强度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h067__cnp_h120",
+      "sourceTopicId": "cnp_h067",
+      "targetTopicId": "cnp_h120",
+      "relation": "recommended_before",
+      "reason": "「洛伦兹力」会用到「电源和电流」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h120__cnp_h121",
+      "sourceTopicId": "cnp_h120",
+      "targetTopicId": "cnp_h121",
+      "relation": "prerequisite",
+      "reason": "学「带电粒子在匀强磁场中的运动」要先会「洛伦兹力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h034__cnp_h121",
+      "sourceTopicId": "cnp_h034",
+      "targetTopicId": "cnp_h121",
+      "relation": "prerequisite",
+      "reason": "学「带电粒子在匀强磁场中的运动」要先会「向心力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h023__cnp_h121",
+      "sourceTopicId": "cnp_h023",
+      "targetTopicId": "cnp_h121",
+      "relation": "recommended_before",
+      "reason": "「带电粒子在匀强磁场中的运动」会用到「牛顿第二定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h121__cnp_h122",
+      "sourceTopicId": "cnp_h121",
+      "targetTopicId": "cnp_h122",
+      "relation": "prerequisite",
+      "reason": "学「质谱仪」要先会「带电粒子在匀强磁场中的运动」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h065__cnp_h122",
+      "sourceTopicId": "cnp_h065",
+      "targetTopicId": "cnp_h122",
+      "relation": "prerequisite",
+      "reason": "学「质谱仪」要先会「带电粒子在电场中的加速」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h050__cnp_h122",
+      "sourceTopicId": "cnp_h050",
+      "targetTopicId": "cnp_h122",
+      "relation": "recommended_before",
+      "reason": "「质谱仪」会用到「动能定理」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h121__cnp_h123",
+      "sourceTopicId": "cnp_h121",
+      "targetTopicId": "cnp_h123",
+      "relation": "prerequisite",
+      "reason": "学「回旋加速器」要先会「带电粒子在匀强磁场中的运动」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h065__cnp_h123",
+      "sourceTopicId": "cnp_h065",
+      "targetTopicId": "cnp_h123",
+      "relation": "prerequisite",
+      "reason": "学「回旋加速器」要先会「带电粒子在电场中的加速」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h122__cnp_h123",
+      "sourceTopicId": "cnp_h122",
+      "targetTopicId": "cnp_h123",
+      "relation": "recommended_before",
+      "reason": "「回旋加速器」会用到「质谱仪」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h087__cnp_h124",
+      "sourceTopicId": "cnp_h087",
+      "targetTopicId": "cnp_h124",
+      "relation": "prerequisite",
+      "reason": "学「实验：探究影响感应电流方向的因素」要先会「电磁感应现象及应用」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h086__cnp_h124",
+      "sourceTopicId": "cnp_h086",
+      "targetTopicId": "cnp_h124",
+      "relation": "prerequisite",
+      "reason": "学「实验：探究影响感应电流方向的因素」要先会「磁通量」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h084__cnp_h124",
+      "sourceTopicId": "cnp_h084",
+      "targetTopicId": "cnp_h124",
+      "relation": "recommended_before",
+      "reason": "「实验：探究影响感应电流方向的因素」会用到「电流的磁场和安培定则」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_086__cnp_h124",
+      "sourceTopicId": "cnp_086",
+      "targetTopicId": "cnp_h124",
+      "relation": "recommended_before",
+      "reason": "「实验：探究影响感应电流方向的因素」会用到「磁生电」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h124__cnp_h125",
+      "sourceTopicId": "cnp_h124",
+      "targetTopicId": "cnp_h125",
+      "relation": "recommended_before",
+      "reason": "实验是建立定律的一种证据路径，未做该项实验不代表不能理解楞次定律。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h084__cnp_h125",
+      "sourceTopicId": "cnp_h084",
+      "targetTopicId": "cnp_h125",
+      "relation": "prerequisite",
+      "reason": "学「楞次定律」要先会「电流的磁场和安培定则」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h086__cnp_h125",
+      "sourceTopicId": "cnp_h086",
+      "targetTopicId": "cnp_h125",
+      "relation": "prerequisite",
+      "reason": "学「楞次定律」要先会「磁通量」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_086__cnp_h125",
+      "sourceTopicId": "cnp_086",
+      "targetTopicId": "cnp_h125",
+      "relation": "recommended_before",
+      "reason": "「楞次定律」会用到「磁生电」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h125__cnp_h126",
+      "sourceTopicId": "cnp_h125",
+      "targetTopicId": "cnp_h126",
+      "relation": "recommended_before",
+      "reason": "「法拉第电磁感应定律」会用到「楞次定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h086__cnp_h126",
+      "sourceTopicId": "cnp_h086",
+      "targetTopicId": "cnp_h126",
+      "relation": "prerequisite",
+      "reason": "学「法拉第电磁感应定律」要先会「磁通量」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h087__cnp_h126",
+      "sourceTopicId": "cnp_h087",
+      "targetTopicId": "cnp_h126",
+      "relation": "prerequisite",
+      "reason": "学「法拉第电磁感应定律」要先会「电磁感应现象及应用」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h079__cnp_h126",
+      "sourceTopicId": "cnp_h079",
+      "targetTopicId": "cnp_h126",
+      "relation": "recommended_before",
+      "reason": "「法拉第电磁感应定律」会用到「闭合电路的欧姆定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h126__cnp_h127",
+      "sourceTopicId": "cnp_h126",
+      "targetTopicId": "cnp_h127",
+      "relation": "prerequisite",
+      "reason": "学「导体切割磁感线时的感应电动势」要先会「法拉第电磁感应定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h120__cnp_h127",
+      "sourceTopicId": "cnp_h120",
+      "targetTopicId": "cnp_h127",
+      "relation": "recommended_before",
+      "reason": "「导体切割磁感线时的感应电动势」会用到「洛伦兹力」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h125__cnp_h127",
+      "sourceTopicId": "cnp_h125",
+      "targetTopicId": "cnp_h127",
+      "relation": "recommended_before",
+      "reason": "「导体切割磁感线时的感应电动势」会用到「楞次定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_086__cnp_h127",
+      "sourceTopicId": "cnp_086",
+      "targetTopicId": "cnp_h127",
+      "relation": "recommended_before",
+      "reason": "「导体切割磁感线时的感应电动势」会用到「磁生电」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h127__cnp_h128",
+      "sourceTopicId": "cnp_h127",
+      "targetTopicId": "cnp_h128",
+      "relation": "prerequisite",
+      "reason": "学「电磁感应中的电路、能量与动力学问题」要先会「导体切割磁感线时的感应电动势」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h118__cnp_h128",
+      "sourceTopicId": "cnp_h118",
+      "targetTopicId": "cnp_h128",
+      "relation": "prerequisite",
+      "reason": "学「电磁感应中的电路、能量与动力学问题」要先会「安培力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h079__cnp_h128",
+      "sourceTopicId": "cnp_h079",
+      "targetTopicId": "cnp_h128",
+      "relation": "prerequisite",
+      "reason": "学「电磁感应中的电路、能量与动力学问题」要先会「闭合电路的欧姆定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h125__cnp_h128",
+      "sourceTopicId": "cnp_h125",
+      "targetTopicId": "cnp_h128",
+      "relation": "recommended_before",
+      "reason": "「电磁感应中的电路、能量与动力学问题」会用到「楞次定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h125__cnp_h129",
+      "sourceTopicId": "cnp_h125",
+      "targetTopicId": "cnp_h129",
+      "relation": "prerequisite",
+      "reason": "学「涡流、电磁阻尼和电磁驱动」要先会「楞次定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h126__cnp_h129",
+      "sourceTopicId": "cnp_h126",
+      "targetTopicId": "cnp_h129",
+      "relation": "prerequisite",
+      "reason": "学「涡流、电磁阻尼和电磁驱动」要先会「法拉第电磁感应定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h051__cnp_h129",
+      "sourceTopicId": "cnp_h051",
+      "targetTopicId": "cnp_h129",
+      "relation": "recommended_before",
+      "reason": "「涡流、电磁阻尼和电磁驱动」会用到「机械能守恒定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h125__cnp_h130",
+      "sourceTopicId": "cnp_h125",
+      "targetTopicId": "cnp_h130",
+      "relation": "prerequisite",
+      "reason": "学「互感和自感」要先会「楞次定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h126__cnp_h130",
+      "sourceTopicId": "cnp_h126",
+      "targetTopicId": "cnp_h130",
+      "relation": "prerequisite",
+      "reason": "学「互感和自感」要先会「法拉第电磁感应定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h072__cnp_h130",
+      "sourceTopicId": "cnp_h072",
+      "targetTopicId": "cnp_h130",
+      "relation": "recommended_before",
+      "reason": "「互感和自感」会用到「串联电路和并联电路」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_083__cnp_h130",
+      "sourceTopicId": "cnp_083",
+      "targetTopicId": "cnp_h130",
+      "relation": "recommended_before",
+      "reason": "「互感和自感」会用到「电磁铁 电磁继电器」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h126__cnp_h131",
+      "sourceTopicId": "cnp_h126",
+      "targetTopicId": "cnp_h131",
+      "relation": "prerequisite",
+      "reason": "学「交变电流的产生」要先会「法拉第电磁感应定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h086__cnp_h131",
+      "sourceTopicId": "cnp_h086",
+      "targetTopicId": "cnp_h131",
+      "relation": "prerequisite",
+      "reason": "学「交变电流的产生」要先会「磁通量」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h127__cnp_h131",
+      "sourceTopicId": "cnp_h127",
+      "targetTopicId": "cnp_h131",
+      "relation": "recommended_before",
+      "reason": "「交变电流的产生」会用到「导体切割磁感线时的感应电动势」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_086__cnp_h131",
+      "sourceTopicId": "cnp_086",
+      "targetTopicId": "cnp_h131",
+      "relation": "recommended_before",
+      "reason": "「交变电流的产生」会用到「磁生电」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h131__cnp_h132",
+      "sourceTopicId": "cnp_h131",
+      "targetTopicId": "cnp_h132",
+      "relation": "prerequisite",
+      "reason": "学「交变电流的描述」要先会「交变电流的产生」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h076__cnp_h132",
+      "sourceTopicId": "cnp_h076",
+      "targetTopicId": "cnp_h132",
+      "relation": "prerequisite",
+      "reason": "学「交变电流的描述」要先会「焦耳定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h075__cnp_h132",
+      "sourceTopicId": "cnp_h075",
+      "targetTopicId": "cnp_h132",
+      "relation": "recommended_before",
+      "reason": "「交变电流的描述」会用到「电功和电功率」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h132__cnp_h133",
+      "sourceTopicId": "cnp_h132",
+      "targetTopicId": "cnp_h133",
+      "relation": "prerequisite",
+      "reason": "学「变压器」要先会「交变电流的描述」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h126__cnp_h133",
+      "sourceTopicId": "cnp_h126",
+      "targetTopicId": "cnp_h133",
+      "relation": "prerequisite",
+      "reason": "学「变压器」要先会「法拉第电磁感应定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h130__cnp_h133",
+      "sourceTopicId": "cnp_h130",
+      "targetTopicId": "cnp_h133",
+      "relation": "recommended_before",
+      "reason": "「变压器」会用到「互感和自感」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h133__cnp_h134",
+      "sourceTopicId": "cnp_h133",
+      "targetTopicId": "cnp_h134",
+      "relation": "prerequisite",
+      "reason": "学「实验：探究变压器原、副线圈电压与匝数的关系」要先会「变压器」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h074__cnp_h134",
+      "sourceTopicId": "cnp_h074",
+      "targetTopicId": "cnp_h134",
+      "relation": "recommended_before",
+      "reason": "「实验：探究变压器原、副线圈电压与匝数的关系」会用到「实验：练习使用多用电表」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h132__cnp_h134",
+      "sourceTopicId": "cnp_h132",
+      "targetTopicId": "cnp_h134",
+      "relation": "recommended_before",
+      "reason": "「实验：探究变压器原、副线圈电压与匝数的关系」会用到「交变电流的描述」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h133__cnp_h135",
+      "sourceTopicId": "cnp_h133",
+      "targetTopicId": "cnp_h135",
+      "relation": "prerequisite",
+      "reason": "学「电能的输送」要先会「变压器」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h076__cnp_h135",
+      "sourceTopicId": "cnp_h076",
+      "targetTopicId": "cnp_h135",
+      "relation": "prerequisite",
+      "reason": "学「电能的输送」要先会「焦耳定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h075__cnp_h135",
+      "sourceTopicId": "cnp_h075",
+      "targetTopicId": "cnp_h135",
+      "relation": "recommended_before",
+      "reason": "「电能的输送」会用到「电功和电功率」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h131__cnp_h136",
+      "sourceTopicId": "cnp_h131",
+      "targetTopicId": "cnp_h136",
+      "relation": "prerequisite",
+      "reason": "学「发电机与电动机的能量转化」要先会「交变电流的产生」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h118__cnp_h136",
+      "sourceTopicId": "cnp_h118",
+      "targetTopicId": "cnp_h136",
+      "relation": "prerequisite",
+      "reason": "学「发电机与电动机的能量转化」要先会「安培力」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h125__cnp_h136",
+      "sourceTopicId": "cnp_h125",
+      "targetTopicId": "cnp_h136",
+      "relation": "recommended_before",
+      "reason": "「发电机与电动机的能量转化」会用到「楞次定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h075__cnp_h136",
+      "sourceTopicId": "cnp_h075",
+      "targetTopicId": "cnp_h136",
+      "relation": "recommended_before",
+      "reason": "「发电机与电动机的能量转化」会用到「电功和电功率」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_084__cnp_h136",
+      "sourceTopicId": "cnp_084",
+      "targetTopicId": "cnp_h136",
+      "relation": "recommended_before",
+      "reason": "「发电机与电动机的能量转化」会用到「电动机」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h063__cnp_h137",
+      "sourceTopicId": "cnp_h063",
+      "targetTopicId": "cnp_h137",
+      "relation": "prerequisite",
+      "reason": "学「电磁振荡」要先会「电容器的电容」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h130__cnp_h137",
+      "sourceTopicId": "cnp_h130",
+      "targetTopicId": "cnp_h137",
+      "relation": "prerequisite",
+      "reason": "学「电磁振荡」要先会「互感和自感」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h064__cnp_h137",
+      "sourceTopicId": "cnp_h064",
+      "targetTopicId": "cnp_h137",
+      "relation": "recommended_before",
+      "reason": "「电磁振荡」会用到「实验：观察电容器的充、放电现象」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h126__cnp_h138",
+      "sourceTopicId": "cnp_h126",
+      "targetTopicId": "cnp_h138",
+      "relation": "prerequisite",
+      "reason": "学「电磁场与电磁波」要先会「法拉第电磁感应定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h088__cnp_h138",
+      "sourceTopicId": "cnp_h088",
+      "targetTopicId": "cnp_h138",
+      "relation": "prerequisite",
+      "reason": "学「电磁场与电磁波」要先会「电磁波的发现及应用」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h137__cnp_h138",
+      "sourceTopicId": "cnp_h137",
+      "targetTopicId": "cnp_h138",
+      "relation": "recommended_before",
+      "reason": "「电磁场与电磁波」会用到「电磁振荡」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h084__cnp_h138",
+      "sourceTopicId": "cnp_h084",
+      "targetTopicId": "cnp_h138",
+      "relation": "recommended_before",
+      "reason": "「电磁场与电磁波」会用到「电流的磁场和安培定则」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h105__cnp_h138",
+      "sourceTopicId": "cnp_h105",
+      "targetTopicId": "cnp_h138",
+      "relation": "recommended_before",
+      "reason": "「电磁场与电磁波」会用到「波的描述」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_087__cnp_h138",
+      "sourceTopicId": "cnp_087",
+      "targetTopicId": "cnp_h138",
+      "relation": "recommended_before",
+      "reason": "「电磁场与电磁波」会用到「电磁波的海洋」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h137__cnp_h139",
+      "sourceTopicId": "cnp_h137",
+      "targetTopicId": "cnp_h139",
+      "relation": "prerequisite",
+      "reason": "学「无线电波的发射和接收」要先会「电磁振荡」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h138__cnp_h139",
+      "sourceTopicId": "cnp_h138",
+      "targetTopicId": "cnp_h139",
+      "relation": "prerequisite",
+      "reason": "学「无线电波的发射和接收」要先会「电磁场与电磁波」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_088__cnp_h139",
+      "sourceTopicId": "cnp_088",
+      "targetTopicId": "cnp_h139",
+      "relation": "recommended_before",
+      "reason": "「无线电波的发射和接收」会用到「广播、电视和移动通信」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h138__cnp_h140",
+      "sourceTopicId": "cnp_h138",
+      "targetTopicId": "cnp_h140",
+      "relation": "prerequisite",
+      "reason": "学「电磁波谱」要先会「电磁场与电磁波」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h088__cnp_h140",
+      "sourceTopicId": "cnp_h088",
+      "targetTopicId": "cnp_h140",
+      "relation": "recommended_before",
+      "reason": "「电磁波谱」会用到「电磁波的发现及应用」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_019__cnp_h140",
+      "sourceTopicId": "cnp_019",
+      "targetTopicId": "cnp_h140",
+      "relation": "recommended_before",
+      "reason": "「电磁波谱」会用到「光的色散」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h069__cnp_h141",
+      "sourceTopicId": "cnp_h069",
+      "targetTopicId": "cnp_h141",
+      "relation": "recommended_before",
+      "reason": "传感器种类很多，不全部依赖导体电阻率规律。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h068__cnp_h141",
+      "sourceTopicId": "cnp_h068",
+      "targetTopicId": "cnp_h141",
+      "relation": "prerequisite",
+      "reason": "学「认识传感器」要先会「欧姆定律与伏安特性曲线」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h072__cnp_h141",
+      "sourceTopicId": "cnp_h072",
+      "targetTopicId": "cnp_h141",
+      "relation": "recommended_before",
+      "reason": "「认识传感器」会用到「串联电路和并联电路」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h079__cnp_h141",
+      "sourceTopicId": "cnp_h079",
+      "targetTopicId": "cnp_h141",
+      "relation": "recommended_before",
+      "reason": "「认识传感器」会用到「闭合电路的欧姆定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h141__cnp_h142",
+      "sourceTopicId": "cnp_h141",
+      "targetTopicId": "cnp_h142",
+      "relation": "prerequisite",
+      "reason": "学「常见传感器的工作原理及应用」要先会「认识传感器」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h120__cnp_h142",
+      "sourceTopicId": "cnp_h120",
+      "targetTopicId": "cnp_h142",
+      "relation": "recommended_before",
+      "reason": "洛伦兹力仅支撑霍尔类传感器，不是温敏和光敏传感器的共同前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h069__cnp_h142",
+      "sourceTopicId": "cnp_h069",
+      "targetTopicId": "cnp_h142",
+      "relation": "recommended_before",
+      "reason": "「常见传感器的工作原理及应用」会用到「电阻定律与电阻率」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h142__cnp_h143",
+      "sourceTopicId": "cnp_h142",
+      "targetTopicId": "cnp_h143",
+      "relation": "prerequisite",
+      "reason": "学「实验：利用传感器制作简单的自动控制装置」要先会「常见传感器的工作原理及应用」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h079__cnp_h143",
+      "sourceTopicId": "cnp_h079",
+      "targetTopicId": "cnp_h143",
+      "relation": "recommended_before",
+      "reason": "可用稳定低压电源完成控制方案，不要求先完整掌握电源内阻模型。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_083__cnp_h143",
+      "sourceTopicId": "cnp_083",
+      "targetTopicId": "cnp_h143",
+      "relation": "recommended_before",
+      "reason": "「实验：利用传感器制作简单的自动控制装置」会用到「电磁铁 电磁继电器」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_054__cnp_h144",
+      "sourceTopicId": "cnp_054",
+      "targetTopicId": "cnp_h144",
+      "relation": "prerequisite",
+      "reason": "学「分子动理论的基本内容」要先会「分子动理论的初步知识」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_055__cnp_h144",
+      "sourceTopicId": "cnp_055",
+      "targetTopicId": "cnp_h144",
+      "relation": "recommended_before",
+      "reason": "「分子动理论的基本内容」会用到「内能」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h144__cnp_h145",
+      "sourceTopicId": "cnp_h144",
+      "targetTopicId": "cnp_h145",
+      "relation": "prerequisite",
+      "reason": "学「布朗运动与扩散」要先会「分子动理论的基本内容」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_054__cnp_h145",
+      "sourceTopicId": "cnp_054",
+      "targetTopicId": "cnp_h145",
+      "relation": "recommended_before",
+      "reason": "「布朗运动与扩散」会用到「分子动理论的初步知识」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h144__cnp_h146",
+      "sourceTopicId": "cnp_h144",
+      "targetTopicId": "cnp_h146",
+      "relation": "prerequisite",
+      "reason": "学「实验：用油膜法估测油酸分子的大小」要先会「分子动理论的基本内容」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h070__cnp_h146",
+      "sourceTopicId": "cnp_h070",
+      "targetTopicId": "cnp_h146",
+      "relation": "recommended_before",
+      "reason": "「实验：用油膜法估测油酸分子的大小」会用到「实验：长度的测量及其测量工具的选用」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h144__cnp_h147",
+      "sourceTopicId": "cnp_h144",
+      "targetTopicId": "cnp_h147",
+      "relation": "prerequisite",
+      "reason": "学「分子运动速率分布规律」要先会「分子动理论的基本内容」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h145__cnp_h147",
+      "sourceTopicId": "cnp_h145",
+      "targetTopicId": "cnp_h147",
+      "relation": "recommended_before",
+      "reason": "「分子运动速率分布规律」会用到「布朗运动与扩散」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_010__cnp_h147",
+      "sourceTopicId": "cnp_010",
+      "targetTopicId": "cnp_h147",
+      "relation": "recommended_before",
+      "reason": "「分子运动速率分布规律」会用到「温度」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h147__cnp_h148",
+      "sourceTopicId": "cnp_h147",
+      "targetTopicId": "cnp_h148",
+      "relation": "recommended_before",
+      "reason": "温度与平均动能的定性联系可先学，不要求先会完整速率分布规律。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h049__cnp_h148",
+      "sourceTopicId": "cnp_h049",
+      "targetTopicId": "cnp_h148",
+      "relation": "prerequisite",
+      "reason": "学「分子动能与温度」要先会「动能」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_010__cnp_h148",
+      "sourceTopicId": "cnp_010",
+      "targetTopicId": "cnp_h148",
+      "relation": "recommended_before",
+      "reason": "「分子动能与温度」会用到「温度」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h144__cnp_h149",
+      "sourceTopicId": "cnp_h144",
+      "targetTopicId": "cnp_h149",
+      "relation": "prerequisite",
+      "reason": "学「分子势能与内能」要先会「分子动理论的基本内容」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h148__cnp_h149",
+      "sourceTopicId": "cnp_h148",
+      "targetTopicId": "cnp_h149",
+      "relation": "prerequisite",
+      "reason": "学「分子势能与内能」要先会「分子动能与温度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h045__cnp_h149",
+      "sourceTopicId": "cnp_h045",
+      "targetTopicId": "cnp_h149",
+      "relation": "recommended_before",
+      "reason": "「分子势能与内能」会用到「功」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h048__cnp_h149",
+      "sourceTopicId": "cnp_h048",
+      "targetTopicId": "cnp_h149",
+      "relation": "recommended_before",
+      "reason": "「分子势能与内能」会用到「弹性势能」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_055__cnp_h149",
+      "sourceTopicId": "cnp_055",
+      "targetTopicId": "cnp_h149",
+      "relation": "recommended_before",
+      "reason": "「分子势能与内能」会用到「内能」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_010__cnp_h150",
+      "sourceTopicId": "cnp_010",
+      "targetTopicId": "cnp_h150",
+      "relation": "prerequisite",
+      "reason": "学「温度和温标」要先会「温度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h148__cnp_h150",
+      "sourceTopicId": "cnp_h148",
+      "targetTopicId": "cnp_h150",
+      "relation": "recommended_before",
+      "reason": "「温度和温标」会用到「分子动能与温度」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_036__cnp_h151",
+      "sourceTopicId": "cnp_036",
+      "targetTopicId": "cnp_h151",
+      "relation": "prerequisite",
+      "reason": "学「实验：探究等温情况下一定质量气体压强与体积的关系」要先会「压强」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h150__cnp_h151",
+      "sourceTopicId": "cnp_h150",
+      "targetTopicId": "cnp_h151",
+      "relation": "recommended_before",
+      "reason": "「实验：探究等温情况下一定质量气体压强与体积的关系」会用到「温度和温标」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_038__cnp_h151",
+      "sourceTopicId": "cnp_038",
+      "targetTopicId": "cnp_h151",
+      "relation": "recommended_before",
+      "reason": "「实验：探究等温情况下一定质量气体压强与体积的关系」会用到「大气压强」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h151__cnp_h152",
+      "sourceTopicId": "cnp_h151",
+      "targetTopicId": "cnp_h152",
+      "relation": "recommended_before",
+      "reason": "探究实验可帮助建立等温规律，但特定实验操作不应成为使用规律的硬门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_036__cnp_h152",
+      "sourceTopicId": "cnp_036",
+      "targetTopicId": "cnp_h152",
+      "relation": "prerequisite",
+      "reason": "等温关系需要压强含义。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h152__cnp_h153",
+      "sourceTopicId": "cnp_h152",
+      "targetTopicId": "cnp_h153",
+      "relation": "recommended_before",
+      "reason": "「气体的等压变化和等容变化」会用到「气体的等温变化」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h150__cnp_h153",
+      "sourceTopicId": "cnp_h150",
+      "targetTopicId": "cnp_h153",
+      "relation": "prerequisite",
+      "reason": "学「气体的等压变化和等容变化」要先会「温度和温标」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h152__cnp_h154",
+      "sourceTopicId": "cnp_h152",
+      "targetTopicId": "cnp_h154",
+      "relation": "prerequisite",
+      "reason": "学「理想气体状态方程」要先会「气体的等温变化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h153__cnp_h154",
+      "sourceTopicId": "cnp_h153",
+      "targetTopicId": "cnp_h154",
+      "relation": "prerequisite",
+      "reason": "学「理想气体状态方程」要先会「气体的等压变化和等容变化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h148__cnp_h155",
+      "sourceTopicId": "cnp_h148",
+      "targetTopicId": "cnp_h155",
+      "relation": "prerequisite",
+      "reason": "学「气体压强的微观解释」要先会「分子动能与温度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h154__cnp_h155",
+      "sourceTopicId": "cnp_h154",
+      "targetTopicId": "cnp_h155",
+      "relation": "recommended_before",
+      "reason": "「气体压强的微观解释」会用到「理想气体状态方程」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_036__cnp_h155",
+      "sourceTopicId": "cnp_036",
+      "targetTopicId": "cnp_h155",
+      "relation": "recommended_before",
+      "reason": "「气体压强的微观解释」会用到「压强」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h144__cnp_h156",
+      "sourceTopicId": "cnp_h144",
+      "targetTopicId": "cnp_h156",
+      "relation": "prerequisite",
+      "reason": "学「固体」要先会「分子动理论的基本内容」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_011__cnp_h156",
+      "sourceTopicId": "cnp_011",
+      "targetTopicId": "cnp_h156",
+      "relation": "prerequisite",
+      "reason": "学「固体」要先会「熔化和凝固」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h149__cnp_h156",
+      "sourceTopicId": "cnp_h149",
+      "targetTopicId": "cnp_h156",
+      "relation": "recommended_before",
+      "reason": "「固体」会用到「分子势能与内能」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h144__cnp_h157",
+      "sourceTopicId": "cnp_h144",
+      "targetTopicId": "cnp_h157",
+      "relation": "prerequisite",
+      "reason": "学「液体」要先会「分子动理论的基本内容」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_012__cnp_h157",
+      "sourceTopicId": "cnp_012",
+      "targetTopicId": "cnp_h157",
+      "relation": "recommended_before",
+      "reason": "「液体」会用到「汽化和液化」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h156__cnp_h157",
+      "sourceTopicId": "cnp_h156",
+      "targetTopicId": "cnp_h157",
+      "relation": "recommended_before",
+      "reason": "「液体」会用到「固体」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h149__cnp_h158",
+      "sourceTopicId": "cnp_h149",
+      "targetTopicId": "cnp_h158",
+      "relation": "prerequisite",
+      "reason": "学「功、热和内能的改变」要先会「分子势能与内能」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_055__cnp_h158",
+      "sourceTopicId": "cnp_055",
+      "targetTopicId": "cnp_h158",
+      "relation": "prerequisite",
+      "reason": "学「功、热和内能的改变」要先会「内能」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h045__cnp_h158",
+      "sourceTopicId": "cnp_h045",
+      "targetTopicId": "cnp_h158",
+      "relation": "recommended_before",
+      "reason": "「功、热和内能的改变」会用到「功」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_053__cnp_h158",
+      "sourceTopicId": "cnp_053",
+      "targetTopicId": "cnp_h158",
+      "relation": "recommended_before",
+      "reason": "「功、热和内能的改变」会用到「热量 比热容」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h158__cnp_h159",
+      "sourceTopicId": "cnp_h158",
+      "targetTopicId": "cnp_h159",
+      "relation": "prerequisite",
+      "reason": "学「热力学第一定律」要先会「功、热和内能的改变」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h045__cnp_h159",
+      "sourceTopicId": "cnp_h045",
+      "targetTopicId": "cnp_h159",
+      "relation": "recommended_before",
+      "reason": "「热力学第一定律」会用到「功」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h051__cnp_h159",
+      "sourceTopicId": "cnp_h051",
+      "targetTopicId": "cnp_h159",
+      "relation": "recommended_before",
+      "reason": "「热力学第一定律」会用到「机械能守恒定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h159__cnp_h160",
+      "sourceTopicId": "cnp_h159",
+      "targetTopicId": "cnp_h160",
+      "relation": "prerequisite",
+      "reason": "学「热力学第一定律与气体状态变化的综合」要先会「热力学第一定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h154__cnp_h160",
+      "sourceTopicId": "cnp_h154",
+      "targetTopicId": "cnp_h160",
+      "relation": "prerequisite",
+      "reason": "学「热力学第一定律与气体状态变化的综合」要先会「理想气体状态方程」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h149__cnp_h160",
+      "sourceTopicId": "cnp_h149",
+      "targetTopicId": "cnp_h160",
+      "relation": "recommended_before",
+      "reason": "「热力学第一定律与气体状态变化的综合」会用到「分子势能与内能」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h159__cnp_h161",
+      "sourceTopicId": "cnp_h159",
+      "targetTopicId": "cnp_h161",
+      "relation": "prerequisite",
+      "reason": "学「能量守恒定律」要先会「热力学第一定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h051__cnp_h161",
+      "sourceTopicId": "cnp_h051",
+      "targetTopicId": "cnp_h161",
+      "relation": "prerequisite",
+      "reason": "学「能量守恒定律」要先会「机械能守恒定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_056__cnp_h161",
+      "sourceTopicId": "cnp_056",
+      "targetTopicId": "cnp_h161",
+      "relation": "recommended_before",
+      "reason": "「能量守恒定律」会用到「能量的转化与守恒」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h161__cnp_h162",
+      "sourceTopicId": "cnp_h161",
+      "targetTopicId": "cnp_h162",
+      "relation": "prerequisite",
+      "reason": "学「热力学第二定律」要先会「能量守恒定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h159__cnp_h162",
+      "sourceTopicId": "cnp_h159",
+      "targetTopicId": "cnp_h162",
+      "relation": "recommended_before",
+      "reason": "「热力学第二定律」会用到「热力学第一定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h089__cnp_h163",
+      "sourceTopicId": "cnp_h089",
+      "targetTopicId": "cnp_h163",
+      "relation": "prerequisite",
+      "reason": "学「黑体辐射与能量子」要先会「能量量子化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h140__cnp_h163",
+      "sourceTopicId": "cnp_h140",
+      "targetTopicId": "cnp_h163",
+      "relation": "recommended_before",
+      "reason": "「黑体辐射与能量子」会用到「电磁波谱」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h150__cnp_h163",
+      "sourceTopicId": "cnp_h150",
+      "targetTopicId": "cnp_h163",
+      "relation": "recommended_before",
+      "reason": "「黑体辐射与能量子」会用到「温度和温标」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h163__cnp_h164",
+      "sourceTopicId": "cnp_h163",
+      "targetTopicId": "cnp_h164",
+      "relation": "recommended_before",
+      "reason": "光电效应可独立从实验现象引入，黑体辐射为量子背景。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h060__cnp_h164",
+      "sourceTopicId": "cnp_h060",
+      "targetTopicId": "cnp_h164",
+      "relation": "recommended_before",
+      "reason": "「光电效应现象」会用到「电势差」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h088__cnp_h164",
+      "sourceTopicId": "cnp_h088",
+      "targetTopicId": "cnp_h164",
+      "relation": "recommended_before",
+      "reason": "「光电效应现象」会用到「电磁波的发现及应用」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h164__cnp_h165",
+      "sourceTopicId": "cnp_h164",
+      "targetTopicId": "cnp_h165",
+      "relation": "prerequisite",
+      "reason": "学「爱因斯坦光电效应方程」要先会「光电效应现象」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h050__cnp_h165",
+      "sourceTopicId": "cnp_h050",
+      "targetTopicId": "cnp_h165",
+      "relation": "recommended_before",
+      "reason": "光电方程需要动能和能量守恒，不要求把动能定理作为唯一推导工具。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h163__cnp_h165",
+      "sourceTopicId": "cnp_h163",
+      "targetTopicId": "cnp_h165",
+      "relation": "recommended_before",
+      "reason": "「爱因斯坦光电效应方程」会用到「黑体辐射与能量子」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h054__cnp_h166",
+      "sourceTopicId": "cnp_h054",
+      "targetTopicId": "cnp_h166",
+      "relation": "prerequisite",
+      "reason": "学「原子的核式结构模型」要先会「库仑定律」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_060__cnp_h166",
+      "sourceTopicId": "cnp_060",
+      "targetTopicId": "cnp_h166",
+      "relation": "recommended_before",
+      "reason": "「原子的核式结构模型」会用到「两种电荷」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h053__cnp_h166",
+      "sourceTopicId": "cnp_h053",
+      "targetTopicId": "cnp_h166",
+      "relation": "recommended_before",
+      "reason": "「原子的核式结构模型」会用到「电荷」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h166__cnp_h167",
+      "sourceTopicId": "cnp_h166",
+      "targetTopicId": "cnp_h167",
+      "relation": "prerequisite",
+      "reason": "学「氢原子光谱」要先会「原子的核式结构模型」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h140__cnp_h167",
+      "sourceTopicId": "cnp_h140",
+      "targetTopicId": "cnp_h167",
+      "relation": "recommended_before",
+      "reason": "「氢原子光谱」会用到「电磁波谱」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_019__cnp_h167",
+      "sourceTopicId": "cnp_019",
+      "targetTopicId": "cnp_h167",
+      "relation": "recommended_before",
+      "reason": "「氢原子光谱」会用到「光的色散」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h167__cnp_h168",
+      "sourceTopicId": "cnp_h167",
+      "targetTopicId": "cnp_h168",
+      "relation": "prerequisite",
+      "reason": "学「玻尔的原子模型与能级」要先会「氢原子光谱」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h165__cnp_h168",
+      "sourceTopicId": "cnp_h165",
+      "targetTopicId": "cnp_h168",
+      "relation": "recommended_before",
+      "reason": "「玻尔的原子模型与能级」会用到「爱因斯坦光电效应方程」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h059__cnp_h168",
+      "sourceTopicId": "cnp_h059",
+      "targetTopicId": "cnp_h168",
+      "relation": "recommended_before",
+      "reason": "「玻尔的原子模型与能级」会用到「电势」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h054__cnp_h168",
+      "sourceTopicId": "cnp_h054",
+      "targetTopicId": "cnp_h168",
+      "relation": "recommended_before",
+      "reason": "「玻尔的原子模型与能级」会用到「库仑定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h165__cnp_h169",
+      "sourceTopicId": "cnp_h165",
+      "targetTopicId": "cnp_h169",
+      "relation": "recommended_before",
+      "reason": "德布罗意关系可由动量和量子概念引入，光电方程是相关证据而非必要定义。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_h090__cnp_h169",
+      "sourceTopicId": "cnp_h090",
+      "targetTopicId": "cnp_h169",
+      "relation": "prerequisite",
+      "reason": "学「粒子的波动性和波粒二象性」要先会「动量」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h115__cnp_h169",
+      "sourceTopicId": "cnp_h115",
+      "targetTopicId": "cnp_h169",
+      "relation": "recommended_before",
+      "reason": "「粒子的波动性和波粒二象性」会用到「光的衍射」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h060__cnp_h169",
+      "sourceTopicId": "cnp_h060",
+      "targetTopicId": "cnp_h169",
+      "relation": "recommended_before",
+      "reason": "「粒子的波动性和波粒二象性」会用到「电势差」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h166__cnp_h170",
+      "sourceTopicId": "cnp_h166",
+      "targetTopicId": "cnp_h170",
+      "relation": "prerequisite",
+      "reason": "学「天然放射现象与射线」要先会「原子的核式结构模型」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h120__cnp_h170",
+      "sourceTopicId": "cnp_h120",
+      "targetTopicId": "cnp_h170",
+      "relation": "recommended_before",
+      "reason": "「天然放射现象与射线」会用到「洛伦兹力」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_060__cnp_h170",
+      "sourceTopicId": "cnp_060",
+      "targetTopicId": "cnp_h170",
+      "relation": "recommended_before",
+      "reason": "「天然放射现象与射线」会用到「两种电荷」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h166__cnp_h171",
+      "sourceTopicId": "cnp_h166",
+      "targetTopicId": "cnp_h171",
+      "relation": "prerequisite",
+      "reason": "学「原子核的组成」要先会「原子的核式结构模型」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h170__cnp_h171",
+      "sourceTopicId": "cnp_h170",
+      "targetTopicId": "cnp_h171",
+      "relation": "recommended_before",
+      "reason": "「原子核的组成」会用到「天然放射现象与射线」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_054__cnp_h171",
+      "sourceTopicId": "cnp_054",
+      "targetTopicId": "cnp_h171",
+      "relation": "recommended_before",
+      "reason": "「原子核的组成」会用到「分子动理论的初步知识」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h171__cnp_h172",
+      "sourceTopicId": "cnp_h171",
+      "targetTopicId": "cnp_h172",
+      "relation": "prerequisite",
+      "reason": "学「原子核的衰变」要先会「原子核的组成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h170__cnp_h172",
+      "sourceTopicId": "cnp_h170",
+      "targetTopicId": "cnp_h172",
+      "relation": "prerequisite",
+      "reason": "学「原子核的衰变」要先会「天然放射现象与射线」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h093__cnp_h172",
+      "sourceTopicId": "cnp_h093",
+      "targetTopicId": "cnp_h172",
+      "relation": "recommended_before",
+      "reason": "「原子核的衰变」会用到「动量守恒定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h172__cnp_h173",
+      "sourceTopicId": "cnp_h172",
+      "targetTopicId": "cnp_h173",
+      "relation": "prerequisite",
+      "reason": "学「半衰期」要先会「原子核的衰变」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h147__cnp_h173",
+      "sourceTopicId": "cnp_h147",
+      "targetTopicId": "cnp_h173",
+      "relation": "recommended_before",
+      "reason": "「半衰期」会用到「分子运动速率分布规律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h173__cnp_h174",
+      "sourceTopicId": "cnp_h173",
+      "targetTopicId": "cnp_h174",
+      "relation": "prerequisite",
+      "reason": "学「放射性同位素及其应用与防护」要先会「半衰期」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h170__cnp_h174",
+      "sourceTopicId": "cnp_h170",
+      "targetTopicId": "cnp_h174",
+      "relation": "prerequisite",
+      "reason": "学「放射性同位素及其应用与防护」要先会「天然放射现象与射线」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h171__cnp_h175",
+      "sourceTopicId": "cnp_h171",
+      "targetTopicId": "cnp_h175",
+      "relation": "prerequisite",
+      "reason": "学「核力与结合能」要先会「原子核的组成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h044__cnp_h175",
+      "sourceTopicId": "cnp_h044",
+      "targetTopicId": "cnp_h175",
+      "relation": "recommended_before",
+      "reason": "「核力与结合能」会用到「相对论时空观与牛顿力学的局限性」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h161__cnp_h175",
+      "sourceTopicId": "cnp_h161",
+      "targetTopicId": "cnp_h175",
+      "relation": "recommended_before",
+      "reason": "「核力与结合能」会用到「能量守恒定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h175__cnp_h176",
+      "sourceTopicId": "cnp_h175",
+      "targetTopicId": "cnp_h176",
+      "relation": "prerequisite",
+      "reason": "学「核裂变与核聚变」要先会「核力与结合能」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h172__cnp_h176",
+      "sourceTopicId": "cnp_h172",
+      "targetTopicId": "cnp_h176",
+      "relation": "recommended_before",
+      "reason": "裂变聚变涉及核组成与结合能，不必先掌握全部放射性衰变规律。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnp_091__cnp_h176",
+      "sourceTopicId": "cnp_091",
+      "targetTopicId": "cnp_h176",
+      "relation": "recommended_before",
+      "reason": "「核裂变与核聚变」会用到「新能源的发展」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h171__cnp_h177",
+      "sourceTopicId": "cnp_h171",
+      "targetTopicId": "cnp_h177",
+      "relation": "prerequisite",
+      "reason": "学「基本粒子与四种基本相互作用」要先会「原子核的组成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h040__cnp_h177",
+      "sourceTopicId": "cnp_h040",
+      "targetTopicId": "cnp_h177",
+      "relation": "recommended_before",
+      "reason": "「基本粒子与四种基本相互作用」会用到「万有引力定律」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_h175__cnp_h177",
+      "sourceTopicId": "cnp_h175",
+      "targetTopicId": "cnp_h177",
+      "relation": "recommended_before",
+      "reason": "「基本粒子与四种基本相互作用」会用到「核力与结合能」里的知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnp_020__cnp_022",
+      "sourceTopicId": "cnp_020",
+      "targetTopicId": "cnp_022",
+      "relation": "prerequisite",
+      "reason": "观察成像前需识别凸透镜及其会聚作用和焦点。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_026__cnp_028",
+      "sourceTopicId": "cnp_026",
+      "targetTopicId": "cnp_028",
+      "relation": "prerequisite",
+      "reason": "密度应用直接依赖密度定义及质量体积关系。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_029__cnp_033",
+      "sourceTopicId": "cnp_029",
+      "targetTopicId": "cnp_033",
+      "relation": "prerequisite",
+      "reason": "平衡条件涉及两个力的大小、方向和作用对象。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_029__cnp_034",
+      "sourceTopicId": "cnp_029",
+      "targetTopicId": "cnp_034",
+      "relation": "prerequisite",
+      "reason": "需认识接触力、作用方向与作用对象。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_029__cnp_035",
+      "sourceTopicId": "cnp_029",
+      "targetTopicId": "cnp_035",
+      "relation": "prerequisite",
+      "reason": "合力需基于力的方向、大小和作用效果。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_029__cnp_036",
+      "sourceTopicId": "cnp_029",
+      "targetTopicId": "cnp_036",
+      "relation": "prerequisite",
+      "reason": "压强定义需要压力这个垂直接触面的力。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_036__cnp_038",
+      "sourceTopicId": "cnp_036",
+      "targetTopicId": "cnp_038",
+      "relation": "prerequisite",
+      "reason": "需要理解单位面积压力及压强作用。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_036__cnp_040",
+      "sourceTopicId": "cnp_036",
+      "targetTopicId": "cnp_040",
+      "relation": "prerequisite",
+      "reason": "需理解流体中压强的意义；简化流速关系须限于适用情境。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_029__cnp_041",
+      "sourceTopicId": "cnp_029",
+      "targetTopicId": "cnp_041",
+      "relation": "prerequisite",
+      "reason": "先认识力的方向和作用对象，才能描述浮力。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_029__cnp_049",
+      "sourceTopicId": "cnp_029",
+      "targetTopicId": "cnp_049",
+      "relation": "prerequisite",
+      "reason": "杠杆问题需辨认动力、阻力及力的作用线。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_033__cnp_051",
+      "sourceTopicId": "cnp_033",
+      "targetTopicId": "cnp_051",
+      "relation": "prerequisite",
+      "reason": "理想滑轮静止或匀速提升时需要受力平衡。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_045__cnp_058",
+      "sourceTopicId": "cnp_045",
+      "targetTopicId": "cnp_058",
+      "relation": "prerequisite",
+      "reason": "需区分有用功与输入能量。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_057__cnp_059",
+      "sourceTopicId": "cnp_057",
+      "targetTopicId": "cnp_059",
+      "relation": "prerequisite",
+      "reason": "模型设计应基于热机能量转化过程和工作原理。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_061__cnp_067",
+      "sourceTopicId": "cnp_061",
+      "targetTopicId": "cnp_067",
+      "relation": "prerequisite",
+      "reason": "需认识电流及闭合电路。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_067__cnp_070",
+      "sourceTopicId": "cnp_067",
+      "targetTopicId": "cnp_070",
+      "relation": "prerequisite",
+      "reason": "研究电流随电阻变化应先理解电阻。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_065__cnp_070",
+      "sourceTopicId": "cnp_065",
+      "targetTopicId": "cnp_070",
+      "relation": "prerequisite",
+      "reason": "研究电流随电压变化应先理解电压。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_061__cnp_074",
+      "sourceTopicId": "cnp_061",
+      "targetTopicId": "cnp_074",
+      "relation": "prerequisite",
+      "reason": "应认识电流及用电器中的能量转化。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_067__cnp_077",
+      "sourceTopicId": "cnp_067",
+      "targetTopicId": "cnp_077",
+      "relation": "prerequisite",
+      "reason": "电热表达式涉及电阻及其条件。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_061__cnp_077",
+      "sourceTopicId": "cnp_061",
+      "targetTopicId": "cnp_077",
+      "relation": "prerequisite",
+      "reason": "电热表达式涉及导体中的电流。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_081__cnp_084",
+      "sourceTopicId": "cnp_081",
+      "targetTopicId": "cnp_084",
+      "relation": "prerequisite",
+      "reason": "电动机工作需认识磁场作用。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_061__cnp_084",
+      "sourceTopicId": "cnp_061",
+      "targetTopicId": "cnp_084",
+      "relation": "prerequisite",
+      "reason": "电动机需形成通电回路。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_081__cnp_086",
+      "sourceTopicId": "cnp_081",
+      "targetTopicId": "cnp_086",
+      "relation": "prerequisite",
+      "reason": "感应现象需辨认磁场和导体相对运动。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_061__cnp_086",
+      "sourceTopicId": "cnp_061",
+      "targetTopicId": "cnp_086",
+      "relation": "prerequisite",
+      "reason": "感应电流产生需讨论闭合回路。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_087__cnp_089",
+      "sourceTopicId": "cnp_087",
+      "targetTopicId": "cnp_089",
+      "relation": "prerequisite",
+      "reason": "通信载体理解需要电磁波传播的基本知识。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_056__cnp_092",
+      "sourceTopicId": "cnp_056",
+      "targetTopicId": "cnp_092",
+      "relation": "prerequisite",
+      "reason": "节能评价应基于能量转化和守恒。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_029__cnp_h014",
+      "sourceTopicId": "cnp_029",
+      "targetTopicId": "cnp_h014",
+      "relation": "prerequisite",
+      "reason": "摩擦力定量计算需会分析接触力及方向。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_h007__cnp_h032",
+      "sourceTopicId": "cnp_h007",
+      "targetTopicId": "cnp_h032",
+      "relation": "prerequisite",
+      "reason": "斜抛两个分运动调用匀变速位移规律。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_h040__cnp_h043",
+      "sourceTopicId": "cnp_h040",
+      "targetTopicId": "cnp_h043",
+      "relation": "prerequisite",
+      "reason": "圆轨道由万有引力提供向心力建立。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_h049__cnp_h051",
+      "sourceTopicId": "cnp_h049",
+      "targetTopicId": "cnp_h051",
+      "relation": "prerequisite",
+      "reason": "机械能必须包括动能。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_h053__cnp_h055",
+      "sourceTopicId": "cnp_h053",
+      "targetTopicId": "cnp_h055",
+      "relation": "prerequisite",
+      "reason": "试探电荷电性与电荷量是场强定义的基础。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_062__cnp_h072",
+      "sourceTopicId": "cnp_062",
+      "targetTopicId": "cnp_h072",
+      "relation": "prerequisite",
+      "reason": "高中串并联分析承接初中基本拓扑。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_063__cnp_h074",
+      "sourceTopicId": "cnp_063",
+      "targetTopicId": "cnp_h074",
+      "relation": "prerequisite",
+      "reason": "多用表使用要会量程选择和电流表的基本读数。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_056__cnp_h082",
+      "sourceTopicId": "cnp_056",
+      "targetTopicId": "cnp_h082",
+      "relation": "prerequisite",
+      "reason": "能源利用涉及一般能量转化与守恒。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_h053__cnp_h120",
+      "sourceTopicId": "cnp_h053",
+      "targetTopicId": "cnp_h120",
+      "relation": "prerequisite",
+      "reason": "磁场对粒子的力需要电荷及符号。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_h150__cnp_h152",
+      "sourceTopicId": "cnp_h150",
+      "targetTopicId": "cnp_h152",
+      "relation": "prerequisite",
+      "reason": "等温状态量关系须识别温度条件。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_h049__cnp_h165",
+      "sourceTopicId": "cnp_h049",
+      "targetTopicId": "cnp_h165",
+      "relation": "prerequisite",
+      "reason": "逸出电子最大初动能需要动能概念。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnp_h089__cnp_h169",
+      "sourceTopicId": "cnp_h089",
+      "targetTopicId": "cnp_h169",
+      "relation": "prerequisite",
+      "reason": "粒子波动性使用量子关系和经典连续观念的区别。",
+      "contentOrigin": "added"
+    }
+  ],
+  "prerequisiteGroups": []
+}

@@ -1,0 +1,5364 @@
+{
+  "schemaVersion": "3.0",
+  "subject": "chemistry",
+  "sourceSnapshot": "768bcee940e0a81df6583fc28c89ca11c87522a630d83c83cbd7eebc25d85b85",
+  "count": 147,
+  "topics": [
+    {
+      "id": "cnk_j001",
+      "name": "化学使世界变得更加绚丽多彩",
+      "description": "绪言（教师之家作「绪论」，用词待核）。认识化学研究物质的组成、结构、性质与变化，以及化学在材料、能源、健康和环境保护中的作用。挂在第 1 单元下，便于按册浏览。",
+      "domain": "科学探究与化学实验",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SQ.01",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第1单元 走进化学世界",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "80c3a076-14f1-56f9-9b3d-1e23235040cc",
+          "text": "能说明化学研究物质的组成、结构、性质和变化"
+        },
+        {
+          "id": "208fa24f-1d6c-58f8-8388-fa1c48cb211a",
+          "text": "能区分生活应用实例与其所依据的化学证据"
+        }
+      ],
+      "exampleQuestionId": "cnk_j001_q1"
+    },
+    {
+      "id": "cnk_j002",
+      "name": "物质的变化和性质",
+      "description": "能区分物理变化和化学变化，也能区分物理性质和化学性质。化学变化有新物质生成。",
+      "domain": "物质的化学变化",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SR.01",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第1单元 走进化学世界",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "62bd5a9f-d8b9-5690-92f4-2cf9552a9a17",
+          "text": "依据是否有新物质生成判断变化类型"
+        },
+        {
+          "id": "0ac1aa08-cd0c-5371-a4d8-f44b24b03d88",
+          "text": "区分观察现象与发生化学变化的充分证据"
+        }
+      ],
+      "exampleQuestionId": "cnk_j002_q1"
+    },
+    {
+      "id": "cnk_j003",
+      "name": "科学探究",
+      "description": "能按提出问题、猜想、设计实验、记录现象、得出结论和反思的顺序完成简单探究。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SQ.02",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第1单元 走进化学世界",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "a714122e-a03d-55ad-8273-c9e9c6c57666",
+          "text": "能说出本课的探究步骤或实验操作要点"
+        },
+        {
+          "id": "be7ef154-661a-5d16-8509-5fd88babf27e",
+          "text": "能把现象和证据对应到教材中的结论"
+        }
+      ],
+      "exampleQuestionId": "cnk_j003_q1"
+    },
+    {
+      "id": "cnk_j004",
+      "name": "化学实验基本操作",
+      "description": "初步学会药品取用、加热、检查气密性，以及溶解、过滤、蒸发，并遵守实验室安全规则。这一部分属于「化学实验与科学探究」，不是单独印出的课题名。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SQ.03",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第1单元 走进化学世界",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "7d726332-df55-52f2-af4c-1f7b72ad1a19",
+          "text": "能说出本课的探究步骤或实验操作要点"
+        },
+        {
+          "id": "29a9b255-9f80-5852-a42c-892bd1876349",
+          "text": "能把现象和证据对应到教材中的结论"
+        }
+      ],
+      "exampleQuestionId": "cnk_j004_q1"
+    },
+    {
+      "id": "cnk_j005",
+      "name": "我们周围的空气",
+      "description": "知道空气的主要成分及大致体积分数，能说明氮气、氧气的常见用途，并知道空气是混合物。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SP.01",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        },
+        {
+          "id": "cks-2022:SC.04",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第2单元 空气和氧气",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "72b1b85a-401c-520a-aab5-8a10e2004a69",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "a772ce67-94db-5339-a3b9-07bf91744882",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j005_q1"
+    },
+    {
+      "id": "cnk_j006",
+      "name": "氧气",
+      "description": "认识氧气的物理性质和氧化性：能支持燃烧，本身一般不燃烧。会用带火星的木条检验氧气。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SP.01",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第2单元 空气和氧气",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "3a8207c2-a1ea-5c05-af60-de5f28313a97",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "fe2cd5cd-b82b-573f-895b-89af14e3491f",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j006_q1"
+    },
+    {
+      "id": "cnk_j007",
+      "name": "制取氧气",
+      "description": "知道用过氧化氢在二氧化锰催化下制氧气，以及加热高锰酸钾制氧气。能选择发生装置和收集方法，并知道分解反应和催化剂。",
+      "domain": "物质的性质与应用",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SP.01",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        },
+        {
+          "id": "cks-2022:SR.04",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第2单元 空气和氧气",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "c6da0544-8bb1-57e9-8e93-f4da284d891d",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "10d77fb8-5be8-597e-9573-a60d95034e3c",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j007_q1"
+    },
+    {
+      "id": "cnk_j008",
+      "name": "氧气的实验室制取与性质",
+      "description": "完成实验活动：检查气密性，用过氧化氢和二氧化锰制取氧气，并用带火星的木条检验。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SQ.04",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第2单元 空气和氧气",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "20dbcde7-165e-5284-bb9e-08018dc73b0c",
+          "text": "能说出本课的探究步骤或实验操作要点"
+        },
+        {
+          "id": "e272c28a-ec6f-578d-8b28-a3e5a405473b",
+          "text": "能把现象和证据对应到教材中的结论"
+        }
+      ],
+      "exampleQuestionId": "cnk_j008_q1"
+    },
+    {
+      "id": "cnk_j009",
+      "name": "分子和原子",
+      "description": "知道物质可以由分子、原子构成。分子、原子在不断运动，彼此有间隔。化学变化中分子可以分成原子，原子再重新组合。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SC.01",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第3单元 物质构成的奥秘",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "29cdbcea-d0e5-5df3-8f07-3bb756bca484",
+          "text": "解释分子原子与宏观物质的关系"
+        },
+        {
+          "id": "96045ddb-88e0-5347-99f6-02aa67856352",
+          "text": "用原子重组说明化学反应，区分分子数与原子数"
+        }
+      ],
+      "exampleQuestionId": "cnk_j009_q1"
+    },
+    {
+      "id": "cnk_j010",
+      "name": "原子结构",
+      "description": "知道原子由原子核和核外电子构成，原子核由质子和中子构成。原子中质子数等于核外电子数。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SC.01",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第3单元 物质构成的奥秘",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "6ed96e38-75c4-59a8-9523-3b13bcc6ee3d",
+          "text": "能用微粒、元素或化学式表示物质的组成"
+        },
+        {
+          "id": "ff5fbddd-dad3-5207-aae2-d1bcd82497ab",
+          "text": "能完成教材要求的简单判断或计算"
+        }
+      ],
+      "exampleQuestionId": "cnk_j010_q1"
+    },
+    {
+      "id": "cnk_j011",
+      "name": "元素",
+      "description": "元素是质子数相同的一类原子的总称。能书写常见元素符号，并知道元素周期表给出原子序数、符号和相对原子质量。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SC.02",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第3单元 物质构成的奥秘",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "d6f3b998-c05c-5a63-9150-ae37a54c65d8",
+          "text": "能用微粒、元素或化学式表示物质的组成"
+        },
+        {
+          "id": "5ceaa84e-908e-5899-a1a2-f545f56c9c94",
+          "text": "能完成教材要求的简单判断或计算"
+        }
+      ],
+      "exampleQuestionId": "cnk_j011_q1"
+    },
+    {
+      "id": "cnk_j012",
+      "name": "水资源及其利用",
+      "description": "知道淡水并不充裕，能说出沉淀、过滤、吸附和蒸馏等净化水的方法，以及节约用水、防止水污染。",
+      "domain": "化学与社会·跨学科实践",
+      "type": "application",
+      "standards": [
+        {
+          "id": "cks-2022:SS.01",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第4单元 自然界的水",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "8d9918aa-6e26-5707-a934-4b9a5a6df987",
+          "text": "能说出化学与资源、健康或材料的一个基本事实"
+        },
+        {
+          "id": "409ae74f-a789-5bcb-8449-8a2ecd25c999",
+          "text": "能判断一种常见做法是否符合节约资源和保护环境"
+        }
+      ],
+      "exampleQuestionId": "cnk_j012_q1"
+    },
+    {
+      "id": "cnk_j013",
+      "name": "水的组成",
+      "description": "通过电解水知道水由氢、氧两种元素组成。氢气与氧气体积比约为 2:1，并会检验这两种气体。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SP.04",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第4单元 自然界的水",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "4dbec6d7-5247-534d-b89c-2d0ffd9865a7",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "340560cf-df05-5997-90da-61c7fbf91ef2",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j013_q1"
+    },
+    {
+      "id": "cnk_j014",
+      "name": "化学式与化合价",
+      "description": "能用化学式表示常见物质，知道常见元素的化合价，并据此书写简单化学式。这一部分属于「物质组成的表示」。",
+      "domain": "物质的组成与结构",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SC.03",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第4单元 自然界的水",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "e8e0ac7a-607a-575a-8de3-1582d0481f60",
+          "text": "读懂化学式表示的组成和微粒个数"
+        },
+        {
+          "id": "ce01128b-87b6-5435-ab32-0975f252f2b8",
+          "text": "用化合价代数和为零确定化合物组成"
+        }
+      ],
+      "exampleQuestionId": "cnk_j014_q1"
+    },
+    {
+      "id": "cnk_j015",
+      "name": "根据化学式的计算",
+      "description": "能根据化学式，由相对原子质量求相对分子质量，并求元素质量比。计算用的相对原子质量在题中给出。这一部分仍属于「物质组成的表示」，不是单独的课题名。",
+      "domain": "物质的组成与结构",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SC.03",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第4单元 自然界的水",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "33d9051e-0cfa-50f8-97a6-66d564f34215",
+          "text": "由化学式计算相对分子质量和元素质量分数"
+        },
+        {
+          "id": "f6d3498a-d4e2-50e3-b787-3549be7e207c",
+          "text": "结合纯度和整体质量解释元素含量"
+        }
+      ],
+      "exampleQuestionId": "cnk_j015_q1"
+    },
+    {
+      "id": "cnk_j016",
+      "name": "水的组成及变化的探究",
+      "description": "完成实验活动：电解水，比较两端气体体积，并检验氢气和氧气。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SQ.04",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第4单元 自然界的水",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "21ac7ec5-f170-503e-b829-fbf1ce840c90",
+          "text": "能说出本课的探究步骤或实验操作要点"
+        },
+        {
+          "id": "0b16b5bb-ce71-5e7c-a381-c17e7bb0b3e0",
+          "text": "能把现象和证据对应到教材中的结论"
+        }
+      ],
+      "exampleQuestionId": "cnk_j016_q1"
+    },
+    {
+      "id": "cnk_j017",
+      "name": "质量守恒定律",
+      "description": "认识质量守恒定律：参加化学反应的各物质质量总和等于生成的各物质质量总和。能从原子种类、数目和质量不变来解释。",
+      "domain": "物质的化学变化",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SR.02",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第5单元 化学反应的定量关系",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "5832540f-4a66-5cad-bec9-7fdab115b3f1",
+          "text": "选定物质体系并解释反应前后总质量守恒"
+        },
+        {
+          "id": "94a52b83-701b-5112-974b-93308bfbbd90",
+          "text": "区分开放体系读数变化与反应中质量不守恒"
+        }
+      ],
+      "exampleQuestionId": "cnk_j017_q1"
+    },
+    {
+      "id": "cnk_j018",
+      "name": "化学方程式的书写",
+      "description": "能根据实验事实书写简单化学方程式：配平、注明条件，气体和沉淀用箭头标出。不能改动化学式右下角的数字来配平。",
+      "domain": "物质的化学变化",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SR.02",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第5单元 化学反应的定量关系",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "39702976-4011-51ea-bb37-70b164db8d9a",
+          "text": "依据原子守恒配平并标明必要反应条件"
+        },
+        {
+          "id": "ccb4fd8a-0edc-531b-9702-34bb5aa7d876",
+          "text": "区分改变系数与擅自改变物质化学式"
+        }
+      ],
+      "exampleQuestionId": "cnk_j018_q1"
+    },
+    {
+      "id": "cnk_j019",
+      "name": "利用化学方程式的简单计算",
+      "description": "能根据配平的化学方程式，由一种纯净物的质量求出另一种物质的质量。参加计算的必须是实际参加反应的纯净物质量。",
+      "domain": "物质的化学变化",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SR.03",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第5单元 化学反应的定量关系",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "74e484b0-82f9-5f7a-a973-5272a08cc636",
+          "text": "用配平方程式和相对质量建立计量比例"
+        },
+        {
+          "id": "d39ca04f-6d8e-531c-84e2-1a795d55161c",
+          "text": "区分纯物质质量、样品质量、过量与未反应部分"
+        }
+      ],
+      "exampleQuestionId": "cnk_j019_q1"
+    },
+    {
+      "id": "cnk_j020",
+      "name": "碳单质的多样性",
+      "description": "知道金刚石、石墨等都由碳元素组成，但物理性质差异很大。知道木炭、活性炭有吸附性。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SP.02",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第6单元 碳和碳的氧化物",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "c3930b18-ba63-549c-9bcc-c9ef78c45ad1",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "418a1a63-c6f5-50c6-9ebf-3971cf2d21c9",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j020_q1"
+    },
+    {
+      "id": "cnk_j021",
+      "name": "二氧化碳的性质",
+      "description": "知道二氧化碳的主要性质和用途：密度比空气大，能溶于水并与水反应，能使澄清石灰水变浑浊，一般不燃烧也不支持燃烧。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SP.03",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第6单元 碳和碳的氧化物",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "0f18310e-fce7-57e5-99ff-c58dd8c4ccf4",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "9cbcde91-74e2-5c91-8cdf-6d2574f6d128",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j021_q1"
+    },
+    {
+      "id": "cnk_j022",
+      "name": "一氧化碳",
+      "description": "了解一氧化碳有可燃性和毒性，并能与某些金属氧化物反应。不把「还原性」当作必须记住的术语。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SP.03",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第6单元 碳和碳的氧化物",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "57c488a2-c901-5044-abfd-df1fdc6130b7",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "a93d0152-0628-5231-b093-92b4ef8e646d",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j022_q1"
+    },
+    {
+      "id": "cnk_j023",
+      "name": "二氧化碳的实验室制取",
+      "description": "用大理石或石灰石与稀盐酸制取二氧化碳，选择固液不加热装置和向上排空气法，并用澄清石灰水检验。",
+      "domain": "物质的性质与应用",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SP.03",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第6单元 碳和碳的氧化物",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "a0b6ae7a-e14d-58f5-b9cf-367e5e4348b4",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "49c1df89-938e-5d67-bd32-f1c60315c18e",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j023_q1"
+    },
+    {
+      "id": "cnk_j024",
+      "name": "二氧化碳的实验室制取与性质",
+      "description": "完成实验活动：制取二氧化碳，检验，并观察它不支持燃烧、密度比空气大等性质。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SQ.04",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第6单元 碳和碳的氧化物",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "3040a1b4-240f-5d26-8571-8e5f8fb2bc3b",
+          "text": "能说出本课的探究步骤或实验操作要点"
+        },
+        {
+          "id": "cb1eb319-4ccd-56eb-bed2-b0ab1c403af4",
+          "text": "能把现象和证据对应到教材中的结论"
+        }
+      ],
+      "exampleQuestionId": "cnk_j024_q1"
+    },
+    {
+      "id": "cnk_j025",
+      "name": "燃料的燃烧",
+      "description": "知道燃烧需要可燃物、与氧气接触以及温度达到着火点。灭火就是破坏其中至少一个条件。不采用具体的着火点数字。",
+      "domain": "物质的化学变化",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SR.05",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第7单元 能源的合理利用与开发",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "e50a8125-7fa5-580e-8202-793f54ddb332",
+          "text": "能判断变化类型或写出相关的化学方程式"
+        },
+        {
+          "id": "5f27da18-fd2e-56fd-bfc6-c8bcc979f8cf",
+          "text": "能用质量守恒或反应规律解释一个典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j025_q1"
+    },
+    {
+      "id": "cnk_j026",
+      "name": "化石能源的合理利用",
+      "description": "知道煤、石油、天然气是化石能源。石油分馏主要是物理变化。完全燃烧与不完全燃烧的产物不同。节约能源、减少排放。",
+      "domain": "化学与社会·跨学科实践",
+      "type": "application",
+      "standards": [
+        {
+          "id": "cks-2022:SS.01",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        },
+        {
+          "id": "cks-2022:SS.03",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第7单元 能源的合理利用与开发",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "2d8d208b-ab9c-581b-9fb1-8b2238e82a6c",
+          "text": "能说出化学与资源、健康或材料的一个基本事实"
+        },
+        {
+          "id": "f13e3ea6-9cee-5419-a838-432e41747ad5",
+          "text": "能判断一种常见做法是否符合节约资源和保护环境"
+        }
+      ],
+      "exampleQuestionId": "cnk_j026_q1"
+    },
+    {
+      "id": "cnk_j027",
+      "name": "燃烧条件的探究",
+      "description": "完成实验活动：用对照实验说明燃烧的三个条件。不记录红磷、白磷的具体着火点数字。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SQ.04",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "上",
+        "chapter": "九年级上册 第7单元 能源的合理利用与开发",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "5a050c69-a4dc-58c2-a81a-b82a274a36f1",
+          "text": "能说出本课的探究步骤或实验操作要点"
+        },
+        {
+          "id": "76fc7fbb-f513-52a1-9577-7f606a91f4ac",
+          "text": "能把现象和证据对应到教材中的结论"
+        }
+      ],
+      "exampleQuestionId": "cnk_j027_q1"
+    },
+    {
+      "id": "cnk_j028",
+      "name": "金属材料",
+      "description": "知道金属的导电性、导热性、延展性和金属光泽，以及合金与纯金属的性质差异。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SP.05",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第8单元 金属和金属材料",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "1c4acbec-f25f-594d-ae01-952c11b6f3f4",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "fd7c463e-c16b-5313-809d-f1b7500c3c4d",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j028_q1"
+    },
+    {
+      "id": "cnk_j029",
+      "name": "金属与氧气、酸的反应",
+      "description": "知道常见金属与氧气、与稀酸反应的现象和化学方程式。铝表面的致密氧化膜能保护内部。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SP.05",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第8单元 金属和金属材料",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "b3221534-944c-591f-9f7f-dfb5893264e0",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "213d2424-cc19-5418-ba6a-bbf4ebbaa969",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j029_q1"
+    },
+    {
+      "id": "cnk_j030",
+      "name": "金属活动性顺序",
+      "description": "能用金属活动性顺序判断金属与酸、金属与盐溶液能否反应。这一部分是「金属的化学性质」中的比较，不是单独印出的课题名。",
+      "domain": "物质的性质与应用",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-2022:SP.05",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第8单元 金属和金属材料",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "b64ce00f-f029-5646-bd76-3ade1c5e0be8",
+          "text": "利用金属与酸或盐溶液的反应判断活动性相对顺序"
+        },
+        {
+          "id": "78d41769-a91c-5655-99e7-99438b8488c9",
+          "text": "说明实验能支持的比较范围及表面状态等控制条件"
+        }
+      ],
+      "exampleQuestionId": "cnk_j030_q1"
+    },
+    {
+      "id": "cnk_j031",
+      "name": "金属资源的利用和保护",
+      "description": "知道铁矿石炼铁、铁锈蚀需要空气和水，以及涂油、喷漆、镀层等防锈方法。回收金属。炼铁反应不要求使用「还原性」这一术语。",
+      "domain": "物质的性质与应用",
+      "type": "application",
+      "standards": [
+        {
+          "id": "cks-2022:SP.05",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第8单元 金属和金属材料",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "7258642f-cabe-5540-af4b-0a405a2d065d",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "cb9f5091-e47f-58c3-a522-d97acd560990",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j031_q1"
+    },
+    {
+      "id": "cnk_j032",
+      "name": "常见金属的物理性质和化学性质",
+      "description": "完成实验活动：比较常见金属的导电、颜色等物理性质，以及与稀酸、与盐溶液反应的现象。实验活动名称各公开目录用词不完全一致，待核。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SQ.04",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第8单元 金属和金属材料",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "b957a6e1-c14e-5d9c-91d2-8680fa191e55",
+          "text": "能说出本课的探究步骤或实验操作要点"
+        },
+        {
+          "id": "26b567a2-d817-5fc8-b347-9f25eb9bc6ec",
+          "text": "能把现象和证据对应到教材中的结论"
+        }
+      ],
+      "exampleQuestionId": "cnk_j032_q1"
+    },
+    {
+      "id": "cnk_j033",
+      "name": "溶液及其应用",
+      "description": "认识溶液由溶质和溶剂组成，是均一、稳定的混合物。能区分溶液、悬浊液和乳浊液。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SP.04",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第9单元 溶液",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "5eb93baf-676f-5f1c-876f-f548a705e571",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "abbe5f69-9b36-53d5-8dc9-338054e6fd7a",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j033_q1"
+    },
+    {
+      "id": "cnk_j034",
+      "name": "溶解度",
+      "description": "理解固体溶解度要指明温度，单位是在 100 g 溶剂里达到饱和所溶解的溶质质量。知道多数固体溶解度随温度升高而增大。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SP.04",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第9单元 溶液",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "4552da7a-fcbf-516d-b650-a0108670a46a",
+          "text": "解释固定温度下每100克溶剂的溶解度"
+        },
+        {
+          "id": "a9038fe6-febb-540c-b8c5-15c81d3b99d7",
+          "text": "根据溶剂质量判断饱和、剩余固体和析晶质量"
+        }
+      ],
+      "exampleQuestionId": "cnk_j034_q1"
+    },
+    {
+      "id": "cnk_j035",
+      "name": "溶质的质量分数",
+      "description": "能用溶质质量与溶液质量之比表示溶液组成，并计算配制溶液所需的溶质和溶剂质量。",
+      "domain": "物质的性质与应用",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SP.04",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第9单元 溶液",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "7bc10845-fc57-57a5-9e6a-190a3e8d4191",
+          "text": "区分溶质、溶剂和溶液质量并计算质量分数"
+        },
+        {
+          "id": "eb00d44b-3ed1-5a73-9c02-4a5ab94cceec",
+          "text": "利用溶质守恒设计稀释方案并核查操作误差"
+        }
+      ],
+      "exampleQuestionId": "cnk_j035_q1"
+    },
+    {
+      "id": "cnk_j036",
+      "name": "一定溶质质量分数的氯化钠溶液的配制",
+      "description": "完成实验活动：计算、称量、量取、溶解，配制一定质量分数的氯化钠溶液。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SQ.04",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第9单元 溶液",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "0d8160da-4521-578b-b237-dbc48bf5ec59",
+          "text": "能说出本课的探究步骤或实验操作要点"
+        },
+        {
+          "id": "913c218e-241d-5215-b405-5499c8911b22",
+          "text": "能把现象和证据对应到教材中的结论"
+        }
+      ],
+      "exampleQuestionId": "cnk_j036_q1"
+    },
+    {
+      "id": "cnk_j037",
+      "name": "粗盐中难溶性杂质的去除",
+      "description": "完成实验活动：溶解、过滤、蒸发，除去粗盐中的泥沙等难溶性杂质。可溶性杂质不能靠这一套操作除尽。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SQ.04",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第9单元 溶液",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "bd727756-30ca-52ed-bf08-a863c4ccfc3b",
+          "text": "用溶解过滤蒸发分离难溶性杂质"
+        },
+        {
+          "id": "7d308daf-105d-5eac-ad8c-ecaae4f37447",
+          "text": "区分难溶和可溶杂质，说明回收率与纯度的区别"
+        }
+      ],
+      "exampleQuestionId": "cnk_j037_q1"
+    },
+    {
+      "id": "cnk_j038",
+      "name": "溶液的酸碱性",
+      "description": "会用酸碱指示剂和 pH 判断溶液的酸碱性。酸性溶液 pH 小于 7，中性等于 7，碱性大于 7。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SP.06",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第10单元 常见的酸、碱、盐",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "37baaf10-b939-51d5-8521-4f2fe3685887",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "8f8ea8d7-00ca-5aea-b684-2daadadf0b47",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j038_q1"
+    },
+    {
+      "id": "cnk_j039",
+      "name": "常见的酸",
+      "description": "认识盐酸、硫酸等常见酸的主要性质：与指示剂、活泼金属、金属氧化物和碱反应。浓硫酸稀释必须酸入水。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SP.06",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第10单元 常见的酸、碱、盐",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "6fae12ec-0f07-5d96-befe-bca62f4316e5",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "e3a77096-b28a-5273-b99a-e0aa3ffadfa8",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j039_q1"
+    },
+    {
+      "id": "cnk_j040",
+      "name": "常见的碱",
+      "description": "认识氢氧化钠、氢氧化钙等碱的主要性质、用途和腐蚀性。碱溶液能使酚酞变红，能与某些非金属氧化物反应。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SP.06",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第10单元 常见的酸、碱、盐",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "42974f6d-8522-5dd4-acf7-14862ffa5463",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "a2a002e9-00dc-5276-a891-fe6b171e10e1",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j040_q1"
+    },
+    {
+      "id": "cnk_j041",
+      "name": "酸和碱的中和反应",
+      "description": "知道酸与碱作用生成盐和水，属于复分解反应。了解中和反应在改良土壤、处理废水中的应用。这一部分是从「常见的酸和碱」里抽出的反应规律，不是单独印出的课题名。",
+      "domain": "物质的化学变化",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SR.04",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第10单元 常见的酸、碱、盐",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "15ffb2b8-4d13-519c-9cb7-5f3ea2168e3a",
+          "text": "写出酸碱中和反应并按计量判断剩余反应物"
+        },
+        {
+          "id": "cf9dc275-21c5-5d3e-a3d4-3cf2fa6ef486",
+          "text": "区分指示剂颜色终点与准确中和点，解释实验结论限度"
+        }
+      ],
+      "exampleQuestionId": "cnk_j041_q1"
+    },
+    {
+      "id": "cnk_j042",
+      "name": "常见的盐",
+      "description": "认识氯化钠、碳酸钠、碳酸钙等盐的组成和用途。知道盐不一定是食盐，碳酸钠溶液呈碱性。化肥中的铵盐遇碱会放出氨气。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SP.06",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第10单元 常见的酸、碱、盐",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "26d55a20-ef92-5efd-bc52-704bbf1d14db",
+          "text": "能说出本课物质的主要性质或用途"
+        },
+        {
+          "id": "78c962e0-b8fd-5669-af33-5a8756e8e58c",
+          "text": "能用性质解释一个教材中的典型事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_j042_q1"
+    },
+    {
+      "id": "cnk_j043",
+      "name": "常见酸、碱的化学性质",
+      "description": "完成实验活动：试验常见酸、碱与指示剂、金属、金属氧化物或相互之间的反应，并记录现象。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-2022:SQ.04",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第10单元 常见的酸、碱、盐",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "e8d6e2aa-26e6-5f60-8ef3-0ba816fe7111",
+          "text": "能说出本课的探究步骤或实验操作要点"
+        },
+        {
+          "id": "316f768f-8561-5cbe-9616-656864313d15",
+          "text": "能把现象和证据对应到教材中的结论"
+        }
+      ],
+      "exampleQuestionId": "cnk_j043_q1"
+    },
+    {
+      "id": "cnk_j044",
+      "name": "化学与人体健康",
+      "description": "知道人体所需的蛋白质、糖类、油脂、维生素、无机盐和水，以及钙、铁、碘、锌等元素的大致作用。",
+      "domain": "化学与社会·跨学科实践",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-2022:SS.02",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第11单元 化学与社会",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "d15f5e42-1533-51fd-857a-70d7d63b98ba",
+          "text": "能说出化学与资源、健康或材料的一个基本事实"
+        },
+        {
+          "id": "fa5fb044-2fc5-50e6-a349-ab96b88bbd40",
+          "text": "能判断一种常见做法是否符合节约资源和保护环境"
+        }
+      ],
+      "exampleQuestionId": "cnk_j044_q1"
+    },
+    {
+      "id": "cnk_j045",
+      "name": "化学与可持续发展",
+      "description": "知道塑料、合成纤维、合成橡胶等合成材料，认识化学在新材料、新能源中的作用，以及减少污染、回收利用对可持续发展的意义。",
+      "domain": "化学与社会·跨学科实践",
+      "type": "application",
+      "standards": [
+        {
+          "id": "cks-2022:SS.02",
+          "confidence": "inferred",
+          "note": "人教版该课的常见教学内容。条目是公开转述，不是逐页核对的原文。"
+        }
+      ],
+      "stage": "junior",
+      "curriculum_placement": {
+        "source_grade_code": 9,
+        "semester": "下",
+        "chapter": "九年级下册 第11单元 化学与社会",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "03bb6601-8ee2-56a3-9f3f-89af00ab1b87",
+          "text": "能说出化学与资源、健康或材料的一个基本事实"
+        },
+        {
+          "id": "27d85fd1-c70d-5103-a6fb-3d68c4237d64",
+          "text": "能判断一种常见做法是否符合节约资源和保护环境"
+        }
+      ],
+      "exampleQuestionId": "cnk_j045_q1"
+    },
+    {
+      "id": "cnk_h001",
+      "name": "绪言",
+      "description": "化学在原子、分子层次上研究物质的组成、结构、性质、转化和应用。高中化学从这里接着往下学。",
+      "domain": "科学探究与化学实验",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.EX.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 绪言",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "introductory_unit",
+      "masteryCriteria": [
+        {
+          "id": "14af36f1-cb6f-57b6-8084-906910d7bd2c",
+          "text": "能说出化学研究的对象和层次"
+        },
+        {
+          "id": "90412959-9f59-5084-96f8-3128a269fbce",
+          "text": "能把生成新物质的变化和只改变位置、状态的变化区分开"
+        }
+      ],
+      "exampleQuestionId": "cnk_h001_q1"
+    },
+    {
+      "id": "cnk_h002",
+      "name": "物质的分类及转化",
+      "description": "按组成把物质分成混合物与纯净物、单质与化合物、氧化物，并区分物理变化和化学变化。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.ST.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第一章 物质及其变化 1.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "64385950-bbf6-549d-bd5b-4a811b563348",
+          "text": "能按组成对常见物质分类"
+        },
+        {
+          "id": "50966343-77e3-5a31-919e-3b74dce727d3",
+          "text": "能判断一个变化有没有新物质生成"
+        }
+      ],
+      "exampleQuestionId": "cnk_h002_q1"
+    },
+    {
+      "id": "cnk_h003",
+      "name": "离子反应",
+      "description": "电解质在水溶液中电离出离子。离子方程式表示同一类型离子反应的实质。",
+      "domain": "物质的化学变化",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.ST.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第一章 物质及其变化 1.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "7cb54161-b525-54da-bf55-73e2cb7f52ab",
+          "text": "能判断常见物质是不是电解质"
+        },
+        {
+          "id": "cf69c60a-23f4-5e98-a529-ce7035cdb50a",
+          "text": "能判断简单离子方程式是否符合客观事实和守恒"
+        }
+      ],
+      "exampleQuestionId": "cnk_h003_q1"
+    },
+    {
+      "id": "cnk_h004",
+      "name": "氧化还原反应",
+      "description": "氧化还原反应的特征是有元素化合价变化。化合价降低的物质是氧化剂，化合价升高的物质是还原剂。",
+      "domain": "物质的化学变化",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.ST.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第一章 物质及其变化 1.3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "300a99a4-1206-58b8-bdd9-e5779bfb5230",
+          "text": "由化合价变化计算电子物质的量"
+        },
+        {
+          "id": "70d1984b-29f2-596d-90f3-97ff7fdca5b4",
+          "text": "识别氧化剂还原剂与电子方向"
+        },
+        {
+          "id": "6c5feefc-94f5-5512-b385-22a48201c6b8",
+          "text": "用电子守恒检验产物估算"
+        }
+      ],
+      "exampleQuestionId": "cnk_h004_q1"
+    },
+    {
+      "id": "cnk_h005",
+      "name": "整理与提升",
+      "description": "综合第一章：物质分类与转化、离子反应、氧化还原反应。不提前使用钠、氯、物质的量或元素周期律。",
+      "domain": "物质的化学变化",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.ST.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B1.ST.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B1.ST.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第一章 物质及其变化 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "ea4bfe5c-6853-5101-9343-1acaba1256e6",
+          "text": "能把分类、离子反应和氧化还原放到一起判断"
+        },
+        {
+          "id": "15933603-7ed9-5b2b-a9b2-17722451a8ad",
+          "text": "能指出哪一类反应有化合价变化"
+        }
+      ],
+      "exampleQuestionId": "cnk_h005_q1"
+    },
+    {
+      "id": "cnk_h006",
+      "name": "钠及其化合物",
+      "description": "钠是活泼金属。钠与氧气、与水反应，碳酸钠和碳酸氢钠是两种常见的钠的化合物。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.IN.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第二章 海水中的重要元素——钠和氯 2.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "b4f5bbb4-9834-595a-bf23-922ec7b6e6ab",
+          "text": "能说出钠与氧气、与水反应的主要现象和产物"
+        },
+        {
+          "id": "4663738a-143a-5a97-9944-5988daf49294",
+          "text": "能用性质区分碳酸钠和碳酸氢钠"
+        }
+      ],
+      "exampleQuestionId": "cnk_h006_q1"
+    },
+    {
+      "id": "cnk_h007",
+      "name": "氯及其化合物",
+      "description": "氯气是黄绿色、有刺激性气味的气体。氯水的漂白与次氯酸有关，氯气与碱反应可得到次氯酸盐。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.IN.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B1.IN.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第二章 海水中的重要元素——钠和氯 2.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "63329122-20f2-5750-9453-35f9cff3fc65",
+          "text": "能说出氯气和次氯酸的主要性质"
+        },
+        {
+          "id": "ee6b30c4-3b83-561c-aa99-36db238f6ff3",
+          "text": "能说明氯水漂白与久置失效的原因"
+        }
+      ],
+      "exampleQuestionId": "cnk_h007_q1"
+    },
+    {
+      "id": "cnk_h008",
+      "name": "物质的量",
+      "description": "物质的量把宏观质量、微粒数目和溶液组成联系起来。n＝m/M，溶液中 c＝n/V。",
+      "domain": "物质的组成与结构",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.ST.04",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第二章 海水中的重要元素——钠和氯 2.3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "3af91122-f459-58fe-80d0-6afd5a3f439e",
+          "text": "质量与物质的量换算"
+        },
+        {
+          "id": "cc8c695d-58c7-55cf-9b0f-74b8251343fd",
+          "text": "区分粒子数、质量和体积条件"
+        },
+        {
+          "id": "9e5998c3-4857-5fe5-8cc2-fa51dbd23aa9",
+          "text": "检验气体摩尔体积的适用条件"
+        }
+      ],
+      "exampleQuestionId": "cnk_h008_q1"
+    },
+    {
+      "id": "cnk_h009",
+      "name": "整理与提升",
+      "description": "综合第二章：钠及其化合物、氯及其化合物、物质的量。不提前使用铁的价态或元素周期律。",
+      "domain": "物质的性质与应用",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.IN.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B1.ST.04",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第二章 海水中的重要元素——钠和氯 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "b7714de2-2111-5440-ab0a-4b260db30222",
+          "text": "能把钠、氯的典型性质和物质的量放在一起判断"
+        },
+        {
+          "id": "6cb99361-888e-5f4d-98f2-ae3f1bec8197",
+          "text": "能完成与本章有关的简单物质的量计算"
+        }
+      ],
+      "exampleQuestionId": "cnk_h009_q1"
+    },
+    {
+      "id": "cnk_h010",
+      "name": "实验活动1 配制一定物质的量浓度的溶液",
+      "description": "实验活动 1 要配出指定体积、指定物质的量浓度的溶液。固体先在烧杯中溶解，再转入容量瓶定容。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.EX.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B1.ST.04",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第二章 海水中的重要元素——钠和氯 实验活动1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "619faaca-c0d2-5d5b-9ba4-589453ce404a",
+          "text": "能说出这个实验的目的和容量瓶的作用"
+        },
+        {
+          "id": "4042e186-cebf-52e3-afb0-ec481398efea",
+          "text": "能判断定容时俯视或仰视对浓度的影响"
+        }
+      ],
+      "exampleQuestionId": "cnk_h010_q1"
+    },
+    {
+      "id": "cnk_h011",
+      "name": "铁及其化合物",
+      "description": "铁是常见金属。铁能置换活动性比它弱的金属，铁的化合物里要区分 +2 价和 +3 价。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.IN.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B1.IN.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第三章 铁 金属材料 3.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "f66645f2-9b22-511d-b6c5-ae04329751f1",
+          "text": "能说出铁与铜盐溶液反应的产物"
+        },
+        {
+          "id": "cd847478-deda-5876-b4db-76c388618d1d",
+          "text": "能用硫氰化钾检验三价铁"
+        }
+      ],
+      "exampleQuestionId": "cnk_h011_q1"
+    },
+    {
+      "id": "cnk_h012",
+      "name": "金属材料",
+      "description": "金属材料包括纯金属和合金。合金的硬度、熔点等性能往往与成分金属不同。生铁和钢都是铁的合金。",
+      "domain": "物质的性质与应用",
+      "type": "application",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.IN.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第三章 铁 金属材料 3.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "47252006-f77f-507a-989e-e743875ce2a0",
+          "text": "能说出合金与纯金属的差别"
+        },
+        {
+          "id": "edf7802d-4d21-5bce-98b8-dd175d522629",
+          "text": "能举出铁的合金在生活中的一类用途"
+        }
+      ],
+      "exampleQuestionId": "cnk_h012_q1"
+    },
+    {
+      "id": "cnk_h013",
+      "name": "整理与提升",
+      "description": "综合第三章：铁及其化合物、金属材料。不提前使用元素周期律或化学键。",
+      "domain": "物质的性质与应用",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.IN.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B1.IN.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第三章 铁 金属材料 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "d1e2f2df-9057-5e13-8e28-1aa28fb1e612",
+          "text": "能综合判断铁的价态变化和金属材料的用途"
+        },
+        {
+          "id": "a3abe06d-aa72-5f69-b646-73451049b3c5",
+          "text": "能把铁的化学性质与合金的用途区分开"
+        }
+      ],
+      "exampleQuestionId": "cnk_h013_q1"
+    },
+    {
+      "id": "cnk_h014",
+      "name": "实验活动2 铁及其化合物的性质",
+      "description": "实验活动 2 通过铁与盐溶液、酸的反应以及离子检验，认识铁及其化合物的性质。取用药品要少量，废液按实验室要求处理。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.EX.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B1.IN.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第三章 铁 金属材料 实验活动2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "abf1d838-ab50-5edd-a74d-369d3dd29f94",
+          "text": "能说出这个实验要认识的性质"
+        },
+        {
+          "id": "cd9d82ed-c554-5ee7-b819-feb499fa3e20",
+          "text": "能根据现象判断铁的价态或活动性"
+        }
+      ],
+      "exampleQuestionId": "cnk_h014_q1"
+    },
+    {
+      "id": "cnk_h015",
+      "name": "原子结构与元素周期表",
+      "description": "原子由原子核和核外电子构成。原子序数等于质子数。元素周期表按原子序数排列，横行是周期，纵列是族。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.ST.05",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第四章 物质结构 元素周期律 4.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "b59013ce-6705-5347-b3c4-3bccece76735",
+          "text": "能说出原子序数与质子数、核外电子数的关系"
+        },
+        {
+          "id": "324284c3-f1c5-56e8-8714-04a97e802c9b",
+          "text": "能在周期表里区分周期和族"
+        }
+      ],
+      "exampleQuestionId": "cnk_h015_q1"
+    },
+    {
+      "id": "cnk_h016",
+      "name": "元素周期律",
+      "description": "元素性质随原子序数递增呈周期性变化。同周期从左到右金属性减弱，同主族从上到下金属性增强。",
+      "domain": "物质的组成与结构",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.ST.05",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第四章 物质结构 元素周期律 4.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "fed39b77-bd10-5aa1-9d09-99d752d51575",
+          "text": "能说出同周期、同主族元素性质的递变方向"
+        },
+        {
+          "id": "036a7dd9-e60c-5244-9a24-5b7675c7faef",
+          "text": "能用最外层电子数解释碱金属和卤素的相似性"
+        }
+      ],
+      "exampleQuestionId": "cnk_h016_q1"
+    },
+    {
+      "id": "cnk_h017",
+      "name": "化学键",
+      "description": "离子键是阴阳离子通过静电作用形成的，例如氯化钠。共价键是原子间通过共用电子对形成的，例如氢气、氯化氢。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.ST.06",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第四章 物质结构 元素周期律 4.3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "00eda75c-e338-5cac-a169-12f40af3f3ab",
+          "text": "能区分离子键和共价键"
+        },
+        {
+          "id": "ac3950d6-e3d0-5533-956f-ac1d66af25bf",
+          "text": "能判断氯化钠和氯化氢里的化学键类型"
+        }
+      ],
+      "exampleQuestionId": "cnk_h017_q1"
+    },
+    {
+      "id": "cnk_h018",
+      "name": "整理与提升",
+      "description": "综合第四章：原子结构与元素周期表、元素周期律、化学键。",
+      "domain": "物质的组成与结构",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.ST.05",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B1.ST.06",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第四章 物质结构 元素周期律 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "17c19f07-8c63-5eeb-9fbb-e561252c710b",
+          "text": "能把原子结构、周期律和化学键放到一起判断"
+        },
+        {
+          "id": "59c273a1-1cf3-5cb4-a818-9ae0232d8f7c",
+          "text": "能根据位置比较同周期或同主族元素的金属性"
+        }
+      ],
+      "exampleQuestionId": "cnk_h018_q1"
+    },
+    {
+      "id": "cnk_h019",
+      "name": "实验活动3 同周期、同主族元素性质的递变",
+      "description": "实验活动 3 比较同周期、同主族元素性质的递变，例如钠、镁、铝与水或酸反应的剧烈程度。钠只用一小块，用镊子取用。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B1.EX.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B1.ST.05",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 10,
+        "semester": "上",
+        "chapter": "必修一 第四章 物质结构 元素周期律 实验活动3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "ac8ac818-1c1c-5aaf-bab7-9a9b179611fd",
+          "text": "能说出这个实验要比较的递变"
+        },
+        {
+          "id": "bdac2fde-6893-5295-a07a-292298cddb92",
+          "text": "能根据反应剧烈程度判断金属性强弱，并注意取用钠的安全"
+        }
+      ],
+      "exampleQuestionId": "cnk_h019_q1"
+    },
+    {
+      "id": "cnk_h020",
+      "name": "硫及其化合物",
+      "description": "硫及其氧化物、硫酸是化工生产里常见的含硫物质。二氧化硫能使品红褪色，浓硫酸有吸水性和脱水性。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.IN.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B1.ST.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第五章 化工生产中的重要非金属元素 5.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "c52e3c72-2787-5b37-9a99-b029f0dd8d8b",
+          "text": "能说出硫、二氧化硫和硫酸的主要性质"
+        },
+        {
+          "id": "260d7333-4003-553d-a132-177253138488",
+          "text": "能判断含硫物质之间的常见转化是不是氧化还原"
+        }
+      ],
+      "exampleQuestionId": "cnk_h020_q1"
+    },
+    {
+      "id": "cnk_h021",
+      "name": "氮及其化合物",
+      "description": "氮气化学性质不活泼。氨易溶于水显碱性，硝酸有酸性和氧化性，氮氧化物与酸雨、氮循环有关。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.IN.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B1.ST.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第五章 化工生产中的重要非金属元素 5.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "3bc5235c-4e1a-5536-9de4-73a0b7adf0fa",
+          "text": "能说出氮气、氨和硝酸的主要性质"
+        },
+        {
+          "id": "c8e7ae5a-8300-5a10-9c12-c74669101f19",
+          "text": "能说明氮在自然界循环中的常见转化"
+        }
+      ],
+      "exampleQuestionId": "cnk_h021_q1"
+    },
+    {
+      "id": "cnk_h022",
+      "name": "无机非金属材料",
+      "description": "硅是地壳中含量很高的元素。二氧化硅、硅酸盐是玻璃、陶瓷、水泥等无机非金属材料的主要成分。",
+      "domain": "物质的性质与应用",
+      "type": "application",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.IN.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第五章 化工生产中的重要非金属元素 5.3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "356b00f8-e91f-5cc4-8ab9-9b12fd9e6db3",
+          "text": "能说出二氧化硅和硅酸盐的主要用途"
+        },
+        {
+          "id": "6eb57655-27d3-59a2-9eed-3eba480fb10b",
+          "text": "能把玻璃、陶瓷、水泥与硅及其化合物对应起来"
+        }
+      ],
+      "exampleQuestionId": "cnk_h022_q1"
+    },
+    {
+      "id": "cnk_h023",
+      "name": "整理与提升",
+      "description": "综合第五章：硫及其化合物、氮及其化合物、无机非金属材料。不提前使用反应热、有机物或绿色化学的新概念。",
+      "domain": "物质的性质与应用",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.IN.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B2.IN.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B2.IN.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第五章 化工生产中的重要非金属元素 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "353210f6-111e-5d5d-9c46-30db00fdbfdf",
+          "text": "能把硫、氮的典型性质和硅酸盐材料放在一起判断"
+        },
+        {
+          "id": "5094a07a-5ff1-5c51-b364-8cecd4158c55",
+          "text": "能指出本章哪些转化有化合价变化"
+        }
+      ],
+      "exampleQuestionId": "cnk_h023_q1"
+    },
+    {
+      "id": "cnk_h024",
+      "name": "实验活动4 用化学沉淀法去除粗盐中的杂质离子",
+      "description": "实验活动 4 用沉淀法除去粗盐溶液中的钙离子、镁离子和硫酸根离子。试剂加入顺序要保证过量钡离子也能被后面的碳酸根除去。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.EX.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B1.ST.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第五章 化工生产中的重要非金属元素 实验活动4",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "32aabc8e-d809-58c6-b5d2-a8595de2973c",
+          "text": "能说出要除去的主要杂质离子和常用试剂"
+        },
+        {
+          "id": "e32716a1-2a07-5039-988f-fabae865d669",
+          "text": "能说明碳酸钠要在氯化钡之后加入的原因"
+        }
+      ],
+      "exampleQuestionId": "cnk_h024_q1"
+    },
+    {
+      "id": "cnk_h025",
+      "name": "实验活动5 不同价态含硫物质的转化",
+      "description": "实验活动 5 通过氧化还原把不同价态的含硫物质互相转化，例如硫、硫化氢、二氧化硫、硫酸根之间的变化。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.EX.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B2.IN.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第五章 化工生产中的重要非金属元素 实验活动5",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "92d9deb3-cef7-5fef-8b9b-e6a2560e5286",
+          "text": "能说出这个实验要观察的是不同价态含硫物质的转化"
+        },
+        {
+          "id": "01f48090-9e4c-5f5e-85df-cd6b20d5f3d2",
+          "text": "能根据化合价升降判断氧化剂和还原剂"
+        }
+      ],
+      "exampleQuestionId": "cnk_h025_q1"
+    },
+    {
+      "id": "cnk_h026",
+      "name": "化学反应与能量变化",
+      "description": "化学反应伴随着能量变化。放出热量的是放热反应，吸收热量的是吸热反应。原电池把化学能转化成电能。",
+      "domain": "物质的化学变化",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.ST.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B1.ST.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第六章 化学反应与能量 6.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "9cabf305-7cec-535d-9774-4ac1cb24d852",
+          "text": "能区分放热反应和吸热反应"
+        },
+        {
+          "id": "2a36a5c0-0a0a-540d-9460-20f462030e55",
+          "text": "能说明原电池是把化学能转化成电能的装置"
+        }
+      ],
+      "exampleQuestionId": "cnk_h026_q1"
+    },
+    {
+      "id": "cnk_h027",
+      "name": "化学反应的速率与限度",
+      "description": "化学反应有快有慢，也有一定限度。浓度、温度、催化剂和固体接触面积都会影响速率。可逆反应达到平衡时正逆反应仍在进行。",
+      "domain": "物质的化学变化",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.ST.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第六章 化学反应与能量 6.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "ca1e51d5-61d4-5488-8a88-0822c30bbf77",
+          "text": "能指出影响化学反应速率的常见因素"
+        },
+        {
+          "id": "f9735761-3a34-520a-9f6e-72e4e0d46da5",
+          "text": "能说明可逆反应有限度、平衡是动态的"
+        }
+      ],
+      "exampleQuestionId": "cnk_h027_q1"
+    },
+    {
+      "id": "cnk_h028",
+      "name": "整理与提升",
+      "description": "综合第六章：化学反应与能量变化、化学反应的速率与限度。不提前使用有机物或绿色化学的新概念。",
+      "domain": "物质的化学变化",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.ST.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B2.ST.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第六章 化学反应与能量 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "f305255a-792a-5970-b7ed-d6e7b71a3223",
+          "text": "能把放热吸热、原电池和速率限度放在一起判断"
+        },
+        {
+          "id": "8a3a5bfa-c1ab-56e7-a29d-90ccfe24110d",
+          "text": "能指出改变条件怎样影响速率"
+        }
+      ],
+      "exampleQuestionId": "cnk_h028_q1"
+    },
+    {
+      "id": "cnk_h029",
+      "name": "实验活动6 化学能转化成电能",
+      "description": "实验活动 6 用金属、电解质溶液和导线组成原电池，观察电流或灯泡，认识化学能向电能的转化。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.EX.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B2.ST.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第六章 化学反应与能量 实验活动6",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "143bc495-82a4-5131-9c4d-acf349b5befa",
+          "text": "能说出这个实验要把化学能转化成电能"
+        },
+        {
+          "id": "bed25f9c-9ef9-511f-883e-6bacae559f76",
+          "text": "能指出原电池需要活泼性不同的电极和电解质溶液"
+        }
+      ],
+      "exampleQuestionId": "cnk_h029_q1"
+    },
+    {
+      "id": "cnk_h030",
+      "name": "实验活动7 化学反应速率的影响因素",
+      "description": "实验活动 7 通过对照实验观察浓度、温度、催化剂或接触面积对反应快慢的影响。每次最好只改变一个条件。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.EX.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B2.ST.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第六章 化学反应与能量 实验活动7",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "67d839dd-8f33-5f80-a8bf-42a1390f9f2c",
+          "text": "能说出这个实验要探究的是影响速率的因素"
+        },
+        {
+          "id": "f69aef4d-141c-5e01-925a-b19e35dc3a63",
+          "text": "能说明对照实验要控制变量"
+        }
+      ],
+      "exampleQuestionId": "cnk_h030_q1"
+    },
+    {
+      "id": "cnk_h031",
+      "name": "认识有机化合物",
+      "description": "有机化合物主要含碳，并以碳骨架和官能团决定性质。同系物组成相差若干个 CH2，同分异构体分子式相同结构不同。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.OR.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B1.ST.06",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第七章 有机化合物 7.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "f5a75fd4-6cd8-54a1-ab4d-7671d33a2e21",
+          "text": "能指出有机化合物以碳骨架和官能团为认识线索"
+        },
+        {
+          "id": "272e2806-9037-53c3-b139-f73e67d34b31",
+          "text": "能区分同系物和同分异构体"
+        }
+      ],
+      "exampleQuestionId": "cnk_h031_q1"
+    },
+    {
+      "id": "cnk_h032",
+      "name": "乙烯与有机高分子材料",
+      "description": "乙烯分子含碳碳双键，能发生加成反应，也能加聚成聚乙烯。聚乙烯是常见的有机高分子材料。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.OR.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第七章 有机化合物 7.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "eca8c4ab-8c66-5139-ac61-2d8f789cbf23",
+          "text": "能说出乙烯含有碳碳双键、能加成和加聚"
+        },
+        {
+          "id": "99fdfd7c-c963-500c-b12b-6ea9a3b5375c",
+          "text": "能说明聚乙烯由乙烯加聚得到"
+        }
+      ],
+      "exampleQuestionId": "cnk_h032_q1"
+    },
+    {
+      "id": "cnk_h033",
+      "name": "乙醇与乙酸",
+      "description": "乙醇含羟基，能燃烧，能被氧化成乙醛或乙酸，也能与钠反应放出氢气。乙酸含羧基，有酸性，能与乙醇发生酯化。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.OR.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第七章 有机化合物 7.3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "b6391f68-f4fc-566b-8995-7871f496f430",
+          "text": "能说出乙醇和乙酸的主要官能团和典型性质"
+        },
+        {
+          "id": "19f4564b-44c0-5e55-80a0-12e3b03d0de6",
+          "text": "能说明乙醇氧化、乙酸酸性以及酯化的基本事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_h033_q1"
+    },
+    {
+      "id": "cnk_h034",
+      "name": "基本营养物质",
+      "description": "糖类、油脂和蛋白质是基本营养物质。淀粉、葡萄糖属于糖类，油脂水解得到脂肪酸和甘油，蛋白质水解得到氨基酸。",
+      "domain": "物质的性质与应用",
+      "type": "application",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.OR.04",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第七章 有机化合物 7.4",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "6d5615aa-928f-58e1-9f88-8cf1f4e972e7",
+          "text": "能指出糖类、油脂、蛋白质三类基本营养物质"
+        },
+        {
+          "id": "b5ee9ad0-cdeb-52da-8ca0-710a8f241067",
+          "text": "能说明它们水解或特征反应的基本事实"
+        }
+      ],
+      "exampleQuestionId": "cnk_h034_q1"
+    },
+    {
+      "id": "cnk_h035",
+      "name": "整理与提升",
+      "description": "综合第七章：认识有机化合物、乙烯与有机高分子材料、乙醇与乙酸、基本营养物质。不提前使用选择性必修才出现的反应历程。",
+      "domain": "物质的组成与结构",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.OR.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B2.OR.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B2.OR.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第七章 有机化合物 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "f0922554-5ac8-5912-8146-7515a6f6eb90",
+          "text": "能用碳骨架和官能团判断本章典型有机物"
+        },
+        {
+          "id": "afe191bf-89ce-58bf-a8bd-a6b2b2247bd9",
+          "text": "能把加成、加聚、氧化、酯化和营养物质水解对应起来"
+        }
+      ],
+      "exampleQuestionId": "cnk_h035_q1"
+    },
+    {
+      "id": "cnk_h036",
+      "name": "实验活动8 搭建球棍模型认识有机化合物分子结构的特点",
+      "description": "实验活动 8 用球棍模型搭建甲烷、乙烯等分子，观察碳的四条键、双键的连接方式和分子的空间形状。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.EX.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B2.OR.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第七章 有机化合物 实验活动8",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "6afc0383-7437-5dd7-a8af-37e862ccbefc",
+          "text": "能说出球棍模型用来表示原子和化学键"
+        },
+        {
+          "id": "ff9ef76a-8552-5f4c-b63d-bfbd14bc1d8f",
+          "text": "能根据模型指出甲烷是四面体、乙烯含双键"
+        }
+      ],
+      "exampleQuestionId": "cnk_h036_q1"
+    },
+    {
+      "id": "cnk_h037",
+      "name": "实验活动9 乙醇、乙酸的主要性质",
+      "description": "实验活动 9 观察乙醇和乙酸的主要性质，例如乙醇燃烧、与钠反应，乙酸的酸性以及二者在浓硫酸加热下的酯化。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.EX.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B2.OR.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第七章 有机化合物 实验活动9",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "407ae73e-2a01-5b22-bc40-5e2519bfad30",
+          "text": "能说出这个实验要验证乙醇和乙酸的主要性质"
+        },
+        {
+          "id": "a058d5c4-b795-5e89-a6a5-12debdfd03a0",
+          "text": "能指出酯化需要浓硫酸并注意加热安全"
+        }
+      ],
+      "exampleQuestionId": "cnk_h037_q1"
+    },
+    {
+      "id": "cnk_h038",
+      "name": "自然资源的开发利用",
+      "description": "煤、石油、天然气是重要化石能源，海水中有氯化钠等资源，金属矿物经冶炼得到金属。开发利用要节约并减少污染。",
+      "domain": "化学与社会·跨学科实践",
+      "type": "application",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.SO.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第八章 化学与可持续发展 8.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "40b0dfaa-5864-50b6-8bcd-755cf420ad8d",
+          "text": "能举例说明化石能源、海水和矿物的化学利用"
+        },
+        {
+          "id": "dee5ce72-c423-5083-aca5-0ea0836ab155",
+          "text": "能说明合理开发、节约使用的必要性"
+        }
+      ],
+      "exampleQuestionId": "cnk_h038_q1"
+    },
+    {
+      "id": "cnk_h039",
+      "name": "化学品的合理使用",
+      "description": "药品、肥料、农药等化学品能服务生产和生活，但要按量、按说明使用，避免滥用和残留危害。",
+      "domain": "化学与社会·跨学科实践",
+      "type": "application",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.SO.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第八章 化学与可持续发展 8.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "1f247c0f-cac4-5619-8991-4161c6eb61b1",
+          "text": "能举例说明药品和肥料的合理使用"
+        },
+        {
+          "id": "ae4c8464-dd23-54ff-9753-7a649ecb284a",
+          "text": "能指出过量使用化学品可能带来的问题"
+        }
+      ],
+      "exampleQuestionId": "cnk_h039_q1"
+    },
+    {
+      "id": "cnk_h040",
+      "name": "环境保护与绿色化学",
+      "description": "环境保护要求减少污染物排放。绿色化学强调从源头减少污染、提高原子利用率，而不是先污染再治理。",
+      "domain": "化学与社会·跨学科实践",
+      "type": "application",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.SO.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第八章 化学与可持续发展 8.3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "136c0d21-8454-5e78-8e94-a3302585a723",
+          "text": "能说出绿色化学的基本思想"
+        },
+        {
+          "id": "67b3fc07-0990-515f-9f26-eb74e3361fbc",
+          "text": "能把环境保护与减少排放、合理利用资源联系起来"
+        }
+      ],
+      "exampleQuestionId": "cnk_h040_q1"
+    },
+    {
+      "id": "cnk_h041",
+      "name": "整理与提升",
+      "description": "综合第八章：自然资源的开发利用、化学品的合理使用、环境保护与绿色化学。不引入未建的选择性必修概念。",
+      "domain": "化学与社会·跨学科实践",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:B2.SO.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B2.SO.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:B2.SO.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 11,
+        "semester": "上",
+        "chapter": "必修二 第八章 化学与可持续发展 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "e9149f93-53a3-5c3d-8577-3af70aa92bd6",
+          "text": "能把资源利用、化学品使用和绿色化学放在一起判断"
+        },
+        {
+          "id": "26c56fef-4a71-572d-9001-8d87ec201676",
+          "text": "能指出不符合可持续发展的做法"
+        }
+      ],
+      "exampleQuestionId": "cnk_h041_q1"
+    },
+    {
+      "id": "cnk_h042",
+      "name": "引言",
+      "description": "本册从能量、速率与平衡、水溶液中的离子平衡和电能四个角度，继续研究化学反应。",
+      "domain": "物质的化学变化",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.TH.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.DR.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 引言",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "introductory_unit",
+      "masteryCriteria": [
+        {
+          "id": "792238df-36d5-5ef0-884c-95c6012f2396",
+          "text": "能说出本册要研究的是化学反应本身的原理"
+        },
+        {
+          "id": "b4ea9752-f2cb-5c58-acbb-7e92b1652cb6",
+          "text": "能把能量变化和反应是否发生区分开"
+        }
+      ],
+      "exampleQuestionId": "cnk_h042_q1"
+    },
+    {
+      "id": "cnk_h043",
+      "name": "反应热",
+      "description": "反应热表示恒温下反应放出或吸收的热量。放热反应焓变小于零，吸热反应焓变大于零。热化学方程式要注明状态。",
+      "domain": "物质的化学变化",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.TH.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第一章 化学反应的热效应 1.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "214a2fe5-4727-5c7b-94bc-5e63b8e06b76",
+          "text": "热化学方程式计量换算"
+        },
+        {
+          "id": "0233aa32-4474-5687-adc6-6960b577c0fb",
+          "text": "区分焓变符号及状态和计量基准"
+        },
+        {
+          "id": "f1559874-2861-528a-84ac-c5c512cacf61",
+          "text": "按物态检验反应热比较"
+        }
+      ],
+      "exampleQuestionId": "cnk_h043_q1"
+    },
+    {
+      "id": "cnk_h044",
+      "name": "反应热的计算",
+      "description": "反应热只与始态和终态有关。可以用盖斯定律把已知反应的焓变相加减，也可以按热化学方程式的物质的量换算热量。",
+      "domain": "物质的化学变化",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.TH.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.TH.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第一章 化学反应的热效应 1.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "e91e9ddb-1f33-5392-8f5d-daee68cc2eb2",
+          "text": "能用盖斯定律由已知焓变求未知焓变"
+        },
+        {
+          "id": "41d872ea-8875-5b52-b7c8-85794525b1d1",
+          "text": "能按热化学方程式把物质的量换算成热量"
+        }
+      ],
+      "exampleQuestionId": "cnk_h044_q1"
+    },
+    {
+      "id": "cnk_h045",
+      "name": "整理与提升",
+      "description": "综合第一章：反应热的符号、热化学方程式和盖斯定律。不提前使用化学平衡常数或电解的新概念。",
+      "domain": "物质的化学变化",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.TH.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.TH.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第一章 化学反应的热效应 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "06c17282-279e-5600-8cf5-3f4e4c7ea852",
+          "text": "能把放热吸热和焓变符号放在一起判断"
+        },
+        {
+          "id": "d275cb67-ced4-5fa4-9ba7-b693a6f55e5d",
+          "text": "能说明反应热与途径无关"
+        }
+      ],
+      "exampleQuestionId": "cnk_h045_q1"
+    },
+    {
+      "id": "cnk_h046",
+      "name": "化学反应速率",
+      "description": "化学反应速率常用单位时间内浓度的变化来表示。浓度、压强、温度、催化剂和固体接触面积都会影响速率。",
+      "domain": "物质的化学变化",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.DR.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第二章 化学反应速率与化学平衡 2.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "fdee3358-0922-575a-b7d6-69fe9ae60303",
+          "text": "根据浓度变化计算平均速率"
+        },
+        {
+          "id": "2314e04a-26e0-5e45-8cd2-a09f9431fb6e",
+          "text": "辨析速率计量和反应限度"
+        },
+        {
+          "id": "7a275055-5815-50a5-8a96-b60b2b33bb1f",
+          "text": "评价速率实验的因果证据"
+        }
+      ],
+      "exampleQuestionId": "cnk_h046_q1"
+    },
+    {
+      "id": "cnk_h047",
+      "name": "化学平衡",
+      "description": "可逆反应达到化学平衡时，正逆反应速率相等，各组分浓度不再改变，反应仍在进行。浓度商小于平衡常数时反应正向进行。平衡常数主要随温度改变。",
+      "domain": "物质的化学变化",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.DR.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第二章 化学反应速率与化学平衡 2.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "fd1aa9c1-bf27-5751-9de8-2de4fc0d4ca4",
+          "text": "计算平衡常数"
+        },
+        {
+          "id": "2973ac1b-dca9-5e7a-8e7d-5c3243007d01",
+          "text": "区分动态平衡、催化速率与限度"
+        },
+        {
+          "id": "ffdd8483-543f-5a4d-b624-07373fb03861",
+          "text": "综合方向判据与催化条件解释"
+        }
+      ],
+      "exampleQuestionId": "cnk_h047_q1"
+    },
+    {
+      "id": "cnk_h048",
+      "name": "化学反应的方向",
+      "description": "反应能否自发进行，要同时看焓变和熵变。焓减且熵增的反应，自发趋势更明显。这里只做定性判断，不计算具体的自由能数值。",
+      "domain": "物质的化学变化",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.DR.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第二章 化学反应速率与化学平衡 2.3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "b4f37ee5-2de7-5639-8c46-37651deda9f3",
+          "text": "能说明自发趋势要同时看焓变和熵变"
+        },
+        {
+          "id": "7a2bf933-4d25-590f-965b-b63b49106d31",
+          "text": "能判断焓减且熵增的反应更倾向于自发"
+        }
+      ],
+      "exampleQuestionId": "cnk_h048_q1"
+    },
+    {
+      "id": "cnk_h049",
+      "name": "化学反应的调控",
+      "description": "可以通过浓度、压强、温度和催化剂调控速率与平衡。加压使气体分子数减少的方向占优势；升温使吸热方向占优势；催化剂加快反应但不移动平衡。",
+      "domain": "物质的化学变化",
+      "type": "application",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.DR.04",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.DR.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第二章 化学反应速率与化学平衡 2.4",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "5c2430fc-c567-5e72-960b-c53dc43a8bfb",
+          "text": "能根据条件变化说明平衡移动方向"
+        },
+        {
+          "id": "ba4c863c-f156-582d-8489-51cabe81dab2",
+          "text": "能说明催化剂加快反应但不改变平衡限度"
+        }
+      ],
+      "exampleQuestionId": "cnk_h049_q1"
+    },
+    {
+      "id": "cnk_h050",
+      "name": "整理与提升",
+      "description": "综合第二章：反应速率、化学平衡、反应方向和调控。不引入水溶液电离常数或电解池的新概念。",
+      "domain": "物质的化学变化",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.DR.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.DR.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.DR.04",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第二章 化学反应速率与化学平衡 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "803f2800-dcf4-58c8-ac94-b479f80f7dac",
+          "text": "能区分速率、平衡和方向"
+        },
+        {
+          "id": "0bb63e29-c47d-5062-9bc5-351fe2dcf137",
+          "text": "能判断改变条件后速率和平衡分别怎样变"
+        }
+      ],
+      "exampleQuestionId": "cnk_h050_q1"
+    },
+    {
+      "id": "cnk_h051",
+      "name": "实验活动1 探究影响化学平衡移动的因素",
+      "description": "实验活动 1 通过改变浓度、温度或压强，观察可逆体系的现象变化，判断平衡是否移动。每次尽量只改变一个条件。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.EX.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.EX.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.DR.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第二章 化学反应速率与化学平衡 实验活动1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "21cbb163-1f99-5fe5-9f5a-f079c8a02a02",
+          "text": "能说出这个实验要探究的是影响平衡移动的因素"
+        },
+        {
+          "id": "89baefbd-595d-5598-a569-4f6b3ed470f1",
+          "text": "能说明对照时要控制变量，并记录现象"
+        }
+      ],
+      "exampleQuestionId": "cnk_h051_q1"
+    },
+    {
+      "id": "cnk_h052",
+      "name": "电离平衡",
+      "description": "强电解质在水中完全电离。弱电解质只部分电离，存在电离平衡。稀释弱酸时，电离程度通常增大。",
+      "domain": "物质的化学变化",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.AQ.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第三章 水溶液中的离子反应与平衡 3.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "57572539-2a23-524b-95b9-90a15b558e0f",
+          "text": "计算弱电解质电离度"
+        },
+        {
+          "id": "e1c92f31-3a0c-5943-b925-dcdaf10435f6",
+          "text": "区分弱电离与低浓度及反应能力"
+        },
+        {
+          "id": "86ec0da5-e94e-5ecd-923f-66023ec24476",
+          "text": "解释稀释时电离程度与酸性的不同变化"
+        }
+      ],
+      "exampleQuestionId": "cnk_h052_q1"
+    },
+    {
+      "id": "cnk_h053",
+      "name": "水的电离和溶液的pH",
+      "description": "水能微弱电离。常温下中性溶液 pH 等于 7，酸性小于 7，碱性大于 7。稀强酸可按完全电离由氢离子浓度估计 pH。",
+      "domain": "物质的化学变化",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.AQ.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第三章 水溶液中的离子反应与平衡 3.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "707d4a2f-a95a-52ac-abd3-9c477a358646",
+          "text": "由氢离子浓度计算pH"
+        },
+        {
+          "id": "5b88f4d4-d076-5db0-bbf7-16d2935192e8",
+          "text": "识别中性判据与pH非线性"
+        },
+        {
+          "id": "1e8ea13c-b509-5f55-85f3-4acd1da9ec09",
+          "text": "用中和计量而非体积或pH平均判断混合液"
+        }
+      ],
+      "exampleQuestionId": "cnk_h053_q1"
+    },
+    {
+      "id": "cnk_h054",
+      "name": "盐类的水解",
+      "description": "盐类水解是弱离子与水结合，生成弱电解质。强酸弱碱盐溶液常显酸性，强碱弱酸盐溶液常显碱性，强酸强碱盐一般不水解。",
+      "domain": "物质的化学变化",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.AQ.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第三章 水溶液中的离子反应与平衡 3.3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "6921374e-e45a-5959-844f-4b577bbda178",
+          "text": "能判断常见盐溶液的酸碱性"
+        },
+        {
+          "id": "1ed1a7ca-bc4a-51c2-a1d2-99e3123eef72",
+          "text": "能说明水解是弱离子与水的作用"
+        }
+      ],
+      "exampleQuestionId": "cnk_h054_q1"
+    },
+    {
+      "id": "cnk_h055",
+      "name": "沉淀溶解平衡",
+      "description": "难溶电解质在水中存在沉淀溶解平衡。离子浓度增大到超过限度时会析出沉淀；把构成沉淀的离子消耗掉，沉淀会溶解。",
+      "domain": "物质的化学变化",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.AQ.04",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第三章 水溶液中的离子反应与平衡 3.4",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "395cb909-69f8-5d19-b011-a986e181dce5",
+          "text": "能说明沉淀溶解是动态平衡"
+        },
+        {
+          "id": "d726f252-44b8-59b1-9ca0-35516f97afa9",
+          "text": "能定性判断离子浓度变化对沉淀生成或溶解的影响"
+        }
+      ],
+      "exampleQuestionId": "cnk_h055_q1"
+    },
+    {
+      "id": "cnk_h056",
+      "name": "整理与提升",
+      "description": "综合第三章：电离平衡、水的电离和 pH、盐类水解、沉淀溶解平衡。不引入原电池和电解池。",
+      "domain": "物质的化学变化",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.AQ.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.AQ.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.AQ.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第三章 水溶液中的离子反应与平衡 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "9841efb0-e16e-5b1b-bdc2-af0f7c340f1d",
+          "text": "能把弱电解质、pH、水解和沉淀放在一起判断"
+        },
+        {
+          "id": "4366a26e-0760-57ec-98de-8e37c7132c45",
+          "text": "能说明这些平衡都会因浓度变化而移动"
+        }
+      ],
+      "exampleQuestionId": "cnk_h056_q1"
+    },
+    {
+      "id": "cnk_h057",
+      "name": "实验活动2 强酸与强碱的中和滴定",
+      "description": "实验活动 2 用已知浓度的强酸或强碱滴定未知浓度的另一方，靠指示剂判断终点，并用物质的量关系计算浓度。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.EX.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.AQ.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第三章 水溶液中的离子反应与平衡 实验活动2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "82a98f58-6113-5a7b-804e-38334ec6b9cd",
+          "text": "能说出中和滴定是为了测定浓度"
+        },
+        {
+          "id": "13f3938f-fcd3-5ec2-8dda-dc764c9bb631",
+          "text": "能指出滴定要控制滴速并平视读数"
+        }
+      ],
+      "exampleQuestionId": "cnk_h057_q1"
+    },
+    {
+      "id": "cnk_h058",
+      "name": "实验活动3 盐类水解的应用",
+      "description": "实验活动 3 利用盐类水解，例如观察盐溶液的酸碱性，或用加热促进水解来制备胶体、除去杂质。操作上要控制温度，不把溶液蒸干硬烤。",
+      "domain": "科学探究与化学实验",
+      "type": "application",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.EX.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.AQ.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第三章 水溶液中的离子反应与平衡 实验活动3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "6c231f7f-ac4d-5bff-b2c0-5cf1c16ba27f",
+          "text": "能说出这个实验要用盐类水解解决问题"
+        },
+        {
+          "id": "a3356ca4-3934-5f2b-9203-209e6584f5aa",
+          "text": "能指出加热常能促进水解，并注意安全"
+        }
+      ],
+      "exampleQuestionId": "cnk_h058_q1"
+    },
+    {
+      "id": "cnk_h059",
+      "name": "原电池",
+      "description": "原电池把化学能转化为电能。较活泼的电极作负极，发生氧化反应；正极发生还原反应。电子经导线由负极流向正极。",
+      "domain": "物质的化学变化",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.EL.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第四章 化学反应与电能 4.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "3230ccac-726f-57db-b776-1d194d25553d",
+          "text": "根据半反应计算电子物质的量"
+        },
+        {
+          "id": "6861319a-a3ad-5371-a132-8bb778292172",
+          "text": "识别电极反应和载流路径"
+        },
+        {
+          "id": "beb4b3ae-fd90-5681-a59f-6b569ba4f11c",
+          "text": "从电荷守恒诊断原电池断流原因"
+        }
+      ],
+      "exampleQuestionId": "cnk_h059_q1"
+    },
+    {
+      "id": "cnk_h060",
+      "name": "电解池",
+      "description": "电解池把电能转化为化学能。与电源正极相连的是阳极，发生氧化反应；阴极发生还原反应。",
+      "domain": "物质的化学变化",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.EL.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第四章 化学反应与电能 4.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "326239c3-5602-5992-80d8-370d24c10805",
+          "text": "电子计量换算电极析出质量"
+        },
+        {
+          "id": "dc850b69-dad7-52bc-a3dd-3b40adf3ae8e",
+          "text": "区分电极极性、反应与材料条件"
+        },
+        {
+          "id": "a75d897e-84d3-5f3e-b35e-614a3670bee6",
+          "text": "检查电量计算中的反应物限量"
+        }
+      ],
+      "exampleQuestionId": "cnk_h060_q1"
+    },
+    {
+      "id": "cnk_h061",
+      "name": "金属的腐蚀与防护",
+      "description": "钢铁在潮湿空气中会发生电化学腐蚀。防护可以用涂覆、改变成分，或连接更活泼的金属作牺牲阳极。",
+      "domain": "物质的化学变化",
+      "type": "application",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.EL.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第四章 化学反应与电能 4.3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "a44ecb18-7c4e-5d61-a078-18b3c8e3020d",
+          "text": "能说出电化学腐蚀需要水和氧气等条件"
+        },
+        {
+          "id": "39a1cd6c-b4aa-5faf-80d7-b32e26b0bdcd",
+          "text": "能举例说明牺牲阳极和覆盖层怎样保护金属"
+        }
+      ],
+      "exampleQuestionId": "cnk_h061_q1"
+    },
+    {
+      "id": "cnk_h062",
+      "name": "整理与提升",
+      "description": "综合第四章：原电池、电解池、金属的腐蚀与防护。不引入未建的选择性必修其他模块。",
+      "domain": "物质的化学变化",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.EL.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.EL.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.EL.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第四章 化学反应与电能 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "a6854319-af22-5b24-9f73-8227d7b9c273",
+          "text": "能区分原电池和电解池的能量转化"
+        },
+        {
+          "id": "5ccc3bc5-2109-5bf1-8deb-c5ee452cf78d",
+          "text": "能把电极反应和金属防护联系起来"
+        }
+      ],
+      "exampleQuestionId": "cnk_h062_q1"
+    },
+    {
+      "id": "cnk_h063",
+      "name": "实验活动4 简单的电镀实验",
+      "description": "实验活动 4 用直流电源把金属镀到工件表面。待镀件作阴极，镀层金属作阳极，电解液中含有该金属的离子。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.EX.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.EL.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第四章 化学反应与电能 实验活动4",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "dc7c0b70-763f-5fa7-82e9-dd87f01711be",
+          "text": "能说出电镀实验里工件应接阴极"
+        },
+        {
+          "id": "64c055da-7a1c-5658-942b-5b87091fc0b5",
+          "text": "能指出电极接反会得不到预期镀层"
+        }
+      ],
+      "exampleQuestionId": "cnk_h063_q1"
+    },
+    {
+      "id": "cnk_h064",
+      "name": "实验活动5 制作简单的燃料电池",
+      "description": "实验活动 5 用燃料和氧化剂在两个电极上反应，把化学能转化成电能。氢氧燃料电池中，氢气在负极被氧化。氢气易燃，要远离明火。",
+      "domain": "科学探究与化学实验",
+      "type": "application",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S1.EX.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S1.EL.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 12,
+        "semester": "上",
+        "chapter": "选必一 第四章 化学反应与电能 实验活动5",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "755e5252-a47d-5d70-8ec7-9c3338a90220",
+          "text": "能说出燃料电池是在持续供给燃料时把化学能变成电能"
+        },
+        {
+          "id": "f667bbc3-e0be-57d0-9c43-98cfdbca9ebb",
+          "text": "能指出氢气易燃，实验要远离明火"
+        }
+      ],
+      "exampleQuestionId": "cnk_h064_q1"
+    },
+    {
+      "id": "cnk_h065",
+      "name": "引言",
+      "description": "本册从原子、分子和晶体三个层次继续研究物质的结构，并用结构解释性质。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S2.AT.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S2.MO.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 13,
+        "semester": "上",
+        "chapter": "选必二 引言",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "introductory_unit",
+      "masteryCriteria": [
+        {
+          "id": "abe4d256-03d8-5b7e-a079-7add10322d79",
+          "text": "能说出本册要研究的是物质结构与性质的关系"
+        },
+        {
+          "id": "523bdf5b-4f38-5798-abe7-d46c74afeeea",
+          "text": "能把组成、结构和宏观性质对应起来"
+        }
+      ],
+      "exampleQuestionId": "cnk_h065_q1"
+    },
+    {
+      "id": "cnk_h066",
+      "name": "原子结构",
+      "description": "原子核外电子按能层、能级排布。能层常用 K、L、M 表示，能级有 s、p、d、f。基态原子的电子排布遵循能量最低等规则。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S2.AT.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 13,
+        "semester": "上",
+        "chapter": "选必二 第一章 原子结构与性质 1.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "21581a8a-5be7-50f3-8766-5f1ef2d28969",
+          "text": "能说出能层和能级的基本记号"
+        },
+        {
+          "id": "206dd1c0-e852-5bde-8d4c-88fc2322fb19",
+          "text": "能判断常见主族元素基态原子的核外电子排布"
+        }
+      ],
+      "exampleQuestionId": "cnk_h066_q1"
+    },
+    {
+      "id": "cnk_h067",
+      "name": "原子结构与元素的性质",
+      "description": "电离能和电负性与原子结构有关。同周期从左到右，第一电离能和电负性总趋势增大；同主族从上到下，金属性增强。",
+      "domain": "物质的组成与结构",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S2.AT.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 13,
+        "semester": "上",
+        "chapter": "选必二 第一章 原子结构与性质 1.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "fe11b91d-5c2b-518d-bf16-0ded305710e3",
+          "text": "能说明第一电离能和电负性的含义"
+        },
+        {
+          "id": "edc6405b-1ca2-5e6d-960b-41af178e3eb6",
+          "text": "能用原子结构解释元素性质的递变"
+        }
+      ],
+      "exampleQuestionId": "cnk_h067_q1"
+    },
+    {
+      "id": "cnk_h068",
+      "name": "整理与提升",
+      "description": "综合第一章：核外电子排布、电离能和电负性。不提前使用分子构型或晶体类型的新概念。",
+      "domain": "物质的组成与结构",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S2.AT.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S2.AT.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 13,
+        "semester": "上",
+        "chapter": "选必二 第一章 原子结构与性质 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "a0b63543-d19e-5ac2-bd7e-8eee67e02833",
+          "text": "能把电子排布和元素性质放在一起判断"
+        },
+        {
+          "id": "bf4bd187-b9a8-542c-bb5d-316e9fb42458",
+          "text": "能说明电离能、电负性与原子结构的关系"
+        }
+      ],
+      "exampleQuestionId": "cnk_h068_q1"
+    },
+    {
+      "id": "cnk_h069",
+      "name": "共价键",
+      "description": "共价键由原子共用电子对形成。键长、键能、键角是常见键参数。σ 键沿键轴重叠，π 键侧面重叠。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S2.MO.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 13,
+        "semester": "上",
+        "chapter": "选必二 第二章 分子结构与性质 2.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "4083c586-b1da-5886-abda-d0c6f6af1234",
+          "text": "能说明共价键是共用电子对形成的"
+        },
+        {
+          "id": "ae6e344d-6d43-57a5-b43a-86dc14d86b41",
+          "text": "能比较键长、键能与键的牢固程度"
+        }
+      ],
+      "exampleQuestionId": "cnk_h069_q1"
+    },
+    {
+      "id": "cnk_h070",
+      "name": "分子的空间结构",
+      "description": "价层电子对互斥模型用中心原子周围的成键电子对和孤对电子判断分子构型。常见构型有直线形、平面三角形、四面体形、三角锥形和 V 形。",
+      "domain": "物质的组成与结构",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S2.MO.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 13,
+        "semester": "上",
+        "chapter": "选必二 第二章 分子结构与性质 2.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "7ca55791-fd78-56be-bd0f-fe76133c7f26",
+          "text": "计算中心原子价层电子域数"
+        },
+        {
+          "id": "bb60e84f-da8c-591f-833e-681436f927ec",
+          "text": "区分电子域几何和分子构型"
+        },
+        {
+          "id": "3a5b4ff4-c148-580a-a351-c6039250b71e",
+          "text": "用结构与对称性判断分子极性"
+        }
+      ],
+      "exampleQuestionId": "cnk_h070_q1"
+    },
+    {
+      "id": "cnk_h071",
+      "name": "分子结构与物质的性质",
+      "description": "分子极性取决于键的极性和空间构型。极性分子较易溶于极性溶剂。氢键使水的熔沸点明显高于相对分子质量相近的甲烷。",
+      "domain": "物质的组成与结构",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S2.MO.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 13,
+        "semester": "上",
+        "chapter": "选必二 第二章 分子结构与性质 2.3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "02a60039-01b2-5240-80c0-7d70a6116ab1",
+          "text": "能根据构型判断分子是否有极性"
+        },
+        {
+          "id": "db42eece-3d2e-5ebf-bf5b-64cb115b659a",
+          "text": "能用相似相溶和氢键说明简单的性质差异"
+        }
+      ],
+      "exampleQuestionId": "cnk_h071_q1"
+    },
+    {
+      "id": "cnk_h072",
+      "name": "整理与提升",
+      "description": "综合第二章：共价键、分子的空间结构和结构对性质的影响。不提前使用晶体类型的新分类。",
+      "domain": "物质的组成与结构",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S2.MO.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S2.MO.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S2.MO.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 13,
+        "semester": "上",
+        "chapter": "选必二 第二章 分子结构与性质 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "002123b2-0d3a-5672-bf47-f30ac4b02e5a",
+          "text": "能把键参数、分子构型和极性放到一起判断"
+        },
+        {
+          "id": "54d8619e-ef9d-5368-b84c-9255c2d484a4",
+          "text": "能用结构说明溶解性和熔沸点的简单差异"
+        }
+      ],
+      "exampleQuestionId": "cnk_h072_q1"
+    },
+    {
+      "id": "cnk_h073",
+      "name": "物质的聚集状态与晶体的常识",
+      "description": "晶体内部微粒在三维空间做周期性有序排列，非晶体没有这种长程有序。晶胞是晶体结构的基本重复单位。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S2.CR.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 13,
+        "semester": "上",
+        "chapter": "选必二 第三章 晶体结构与性质 3.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "73bbe6a5-903e-5d05-97de-f5db5a47e67a",
+          "text": "能区分晶体与非晶体"
+        },
+        {
+          "id": "c160dcc5-6930-5d3c-a25c-5c72ac17a5b6",
+          "text": "能说明晶胞是重复单位，并做简单的顶点原子分摊"
+        }
+      ],
+      "exampleQuestionId": "cnk_h073_q1"
+    },
+    {
+      "id": "cnk_h074",
+      "name": "分子晶体与共价晶体",
+      "description": "分子晶体靠分子间作用力结合，例如干冰。共价晶体靠共价键形成空间网状结构，例如金刚石。前者熔点通常较低，后者硬度大、熔点高。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S2.CR.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 13,
+        "semester": "上",
+        "chapter": "选必二 第三章 晶体结构与性质 3.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "990f18ea-4375-5989-9b0c-79ac32a0926b",
+          "text": "能判断干冰属于分子晶体、金刚石属于共价晶体"
+        },
+        {
+          "id": "b90c1fb6-f924-51ef-a43f-2ae0673e2e6a",
+          "text": "能用作用力类型说明两者熔点和硬度的差别"
+        }
+      ],
+      "exampleQuestionId": "cnk_h074_q1"
+    },
+    {
+      "id": "cnk_h075",
+      "name": "金属晶体与离子晶体",
+      "description": "金属晶体靠金属键结合，电子可以流动，因而导电、有延展性。离子晶体由阴阳离子通过离子键结合，熔融或溶于水时能导电。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S2.CR.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 13,
+        "semester": "上",
+        "chapter": "选必二 第三章 晶体结构与性质 3.3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "024b2878-3999-5c19-975f-2d03fee0c352",
+          "text": "能判断金属单质属于金属晶体、氯化钠属于离子晶体"
+        },
+        {
+          "id": "72e9e4ec-9efd-59ab-9b42-95ed901541df",
+          "text": "能说明金属导电、延展和离子晶体导电的结构原因"
+        }
+      ],
+      "exampleQuestionId": "cnk_h075_q1"
+    },
+    {
+      "id": "cnk_h076",
+      "name": "配合物与超分子",
+      "description": "配合物由中心原子（或离子）与配体通过配位键结合。配体提供孤对电子。超分子靠分子间作用力等较弱相互作用组装。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S2.CR.04",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 13,
+        "semester": "上",
+        "chapter": "选必二 第三章 晶体结构与性质 3.4",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "70e3d7fe-f03b-55ee-b2d8-4483f7ae47f2",
+          "text": "能指出配合物中的中心原子和配体"
+        },
+        {
+          "id": "38d60d67-9462-53b7-95a0-fcfd3abaa6e6",
+          "text": "能把配位键和超分子的较弱相互作用区分开"
+        }
+      ],
+      "exampleQuestionId": "cnk_h076_q1"
+    },
+    {
+      "id": "cnk_h077",
+      "name": "整理与提升",
+      "description": "综合第三章：晶体常识、分子晶体与共价晶体、金属晶体与离子晶体、配合物与超分子。不引入未建的有机化学新模块。",
+      "domain": "物质的组成与结构",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S2.CR.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S2.CR.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S2.CR.04",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 13,
+        "semester": "上",
+        "chapter": "选必二 第三章 晶体结构与性质 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "6c35ac8d-04f7-5eb2-aae1-e6fbf32932df",
+          "text": "能按作用力类型区分四类常见晶体"
+        },
+        {
+          "id": "a6147837-d215-569c-acbc-bd25c44d1dec",
+          "text": "能把配合物和晶体类型放到一起判断"
+        }
+      ],
+      "exampleQuestionId": "cnk_h077_q1"
+    },
+    {
+      "id": "cnk_h078",
+      "name": "实验活动 简单配合物的形成",
+      "description": "实验活动观察简单配合物的形成。硫酸铜溶液与氨水作用，常先出现沉淀，随后溶解得到深蓝色的铜氨配离子溶液。氨水有刺激性，要在通风条件下取用。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S2.EX.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S2.EX.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S2.CR.04",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 13,
+        "semester": "上",
+        "chapter": "选必二 第三章 晶体结构与性质 实验活动",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "a0cb2864-8a8a-5c78-ac23-da925e0aedf1",
+          "text": "能说出本实验是为了观察简单配合物的形成"
+        },
+        {
+          "id": "00344e5f-495f-5d81-9a4a-b0eaebd77073",
+          "text": "能把深蓝色溶液与铜氨配离子对应起来，并注意氨水的刺激性"
+        }
+      ],
+      "exampleQuestionId": "cnk_h078_q1"
+    },
+    {
+      "id": "cnk_h079",
+      "name": "引言",
+      "description": "本册在必修有机化合物的基础上，继续研究有机物的结构、性质和转化。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.OS.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 引言",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "introductory_unit",
+      "masteryCriteria": [
+        {
+          "id": "84fa09c7-ca18-56e9-9e78-cbf26341fc67",
+          "text": "能说出本册研究的是有机化合物的结构与性质"
+        },
+        {
+          "id": "aa8079a9-eb4a-54c9-b4a4-7b74c8f93e25",
+          "text": "能把碳骨架、官能团和性质对应起来"
+        }
+      ],
+      "exampleQuestionId": "cnk_h079_q1"
+    },
+    {
+      "id": "cnk_h080",
+      "name": "有机化合物的结构特点",
+      "description": "碳原子通常形成四个共价键。甲烷是正四面体。同分异构体分子式相同、结构不同；同系物组成相差若干个 CH2。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.OS.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第一章 有机化合物的结构特点与研究方法 1.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "2ba4a687-fd35-542a-aa31-c008c61680cb",
+          "text": "执行特定结构类型的通式"
+        },
+        {
+          "id": "8d2735ae-b3ee-58dc-a329-1ec012b2df0c",
+          "text": "分子式、结构式与官能团的区别"
+        },
+        {
+          "id": "68763211-1899-53e3-befa-af4f8219c2be",
+          "text": "按同分异构候选选择鉴别证据"
+        }
+      ],
+      "exampleQuestionId": "cnk_h080_q1"
+    },
+    {
+      "id": "cnk_h081",
+      "name": "研究有机化合物的一般方法",
+      "description": "研究有机物通常先分离提纯，再测元素组成和相对分子质量，从而确定分子式，并用谱学信息帮助判断官能团。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.OS.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第一章 有机化合物的结构特点与研究方法 1.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "2fca1900-ea02-57c2-a4ef-0d1db81675bc",
+          "text": "能说出研究有机物要先得到较纯的样品"
+        },
+        {
+          "id": "d21c6249-baab-54f9-b625-cc0f8a569ba0",
+          "text": "能由燃烧产物推算分子中的碳、氢原子数"
+        }
+      ],
+      "exampleQuestionId": "cnk_h081_q1"
+    },
+    {
+      "id": "cnk_h082",
+      "name": "整理与提升",
+      "description": "综合第一章：碳的成键、同分异构与同系物、研究有机物的一般方法。不提前使用烷烃取代或烯烃加成的新反应。",
+      "domain": "物质的组成与结构",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.OS.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S3.OS.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第一章 有机化合物的结构特点与研究方法 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "fe75ffc5-dd40-5a13-bddd-0d6ac9d0c328",
+          "text": "能把碳骨架、官能团和同分异构放在一起判断"
+        },
+        {
+          "id": "cd3c36c8-6d9d-5d8e-9d9a-08ea3f7d87c9",
+          "text": "能选择合适的分离思路"
+        }
+      ],
+      "exampleQuestionId": "cnk_h082_q1"
+    },
+    {
+      "id": "cnk_h083",
+      "name": "烷烃",
+      "description": "烷烃是饱和烃，碳原子之间只有单键，通式为 CnH2n+2。甲烷与氯气在光照下发生取代反应，不能发生加成。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.HY.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第二章 烃 2.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "895a9cf8-587e-51c5-9414-c0d7c82bade8",
+          "text": "能写出烷烃的通式并判断饱和性"
+        },
+        {
+          "id": "6bb430f3-6ae9-5983-be57-8031f6a5dd30",
+          "text": "能说明光照下甲烷与氯气发生取代"
+        }
+      ],
+      "exampleQuestionId": "cnk_h083_q1"
+    },
+    {
+      "id": "cnk_h084",
+      "name": "烯烃、炔烃",
+      "description": "烯烃含碳碳双键，通式常写作 CnH2n；炔烃含碳碳三键，通式常写作 CnH2n-2。它们能与溴发生加成，也能被酸性高锰酸钾氧化。乙烯还可以加聚。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.HY.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第二章 烃 2.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "3265cd7d-9883-53e8-bb74-3391bcd58aa9",
+          "text": "能指出烯烃、炔烃的官能团和通式"
+        },
+        {
+          "id": "fa03d931-590a-5305-bb74-d5a30265b53d",
+          "text": "能说明加成与烷烃取代的差别"
+        }
+      ],
+      "exampleQuestionId": "cnk_h084_q1"
+    },
+    {
+      "id": "cnk_h085",
+      "name": "芳香烃",
+      "description": "苯的分子式是 C6H6。六个碳碳键等同，苯环比较稳定，通常发生取代而不是像烯烃那样加成。甲苯的侧链甲基可被酸性高锰酸钾氧化，苯本身通常不能。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.HY.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第二章 烃 2.3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "f23239a3-bbec-54d3-b606-d5bd7a3fb0f2",
+          "text": "能写出苯的分子式并说明苯环的特殊性"
+        },
+        {
+          "id": "0082997f-49fe-57a5-9d6d-0a70f57302fc",
+          "text": "能区分苯和甲苯对酸性高锰酸钾的表现"
+        }
+      ],
+      "exampleQuestionId": "cnk_h085_q1"
+    },
+    {
+      "id": "cnk_h086",
+      "name": "整理与提升",
+      "description": "综合第二章：烷烃、烯烃、炔烃和芳香烃。不提前使用卤代烃水解或醇的氧化。",
+      "domain": "物质的性质与应用",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.HY.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第二章 烃 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "c1fc13d6-dbf9-5fc2-84d5-e2bf9980b44c",
+          "text": "能按饱和性和官能团区分三类烃"
+        },
+        {
+          "id": "51946ef0-3b54-5c7d-a76e-c238b7364d63",
+          "text": "能把取代、加成和苯环的稳定性对应起来"
+        }
+      ],
+      "exampleQuestionId": "cnk_h086_q1"
+    },
+    {
+      "id": "cnk_h087",
+      "name": "卤代烃",
+      "description": "卤代烃含碳卤键。在氢氧化钠水溶液中加热主要发生取代，生成醇；在氢氧化钠醇溶液中加热主要发生消去，生成烯烃。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.HY.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第三章 烃的衍生物 3.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "17ed6481-e382-593d-98f9-1414792266cf",
+          "text": "能指出卤代烃的官能团"
+        },
+        {
+          "id": "97adcebe-6341-5750-a95e-80d0652116f7",
+          "text": "能按水溶液或醇溶液区分水解和消去"
+        }
+      ],
+      "exampleQuestionId": "cnk_h087_q1"
+    },
+    {
+      "id": "cnk_h088",
+      "name": "醇、酚",
+      "description": "醇的羟基连在饱和碳上，酚的羟基直接连在苯环上。乙醇可被催化氧化成乙醛，也能与羧酸酯化。苯酚遇三氯化铁显紫色，酸性弱于碳酸、强于乙醇。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.HY.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第三章 烃的衍生物 3.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "ed2f929f-e5ca-5164-bf75-f106fbf4092e",
+          "text": "能区分醇羟基和酚羟基的典型现象"
+        },
+        {
+          "id": "5895dfbf-2e38-5b0f-a8d7-69931690b0a4",
+          "text": "能说明乙醇催化氧化和酸性顺序"
+        }
+      ],
+      "exampleQuestionId": "cnk_h088_q1"
+    },
+    {
+      "id": "cnk_h089",
+      "name": "醛、酮",
+      "description": "醛含醛基，能发生银镜反应，也能与新制氢氧化铜共热生成砖红色氧化亚铜。一般的酮不能发生银镜反应。醛加氢得到伯醇。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.HY.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第三章 烃的衍生物 3.3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "5356d7fe-d7e7-5d93-b8da-67f17554ecf5",
+          "text": "能指出醛基并能描述银镜或氢氧化铜试验"
+        },
+        {
+          "id": "1ab39972-8d32-5dae-a98b-aa637c1d9a2c",
+          "text": "能说明一般的酮不能发生银镜反应"
+        }
+      ],
+      "exampleQuestionId": "cnk_h089_q1"
+    },
+    {
+      "id": "cnk_h090",
+      "name": "羧酸、羧酸衍生物",
+      "description": "羧酸含羧基，有酸性。乙酸与乙醇在浓硫酸加热下发生酯化，生成乙酸乙酯和水。酯在碱溶液中水解，生成羧酸盐和醇。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.HY.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第三章 烃的衍生物 3.4",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "69e63c15-65e4-52bf-9c5e-54f87d509357",
+          "text": "能指出羧基和酯化反应"
+        },
+        {
+          "id": "8c36bbae-b990-58f8-85c8-0ee4ef6e1f1b",
+          "text": "能区分酸催化酯化与碱性水解的产物"
+        }
+      ],
+      "exampleQuestionId": "cnk_h090_q1"
+    },
+    {
+      "id": "cnk_h091",
+      "name": "有机合成",
+      "description": "有机合成要同时安排碳骨架和官能团转化。卤代烃水解得醇，醇氧化得醛或羧酸，羧酸与醇酯化得酯。消去和水解的条件不能混用。",
+      "domain": "物质的性质与应用",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.HY.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第三章 烃的衍生物 3.5",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "4a3857ba-2015-5063-95ca-4b463eda34ff",
+          "text": "能按官能团转化选择合理路线"
+        },
+        {
+          "id": "bfe8a483-9848-5359-a808-f77b95eb9151",
+          "text": "能区分水解与消去的条件"
+        }
+      ],
+      "exampleQuestionId": "cnk_h091_q1"
+    },
+    {
+      "id": "cnk_h092",
+      "name": "整理与提升",
+      "description": "综合第三章：卤代烃、醇、酚、醛、酮、羧酸、羧酸衍生物和有机合成。不提前使用糖类或高分子。",
+      "domain": "物质的性质与应用",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.HY.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S3.HY.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第三章 烃的衍生物 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "1b292f62-8880-505a-b293-6d1a288fb704",
+          "text": "能按官能团和条件判断反应类型"
+        },
+        {
+          "id": "82d75b97-895f-5c01-b984-0b33d0668b76",
+          "text": "能把一条简单的官能团转化路线串起来"
+        }
+      ],
+      "exampleQuestionId": "cnk_h092_q1"
+    },
+    {
+      "id": "cnk_h093",
+      "name": "实验活动1 乙酸乙酯的制备与性质",
+      "description": "实验活动制备乙酸乙酯并观察其性质。乙酸与乙醇在浓硫酸催化下加热，用饱和碳酸钠溶液吸收乙酸、溶解乙醇，并降低酯的溶解度。浓硫酸有强腐蚀性。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.EX.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S3.EX.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第三章 烃的衍生物 实验活动1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "a7390b32-0989-508c-8e0c-7c3cb1c51584",
+          "text": "能说出本实验是为了制备并认识乙酸乙酯"
+        },
+        {
+          "id": "570b6c55-b5f1-5376-9a0d-701f0df76cf1",
+          "text": "能说明浓硫酸和饱和碳酸钠溶液的作用及安全要点"
+        }
+      ],
+      "exampleQuestionId": "cnk_h093_q1"
+    },
+    {
+      "id": "cnk_h094",
+      "name": "实验活动2 有机化合物中常见官能团的检验",
+      "description": "官能团检验要看适用范围和干扰。银镜和新制氢氧化铜针对醛基等还原性基团；三氯化铁针对酚；溴水和酸性高锰酸钾都能与多种有机物作用，不能单独证明一定是碳碳双键。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.EX.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S3.EX.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第三章 烃的衍生物 实验活动2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "d674a993-2c14-5eda-b83a-a29d97af361a",
+          "text": "能根据现象推测可能的官能团"
+        },
+        {
+          "id": "54b7b7fb-b654-549e-8e3d-aef9bcc7fa10",
+          "text": "能说出常见检验的干扰，不把局部现象写成普遍结论"
+        }
+      ],
+      "exampleQuestionId": "cnk_h094_q1"
+    },
+    {
+      "id": "cnk_h095",
+      "name": "糖类",
+      "description": "葡萄糖是单糖，分子式 C6H12O6，属于还原糖。蔗糖是二糖，本身不是还原糖，水解后生成的单糖才有还原性。淀粉遇碘变蓝。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.BM.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第四章 生物大分子 4.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "551e2970-def0-5ef9-a529-aa7270cde5e1",
+          "text": "能区分还原糖和非还原糖的常见例子"
+        },
+        {
+          "id": "71b90def-b12d-5725-95fe-38f0c96457b9",
+          "text": "能写出葡萄糖的分子式并说明淀粉与碘的现象"
+        }
+      ],
+      "exampleQuestionId": "cnk_h095_q1"
+    },
+    {
+      "id": "cnk_h096",
+      "name": "蛋白质",
+      "description": "氨基酸同时含氨基和羧基。氨基酸脱水形成肽键，蛋白质水解得到氨基酸。加热、强酸、强碱或重金属盐可使蛋白质变性，变性通常难以复原。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.BM.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第四章 生物大分子 4.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "10ac7ce2-87e7-5f60-b812-3d613d86f4d4",
+          "text": "能说出蛋白质的基本单位和肽键"
+        },
+        {
+          "id": "06a7d714-e226-55d9-ba17-af426533286c",
+          "text": "能区分水解产物和变性"
+        }
+      ],
+      "exampleQuestionId": "cnk_h096_q1"
+    },
+    {
+      "id": "cnk_h097",
+      "name": "核酸",
+      "description": "核酸的基本单位是核苷酸，由磷酸、戊糖和碱基组成。DNA 含脱氧核糖和胸腺嘧啶，RNA 含核糖和尿嘧啶。核酸携带的信息与蛋白质的合成有关。",
+      "domain": "物质的组成与结构",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.BM.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第四章 生物大分子 4.3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "96122586-de97-5b01-b44c-10c67a895f9c",
+          "text": "能说出核苷酸的三个组成部分"
+        },
+        {
+          "id": "befd3541-8e94-5620-8f15-ec3239e5cd4f",
+          "text": "能区分 DNA 与 RNA 的常见差别，且不和蛋白质混淆"
+        }
+      ],
+      "exampleQuestionId": "cnk_h097_q1"
+    },
+    {
+      "id": "cnk_h098",
+      "name": "整理与提升",
+      "description": "综合第四章：糖类、蛋白质和核酸。不提前使用加聚、缩聚或塑料的分类。",
+      "domain": "物质的性质与应用",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.BM.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S3.BM.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S3.BM.03",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第四章 生物大分子 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "dbcb80dd-0f4b-5f68-9ad1-c72b478a19ff",
+          "text": "能区分三类生物大分子的基本单位"
+        },
+        {
+          "id": "51a1d63d-97d9-5cc8-9c40-9251e533f474",
+          "text": "能判断还原糖、肽键和核苷酸"
+        }
+      ],
+      "exampleQuestionId": "cnk_h098_q1"
+    },
+    {
+      "id": "cnk_h099",
+      "name": "实验活动3 糖类的性质",
+      "description": "实验活动观察糖类的性质。葡萄糖能与新制氢氧化铜生成砖红色沉淀。蔗糖本身通常不能发生银镜反应，酸催化水解后要先中和过量的酸，再做银镜。淀粉遇碘变蓝，水解后蓝色消失。",
+      "domain": "科学探究与化学实验",
+      "type": "procedural",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.EX.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S3.BM.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第四章 生物大分子 实验活动3",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "experimental_activity",
+      "masteryCriteria": [
+        {
+          "id": "cbd58b82-7b6a-55f6-a1bc-5395813dd065",
+          "text": "能说出本实验要观察的糖类现象"
+        },
+        {
+          "id": "04933273-7c27-5c29-9b9e-8612d33a3938",
+          "text": "能说明水解后做银镜前要先中和酸"
+        }
+      ],
+      "exampleQuestionId": "cnk_h099_q1"
+    },
+    {
+      "id": "cnk_h100",
+      "name": "合成高分子的基本方法",
+      "description": "加聚反应由含不饱和键的单体相互加成，不生成小分子。缩聚反应的单体通常有两个或多个可反应的官能团，同时生成水等小分子。聚合度表示链节重复的次数。",
+      "domain": "物质的性质与应用",
+      "type": "conceptual",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.PM.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第五章 合成高分子 5.1",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "revised",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "1ac467dd-252c-54c2-83a9-78ff836b9e39",
+          "text": "根据重复单元估计聚合物相对质量"
+        },
+        {
+          "id": "5973a87b-8b86-53e0-b363-7c8454fae099",
+          "text": "区分加聚和缩聚的质量计量"
+        },
+        {
+          "id": "11c4f0dd-f2ca-50cb-8f74-3a703db88e53",
+          "text": "由链结构选择聚合计量和端基近似"
+        }
+      ],
+      "exampleQuestionId": "cnk_h100_q1"
+    },
+    {
+      "id": "cnk_h101",
+      "name": "高分子材料",
+      "description": "塑料、合成纤维和合成橡胶都是高分子材料。线型高分子常可反复加热软化，属于热塑性；交联后则不易反复成型。天然橡胶硫化是分子链之间发生交联。涤纶是聚酯，由缩聚得到。",
+      "domain": "物质的性质与应用",
+      "type": "application",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.PM.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第五章 合成高分子 5.2",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "learning_topic",
+      "masteryCriteria": [
+        {
+          "id": "7e920f82-56c1-57db-ae66-cd6a8b500c6a",
+          "text": "能举出三类合成高分子材料"
+        },
+        {
+          "id": "8e3d07f2-a9da-5aae-9b6b-8247828894e6",
+          "text": "能说明热塑性和硫化交联的差别"
+        }
+      ],
+      "exampleQuestionId": "cnk_h101_q1"
+    },
+    {
+      "id": "cnk_h102",
+      "name": "整理与提升",
+      "description": "综合第五章：加聚、缩聚和高分子材料。不把生物大分子的水解产物说成合成高分子的单体。",
+      "domain": "物质的性质与应用",
+      "type": "reasoning",
+      "standards": [
+        {
+          "id": "cks-hs-2017:S3.PM.01",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        },
+        {
+          "id": "cks-hs-2017:S3.PM.02",
+          "confidence": "inferred",
+          "note": "公开转述，本图谱自编号，未逐页核对教育部 PDF。"
+        }
+      ],
+      "stage": "senior",
+      "curriculum_placement": {
+        "source_grade_code": 14,
+        "semester": "上",
+        "chapter": "选必三 第五章 合成高分子 整理与提升",
+        "verification_status": "inherited_not_reverified"
+      },
+      "contentOrigin": "inherited",
+      "nodeKind": "review_activity",
+      "masteryCriteria": [
+        {
+          "id": "7781f7f7-6dc8-537c-a86e-d06d9e9f25ab",
+          "text": "能区分加聚和缩聚的单体特点"
+        },
+        {
+          "id": "df4e3de0-3ceb-5ee1-b969-62281ad55a3b",
+          "text": "能把塑料、纤维、橡胶和热塑性放在一起判断"
+        }
+      ],
+      "exampleQuestionId": "cnk_h102_q1"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "3.0",
+  "subject": "math",
+  "sourceSnapshot": "c4b8e9bccf9632676bdfa922c2eecb2994628fff5754d9e41cb8f2d6ecedab9f",
+  "source": {
+    "project": "cn-math-taxonomy",
+    "repository": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+    "license": "CC-BY-NC-4.0",
+    "files_sha256": {
+      "topics.json": "564e5df6d7a63d47ff8cba058f7c8e3f771d3ebf08758d02a8a6e2d1f1e748e4",
+      "dependencies.json": "739a4dc02c79b9e8d38c6f587e6f3ed17b87a255c85fd84ea675667f40007be9",
+      "questions.json": "5f4de7e3229b0dfa86ac163ab43dcbde6457c544f7bdb73a39bf9d6ec83988b1"
+    }
+  },
+  "inputHashes": {
+    "math_topics.json": "b4d0559348a586c5522e530dc6533e64dbb44f30b241ea5181c3755f47355f48",
+    "math_depend.json": "e2b8ebd02cd39a536a4d7a003a05c3229de1e841835aa8a0b94ddd17b59736f3",
+    "math_questions.json": "18b49287b341cc937184d414bcc598e0e91049ced11e6553c49c55651597fc39",
+    "math-semantic-review.json": "24b0c846e1100e00f79173e31ac3a6767eafd0526c760d807c9a89166220911b"
+  },
+  "status": "ai_revised_draft_not_teacher_validated",
+  "scope": "小学数学、初中数学、高中必修与选择性必修；沿用原库覆盖范围，未独立证明课程完整性。",
+  "sourceSnapshotLimitations": [
+    "保留原节点编号和大部分内容；这是可追溯修订版，不是全新编写或逐条教师审核的课程标准库。",
+    "课标映射及教材目录继承原库，未重新核对；exact 是原库的映射标记，不代表本次已权威核实。",
+    "未修改条目明确标为 inherited_unreviewed；AI 修订也不等于教师验证。",
+    "题目通过计算核验不等于题意、测量能力和选项唯一性均已独立审核。",
+    "本文件采用带元数据的对象结构，旧页面不能直接替换文件后使用，须适配字段及诊断策略。"
+  ],
+  "sourceRevisionSummary": {
+    "retained_topic_count": 870,
+    "updated_topic_count": 94,
+    "added_topic_count": 7,
+    "updated_existing_edge_count": 204,
+    "added_edge_count": 137,
+    "updated_existing_question_count": 7,
+    "added_question_count": 165,
+    "alternative_prerequisite_group_count": 2,
+    "three_dimension_topic_count": 43,
+    "three_dimension_item_count": 129
+  },
+  "relations": {
+    "prerequisite": "针对目标能力的候选必要基础；失败后可优先直接测查，不据此断言根因。",
+    "recommended_before": "建议学习顺序、支持性知识或可选解法，不作必要门槛。",
+    "related": "比较、迁移或主题关联，不用于诊断回溯。"
+  },
+  "diagnosticPolicy": {
+    "infer_ancestor_mastery": false,
+    "infer_weakness_from_descendant_failure": false,
+    "traverse_relations": [
+      "prerequisite"
+    ],
+    "check_alternative_groups": true,
+    "unmeasured_status": "unknown",
+    "passing_a_few_items": "仅视为局部证据，不直接判定所有掌握标准已达成。"
+  },
+  "masteryRequiresDirectEvidence": true,
+  "assessmentPolicy": {
+    "unspecified_focus": "继承题尚未逐题映射到具体掌握标准；不可仅凭节点类型推定测量能力。",
+    "evidence_scope": "item_only 表示答对只提供该题直接考查能力的证据。",
+    "automatic_grading": "仅按题型和答案处理；short/self 需人工或明确评分规则。",
+    "dimensions": {
+      "procedure": "会计算：执行明确给定的运算或程序，通常不需自行选择模型。",
+      "concept": "懂概念：辨别条件、含义、反例及常见误区；能算出结果不能替代该证据。",
+      "application": "能应用：建立或选择模型，处理情境约束，检验并解释结论。"
+    },
+    "assessment_sets": {
+      "administration": "同一题组的三题分别作答，提交整组前不展示答案、解析和误区提示，降低题间提示效应。",
+      "score_reporting": "三个维度分别报告，不能把总分直接换成“已掌握”；未作答与未人工评分均记 unknown。",
+      "open_response": "按题目 rubric 分项给分；有算式但模型或约束错误时只给对应过程分，不按最终数字判整题正确。",
+      "profile_examples": [
+        "计算有证据、概念证据不足：可能能套程序但条件或意义尚不清楚，需概念追问。",
+        "概念有证据、计算证据不足：需检查运算熟练度或偶发失误，不立即断言概念不懂。",
+        "计算和概念有证据、应用证据不足：检查建模、信息选择、约束与结论解释。"
+      ],
+      "validity": "三题组是诊断探针，未经过学生样本验证；每个维度仍需不同表征和情境的更多证据。"
+    }
+  },
+  "evidenceScope": "item_only",
+  "gradingDefaults": {
+    "numeric": "automatic",
+    "choice": "automatic",
+    "short": "human",
+    "self": "human"
+  },
+  "questionFieldDefaults": {
+    "measures": [],
+    "assessment_focus": "unspecified",
+    "explanation": "简答题省略时使用 answer"
+  },
+  "placementLabels": {
+    "12": "选择性必修第一册",
+    "13": "选择性必修第二册",
+    "14": "选择性必修第三册"
+  },
+  "artifactHashes": {
+    "math_topics.json": "c938546f914a7a0fdd69bbc5163372deda39e86593e7143a380149f8eec11828",
+    "math_depend.json": "a344adad935e0c77a414814ecabac556f73830a3d5a8e3bd93f4414b2f9ca30b",
+    "math_questions.json": "17e43d39bf22d91ecdfd9bc6aa6c2bc70108083bd785d86604a9d515a28adac6",
+    "math_reviews.json": "94a822955728093e3cbf50fc620e8352784a6be193bc873f124ecb742b9b75bd"
+  },
+  "artifactSetId": "33d0a804948f8eca0b67a73c0ac4b78444a31b24ed9ddef2eeeb9e0b48133baa",
+  "practiceMinimum": 10,
+  "criteriaSource": "scripts/math_v3_sources/criteria.json",
+  "reviewPolicy": "decision 描述 reviewedDigest 对应的历史审查；pending_review 表示当前内容有变。",
+  "questionCounts": {
+    "original": 3792,
+    "addedPractice": 5028
+  }
+}

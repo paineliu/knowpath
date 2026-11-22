@@ -1,0 +1,2585 @@
+{
+  "schemaVersion": "3.0",
+  "subject": "geography",
+  "sourceSnapshot": "9732c25aaf0381a22a748cbd9f640650c6ee5fb87701d3039efedaa8e0f2c509",
+  "count": 322,
+  "dependencies": [
+    {
+      "id": "cng_j003__cng_j004",
+      "sourceTopicId": "cng_j003",
+      "targetTopicId": "cng_j004",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「地球的运动」，再学「地图的阅读」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j005__cng_j006",
+      "sourceTopicId": "cng_j005",
+      "targetTopicId": "cng_j006",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「地形图的判读」，再学「地图的选择和应用」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j006__cng_j007",
+      "sourceTopicId": "cng_j006",
+      "targetTopicId": "cng_j007",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「地图的选择和应用」，再学「大洲和大洋」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j008__cng_j009",
+      "sourceTopicId": "cng_j008",
+      "targetTopicId": "cng_j009",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「世界的地形」，再学「海陆的变迁」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j009__cng_j010",
+      "sourceTopicId": "cng_j009",
+      "targetTopicId": "cng_j010",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「海陆的变迁」，再学「多变的天气」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j010__cng_j011",
+      "sourceTopicId": "cng_j010",
+      "targetTopicId": "cng_j011",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「多变的天气」，再学「气温的变化与分布」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j011__cng_j012",
+      "sourceTopicId": "cng_j011",
+      "targetTopicId": "cng_j012",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「气温的变化与分布」，再学「降水的变化与分布」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j013__cng_j014",
+      "sourceTopicId": "cng_j013",
+      "targetTopicId": "cng_j014",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「世界的气候」，再学「人口与人种」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j014__cng_j015",
+      "sourceTopicId": "cng_j014",
+      "targetTopicId": "cng_j015",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「人口与人种」，再学「城镇与乡村」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j015__cng_j016",
+      "sourceTopicId": "cng_j015",
+      "targetTopicId": "cng_j016",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「城镇与乡村」，再学「多样的文化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j016__cng_j017",
+      "sourceTopicId": "cng_j016",
+      "targetTopicId": "cng_j017",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「多样的文化」，再学「发展与合作」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j017__cng_j018",
+      "sourceTopicId": "cng_j017",
+      "targetTopicId": "cng_j018",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「发展与合作」，再学「亚洲的自然环境」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j019__cng_j020",
+      "sourceTopicId": "cng_j019",
+      "targetTopicId": "cng_j020",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「亚洲的人文环境」，再学「日本」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j020__cng_j021",
+      "sourceTopicId": "cng_j020",
+      "targetTopicId": "cng_j021",
+      "relation": "related",
+      "reason": "相邻教材案例可用于跨区域比较，不构成必须按国家或地区先后掌握的必要依赖。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j021__cng_j022",
+      "sourceTopicId": "cng_j021",
+      "targetTopicId": "cng_j022",
+      "relation": "related",
+      "reason": "相邻教材案例可用于跨区域比较，不构成必须按国家或地区先后掌握的必要依赖。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j022__cng_j023",
+      "sourceTopicId": "cng_j022",
+      "targetTopicId": "cng_j023",
+      "relation": "related",
+      "reason": "相邻教材案例可用于跨区域比较，不构成必须按国家或地区先后掌握的必要依赖。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j023__cng_j024",
+      "sourceTopicId": "cng_j023",
+      "targetTopicId": "cng_j024",
+      "relation": "related",
+      "reason": "相邻教材案例可用于跨区域比较，不构成必须按国家或地区先后掌握的必要依赖。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j024__cng_j025",
+      "sourceTopicId": "cng_j024",
+      "targetTopicId": "cng_j025",
+      "relation": "related",
+      "reason": "相邻教材案例可用于跨区域比较，不构成必须按国家或地区先后掌握的必要依赖。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j025__cng_j026",
+      "sourceTopicId": "cng_j025",
+      "targetTopicId": "cng_j026",
+      "relation": "related",
+      "reason": "相邻教材案例可用于跨区域比较，不构成必须按国家或地区先后掌握的必要依赖。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j026__cng_j027",
+      "sourceTopicId": "cng_j026",
+      "targetTopicId": "cng_j027",
+      "relation": "related",
+      "reason": "相邻教材案例可用于跨区域比较，不构成必须按国家或地区先后掌握的必要依赖。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j027__cng_j028",
+      "sourceTopicId": "cng_j027",
+      "targetTopicId": "cng_j028",
+      "relation": "related",
+      "reason": "相邻教材案例可用于跨区域比较，不构成必须按国家或地区先后掌握的必要依赖。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j028__cng_j029",
+      "sourceTopicId": "cng_j028",
+      "targetTopicId": "cng_j029",
+      "relation": "related",
+      "reason": "相邻教材案例可用于跨区域比较，不构成必须按国家或地区先后掌握的必要依赖。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j029__cng_j030",
+      "sourceTopicId": "cng_j029",
+      "targetTopicId": "cng_j030",
+      "relation": "related",
+      "reason": "相邻教材案例可用于跨区域比较，不构成必须按国家或地区先后掌握的必要依赖。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j030__cng_j031",
+      "sourceTopicId": "cng_j030",
+      "targetTopicId": "cng_j031",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「极地地区」，再学「疆域」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j031__cng_j032",
+      "sourceTopicId": "cng_j031",
+      "targetTopicId": "cng_j032",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「疆域」，再学「人口」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j032__cng_j033",
+      "sourceTopicId": "cng_j032",
+      "targetTopicId": "cng_j033",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「人口」，再学「民族」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j033__cng_j034",
+      "sourceTopicId": "cng_j033",
+      "targetTopicId": "cng_j034",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「民族」，再学「地形」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j034__cng_j035",
+      "sourceTopicId": "cng_j034",
+      "targetTopicId": "cng_j035",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「地形」，再学「气候」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j035__cng_j036",
+      "sourceTopicId": "cng_j035",
+      "targetTopicId": "cng_j036",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「气候」，再学「河流与湖泊」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j036__cng_j037",
+      "sourceTopicId": "cng_j036",
+      "targetTopicId": "cng_j037",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「河流与湖泊」，再学「土地资源」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j037__cng_j038",
+      "sourceTopicId": "cng_j037",
+      "targetTopicId": "cng_j038",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「土地资源」，再学「水资源」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j038__cng_j039",
+      "sourceTopicId": "cng_j038",
+      "targetTopicId": "cng_j039",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「水资源」，再学「矿产资源」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j039__cng_j040",
+      "sourceTopicId": "cng_j039",
+      "targetTopicId": "cng_j040",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「矿产资源」，再学「海洋资源」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j040__cng_j041",
+      "sourceTopicId": "cng_j040",
+      "targetTopicId": "cng_j041",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「海洋资源」，再学「农业」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j041__cng_j042",
+      "sourceTopicId": "cng_j041",
+      "targetTopicId": "cng_j042",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「农业」，再学「工业」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j042__cng_j043",
+      "sourceTopicId": "cng_j042",
+      "targetTopicId": "cng_j043",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「工业」，再学「交通运输」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j043__cng_j044",
+      "sourceTopicId": "cng_j043",
+      "targetTopicId": "cng_j044",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「交通运输」，再学「自然灾害与防灾减灾」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j044__cng_j045",
+      "sourceTopicId": "cng_j044",
+      "targetTopicId": "cng_j045",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「自然灾害与防灾减灾」，再学「环境保护与发展」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j045__cng_j046",
+      "sourceTopicId": "cng_j045",
+      "targetTopicId": "cng_j046",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「环境保护与发展」，再学「中国的地理差异」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j047__cng_j048",
+      "sourceTopicId": "cng_j047",
+      "targetTopicId": "cng_j048",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「北方地区的自然特征与农业」，再学「东北三省」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j048__cng_j049",
+      "sourceTopicId": "cng_j048",
+      "targetTopicId": "cng_j049",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「东北三省」，再学「黄土高原」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j049__cng_j050",
+      "sourceTopicId": "cng_j049",
+      "targetTopicId": "cng_j050",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「黄土高原」，再学「北京」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j050__cng_j051",
+      "sourceTopicId": "cng_j050",
+      "targetTopicId": "cng_j051",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「北京」，再学「南方地区的自然特征与农业」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j051__cng_j052",
+      "sourceTopicId": "cng_j051",
+      "targetTopicId": "cng_j052",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「南方地区的自然特征与农业」，再学「长江三角洲地区」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j052__cng_j053",
+      "sourceTopicId": "cng_j052",
+      "targetTopicId": "cng_j053",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「长江三角洲地区」，再学「香港和澳门」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j053__cng_j054",
+      "sourceTopicId": "cng_j053",
+      "targetTopicId": "cng_j054",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「香港和澳门」，再学「台湾省」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j054__cng_j055",
+      "sourceTopicId": "cng_j054",
+      "targetTopicId": "cng_j055",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「台湾省」，再学「西北地区的自然特征与农业」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j055__cng_j056",
+      "sourceTopicId": "cng_j055",
+      "targetTopicId": "cng_j056",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「西北地区的自然特征与农业」，再学「塔里木盆地」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j056__cng_j057",
+      "sourceTopicId": "cng_j056",
+      "targetTopicId": "cng_j057",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「塔里木盆地」，再学「青藏地区的自然特征与农业」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j058__cng_j059",
+      "sourceTopicId": "cng_j058",
+      "targetTopicId": "cng_j059",
+      "relation": "recommended_before",
+      "reason": "按人教版地理的教学顺序，先学「三江源地区」，再学「奋进中的中国」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j001__cng_j002",
+      "sourceTopicId": "cng_j001",
+      "targetTopicId": "cng_j002",
+      "relation": "recommended_before",
+      "reason": "地球仪和经纬定位可从地球模型直接学习，不要求先掌握太阳系层级。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j002__cng_j003",
+      "sourceTopicId": "cng_j002",
+      "targetTopicId": "cng_j003",
+      "relation": "prerequisite",
+      "reason": "说明自转、公转和经纬网定位，都建立在地球仪和经纬度的基础上。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j004__cng_j005",
+      "sourceTopicId": "cng_j004",
+      "targetTopicId": "cng_j005",
+      "relation": "prerequisite",
+      "reason": "判读等高线地形图，先要会读比例尺、方向和图例。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j004__cng_j006",
+      "sourceTopicId": "cng_j004",
+      "targetTopicId": "cng_j006",
+      "relation": "prerequisite",
+      "reason": "选择合适的地图，建立在掌握地图三要素的基础上。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j007__cng_j008",
+      "sourceTopicId": "cng_j007",
+      "targetTopicId": "cng_j008",
+      "relation": "recommended_before",
+      "reason": "大洲位置支持世界地形分布描述，但不是理解基本地形概念的必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j007__cng_j009",
+      "sourceTopicId": "cng_j007",
+      "targetTopicId": "cng_j009",
+      "relation": "recommended_before",
+      "reason": "海陆分布有助于讨论板块证据，不能把记住全部洲洋分布作为理解海陆变迁的门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j011__cng_j013",
+      "sourceTopicId": "cng_j011",
+      "targetTopicId": "cng_j013",
+      "relation": "prerequisite",
+      "reason": "气候类型的划分，要用到气温的分布和变化。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j012__cng_j013",
+      "sourceTopicId": "cng_j012",
+      "targetTopicId": "cng_j013",
+      "relation": "prerequisite",
+      "reason": "气候类型的划分，要用到降水的分布和变化。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j007__cng_j018",
+      "sourceTopicId": "cng_j007",
+      "targetTopicId": "cng_j018",
+      "relation": "prerequisite",
+      "reason": "认识亚洲的位置和范围，建立在七大洲、四大洋分布的基础上。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j013__cng_j018",
+      "sourceTopicId": "cng_j013",
+      "targetTopicId": "cng_j018",
+      "relation": "prerequisite",
+      "reason": "描述亚洲的气候特点，需要先掌握世界主要气候类型。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j018__cng_j019",
+      "sourceTopicId": "cng_j018",
+      "targetTopicId": "cng_j019",
+      "relation": "recommended_before",
+      "reason": "亚洲人文特征与自然环境适合综合分析，但人口文化经济概念不能由自然条件单独决定。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j018__cng_j020",
+      "sourceTopicId": "cng_j018",
+      "targetTopicId": "cng_j020",
+      "relation": "recommended_before",
+      "reason": "日本可直接依本国资料学习，掌握整个亚洲自然环境不是必要门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j004__cng_j031",
+      "sourceTopicId": "cng_j004",
+      "targetTopicId": "cng_j031",
+      "relation": "prerequisite",
+      "reason": "读中国疆域图、辨认邻国和濒临海洋，需要掌握地图阅读。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j031__cng_j034",
+      "sourceTopicId": "cng_j031",
+      "targetTopicId": "cng_j034",
+      "relation": "recommended_before",
+      "reason": "中国疆域提供空间框架，地形判读不要求先记住全部邻国与行政区。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j008__cng_j034",
+      "sourceTopicId": "cng_j008",
+      "targetTopicId": "cng_j034",
+      "relation": "prerequisite",
+      "reason": "描述中国的五种地形和阶梯，需要先掌握世界地形的基本概念。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j013__cng_j035",
+      "sourceTopicId": "cng_j013",
+      "targetTopicId": "cng_j035",
+      "relation": "recommended_before",
+      "reason": "世界全部气候类型是对照背景，中国气候判读的直接基础是气温降水资料。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j034__cng_j036",
+      "sourceTopicId": "cng_j034",
+      "targetTopicId": "cng_j036",
+      "relation": "prerequisite",
+      "reason": "长江、黄河的流向和水能，直接受地势西高东低的制约。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j035__cng_j038",
+      "sourceTopicId": "cng_j035",
+      "targetTopicId": "cng_j038",
+      "relation": "prerequisite",
+      "reason": "水资源的时空分布，主要由降水的时空分布决定。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j035__cng_j041",
+      "sourceTopicId": "cng_j035",
+      "targetTopicId": "cng_j041",
+      "relation": "prerequisite",
+      "reason": "评价农业的水热适宜性需理解气候条件；实际布局仍受土地、技术、市场和政策等多因素影响。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j035__cng_j046",
+      "sourceTopicId": "cng_j035",
+      "targetTopicId": "cng_j046",
+      "relation": "prerequisite",
+      "reason": "四大地理区域的划分，用到了气温和降水等气候指标。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j046__cng_j047",
+      "sourceTopicId": "cng_j046",
+      "targetTopicId": "cng_j047",
+      "relation": "prerequisite",
+      "reason": "北方地区是四大地理区域之一，需要先知道区域划分。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j046__cng_j051",
+      "sourceTopicId": "cng_j046",
+      "targetTopicId": "cng_j051",
+      "relation": "prerequisite",
+      "reason": "南方地区是四大地理区域之一，需要先知道区域划分。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j046__cng_j055",
+      "sourceTopicId": "cng_j046",
+      "targetTopicId": "cng_j055",
+      "relation": "prerequisite",
+      "reason": "西北地区是四大地理区域之一，需要先知道区域划分。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j046__cng_j057",
+      "sourceTopicId": "cng_j046",
+      "targetTopicId": "cng_j057",
+      "relation": "prerequisite",
+      "reason": "青藏地区是四大地理区域之一，需要先知道区域划分。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j057__cng_j058",
+      "sourceTopicId": "cng_j057",
+      "targetTopicId": "cng_j058",
+      "relation": "recommended_before",
+      "reason": "青藏地区背景有助于理解三江源，但不要求先掌握该区域整节内容。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j045__cng_j059",
+      "sourceTopicId": "cng_j045",
+      "targetTopicId": "cng_j059",
+      "relation": "recommended_before",
+      "reason": "可持续发展是发展议题的一部分，不能作为理解所有国家发展资料的唯一入口。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j001__cng_h001",
+      "sourceTopicId": "cng_j001",
+      "targetTopicId": "cng_h001",
+      "relation": "prerequisite",
+      "reason": "高中先把地球放进更大的天体系统来认识，不先知道地球是太阳系的一颗行星，就无从谈层次。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h001__cng_h002",
+      "sourceTopicId": "cng_h001",
+      "targetTopicId": "cng_h002",
+      "relation": "prerequisite",
+      "reason": "分析地球的特殊性，要先知道八大行星的轨道位置，才能比较日地距离与其他行星有何不同。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j001__cng_h003",
+      "sourceTopicId": "cng_j001",
+      "targetTopicId": "cng_h003",
+      "relation": "prerequisite",
+      "reason": "太阳辐射来自恒星太阳，要先知道太阳是自己发光发热的恒星。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j011__cng_h003",
+      "sourceTopicId": "cng_j011",
+      "targetTopicId": "cng_h003",
+      "relation": "recommended_before",
+      "reason": "说明太阳辐射对地表温度的作用，要先知道气温的分布与变化，才能看出能量输入的意义。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h002__cng_h003",
+      "sourceTopicId": "cng_h002",
+      "targetTopicId": "cng_h003",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「地球上存在生命的条件」，再学「太阳辐射及其对地球的影响」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j001__cng_h004",
+      "sourceTopicId": "cng_j001",
+      "targetTopicId": "cng_h004",
+      "relation": "prerequisite",
+      "reason": "太阳活动是恒星太阳大气层中的现象，要先知道太阳是自身发光发热的恒星。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h003__cng_h004",
+      "sourceTopicId": "cng_h003",
+      "targetTopicId": "cng_h004",
+      "relation": "recommended_before",
+      "reason": "太阳活动与太阳辐射是太阳向外释放能量的两种不同表现，先弄清太阳辐射才好区分二者。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j009__cng_h005",
+      "sourceTopicId": "cng_j009",
+      "targetTopicId": "cng_h005",
+      "relation": "prerequisite",
+      "reason": "海陆变迁在初中已用高山上的海洋生物化石作证据，这里把化石进一步用来判断地层与古环境。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h004__cng_h005",
+      "sourceTopicId": "cng_h004",
+      "targetTopicId": "cng_h005",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「太阳活动及其对地球的影响」，再学「化石与地层」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h005__cng_h006",
+      "sourceTopicId": "cng_h005",
+      "targetTopicId": "cng_h006",
+      "relation": "prerequisite",
+      "reason": "地质年代是靠地层和化石建立的，先学会用化石判断地层先后才能看懂年代表。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h006__cng_h007",
+      "sourceTopicId": "cng_h006",
+      "targetTopicId": "cng_h007",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「地质年代与地球的演化」，再学「地球的内部圈层」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h007__cng_h008",
+      "sourceTopicId": "cng_h007",
+      "targetTopicId": "cng_h008",
+      "relation": "recommended_before",
+      "reason": "外部圈层可先按水、大气、生物及地表认识，完整内部圈层不是学习门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j010__cng_h009",
+      "sourceTopicId": "cng_j010",
+      "targetTopicId": "cng_h009",
+      "relation": "recommended_before",
+      "reason": "天气现象经验可支持大气组成学习，但不要求先掌握整节天气知识。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h008__cng_h009",
+      "sourceTopicId": "cng_h008",
+      "targetTopicId": "cng_h009",
+      "relation": "recommended_before",
+      "reason": "大气圈是外部圈层之一，先建立圈层概念再来看大气由什么组成。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h009__cng_h010",
+      "sourceTopicId": "cng_h009",
+      "targetTopicId": "cng_h010",
+      "relation": "prerequisite",
+      "reason": "平流层气温随高度升高与臭氧吸收紫外线有关，要先知道臭氧的作用。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j011__cng_h010",
+      "sourceTopicId": "cng_j011",
+      "targetTopicId": "cng_h010",
+      "relation": "prerequisite",
+      "reason": "对流层气温随海拔升高而降低，是初中气温知识的延伸，先熟悉海拔与气温的关系。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h003__cng_h011",
+      "sourceTopicId": "cng_h003",
+      "targetTopicId": "cng_h011",
+      "relation": "prerequisite",
+      "reason": "大气受热过程的能量起点是太阳辐射，先要知道太阳辐射是短波辐射的能量来源。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h010__cng_h011",
+      "sourceTopicId": "cng_h010",
+      "targetTopicId": "cng_h011",
+      "relation": "recommended_before",
+      "reason": "受热过程可先在近地面模型建立，再定位垂直分层，分层不是所有受热分析的必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h011__cng_h012",
+      "sourceTopicId": "cng_h011",
+      "targetTopicId": "cng_h012",
+      "relation": "prerequisite",
+      "reason": "地面冷热不均源于地面是大气直接热源，先理解大气受热过程才能说清热力环流的起因。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h012__cng_h013",
+      "sourceTopicId": "cng_h012",
+      "targetTopicId": "cng_h013",
+      "relation": "recommended_before",
+      "reason": "气压梯度可由给定气压场直接讨论，热力环流是来源实例之一。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h008__cng_h014",
+      "sourceTopicId": "cng_h008",
+      "targetTopicId": "cng_h014",
+      "relation": "recommended_before",
+      "reason": "水循环的环节可直接由水的状态和位置认识，不要求先完整掌握所有外部圈层。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h003__cng_h014",
+      "sourceTopicId": "cng_h003",
+      "targetTopicId": "cng_h014",
+      "relation": "recommended_before",
+      "reason": "理解蒸发所需能量可直接给定，不要求先掌握太阳辐射的整节内容。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j012__cng_h014",
+      "sourceTopicId": "cng_j012",
+      "targetTopicId": "cng_h014",
+      "relation": "prerequisite",
+      "reason": "降水是水循环的重要环节，先知道降水的形成与分布。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h013__cng_h014",
+      "sourceTopicId": "cng_h013",
+      "targetTopicId": "cng_h014",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「水平气压梯度力与风」，再学「水循环的类型与环节」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h014__cng_h015",
+      "sourceTopicId": "cng_h014",
+      "targetTopicId": "cng_h015",
+      "relation": "prerequisite",
+      "reason": "说明水循环的意义和人为影响，必须先认识各个环节。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j036__cng_h015",
+      "sourceTopicId": "cng_j036",
+      "targetTopicId": "cng_h015",
+      "relation": "recommended_before",
+      "reason": "水循环塑造地表形态与河流径流关系紧密，先有河流的初中知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j011__cng_h016",
+      "sourceTopicId": "cng_j011",
+      "targetTopicId": "cng_h016",
+      "relation": "recommended_before",
+      "reason": "海温可独立由海洋观测认识，陆地气温格局不是必要门槛，二者不能说完全一致。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h003__cng_h016",
+      "sourceTopicId": "cng_h003",
+      "targetTopicId": "cng_h016",
+      "relation": "prerequisite",
+      "reason": "海水的热量主要来自太阳辐射，温度随纬度递减正是太阳辐射纬度分布的结果。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h015__cng_h016",
+      "sourceTopicId": "cng_h015",
+      "targetTopicId": "cng_h016",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「水循环的地理意义」，再学「海水的温度、盐度与密度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h016__cng_h017",
+      "sourceTopicId": "cng_h016",
+      "targetTopicId": "cng_h017",
+      "relation": "prerequisite",
+      "reason": "利用海水的性质，必须先知道温度、盐度、密度的分布规律。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j040__cng_h017",
+      "sourceTopicId": "cng_j040",
+      "targetTopicId": "cng_h017",
+      "relation": "recommended_before",
+      "reason": "晒盐、温差发电等是对海洋资源的开发利用，初中海洋资源知识是背景。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j001__cng_h018",
+      "sourceTopicId": "cng_j001",
+      "targetTopicId": "cng_h018",
+      "relation": "prerequisite",
+      "reason": "潮汐由月球和太阳的引力引起，要先知道地月、日地关系。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h017__cng_h018",
+      "sourceTopicId": "cng_h017",
+      "targetTopicId": "cng_h018",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「海水性质的影响与利用」，再学「波浪与潮汐」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h016__cng_h019",
+      "sourceTopicId": "cng_h016",
+      "targetTopicId": "cng_h019",
+      "relation": "recommended_before",
+      "reason": "判断寒暖流需与流经海区比较，不必先记全海温盐度密度的分布。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h018__cng_h019",
+      "sourceTopicId": "cng_h018",
+      "targetTopicId": "cng_h019",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「波浪与潮汐」，再学「洋流及其影响」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j036__cng_h020",
+      "sourceTopicId": "cng_j036",
+      "targetTopicId": "cng_h020",
+      "relation": "prerequisite",
+      "reason": "流水地貌是河流侵蚀、搬运、堆积的结果，先具备河流水文的初中知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h019__cng_h020",
+      "sourceTopicId": "cng_h019",
+      "targetTopicId": "cng_h020",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「洋流及其影响」，再学「流水地貌」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h013__cng_h021",
+      "sourceTopicId": "cng_h013",
+      "targetTopicId": "cng_h021",
+      "relation": "recommended_before",
+      "reason": "认识风蚀堆积需风向风速资料，不要求先掌握风成因的完整动力学。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j055__cng_h021",
+      "sourceTopicId": "cng_j055",
+      "targetTopicId": "cng_h021",
+      "relation": "recommended_before",
+      "reason": "风成地貌多出现在西北干旱区，初中的西北地区自然特征是背景。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h020__cng_h021",
+      "sourceTopicId": "cng_h020",
+      "targetTopicId": "cng_h021",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「流水地貌」，再学「风成地貌」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h020__cng_h022",
+      "sourceTopicId": "cng_h020",
+      "targetTopicId": "cng_h022",
+      "relation": "recommended_before",
+      "reason": "多种外力地貌是并列实例，流水地貌不是其他类型的必需前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h021__cng_h022",
+      "sourceTopicId": "cng_h021",
+      "targetTopicId": "cng_h022",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「风成地貌」，再学「喀斯特、海岸与冰川地貌」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h022__cng_h023",
+      "sourceTopicId": "cng_h022",
+      "targetTopicId": "cng_h023",
+      "relation": "recommended_before",
+      "reason": "地貌观察可以从单一地貌和资料入手，不必先掌握全部外力地貌。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j005__cng_h023",
+      "sourceTopicId": "cng_j005",
+      "targetTopicId": "cng_h023",
+      "relation": "recommended_before",
+      "reason": "照片与实地观察并非都必须使用等高线图，地形图为支持性技能。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j013__cng_h024",
+      "sourceTopicId": "cng_j013",
+      "targetTopicId": "cng_h024",
+      "relation": "prerequisite",
+      "reason": "植被类型与气候类型密切对应，先熟悉世界气候类型及其水热特点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h023__cng_h024",
+      "sourceTopicId": "cng_h023",
+      "targetTopicId": "cng_h024",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「地貌的观察」，再学「植被与环境的关系」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h024__cng_h025",
+      "sourceTopicId": "cng_h024",
+      "targetTopicId": "cng_h025",
+      "relation": "prerequisite",
+      "reason": "植被类型的划分依据水热条件，先理解植被与环境的关系。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h024__cng_h026",
+      "sourceTopicId": "cng_h024",
+      "targetTopicId": "cng_h026",
+      "relation": "recommended_before",
+      "reason": "土壤形成中的生物贡献可作为本节输入，不必完整掌握植被环境关系。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h025__cng_h026",
+      "sourceTopicId": "cng_h025",
+      "targetTopicId": "cng_h026",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「主要植被类型及其分布」，再学「土壤的形成因素」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h026__cng_h027",
+      "sourceTopicId": "cng_h026",
+      "targetTopicId": "cng_h027",
+      "relation": "prerequisite",
+      "reason": "保护土壤要知道它是怎样形成、哪些因素会破坏它。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j044__cng_h028",
+      "sourceTopicId": "cng_j044",
+      "targetTopicId": "cng_h028",
+      "relation": "prerequisite",
+      "reason": "说明各类气象灾害的危害，要先具备对自然灾害的初中认识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h027__cng_h028",
+      "sourceTopicId": "cng_h027",
+      "targetTopicId": "cng_h028",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「土壤的功能与保护」，再学「气象灾害」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h015__cng_h029",
+      "sourceTopicId": "cng_h015",
+      "targetTopicId": "cng_h029",
+      "relation": "recommended_before",
+      "reason": "洪旱成因分析的直接基础是水量收支与水循环环节，水循环意义不是唯一入口。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h028__cng_h029",
+      "sourceTopicId": "cng_h028",
+      "targetTopicId": "cng_h029",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「气象灾害」，再学「洪涝与干旱」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h007__cng_h030",
+      "sourceTopicId": "cng_h007",
+      "targetTopicId": "cng_h030",
+      "relation": "recommended_before",
+      "reason": "防震减灾和灾情分析不以完整内部圈层知识为门槛，成因与传播讨论可另用该基础。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j009__cng_h030",
+      "sourceTopicId": "cng_j009",
+      "targetTopicId": "cng_h030",
+      "relation": "prerequisite",
+      "reason": "地震集中在板块交界地带，是初中板块知识的直接应用。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h029__cng_h030",
+      "sourceTopicId": "cng_h029",
+      "targetTopicId": "cng_h030",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「洪涝与干旱」，再学「地震灾害」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h020__cng_h031",
+      "sourceTopicId": "cng_h020",
+      "targetTopicId": "cng_h031",
+      "relation": "recommended_before",
+      "reason": "重力、坡体及水分条件是滑坡泥石流分析要素，不要求先学完整流水地貌。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h030__cng_h031",
+      "sourceTopicId": "cng_h030",
+      "targetTopicId": "cng_h031",
+      "relation": "recommended_before",
+      "reason": "地震是诱发滑坡、泥石流的重要因素之一，先了解地震灾害。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j044__cng_h032",
+      "sourceTopicId": "cng_j044",
+      "targetTopicId": "cng_h032",
+      "relation": "prerequisite",
+      "reason": "初中已学习自然灾害与防灾减灾，高中把它系统化为环节和措施分类。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h031__cng_h032",
+      "sourceTopicId": "cng_h031",
+      "targetTopicId": "cng_h032",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第一册的教学顺序，先学「滑坡与泥石流」，再学「防灾减灾」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h032__cng_h033",
+      "sourceTopicId": "cng_h032",
+      "targetTopicId": "cng_h033",
+      "relation": "prerequisite",
+      "reason": "地理信息技术是防灾减灾的手段，先理解防灾减灾的环节才知道技术用在何处。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j014__cng_h034",
+      "sourceTopicId": "cng_j014",
+      "targetTopicId": "cng_h034",
+      "relation": "prerequisite",
+      "reason": "高中描述人口分布的特点，要先具备初中对世界人口数量、人口稠密与稀疏地区的认识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h033__cng_h034",
+      "sourceTopicId": "cng_h033",
+      "targetTopicId": "cng_h034",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理课序，学完必修第一册的「地理信息技术在防灾减灾中的应用」后进入必修第二册的「世界人口分布特点」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h034__cng_h035",
+      "sourceTopicId": "cng_h034",
+      "targetTopicId": "cng_h035",
+      "relation": "prerequisite",
+      "reason": "分析人口分布的影响因素，先掌握人口分布的基本特点，才知道要解释什么。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h035__cng_h036",
+      "sourceTopicId": "cng_h035",
+      "targetTopicId": "cng_h036",
+      "relation": "recommended_before",
+      "reason": "迁移可从迁移定义及给定推拉资料建立，不必先解释全部人口分布。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h036__cng_h037",
+      "sourceTopicId": "cng_h036",
+      "targetTopicId": "cng_h037",
+      "relation": "prerequisite",
+      "reason": "分析迁移的影响，先弄清为什么迁、谁在迁。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h035__cng_h038",
+      "sourceTopicId": "cng_h035",
+      "targetTopicId": "cng_h038",
+      "relation": "prerequisite",
+      "reason": "人口容量取决于资源环境所能承载的人口，先理解人口与自然、人文因素的关系。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h037__cng_h038",
+      "sourceTopicId": "cng_h037",
+      "targetTopicId": "cng_h038",
+      "relation": "recommended_before",
+      "reason": "人口迁移改变各地人口与资源的对比，是讨论人口容量的现实背景。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j015__cng_h039",
+      "sourceTopicId": "cng_j015",
+      "targetTopicId": "cng_h039",
+      "relation": "prerequisite",
+      "reason": "初中已区分城镇和乡村，高中进一步分析乡村聚落的空间形态与成因。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h038__cng_h039",
+      "sourceTopicId": "cng_h038",
+      "targetTopicId": "cng_h039",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第二册的教学顺序，先学「人口容量与合理人口」，再学「乡村聚落与空间结构」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j015__cng_h040",
+      "sourceTopicId": "cng_j015",
+      "targetTopicId": "cng_h040",
+      "relation": "prerequisite",
+      "reason": "城镇功能分区是对初中城镇认识的深化，先具备城镇的基本特征。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h039__cng_h040",
+      "sourceTopicId": "cng_h039",
+      "targetTopicId": "cng_h040",
+      "relation": "recommended_before",
+      "reason": "对比乡村与城镇的内部空间结构，才能看出城镇的功能分区特色。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h036__cng_h041",
+      "sourceTopicId": "cng_h036",
+      "targetTopicId": "cng_h041",
+      "relation": "recommended_before",
+      "reason": "乡村向城镇迁移是重要机制之一，城镇人口自然增长、城乡分类调整及空间经济转型也参与城镇化，不能把整节迁移作为唯一必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h040__cng_h041",
+      "sourceTopicId": "cng_h040",
+      "targetTopicId": "cng_h041",
+      "relation": "recommended_before",
+      "reason": "城镇规模扩大伴随功能区的形成，先了解城镇内部结构。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h041__cng_h042",
+      "sourceTopicId": "cng_h041",
+      "targetTopicId": "cng_h042",
+      "relation": "prerequisite",
+      "reason": "分析城镇化的影响，先理解城镇化的过程。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h012__cng_h042",
+      "sourceTopicId": "cng_h012",
+      "targetTopicId": "cng_h042",
+      "relation": "recommended_before",
+      "reason": "热岛机制只是城镇化影响之一，不能让整个节点硬依赖热力环流。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h015__cng_h042",
+      "sourceTopicId": "cng_h015",
+      "targetTopicId": "cng_h042",
+      "relation": "recommended_before",
+      "reason": "水循环有助解释硬化影响，但不是所有城镇化问题的必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j016__cng_h043",
+      "sourceTopicId": "cng_j016",
+      "targetTopicId": "cng_h043",
+      "relation": "prerequisite",
+      "reason": "初中已认识世界文化多样性，高中进一步看文化如何体现在城乡景观上。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h042__cng_h043",
+      "sourceTopicId": "cng_h042",
+      "targetTopicId": "cng_h043",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第二册的教学顺序，先学「城镇化的影响与问题」，再学「地域文化与城乡景观」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j041__cng_h044",
+      "sourceTopicId": "cng_j041",
+      "targetTopicId": "cng_h044",
+      "relation": "prerequisite",
+      "reason": "初中学过我国农业，高中把农业放在区位因素的框架里分析。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h043__cng_h044",
+      "sourceTopicId": "cng_h043",
+      "targetTopicId": "cng_h044",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第二册的教学顺序，先学「地域文化与城乡景观」，再学「农业区位因素」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h044__cng_h045",
+      "sourceTopicId": "cng_h044",
+      "targetTopicId": "cng_h045",
+      "relation": "prerequisite",
+      "reason": "区位变化和农业类型都建立在农业区位因素之上，先学农业区位因素。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j042__cng_h046",
+      "sourceTopicId": "cng_j042",
+      "targetTopicId": "cng_h046",
+      "relation": "prerequisite",
+      "reason": "初中学过我国工业，高中把工业放进区位因素中分析。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h045__cng_h046",
+      "sourceTopicId": "cng_h045",
+      "targetTopicId": "cng_h046",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第二册的教学顺序，先学「农业区位变化与农业地域类型」，再学「工业区位因素」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h046__cng_h047",
+      "sourceTopicId": "cng_h046",
+      "targetTopicId": "cng_h047",
+      "relation": "prerequisite",
+      "reason": "工业区位的变化是各区位因素重要性的变化，先学各因素的作用。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h040__cng_h048",
+      "sourceTopicId": "cng_h040",
+      "targetTopicId": "cng_h048",
+      "relation": "recommended_before",
+      "reason": "乡村、线上等服务也可分析区位，城镇分区并非全部服务业前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h047__cng_h048",
+      "sourceTopicId": "cng_h047",
+      "targetTopicId": "cng_h048",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第二册的教学顺序，先学「工业区位变化与工业集聚」，再学「服务业区位因素」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h048__cng_h049",
+      "sourceTopicId": "cng_h048",
+      "targetTopicId": "cng_h049",
+      "relation": "prerequisite",
+      "reason": "区位变化是在传统服务业区位因素基础上的新变化，先学传统因素。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j043__cng_h050",
+      "sourceTopicId": "cng_j043",
+      "targetTopicId": "cng_h050",
+      "relation": "prerequisite",
+      "reason": "初中学过交通运输，高中分析区域发展如何影响交通布局，先具备交通运输的基础知识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h049__cng_h050",
+      "sourceTopicId": "cng_h049",
+      "targetTopicId": "cng_h050",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第二册的教学顺序，先学「服务业区位变化」，再学「区域发展对交通运输布局的影响」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j043__cng_h051",
+      "sourceTopicId": "cng_j043",
+      "targetTopicId": "cng_h051",
+      "relation": "prerequisite",
+      "reason": "初中已学各种交通运输方式的名称与基本特点，高中在此基础上比较其优缺点并作选择。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h050__cng_h051",
+      "sourceTopicId": "cng_h050",
+      "targetTopicId": "cng_h051",
+      "relation": "recommended_before",
+      "reason": "选择运输方式要结合区域的地形和交通网特点，先理解交通布局的影响因素。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h050__cng_h052",
+      "sourceTopicId": "cng_h050",
+      "targetTopicId": "cng_h052",
+      "relation": "recommended_before",
+      "reason": "交通与发展的双向影响可分别分析，先学区域影响交通是建议顺序。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h051__cng_h052",
+      "sourceTopicId": "cng_h051",
+      "targetTopicId": "cng_h052",
+      "relation": "recommended_before",
+      "reason": "交通方式的特点决定其对区域的影响方式。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j045__cng_h053",
+      "sourceTopicId": "cng_j045",
+      "targetTopicId": "cng_h053",
+      "relation": "prerequisite",
+      "reason": "初中已学环境保护与发展，高中系统归纳主要环境问题及其成因。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h009__cng_h053",
+      "sourceTopicId": "cng_h009",
+      "targetTopicId": "cng_h053",
+      "relation": "recommended_before",
+      "reason": "大气类环境问题是子集，所有环境问题不能硬依赖大气组成。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h052__cng_h053",
+      "sourceTopicId": "cng_h052",
+      "targetTopicId": "cng_h053",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理必修第二册的教学顺序，先学「交通运输布局对区域发展的影响」，再学「人类面临的主要环境问题」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h053__cng_h054",
+      "sourceTopicId": "cng_h053",
+      "targetTopicId": "cng_h054",
+      "relation": "prerequisite",
+      "reason": "可持续发展是对环境问题的反思与回应，先了解主要环境问题。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h054__cng_h055",
+      "sourceTopicId": "cng_h054",
+      "targetTopicId": "cng_h055",
+      "relation": "prerequisite",
+      "reason": "国家发展战略是可持续发展理念的具体落实，先理解可持续发展。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j059__cng_h055",
+      "sourceTopicId": "cng_j059",
+      "targetTopicId": "cng_h055",
+      "relation": "recommended_before",
+      "reason": "初中已初步了解我国当前的发展成就，是认识这些战略的背景。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j003__cng_h056",
+      "sourceTopicId": "cng_j003",
+      "targetTopicId": "cng_h056",
+      "relation": "prerequisite",
+      "reason": "初中已学自转的方向、周期与昼夜交替，高中在此基础上区分恒星日与太阳日、角速度与线速度。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h055__cng_h056",
+      "sourceTopicId": "cng_h055",
+      "targetTopicId": "cng_h056",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理课序，学完必修第二册的「中国国家发展战略举例」后进入选择性必修第一册的「地球自转的特征」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j003__cng_h057",
+      "sourceTopicId": "cng_j003",
+      "targetTopicId": "cng_h057",
+      "relation": "prerequisite",
+      "reason": "初中已知道公转的方向与周期，高中在此基础上引入近日点、远日点与黄赤交角。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h056__cng_h057",
+      "sourceTopicId": "cng_h056",
+      "targetTopicId": "cng_h057",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第一册的教学顺序，先学「地球自转的特征」，再学「地球公转的特征」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h056__cng_h058",
+      "sourceTopicId": "cng_h056",
+      "targetTopicId": "cng_h058",
+      "relation": "prerequisite",
+      "reason": "晨昏线随自转扫过各地，地方时东早西晚也来自自转方向，必须先掌握自转。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h057__cng_h058",
+      "sourceTopicId": "cng_h057",
+      "targetTopicId": "cng_h058",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第一册的教学顺序，先学「地球公转的特征」，再学「昼夜交替与地方时」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h058__cng_h059",
+      "sourceTopicId": "cng_h058",
+      "targetTopicId": "cng_h059",
+      "relation": "prerequisite",
+      "reason": "区时就是中央经线的地方时，需先会算地方时。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h056__cng_h060",
+      "sourceTopicId": "cng_h056",
+      "targetTopicId": "cng_h060",
+      "relation": "prerequisite",
+      "reason": "偏向力源自地球自转，需知道自转方向与各纬度的速度差异。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h059__cng_h060",
+      "sourceTopicId": "cng_h059",
+      "targetTopicId": "cng_h060",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第一册的教学顺序，先学「时区、区时与日界线」，再学「水平运动物体的方向偏转」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h057__cng_h061",
+      "sourceTopicId": "cng_h057",
+      "targetTopicId": "cng_h061",
+      "relation": "prerequisite",
+      "reason": "直射点的移动来自地轴倾斜与公转，必须先理解黄赤交角。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h058__cng_h061",
+      "sourceTopicId": "cng_h058",
+      "targetTopicId": "cng_h061",
+      "relation": "prerequisite",
+      "reason": "昼长要由晨昏线分割纬线圈的情形来判断，需先会读晨昏线。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h060__cng_h061",
+      "sourceTopicId": "cng_h060",
+      "targetTopicId": "cng_h061",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第一册的教学顺序，先学「水平运动物体的方向偏转」，再学「昼夜长短与正午太阳高度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h061__cng_h062",
+      "sourceTopicId": "cng_h061",
+      "targetTopicId": "cng_h062",
+      "relation": "prerequisite",
+      "reason": "四季是昼长和正午太阳高度年变化累积的结果，需先掌握这两项的规律。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h007__cng_h063",
+      "sourceTopicId": "cng_h007",
+      "targetTopicId": "cng_h063",
+      "relation": "prerequisite",
+      "reason": "岩石圈、软流层等地球内部圈层是板块构造学说的前提。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h062__cng_h063",
+      "sourceTopicId": "cng_h062",
+      "targetTopicId": "cng_h063",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第一册的教学顺序，先学「四季更替与五带」，再学「内力作用与地表形态」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h063__cng_h064",
+      "sourceTopicId": "cng_h063",
+      "targetTopicId": "cng_h064",
+      "relation": "recommended_before",
+      "reason": "内外力可并行建立，外力过程并不以先掌握内力整节为条件。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h063__cng_h065",
+      "sourceTopicId": "cng_h063",
+      "targetTopicId": "cng_h065",
+      "relation": "prerequisite",
+      "reason": "褶皱是水平挤压（内力作用）的结果，先要理解板块挤压与地壳运动。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h064__cng_h065",
+      "sourceTopicId": "cng_h064",
+      "targetTopicId": "cng_h065",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第一册的教学顺序，先学「外力作用与地表形态」，再学「褶皱与山地的形成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h063__cng_h066",
+      "sourceTopicId": "cng_h063",
+      "targetTopicId": "cng_h066",
+      "relation": "prerequisite",
+      "reason": "断层源于板块的张裂或错动，需要先理解内力作用。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h065__cng_h066",
+      "sourceTopicId": "cng_h065",
+      "targetTopicId": "cng_h066",
+      "relation": "recommended_before",
+      "reason": "断层与褶皱是岩层受力变形的两种方式，对比才能分清。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h064__cng_h067",
+      "sourceTopicId": "cng_h064",
+      "targetTopicId": "cng_h067",
+      "relation": "prerequisite",
+      "reason": "河流作用是外力作用的典型，需先知道侵蚀、搬运、堆积的一般关系。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h020__cng_h067",
+      "sourceTopicId": "cng_h020",
+      "targetTopicId": "cng_h067",
+      "relation": "recommended_before",
+      "reason": "机制可先于地貌实例讲授，不能把必修课序当唯一学习路径。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h066__cng_h067",
+      "sourceTopicId": "cng_h066",
+      "targetTopicId": "cng_h067",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第一册的教学顺序，先学「断层与其他构造地貌」，再学「河流的侵蚀、搬运与堆积」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h067__cng_h068",
+      "sourceTopicId": "cng_h067",
+      "targetTopicId": "cng_h068",
+      "relation": "prerequisite",
+      "reason": "河流地貌是侵蚀、搬运、堆积三种作用的结果，先要掌握它们与流速的关系。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h012__cng_h069",
+      "sourceTopicId": "cng_h012",
+      "targetTopicId": "cng_h069",
+      "relation": "recommended_before",
+      "reason": "锋面抬升不等于局地热力环流，热力环流仅是支持性背景。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h068__cng_h069",
+      "sourceTopicId": "cng_h068",
+      "targetTopicId": "cng_h069",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第一册的教学顺序，先学「河流地貌的发育」，再学「锋面系统」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h013__cng_h070",
+      "sourceTopicId": "cng_h013",
+      "targetTopicId": "cng_h070",
+      "relation": "prerequisite",
+      "reason": "水平气压梯度力与地转偏向力决定风向，是气旋、反气旋气流旋转的基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h060__cng_h070",
+      "sourceTopicId": "cng_h060",
+      "targetTopicId": "cng_h070",
+      "relation": "prerequisite",
+      "reason": "南北半球旋转方向的差异，来自地转偏向力在两半球相反的偏转。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h069__cng_h070",
+      "sourceTopicId": "cng_h069",
+      "targetTopicId": "cng_h070",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第一册的教学顺序，先学「锋面系统」，再学「气旋与反气旋」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h013__cng_h071",
+      "sourceTopicId": "cng_h013",
+      "targetTopicId": "cng_h071",
+      "relation": "prerequisite",
+      "reason": "风带风向由气压梯度力和地转偏向力共同决定。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h060__cng_h071",
+      "sourceTopicId": "cng_h060",
+      "targetTopicId": "cng_h071",
+      "relation": "prerequisite",
+      "reason": "三圈环流的圈数和风带风向都取决于地转偏向力，需先知道偏向规律。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h070__cng_h071",
+      "sourceTopicId": "cng_h070",
+      "targetTopicId": "cng_h071",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第一册的教学顺序，先学「气旋与反气旋」，再学「三圈环流与气压带风带」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h071__cng_h072",
+      "sourceTopicId": "cng_h071",
+      "targetTopicId": "cng_h072",
+      "relation": "prerequisite",
+      "reason": "移动的是各气压带和风带，必须先知道它们的平均位置。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h062__cng_h072",
+      "sourceTopicId": "cng_h062",
+      "targetTopicId": "cng_h072",
+      "relation": "prerequisite",
+      "reason": "移动的原因是太阳直射点的往返。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h072__cng_h073",
+      "sourceTopicId": "cng_h072",
+      "targetTopicId": "cng_h073",
+      "relation": "recommended_before",
+      "reason": "风带季移解释部分季风机制，不是所有季风的唯一必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h073__cng_h074",
+      "sourceTopicId": "cng_h073",
+      "targetTopicId": "cng_h074",
+      "relation": "recommended_before",
+      "reason": "季风只是部分热带副热带气候成因，节点覆盖的全部气候不硬依赖季风。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h074__cng_h075",
+      "sourceTopicId": "cng_h074",
+      "targetTopicId": "cng_h075",
+      "relation": "recommended_before",
+      "reason": "温带气候与热带、副热带气候共同组成气候类型体系，成因的分析方法一致。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h071__cng_h075",
+      "sourceTopicId": "cng_h071",
+      "targetTopicId": "cng_h075",
+      "relation": "prerequisite",
+      "reason": "西风带是温带海洋性气候的主导风带。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h014__cng_h076",
+      "sourceTopicId": "cng_h014",
+      "targetTopicId": "cng_h076",
+      "relation": "prerequisite",
+      "reason": "陆地水体的相互联系，是水循环在陆地环节的具体表现。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h075__cng_h076",
+      "sourceTopicId": "cng_h075",
+      "targetTopicId": "cng_h076",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第一册的教学顺序，先学「温带与亚寒带气候类型的成因」，再学「陆地水体类型及其相互关系」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h076__cng_h077",
+      "sourceTopicId": "cng_h076",
+      "targetTopicId": "cng_h077",
+      "relation": "prerequisite",
+      "reason": "补给类型是陆地水体相互补给关系的细化。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h019__cng_h078",
+      "sourceTopicId": "cng_h019",
+      "targetTopicId": "cng_h078",
+      "relation": "recommended_before",
+      "reason": "洋流成因可以与其影响分开学习，已有实例是支持性经验。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h071__cng_h078",
+      "sourceTopicId": "cng_h071",
+      "targetTopicId": "cng_h078",
+      "relation": "prerequisite",
+      "reason": "风海流由盛行风驱动，必须知道气压带风带的分布。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h077__cng_h078",
+      "sourceTopicId": "cng_h077",
+      "targetTopicId": "cng_h078",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第一册的教学顺序，先学「河流补给与水文特征」，再学「洋流的成因与分布」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h078__cng_h079",
+      "sourceTopicId": "cng_h078",
+      "targetTopicId": "cng_h079",
+      "relation": "prerequisite",
+      "reason": "洋流的影响要依据洋流的性质与分布来判断。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h011__cng_h080",
+      "sourceTopicId": "cng_h011",
+      "targetTopicId": "cng_h080",
+      "relation": "prerequisite",
+      "reason": "海洋向大气传热，是大气受热过程在海面的延伸。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h079__cng_h080",
+      "sourceTopicId": "cng_h079",
+      "targetTopicId": "cng_h080",
+      "relation": "recommended_before",
+      "reason": "洋流影响气候，是海—气相互作用的具体表现。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h080__cng_h081",
+      "sourceTopicId": "cng_h080",
+      "targetTopicId": "cng_h081",
+      "relation": "prerequisite",
+      "reason": "厄尔尼诺与拉尼娜是海温与信风相互作用的结果。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h078__cng_h081",
+      "sourceTopicId": "cng_h078",
+      "targetTopicId": "cng_h081",
+      "relation": "prerequisite",
+      "reason": "信风驱动赤道洋流、秘鲁沿岸上升流，是理解该现象的基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h024__cng_h082",
+      "sourceTopicId": "cng_h024",
+      "targetTopicId": "cng_h082",
+      "relation": "prerequisite",
+      "reason": "必修一已学植被与环境的关系，是要素相互作用的典型事例。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h081__cng_h082",
+      "sourceTopicId": "cng_h081",
+      "targetTopicId": "cng_h082",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第一册的教学顺序，先学「厄尔尼诺与拉尼娜现象」，再学「自然要素的相互作用」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h082__cng_h083",
+      "sourceTopicId": "cng_h082",
+      "targetTopicId": "cng_h083",
+      "relation": "prerequisite",
+      "reason": "案例分析要用到整体性的基本原理。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h025__cng_h084",
+      "sourceTopicId": "cng_h025",
+      "targetTopicId": "cng_h084",
+      "relation": "prerequisite",
+      "reason": "必修一已学主要植被类型及分布，这里讲分布背后的规律。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h075__cng_h084",
+      "sourceTopicId": "cng_h075",
+      "targetTopicId": "cng_h084",
+      "relation": "recommended_before",
+      "reason": "纬度和干湿地带性不限于温带亚寒带，不要求先学完整该气候类型组。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h083__cng_h084",
+      "sourceTopicId": "cng_h083",
+      "targetTopicId": "cng_h084",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第一册的教学顺序，先学「整体性的表现与案例分析」，再学「纬度地带性与干湿度地带性」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h084__cng_h085",
+      "sourceTopicId": "cng_h084",
+      "targetTopicId": "cng_h085",
+      "relation": "recommended_before",
+      "reason": "水平地带性可作类比，但垂直自然带不是无条件照搬水平自然带。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j046__cng_h086",
+      "sourceTopicId": "cng_j046",
+      "targetTopicId": "cng_h086",
+      "relation": "prerequisite",
+      "reason": "初中已用南方与北方、东部与西部等划分过区域，这里把区域概念系统化。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h085__cng_h086",
+      "sourceTopicId": "cng_h085",
+      "targetTopicId": "cng_h086",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理课序，学完选择性必修第一册的「垂直地带性与非地带性」后进入选择性必修第二册的「区域的概念与尺度」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h086__cng_h087",
+      "sourceTopicId": "cng_h086",
+      "targetTopicId": "cng_h087",
+      "relation": "prerequisite",
+      "reason": "区域类型是按不同划分指标得出的，先要理解区域的含义和尺度。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h082__cng_h088",
+      "sourceTopicId": "cng_h082",
+      "targetTopicId": "cng_h088",
+      "relation": "prerequisite",
+      "reason": "区域整体性是自然环境整体性在区域尺度上的体现。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h087__cng_h088",
+      "sourceTopicId": "cng_h087",
+      "targetTopicId": "cng_h088",
+      "relation": "recommended_before",
+      "reason": "整体性可在一个明确区域内分析，不必先掌握所有区域类型。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h088__cng_h089",
+      "sourceTopicId": "cng_h088",
+      "targetTopicId": "cng_h089",
+      "relation": "recommended_before",
+      "reason": "整体性讲区域之内，关联性讲区域之间，二者对照才能把握区域系统的特征。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h052__cng_h089",
+      "sourceTopicId": "cng_h052",
+      "targetTopicId": "cng_h089",
+      "relation": "recommended_before",
+      "reason": "交通只是区域联系途径之一，信息、生态和经济联系不都需先学交通影响。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h044__cng_h090",
+      "sourceTopicId": "cng_h044",
+      "targetTopicId": "cng_h090",
+      "relation": "recommended_before",
+      "reason": "农业是自然环境影响的实例之一，工业聚落等讨论不必先掌握农业区位。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h089__cng_h090",
+      "sourceTopicId": "cng_h089",
+      "targetTopicId": "cng_h090",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第二册的教学顺序，先学「区域的关联性」，再学「自然环境对区域发展的影响」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h090__cng_h091",
+      "sourceTopicId": "cng_h090",
+      "targetTopicId": "cng_h091",
+      "relation": "prerequisite",
+      "reason": "资源是自然环境中最直接影响区域产业的部分，先要理解自然环境对区域发展的作用。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h090__cng_h092",
+      "sourceTopicId": "cng_h090",
+      "targetTopicId": "cng_h092",
+      "relation": "prerequisite",
+      "reason": "生态脆弱是自然条件限制与人类活动叠加的结果。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h082__cng_h092",
+      "sourceTopicId": "cng_h082",
+      "targetTopicId": "cng_h092",
+      "relation": "prerequisite",
+      "reason": "脆弱的实质是要素之间的链条易断，需要整体性的视角。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h091__cng_h092",
+      "sourceTopicId": "cng_h091",
+      "targetTopicId": "cng_h092",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第二册的教学顺序，先学「自然资源与区域发展」，再学「生态脆弱区的特征与成因」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h092__cng_h093",
+      "sourceTopicId": "cng_h092",
+      "targetTopicId": "cng_h093",
+      "relation": "prerequisite",
+      "reason": "只有弄清脆弱区的成因，才能对症采取治理措施。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h091__cng_h094",
+      "sourceTopicId": "cng_h091",
+      "targetTopicId": "cng_h094",
+      "relation": "prerequisite",
+      "reason": "资源枯竭型城市是资源型区域发展问题的集中体现。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h047__cng_h094",
+      "sourceTopicId": "cng_h047",
+      "targetTopicId": "cng_h094",
+      "relation": "recommended_before",
+      "reason": "资源城市转型也涉及制度、就业和生态，工业集聚整节不是普遍门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h093__cng_h094",
+      "sourceTopicId": "cng_h093",
+      "targetTopicId": "cng_h094",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第二册的教学顺序，先学「生态脆弱区的综合治理」，再学「资源枯竭型城市的转型发展」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h041__cng_h095",
+      "sourceTopicId": "cng_h041",
+      "targetTopicId": "cng_h095",
+      "relation": "recommended_before",
+      "reason": "给定城市与腹地即可分析辐射，不以先学城镇化全过程为必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h089__cng_h095",
+      "sourceTopicId": "cng_h089",
+      "targetTopicId": "cng_h095",
+      "relation": "prerequisite",
+      "reason": "辐射的本质是区域联系，是区域关联性的具体表现。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h094__cng_h095",
+      "sourceTopicId": "cng_h094",
+      "targetTopicId": "cng_h095",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第二册的教学顺序，先学「资源枯竭型城市的转型发展」，再学「城市的辐射功能」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h048__cng_h096",
+      "sourceTopicId": "cng_h048",
+      "targetTopicId": "cng_h096",
+      "relation": "recommended_before",
+      "reason": "区分三次产业不等同服务业区位分析，后者不是结构变化的必要门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h095__cng_h096",
+      "sourceTopicId": "cng_h095",
+      "targetTopicId": "cng_h096",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第二册的教学顺序，先学「城市的辐射功能」，再学「地区产业结构的变化」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h096__cng_h097",
+      "sourceTopicId": "cng_h096",
+      "targetTopicId": "cng_h097",
+      "relation": "prerequisite",
+      "reason": "案例分析以产业结构变化的一般规律为依据。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h089__cng_h098",
+      "sourceTopicId": "cng_h089",
+      "targetTopicId": "cng_h098",
+      "relation": "prerequisite",
+      "reason": "流域内上下游的相互影响，是区域关联性的典型表现。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h077__cng_h098",
+      "sourceTopicId": "cng_h077",
+      "targetTopicId": "cng_h098",
+      "relation": "prerequisite",
+      "reason": "河流的水文特征是流域综合开发的自然基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h097__cng_h098",
+      "sourceTopicId": "cng_h097",
+      "targetTopicId": "cng_h098",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第二册的教学顺序，先学「产业结构变化的区域案例」，再学「流域内协调发展」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h091__cng_h099",
+      "sourceTopicId": "cng_h091",
+      "targetTopicId": "cng_h099",
+      "relation": "prerequisite",
+      "reason": "调配的对象是资源，需要先理解资源与区域发展的关系。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h098__cng_h099",
+      "sourceTopicId": "cng_h098",
+      "targetTopicId": "cng_h099",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第二册的教学顺序，先学「流域内协调发展」，再学「资源跨区域调配」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h047__cng_h100",
+      "sourceTopicId": "cng_h047",
+      "targetTopicId": "cng_h100",
+      "relation": "prerequisite",
+      "reason": "产业转移是工业区位变化在区域之间的表现。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h096__cng_h100",
+      "sourceTopicId": "cng_h096",
+      "targetTopicId": "cng_h100",
+      "relation": "recommended_before",
+      "reason": "识别企业跨区域转移可先于产业结构综合分析，建议相互联系学习。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h099__cng_h100",
+      "sourceTopicId": "cng_h099",
+      "targetTopicId": "cng_h100",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第二册的教学顺序，先学「资源跨区域调配」，再学「产业转移」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h098__cng_h101",
+      "sourceTopicId": "cng_h098",
+      "targetTopicId": "cng_h101",
+      "relation": "recommended_before",
+      "reason": "国际合作不限于跨国河流，流域合作只是一个案例。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_j017__cng_h101",
+      "sourceTopicId": "cng_j017",
+      "targetTopicId": "cng_h101",
+      "relation": "prerequisite",
+      "reason": "初中已学国际合作的意义与形式，这里转入区域发展的层面。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h100__cng_h101",
+      "sourceTopicId": "cng_h100",
+      "targetTopicId": "cng_h101",
+      "relation": "recommended_before",
+      "reason": "国际产业转移与合作紧密相关。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h008__cng_h102",
+      "sourceTopicId": "cng_h008",
+      "targetTopicId": "cng_h102",
+      "relation": "prerequisite",
+      "reason": "大气圈、水圈、生物圈等外部圈层，是自然环境提供服务的载体。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h101__cng_h102",
+      "sourceTopicId": "cng_h101",
+      "targetTopicId": "cng_h102",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理课序，学完选择性必修第二册的「区域发展中的国际合作」后进入选择性必修第三册的「自然环境的服务功能」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h102__cng_h103",
+      "sourceTopicId": "cng_h102",
+      "targetTopicId": "cng_h103",
+      "relation": "recommended_before",
+      "reason": "资源类型可按更新性质等独立分类，环境服务整节不是唯一入口。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h103__cng_h104",
+      "sourceTopicId": "cng_h103",
+      "targetTopicId": "cng_h104",
+      "relation": "prerequisite",
+      "reason": "资源利用的方式要依据资源的类型和特点来选择。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h054__cng_h104",
+      "sourceTopicId": "cng_h054",
+      "targetTopicId": "cng_h104",
+      "relation": "prerequisite",
+      "reason": "可持续发展理念指导资源利用的方式。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h053__cng_h105",
+      "sourceTopicId": "cng_h053",
+      "targetTopicId": "cng_h105",
+      "relation": "prerequisite",
+      "reason": "必修二已概述人类面临的主要环境问题，这里进一步分类并分析成因与危害。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h104__cng_h105",
+      "sourceTopicId": "cng_h104",
+      "targetTopicId": "cng_h105",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第三册的教学顺序，先学「自然资源的利用」，再学「环境问题及其危害」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h103__cng_h106",
+      "sourceTopicId": "cng_h103",
+      "targetTopicId": "cng_h106",
+      "relation": "prerequisite",
+      "reason": "资源安全讨论的对象是资源，需要先认识资源的类型与特点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h105__cng_h106",
+      "sourceTopicId": "cng_h105",
+      "targetTopicId": "cng_h106",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第三册的教学顺序，先学「环境问题及其危害」，再学「资源安全对国家安全的影响」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h106__cng_h107",
+      "sourceTopicId": "cng_h106",
+      "targetTopicId": "cng_h107",
+      "relation": "prerequisite",
+      "reason": "能源安全是资源安全的核心内容。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j039__cng_h107",
+      "sourceTopicId": "cng_j039",
+      "targetTopicId": "cng_h107",
+      "relation": "prerequisite",
+      "reason": "初中已学煤炭、石油等矿产的分布，是理解我国能源资源特点的基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h107__cng_h108",
+      "sourceTopicId": "cng_h107",
+      "targetTopicId": "cng_h108",
+      "relation": "prerequisite",
+      "reason": "对策要针对我国能源的特点与薄弱环节来选择。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j037__cng_h109",
+      "sourceTopicId": "cng_j037",
+      "targetTopicId": "cng_h109",
+      "relation": "prerequisite",
+      "reason": "初中已学我国土地资源的构成与特点，是分析耕地问题的基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h106__cng_h109",
+      "sourceTopicId": "cng_h106",
+      "targetTopicId": "cng_h109",
+      "relation": "recommended_before",
+      "reason": "耕地数量、质量及分布可先独立认识，再联系资源安全。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h108__cng_h109",
+      "sourceTopicId": "cng_h108",
+      "targetTopicId": "cng_h109",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第三册的教学顺序，先学「保障能源安全的途径」，再学「中国的耕地资源」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h109__cng_h110",
+      "sourceTopicId": "cng_h109",
+      "targetTopicId": "cng_h110",
+      "relation": "prerequisite",
+      "reason": "耕地是粮食生产的基础，粮食安全以耕地保护为前提。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j040__cng_h111",
+      "sourceTopicId": "cng_j040",
+      "targetTopicId": "cng_h111",
+      "relation": "prerequisite",
+      "reason": "初中已学我国的海洋资源与海洋权益，是本点的基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h106__cng_h111",
+      "sourceTopicId": "cng_h106",
+      "targetTopicId": "cng_h111",
+      "relation": "prerequisite",
+      "reason": "海上通道、海洋资源与资源安全直接相关。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h110__cng_h111",
+      "sourceTopicId": "cng_h110",
+      "targetTopicId": "cng_h111",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第三册的教学顺序，先学「粮食安全及其保障」，再学「海洋空间资源开发与国家安全」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h105__cng_h112",
+      "sourceTopicId": "cng_h105",
+      "targetTopicId": "cng_h112",
+      "relation": "prerequisite",
+      "reason": "环境安全是在认识环境问题及其危害的基础上，从国家安全角度的进一步讨论。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h111__cng_h112",
+      "sourceTopicId": "cng_h111",
+      "targetTopicId": "cng_h112",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第三册的教学顺序，先学「海洋空间资源开发与国家安全」，再学「环境安全对国家安全的影响」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h112__cng_h113",
+      "sourceTopicId": "cng_h112",
+      "targetTopicId": "cng_h113",
+      "relation": "prerequisite",
+      "reason": "污染问题是环境安全议题的主要内容之一。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h112__cng_h114",
+      "sourceTopicId": "cng_h112",
+      "targetTopicId": "cng_h114",
+      "relation": "prerequisite",
+      "reason": "生态安全是环境安全的重要方面。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h113__cng_h114",
+      "sourceTopicId": "cng_h113",
+      "targetTopicId": "cng_h114",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第三册的教学顺序，先学「环境污染与国家安全」，再学「生态保护与国家安全」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h011__cng_h115",
+      "sourceTopicId": "cng_h011",
+      "targetTopicId": "cng_h115",
+      "relation": "prerequisite",
+      "reason": "温室效应来自大气受热过程中的大气逆辐射。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h112__cng_h115",
+      "sourceTopicId": "cng_h112",
+      "targetTopicId": "cng_h115",
+      "relation": "recommended_before",
+      "reason": "气候变化的科学机制可先于国家环境安全分析。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h114__cng_h115",
+      "sourceTopicId": "cng_h114",
+      "targetTopicId": "cng_h115",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第三册的教学顺序，先学「生态保护与国家安全」，再学「全球气候变化及其影响」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h115__cng_h116",
+      "sourceTopicId": "cng_h115",
+      "targetTopicId": "cng_h116",
+      "relation": "prerequisite",
+      "reason": "应对措施以认识气候变化的成因与影响为基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h108__cng_h116",
+      "sourceTopicId": "cng_h108",
+      "targetTopicId": "cng_h116",
+      "relation": "recommended_before",
+      "reason": "碳收支不仅涉及能源安全，减排分析不以先掌握全部能源安全途径为门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h054__cng_h117",
+      "sourceTopicId": "cng_h054",
+      "targetTopicId": "cng_h117",
+      "relation": "prerequisite",
+      "reason": "生态文明是对可持续发展、人地协调思想的深化。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h105__cng_h117",
+      "sourceTopicId": "cng_h105",
+      "targetTopicId": "cng_h117",
+      "relation": "prerequisite",
+      "reason": "认识环境问题及其危害，是走向生态文明的起点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h116__cng_h117",
+      "sourceTopicId": "cng_h116",
+      "targetTopicId": "cng_h117",
+      "relation": "recommended_before",
+      "reason": "按人教版高中地理选择性必修第三册的教学顺序，先学「碳排放与应对气候变化」，再学「走向生态文明」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_h117__cng_h118",
+      "sourceTopicId": "cng_h117",
+      "targetTopicId": "cng_h118",
+      "relation": "recommended_before",
+      "reason": "国家战略目标多元，不能把所有战略政策都单向归为生态文明衍生。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h116__cng_h119",
+      "sourceTopicId": "cng_h116",
+      "targetTopicId": "cng_h119",
+      "relation": "recommended_before",
+      "reason": "资源环境国际合作不限于气候，碳排放是其中案例。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cng_h118__cng_h119",
+      "sourceTopicId": "cng_h118",
+      "targetTopicId": "cng_h119",
+      "relation": "recommended_before",
+      "reason": "国际合作与国内战略相互配合。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cng_j005__cng_j008",
+      "sourceTopicId": "cng_j005",
+      "targetTopicId": "cng_j008",
+      "relation": "prerequisite",
+      "reason": "用世界地形图描述海拔与起伏，需具备地形图的基础判读能力。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_j010__cng_j013",
+      "sourceTopicId": "cng_j010",
+      "targetTopicId": "cng_j013",
+      "relation": "prerequisite",
+      "reason": "气候分析须区分长期统计与短期天气现象。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_j005__cng_j034",
+      "sourceTopicId": "cng_j005",
+      "targetTopicId": "cng_j034",
+      "relation": "prerequisite",
+      "reason": "中国地形图的海拔、起伏与坡度判读直接使用地形图基础。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_j011__cng_j035",
+      "sourceTopicId": "cng_j011",
+      "targetTopicId": "cng_j035",
+      "relation": "prerequisite",
+      "reason": "中国气温差异分析直接使用气温变化与分布概念。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_j012__cng_j035",
+      "sourceTopicId": "cng_j012",
+      "targetTopicId": "cng_j035",
+      "relation": "prerequisite",
+      "reason": "中国降水季节分配与空间差异分析直接使用降水资料。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_j004__cng_j036",
+      "sourceTopicId": "cng_j004",
+      "targetTopicId": "cng_j036",
+      "relation": "prerequisite",
+      "reason": "河流源地、流向与流域的空间表达需要基础地图判读。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_j036__cng_j038",
+      "sourceTopicId": "cng_j036",
+      "targetTopicId": "cng_j038",
+      "relation": "prerequisite",
+      "reason": "讨论径流水源、蓄水与调水需区分河流和流域等基本对象。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_j005__cng_j049",
+      "sourceTopicId": "cng_j005",
+      "targetTopicId": "cng_j049",
+      "relation": "prerequisite",
+      "reason": "分析坡面侵蚀与治理需要辨别地势和坡度。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_j012__cng_j049",
+      "sourceTopicId": "cng_j012",
+      "targetTopicId": "cng_j049",
+      "relation": "prerequisite",
+      "reason": "解释雨水侵蚀需理解降雨强度与季节等条件。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_j012__cng_j055",
+      "sourceTopicId": "cng_j012",
+      "targetTopicId": "cng_j055",
+      "relation": "prerequisite",
+      "reason": "解释干旱与评价灌溉需理解降水的时空分配。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_h014__cng_h029",
+      "sourceTopicId": "cng_h014",
+      "targetTopicId": "cng_h029",
+      "relation": "prerequisite",
+      "reason": "洪旱分析需识别降水、蒸发、下渗与径流等收支环节。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_j004__cng_h013",
+      "sourceTopicId": "cng_j004",
+      "targetTopicId": "cng_h013",
+      "relation": "prerequisite",
+      "reason": "等压线风场图判读需要读懂方向、比例尺与等值信息。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_j014__cng_h041",
+      "sourceTopicId": "cng_j014",
+      "targetTopicId": "cng_h041",
+      "relation": "prerequisite",
+      "reason": "计算城镇化水平需区分人口总量与构成比例。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_h009__cng_h069",
+      "sourceTopicId": "cng_h009",
+      "targetTopicId": "cng_h069",
+      "relation": "prerequisite",
+      "reason": "识别冷暖气团及水汽条件需基本大气概念。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_h071__cng_h074",
+      "sourceTopicId": "cng_h071",
+      "targetTopicId": "cng_h074",
+      "relation": "prerequisite",
+      "reason": "风带与气压带为该组气候的大尺度环流解释提供基础。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_j011__cng_h084",
+      "sourceTopicId": "cng_j011",
+      "targetTopicId": "cng_h084",
+      "relation": "prerequisite",
+      "reason": "纬度地带性分析需要温度空间差异的基础。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_j012__cng_h084",
+      "sourceTopicId": "cng_j012",
+      "targetTopicId": "cng_h084",
+      "relation": "prerequisite",
+      "reason": "干湿地带性分析需要降水及其空间差异基础。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_j004__cng_h086",
+      "sourceTopicId": "cng_j004",
+      "targetTopicId": "cng_h086",
+      "relation": "prerequisite",
+      "reason": "区域边界和尺度分析需要基本地图判读。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_h086__cng_h089",
+      "sourceTopicId": "cng_h086",
+      "targetTopicId": "cng_h089",
+      "relation": "prerequisite",
+      "reason": "讨论区域联系需先明确区域划分和研究尺度。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cng_j042__cng_h096",
+      "sourceTopicId": "cng_j042",
+      "targetTopicId": "cng_h096",
+      "relation": "prerequisite",
+      "reason": "产业结构分析需能识别工业等基本产业活动，而非先掌握服务区位整节。",
+      "contentOrigin": "added"
+    }
+  ],
+  "prerequisiteGroups": []
+}

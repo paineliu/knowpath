@@ -1,0 +1,153 @@
+{
+  "schemaVersion": "3.0",
+  "subject": "history",
+  "sourceSnapshot": "8f4061d1b5a8daba5de382dda05ae01bf581e249744c7789484ddcc63aab8ea7",
+  "source": {
+    "project": "cn-math-taxonomy",
+    "repository": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+    "license": "CC-BY-NC-4.0",
+    "files_sha256": {
+      "topics.json": "564e5df6d7a63d47ff8cba058f7c8e3f771d3ebf08758d02a8a6e2d1f1e748e4",
+      "dependencies.json": "739a4dc02c79b9e8d38c6f587e6f3ed17b87a255c85fd84ea675667f40007be9",
+      "questions.json": "5f4de7e3229b0dfa86ac163ab43dcbde6457c544f7bdb73a39bf9d6ec83988b1"
+    },
+    "revision_patches_sha256": {
+      "history_revision_junior.json": "8fcde08f226594711c18db208cd015ee72b5faea55e114736a3dfba053143e07",
+      "history_revision_senior.json": "6ea88496e8d0aa4f95354a656303ac5be6dc5d64f71dd6805729dd6ffa41de06"
+    }
+  },
+  "inputHashes": {
+    "history_topics.json": "33dba884ffb757cf2c00c1a6a81dab2b4225aff5da0603caf5cbb024572d9a75",
+    "history_depend.json": "263a23d977abc30a30c320f10bdad5ab4d21a90a3ba5986207649c7f9ae9ff4f",
+    "history_questions.json": "16ce5a2c4c81a32799de50aedc776fdb132464ec817e2248d624afe1e7a5cda2"
+  },
+  "status": "ai_revised_draft_not_teacher_validated",
+  "scope": "历史初中及高中，继承原库覆盖范围；不独立声称课程完整性。",
+  "sourceSnapshotLimitations": [
+    "保留原编号及大部分原题；未修订条目标为 inherited_unreviewed，AI修订与新增题也未经完整教师审核。",
+    "部分原节点仍是整节、实验或复习活动；node_kind区分这些内容单元，不表示已全部拆成最小能力。",
+    "课标与教材册次继承原库，未重新核实；exact等原映射标记不代表本次权威复核。",
+    "必要先修仅用于安排直接测查，不据后续题答对或答错推断前置点掌握或薄弱。",
+    "计算、概念和应用分别记录证据；每维一道题不构成稳定掌握结论，尚未经过学生样本验证。",
+    "纸笔题无法证明实验操作、测量习惯或真实探究能力，须另行观察操作过程。",
+    "新结构与原页面不直接兼容，须适配集合字段、关系类型、人工评分及诊断策略。",
+    "教学模拟材料用于推理练习，不是真实档案、历史引文或经核实的历史统计；应随题目展示材料性质。",
+    "原库以课程课题为节点，本次尚未完整建立历史概念与史料技能层；必要先修少不等于学习不需要背景与方法基础。"
+  ],
+  "sourceRevisionSummary": {
+    "topics": 254,
+    "dependencies": 513,
+    "questions": 1088,
+    "updated_topics": 25,
+    "updated_existing_edges": 210,
+    "added_edges": 0,
+    "updated_existing_questions": 12,
+    "added_questions": 72,
+    "three_dimension_topic_count": 24,
+    "relations": {
+      "recommended_before": 454,
+      "related": 13,
+      "prerequisite": 46
+    }
+  },
+  "relations": {
+    "prerequisite": "候选必要基础，失败后可安排直接测查，不断言根因。",
+    "recommended_before": "建议学习顺序、支持知识或可选方法，不作必要门槛。",
+    "related": "比较、迁移或主题关联，不用于诊断回溯。"
+  },
+  "diagnosticPolicy": {
+    "infer_ancestor_mastery": false,
+    "infer_weakness_from_descendant_failure": false,
+    "traverse_relations": [
+      "prerequisite"
+    ],
+    "check_alternative_groups": true,
+    "unmeasured_status": "unknown",
+    "cross_subject_links": "navigation_only"
+  },
+  "masteryRequiresDirectEvidence": true,
+  "assessmentPolicy": {
+    "dimensions": {
+      "procedure": "提取材料信息、排列时序、读取资料表；不把日期计算当作全部历史能力。",
+      "concept": "区分历史概念、史实与解释、先后与因果、来源与证据。",
+      "application": "结合语境和多种材料进行解释、比较观点与证据，说明来源局限和结论范围。"
+    },
+    "score_reporting": "三维分别记录，不按总分直接判掌握；未作答及未人工评分为unknown。",
+    "administration": "同组全部提交前不展示答案、解析或误区，避免题间提示。",
+    "human_grading": "short/self须人工评分；有rubric者按分项标准给分，不能只比较最后数字。",
+    "verification": "原题verify中的字符串或数字常量仅说明答案字段一致；算式一致也不证明题意或模型独立正确。",
+    "assumptions_display": "题干与historical_assumptions共同定义条件，展示题目时须提供。",
+    "material_provenance": "模拟数据和材料明确标注；真实资料应保留出处、时间和必要语境，不以自编材料冒充史实或实测。",
+    "independent_source_research": "written_items_do_not_establish_independent_historical_research_skill"
+  },
+  "evidenceScope": "item_only",
+  "gradingDefaults": {
+    "numeric": "automatic",
+    "choice": "automatic",
+    "short": "human",
+    "self": "human"
+  },
+  "questionFieldDefaults": {
+    "measures": [],
+    "assessment_focus": "unspecified",
+    "explanation": "简答题省略时使用 answer"
+  },
+  "placementLabels": {
+    "10": "必修第一册",
+    "11": "必修第二册",
+    "12": "选择性必修第一册",
+    "13": "选择性必修第二册",
+    "14": "选择性必修第三册"
+  },
+  "artifactHashes": {
+    "history_topics.json": "26a20c778a968cb4e797fa321487e72440334380e2a4e2216cd228aa06b26b28",
+    "history_depend.json": "31e51e41b87fbc1d3acdf4d689f486ad0beeb4ba2607b50f84d42df0c450b1c7",
+    "history_questions.json": "a43ef94e790e3c86d1f4a97da2c18641960bbd941fb724892e86cb4bb3f321e6",
+    "history_reviews.json": "7bba90a76a93162b81b616518e035554aaac5e05f4d4d406895f42390bbd5a9f"
+  },
+  "artifactSetId": "5030ffb79f14e2775adf63d78ed712c86409b09b1f0aa9c86958352b18335677",
+  "practiceMinimum": 4,
+  "questionCounts": {
+    "original": 1088,
+    "addedPractice": 0
+  },
+  "verificationSummary": {
+    "expression_or_literal_consistency_passed": 1016,
+    "without_expression_verification": 72,
+    "mismatch_count": 0,
+    "verification_kinds": {
+      "answer_literal_consistency_only": 1013,
+      "expression_consistency_only": 3,
+      "not_available": 72
+    },
+    "meaning": "仅格式及表达式/字面量一致性；并非全部题目独立解答通过。"
+  },
+  "reviewPolicy": "所有对象等待建立逐项审查基线；sourceReviewStatus 保留来源状态。",
+  "independentSourceResearch": "not_established_by_a_single_written_set",
+  "reviewFindings": [
+    {
+      "issue": "事件发生条件被当成学习必要先修",
+      "original_example": [
+        "cnh_j009",
+        "cnh_j006"
+      ],
+      "explanation": "变法与秦统一有历史解释联系，不等于未掌握前一课便不能学习后一课。"
+    },
+    {
+      "issue": "事件先后与因果、背景需分开",
+      "explanation": "时间在前不自动证明是原因，背景或影响关系须由材料、机制和研究解释支持。"
+    },
+    {
+      "issue": "识记事实不足以代表史料能力",
+      "explanation": "原题以选择题为主，新题组补时序、材料提取、来源辨析及有边界的证据论证。"
+    }
+  ],
+  "reviewReferences": [
+    {
+      "title": "National Archives: Document Analysis",
+      "url": "https://www.archives.gov/education/lessons/worksheets",
+      "supports": "分析材料语境和视角，并把材料作为证据使用；不把材料表面信息等同完整历史解释。"
+    }
+  ],
+  "historicalRelationPolicy": "historical_relation若存在，仅为修订者注明的叙事、背景或解释性联系；不作为因果证明或学习门槛。历史事件先后不自动构成prerequisite。"
+}

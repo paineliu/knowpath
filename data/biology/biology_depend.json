@@ -1,0 +1,3028 @@
+{
+  "schemaVersion": "3.0",
+  "subject": "biology",
+  "sourceSnapshot": "dfc910e9f68594df5b4f26932c32346045f2b4880f6c5db4e95c6665e313103f",
+  "count": 376,
+  "dependencies": [
+    {
+      "id": "cnb_j001__cnb_j002",
+      "sourceTopicId": "cnb_j001",
+      "targetTopicId": "cnb_j002",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「观察周边环境中的生物」，再学「生物的特征」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j002__cnb_j003",
+      "sourceTopicId": "cnb_j002",
+      "targetTopicId": "cnb_j003",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「生物的特征」，再学「学习使用显微镜」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j008__cnb_j009",
+      "sourceTopicId": "cnb_j008",
+      "targetTopicId": "cnb_j009",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「动物体的结构层次」，再学「植物体的结构层次」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j009__cnb_j010",
+      "sourceTopicId": "cnb_j009",
+      "targetTopicId": "cnb_j010",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「植物体的结构层次」，再学「单细胞生物」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j010__cnb_j011",
+      "sourceTopicId": "cnb_j010",
+      "targetTopicId": "cnb_j011",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「单细胞生物」，再学「藻类、苔藓植物和蕨类植物」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j012__cnb_j013",
+      "sourceTopicId": "cnb_j012",
+      "targetTopicId": "cnb_j013",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「种子植物」，再学「无脊椎动物」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j016__cnb_j017",
+      "sourceTopicId": "cnb_j016",
+      "targetTopicId": "cnb_j017",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「鸟和哺乳动物」，再学「微生物的分布」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j018__cnb_j019",
+      "sourceTopicId": "cnb_j018",
+      "targetTopicId": "cnb_j019",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「细菌」，再学「真菌」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j019__cnb_j020",
+      "sourceTopicId": "cnb_j019",
+      "targetTopicId": "cnb_j020",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「真菌」，再学「病毒」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j020__cnb_j021",
+      "sourceTopicId": "cnb_j020",
+      "targetTopicId": "cnb_j021",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「病毒」，再学「尝试对生物进行分类」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j022__cnb_j023",
+      "sourceTopicId": "cnb_j022",
+      "targetTopicId": "cnb_j023",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「从种到界」，再学「种子的萌发」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j025__cnb_j026",
+      "sourceTopicId": "cnb_j025",
+      "targetTopicId": "cnb_j026",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「开花和结果」，再学「水的利用与散失」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j026__cnb_j027",
+      "sourceTopicId": "cnb_j026",
+      "targetTopicId": "cnb_j027",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「水的利用与散失」，再学「光合作用」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j029__cnb_j030",
+      "sourceTopicId": "cnb_j029",
+      "targetTopicId": "cnb_j030",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「植物在自然界中的作用」，再学「人的生殖」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j031__cnb_j032",
+      "sourceTopicId": "cnb_j031",
+      "targetTopicId": "cnb_j032",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「青春期」，再学「食物中的营养物质」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j034__cnb_j035",
+      "sourceTopicId": "cnb_j034",
+      "targetTopicId": "cnb_j035",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「合理营养与食品安全」，再学「呼吸道对空气的处理」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j036__cnb_j037",
+      "sourceTopicId": "cnb_j036",
+      "targetTopicId": "cnb_j037",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「发生在肺内的气体交换」，再学「流动的组织——血液」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j040__cnb_j041",
+      "sourceTopicId": "cnb_j040",
+      "targetTopicId": "cnb_j041",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「人体内废物的排出」，再学「人体对外界环境的感知」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j043__cnb_j044",
+      "sourceTopicId": "cnb_j043",
+      "targetTopicId": "cnb_j044",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「神经系统支配下的运动」，再学「激素调节」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j044__cnb_j045",
+      "sourceTopicId": "cnb_j044",
+      "targetTopicId": "cnb_j045",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「激素调节」，再学「传染病及其预防」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j046__cnb_j047",
+      "sourceTopicId": "cnb_j046",
+      "targetTopicId": "cnb_j047",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「免疫与免疫规划」，再学「用药与急救」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j048__cnb_j049",
+      "sourceTopicId": "cnb_j048",
+      "targetTopicId": "cnb_j049",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「选择健康的生活方式」，再学「生物与环境的相互作用」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j051__cnb_j052",
+      "sourceTopicId": "cnb_j051",
+      "targetTopicId": "cnb_j052",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「生物圈」，再学「分析人类活动对生态环境的影响」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j053__cnb_j054",
+      "sourceTopicId": "cnb_j053",
+      "targetTopicId": "cnb_j054",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「维护生态安全」，再学「无性生殖」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j058__cnb_j059",
+      "sourceTopicId": "cnb_j058",
+      "targetTopicId": "cnb_j059",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「基因的显性和隐性」，再学「人的性别决定」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j059__cnb_j060",
+      "sourceTopicId": "cnb_j059",
+      "targetTopicId": "cnb_j060",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「人的性别决定」，再学「生物的变异」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j060__cnb_j061",
+      "sourceTopicId": "cnb_j060",
+      "targetTopicId": "cnb_j061",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「生物的变异」，再学「地球上生命的起源」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j063__cnb_j064",
+      "sourceTopicId": "cnb_j063",
+      "targetTopicId": "cnb_j064",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「生物进化的原因」，再学「人类的起源」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j064__cnb_j065",
+      "sourceTopicId": "cnb_j064",
+      "targetTopicId": "cnb_j065",
+      "relation": "recommended_before",
+      "reason": "按人教版生物学的教学顺序，先学「人类的起源」，再学「进化与生物多样性」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j003__cnb_j004",
+      "sourceTopicId": "cnb_j003",
+      "targetTopicId": "cnb_j004",
+      "relation": "recommended_before",
+      "reason": "认识植物细胞结构不要求已会实际操纵显微镜；显微观察任务才需要操作基础。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j004__cnb_j005",
+      "sourceTopicId": "cnb_j004",
+      "targetTopicId": "cnb_j005",
+      "relation": "related",
+      "reason": "动植物细胞是结构比较关系，比较时需同时调用两个节点。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j005__cnb_j006",
+      "sourceTopicId": "cnb_j005",
+      "targetTopicId": "cnb_j006",
+      "relation": "recommended_before",
+      "reason": "细胞的物质与能量活动不限于动物细胞，可从植物或其他细胞实例引入。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j006__cnb_j007",
+      "sourceTopicId": "cnb_j006",
+      "targetTopicId": "cnb_j007",
+      "relation": "recommended_before",
+      "reason": "分裂过程需要细胞结构和遗传物质基础，不能把笼统的细胞生活整节都作为必备门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j007__cnb_j008",
+      "sourceTopicId": "cnb_j007",
+      "targetTopicId": "cnb_j008",
+      "relation": "prerequisite",
+      "reason": "动物体的结构层次从细胞分裂和分化讲起。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j007__cnb_j009",
+      "sourceTopicId": "cnb_j007",
+      "targetTopicId": "cnb_j009",
+      "relation": "prerequisite",
+      "reason": "植物体的结构层次同样从细胞分裂和分化讲起。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j006__cnb_j010",
+      "sourceTopicId": "cnb_j006",
+      "targetTopicId": "cnb_j010",
+      "relation": "prerequisite",
+      "reason": "单细胞生物能独立完成生命活动，要先知道细胞是生命活动的基本单位。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j011__cnb_j012",
+      "sourceTopicId": "cnb_j011",
+      "targetTopicId": "cnb_j012",
+      "relation": "recommended_before",
+      "reason": "不同植物类群的比较有帮助，但种子结构与种子植物概念不以全部孢子植物类群为前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j013__cnb_j014",
+      "sourceTopicId": "cnb_j013",
+      "targetTopicId": "cnb_j014",
+      "relation": "recommended_before",
+      "reason": "鱼的结构与水生适应可独立理解，无脊椎动物是比较对象而非必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j014__cnb_j015",
+      "sourceTopicId": "cnb_j014",
+      "targetTopicId": "cnb_j015",
+      "relation": "related",
+      "reason": "比较不同脊椎动物类群的繁殖和环境适应，不表示知识学习必须按进化顺序串联。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j015__cnb_j016",
+      "sourceTopicId": "cnb_j015",
+      "targetTopicId": "cnb_j016",
+      "relation": "related",
+      "reason": "并列动物类群可比较，但不构成唯一必需学习路径。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j017__cnb_j018",
+      "sourceTopicId": "cnb_j017",
+      "targetTopicId": "cnb_j018",
+      "relation": "recommended_before",
+      "reason": "了解微生物分布有助引入，但理解细菌结构不需要先学培养或分布整节。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j017__cnb_j019",
+      "sourceTopicId": "cnb_j017",
+      "targetTopicId": "cnb_j019",
+      "relation": "recommended_before",
+      "reason": "真菌结构和营养方式不以微生物分布整节为必要基础。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j018__cnb_j020",
+      "sourceTopicId": "cnb_j018",
+      "targetTopicId": "cnb_j020",
+      "relation": "recommended_before",
+      "reason": "病毒与细菌的比较有帮助，但病毒无细胞结构应与细胞概念直接关联。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j011__cnb_j021",
+      "sourceTopicId": "cnb_j011",
+      "targetTopicId": "cnb_j021",
+      "relation": "prerequisite",
+      "reason": "尝试对生物进行分类，要用到前面学过的植物类群特征。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j013__cnb_j021",
+      "sourceTopicId": "cnb_j013",
+      "targetTopicId": "cnb_j021",
+      "relation": "prerequisite",
+      "reason": "尝试对生物进行分类，要用到前面学过的动物类群特征。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j021__cnb_j022",
+      "sourceTopicId": "cnb_j021",
+      "targetTopicId": "cnb_j022",
+      "relation": "prerequisite",
+      "reason": "从种到界的分类等级，建立在已经尝试按特征分类的基础上。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j012__cnb_j023",
+      "sourceTopicId": "cnb_j012",
+      "targetTopicId": "cnb_j023",
+      "relation": "prerequisite",
+      "reason": "种子萌发是种子植物生活的起点，要先认识种子植物。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j023__cnb_j024",
+      "sourceTopicId": "cnb_j023",
+      "targetTopicId": "cnb_j024",
+      "relation": "recommended_before",
+      "reason": "植物个体发育顺序不同于知识依赖；植株生长也能从已有根茎叶和分生组织观察引入。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j024__cnb_j025",
+      "sourceTopicId": "cnb_j024",
+      "targetTopicId": "cnb_j025",
+      "relation": "recommended_before",
+      "reason": "开花结果可由花结构和受精过程切入，不要求先完整掌握植株营养生长整节。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j024__cnb_j026",
+      "sourceTopicId": "cnb_j024",
+      "targetTopicId": "cnb_j026",
+      "relation": "recommended_before",
+      "reason": "水分吸收运输散失主要需要根茎叶结构，不应依赖笼统的生长整节。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j004__cnb_j027",
+      "sourceTopicId": "cnb_j004",
+      "targetTopicId": "cnb_j027",
+      "relation": "prerequisite",
+      "reason": "光合作用主要在叶绿体中进行，要先认识植物细胞里的叶绿体。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j027__cnb_j028",
+      "sourceTopicId": "cnb_j027",
+      "targetTopicId": "cnb_j028",
+      "relation": "related",
+      "reason": "比较光合作用与呼吸作用的物质、能量及条件；二者概念不互为必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j028__cnb_j029",
+      "sourceTopicId": "cnb_j028",
+      "targetTopicId": "cnb_j029",
+      "relation": "prerequisite",
+      "reason": "说明植物参与碳氧平衡，也要用到呼吸作用消耗氧气、产生二氧化碳。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j026__cnb_j029",
+      "sourceTopicId": "cnb_j026",
+      "targetTopicId": "cnb_j029",
+      "relation": "prerequisite",
+      "reason": "说明植物参与水循环，要先知道蒸腾作用散失水分。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j030__cnb_j031",
+      "sourceTopicId": "cnb_j030",
+      "targetTopicId": "cnb_j031",
+      "relation": "recommended_before",
+      "reason": "人的生殖知识有助理解青春期，但青春期变化与健康认识不要求先掌握生殖全过程。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j032__cnb_j033",
+      "sourceTopicId": "cnb_j032",
+      "targetTopicId": "cnb_j033",
+      "relation": "prerequisite",
+      "reason": "消化和吸收针对的是食物中的营养物质。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j033__cnb_j034",
+      "sourceTopicId": "cnb_j033",
+      "targetTopicId": "cnb_j034",
+      "relation": "recommended_before",
+      "reason": "合理营养可基于营养需要，食品安全还涉及污染等独立证据，不能全部依赖消化吸收。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j035__cnb_j036",
+      "sourceTopicId": "cnb_j035",
+      "targetTopicId": "cnb_j036",
+      "relation": "recommended_before",
+      "reason": "呼吸道处理空气与肺泡气体交换是相关环节，先后经过不等于前一整节是后一机制的必要知识。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j037__cnb_j038",
+      "sourceTopicId": "cnb_j037",
+      "targetTopicId": "cnb_j038",
+      "relation": "recommended_before",
+      "reason": "三类血管的结构功能可与血液组成并行学习。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j038__cnb_j039",
+      "sourceTopicId": "cnb_j038",
+      "targetTopicId": "cnb_j039",
+      "relation": "prerequisite",
+      "reason": "心脏把血液压进血管，要先知道三类血管。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j039__cnb_j040",
+      "sourceTopicId": "cnb_j039",
+      "targetTopicId": "cnb_j040",
+      "relation": "recommended_before",
+      "reason": "排泄功能需要体内物质运输认识，但不应把心脏整节作为肾脏排泄结构的唯一门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j041__cnb_j042",
+      "sourceTopicId": "cnb_j041",
+      "targetTopicId": "cnb_j042",
+      "relation": "prerequisite",
+      "reason": "神经调节建立在感受器接受外界刺激的基础上。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j042__cnb_j043",
+      "sourceTopicId": "cnb_j042",
+      "targetTopicId": "cnb_j043",
+      "relation": "prerequisite",
+      "reason": "骨骼肌的收缩受神经系统支配。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j042__cnb_j044",
+      "sourceTopicId": "cnb_j042",
+      "targetTopicId": "cnb_j044",
+      "relation": "related",
+      "reason": "神经调节与激素调节用于比较和整合，不互设整节必备门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j045__cnb_j046",
+      "sourceTopicId": "cnb_j045",
+      "targetTopicId": "cnb_j046",
+      "relation": "recommended_before",
+      "reason": "免疫与传染病预防有关，但免疫还包括识别清除等功能，不以整节传染病为必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j045__cnb_j048",
+      "sourceTopicId": "cnb_j045",
+      "targetTopicId": "cnb_j048",
+      "relation": "prerequisite",
+      "reason": "选择健康的生活方式，包括预防传染病。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j047__cnb_j048",
+      "sourceTopicId": "cnb_j047",
+      "targetTopicId": "cnb_j048",
+      "relation": "recommended_before",
+      "reason": "健康生活方式与用药急救相关，不能把急救操作作为所有生活方式选择的必备知识。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j049__cnb_j050",
+      "sourceTopicId": "cnb_j049",
+      "targetTopicId": "cnb_j050",
+      "relation": "prerequisite",
+      "reason": "生态系统的结构和功能，建立在生物与环境相互作用的基础上。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j050__cnb_j051",
+      "sourceTopicId": "cnb_j050",
+      "targetTopicId": "cnb_j051",
+      "relation": "prerequisite",
+      "reason": "生物圈是最大的生态系统，要先知道生态系统的组成。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j050__cnb_j052",
+      "sourceTopicId": "cnb_j050",
+      "targetTopicId": "cnb_j052",
+      "relation": "prerequisite",
+      "reason": "分析人类活动的影响，要先知道生态系统怎样维持稳定。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j052__cnb_j053",
+      "sourceTopicId": "cnb_j052",
+      "targetTopicId": "cnb_j053",
+      "relation": "prerequisite",
+      "reason": "维护生态安全，针对的是人类活动造成的生态问题。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j009__cnb_j054",
+      "sourceTopicId": "cnb_j009",
+      "targetTopicId": "cnb_j054",
+      "relation": "prerequisite",
+      "reason": "植物的扦插、嫁接等无性生殖，用的是根、茎、叶等营养器官。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j054__cnb_j055",
+      "sourceTopicId": "cnb_j054",
+      "targetTopicId": "cnb_j055",
+      "relation": "related",
+      "reason": "比较是否有两性生殖细胞结合，不把并列方式当先修。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j025__cnb_j055",
+      "sourceTopicId": "cnb_j025",
+      "targetTopicId": "cnb_j055",
+      "relation": "recommended_before",
+      "reason": "被子植物开花结果是有性生殖实例，不是理解有性生殖定义的唯一前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j030__cnb_j055",
+      "sourceTopicId": "cnb_j030",
+      "targetTopicId": "cnb_j055",
+      "relation": "recommended_before",
+      "reason": "人的生殖是有性生殖实例，不能把具体物种全过程当作普适概念的必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j055__cnb_j056",
+      "sourceTopicId": "cnb_j055",
+      "targetTopicId": "cnb_j056",
+      "relation": "recommended_before",
+      "reason": "基因影响性状不只见于有性生殖，无性生殖后代也有基因和性状。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j056__cnb_j057",
+      "sourceTopicId": "cnb_j056",
+      "targetTopicId": "cnb_j057",
+      "relation": "prerequisite",
+      "reason": "基因在亲子代间传递，先要知道基因与性状的关系。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j057__cnb_j058",
+      "sourceTopicId": "cnb_j057",
+      "targetTopicId": "cnb_j058",
+      "relation": "prerequisite",
+      "reason": "显性和隐性是一对基因在亲子代传递中的表现。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j057__cnb_j059",
+      "sourceTopicId": "cnb_j057",
+      "targetTopicId": "cnb_j059",
+      "relation": "prerequisite",
+      "reason": "人的性别由性染色体决定，建立在基因随染色体传递的基础上。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j056__cnb_j060",
+      "sourceTopicId": "cnb_j056",
+      "targetTopicId": "cnb_j060",
+      "relation": "prerequisite",
+      "reason": "变异是亲子代性状上的差异，包括遗传物质改变引起的可遗传变异。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j061__cnb_j062",
+      "sourceTopicId": "cnb_j061",
+      "targetTopicId": "cnb_j062",
+      "relation": "recommended_before",
+      "reason": "生命起源与已有生命的演化是不同问题，演化证据不依赖先解决起源假说。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j062__cnb_j063",
+      "sourceTopicId": "cnb_j062",
+      "targetTopicId": "cnb_j063",
+      "relation": "recommended_before",
+      "reason": "自然选择可由当代种群证据学习，不必先背熟完整进化历程。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j060__cnb_j063",
+      "sourceTopicId": "cnb_j060",
+      "targetTopicId": "cnb_j063",
+      "relation": "prerequisite",
+      "reason": "自然选择解释的是可遗传的变异怎样被保留下来。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j062__cnb_j064",
+      "sourceTopicId": "cnb_j062",
+      "targetTopicId": "cnb_j064",
+      "relation": "prerequisite",
+      "reason": "人类的起源是生物进化历程中的一部分。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j016__cnb_j064",
+      "sourceTopicId": "cnb_j016",
+      "targetTopicId": "cnb_j064",
+      "relation": "prerequisite",
+      "reason": "人类属于哺乳动物，比较人类和类人猿要先认识哺乳动物。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j062__cnb_j065",
+      "sourceTopicId": "cnb_j062",
+      "targetTopicId": "cnb_j065",
+      "relation": "prerequisite",
+      "reason": "生物多样性是长期进化的结果。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j022__cnb_j065",
+      "sourceTopicId": "cnb_j022",
+      "targetTopicId": "cnb_j065",
+      "relation": "recommended_before",
+      "reason": "分类框架支持描述多样性，但解释多样性形成不以背熟全部分类等级为必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j065__cnb_j066",
+      "sourceTopicId": "cnb_j065",
+      "targetTopicId": "cnb_j066",
+      "relation": "prerequisite",
+      "reason": "人与自然和谐共生，建立在认识并保护生物多样性的基础上。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j053__cnb_j066",
+      "sourceTopicId": "cnb_j053",
+      "targetTopicId": "cnb_j066",
+      "relation": "prerequisite",
+      "reason": "维护生态安全是人与自然和谐共生的一部分。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j005__cnb_h001",
+      "sourceTopicId": "cnb_j005",
+      "targetTopicId": "cnb_h001",
+      "relation": "recommended_before",
+      "reason": "细胞学说可先从动植物由细胞构成的证据理解，不要求先掌握动物细胞全部结构。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h001__cnb_h002",
+      "sourceTopicId": "cnb_h001",
+      "targetTopicId": "cnb_h002",
+      "relation": "prerequisite",
+      "reason": "把细胞看作最基本的生命系统，是从细胞学说关于细胞是生命活动基本单位的认识得来的。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j008__cnb_h002",
+      "sourceTopicId": "cnb_j008",
+      "targetTopicId": "cnb_h002",
+      "relation": "recommended_before",
+      "reason": "动物的层次是比较实例，不是理解生态系统层次的唯一入口。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j009__cnb_h002",
+      "sourceTopicId": "cnb_j009",
+      "targetTopicId": "cnb_h002",
+      "relation": "recommended_before",
+      "reason": "植物层次有助于辨析有无系统，但不是所有生命系统层次的必要门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j050__cnb_h002",
+      "sourceTopicId": "cnb_j050",
+      "targetTopicId": "cnb_h002",
+      "relation": "recommended_before",
+      "reason": "种群、群落和生态系统层次的划分，建立在对生态系统概念的初步认识上。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j018__cnb_h003",
+      "sourceTopicId": "cnb_j018",
+      "targetTopicId": "cnb_h003",
+      "relation": "recommended_before",
+      "reason": "细菌是原核细胞的实例，可在本主题介绍其基本结构，不要求先学完细菌整课。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j004__cnb_h003",
+      "sourceTopicId": "cnb_j004",
+      "targetTopicId": "cnb_h003",
+      "relation": "prerequisite",
+      "reason": "与原核细胞对比，需要先知道植物细胞（真核细胞）有细胞核、叶绿体等结构。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h002__cnb_h003",
+      "sourceTopicId": "cnb_h002",
+      "targetTopicId": "cnb_h003",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修1《分子与细胞》的教学顺序，先学「生命系统的结构层次」，再学「原核细胞与真核细胞的多样性和统一性」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h003__cnb_h004",
+      "sourceTopicId": "cnb_h003",
+      "targetTopicId": "cnb_h004",
+      "relation": "recommended_before",
+      "reason": "了解各种细胞的组成，要先知道细胞的基本结构类型。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h004__cnb_h005",
+      "sourceTopicId": "cnb_h004",
+      "targetTopicId": "cnb_h005",
+      "relation": "prerequisite",
+      "reason": "这些实验检测的是细胞中的糖类、脂肪和蛋白质，要先知道细胞中有这些化合物。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h004__cnb_h006",
+      "sourceTopicId": "cnb_h004",
+      "targetTopicId": "cnb_h006",
+      "relation": "prerequisite",
+      "reason": "水和无机盐是细胞中含量最多的化合物和主要的无机物，要先掌握细胞的元素与化合物组成。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h005__cnb_h006",
+      "sourceTopicId": "cnb_h005",
+      "targetTopicId": "cnb_h006",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修1《分子与细胞》的教学顺序，先学「检测生物组织中的糖类、脂肪和蛋白质」，再学「细胞中的水和无机盐」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h004__cnb_h007",
+      "sourceTopicId": "cnb_h004",
+      "targetTopicId": "cnb_h007",
+      "relation": "prerequisite",
+      "reason": "糖类由 C、H、O 三种元素组成，要先知道细胞中的元素和化合物。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h006__cnb_h007",
+      "sourceTopicId": "cnb_h006",
+      "targetTopicId": "cnb_h007",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修1《分子与细胞》的教学顺序，先学「细胞中的水和无机盐」，再学「细胞中的糖类」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h007__cnb_h008",
+      "sourceTopicId": "cnb_h007",
+      "targetTopicId": "cnb_h008",
+      "relation": "recommended_before",
+      "reason": "脂质与糖类是可并行学习的分子类别，比较储能并不构成必备前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h004__cnb_h009",
+      "sourceTopicId": "cnb_h004",
+      "targetTopicId": "cnb_h009",
+      "relation": "prerequisite",
+      "reason": "蛋白质主要由 C、H、O、N 组成，氨基酸含 N，要先知道细胞的元素组成。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h008__cnb_h009",
+      "sourceTopicId": "cnb_h008",
+      "targetTopicId": "cnb_h009",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修1《分子与细胞》的教学顺序，先学「细胞中的脂质」，再学「氨基酸与蛋白质的形成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h009__cnb_h010",
+      "sourceTopicId": "cnb_h009",
+      "targetTopicId": "cnb_h010",
+      "relation": "prerequisite",
+      "reason": "蛋白质是由氨基酸脱水缩合而成的，要先掌握氨基酸与肽链的形成。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h009__cnb_h011",
+      "sourceTopicId": "cnb_h009",
+      "targetTopicId": "cnb_h011",
+      "relation": "recommended_before",
+      "reason": "核苷酸形成核酸可独立学习，氨基酸缩合只是类比。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h007__cnb_h011",
+      "sourceTopicId": "cnb_h007",
+      "targetTopicId": "cnb_h011",
+      "relation": "prerequisite",
+      "reason": "核酸中的核糖和脱氧核糖是五碳糖，需要先认识单糖。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j056__cnb_h011",
+      "sourceTopicId": "cnb_j056",
+      "targetTopicId": "cnb_h011",
+      "relation": "recommended_before",
+      "reason": "初中已知道基因控制性状、基因位于 DNA 上，是认识核酸功能的起点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h010__cnb_h011",
+      "sourceTopicId": "cnb_h010",
+      "targetTopicId": "cnb_h011",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修1《分子与细胞》的教学顺序，先学「蛋白质的结构多样性与功能」，再学「核酸的组成与功能和生物大分子」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h008__cnb_h012",
+      "sourceTopicId": "cnb_h008",
+      "targetTopicId": "cnb_h012",
+      "relation": "prerequisite",
+      "reason": "磷脂双分子层的形成，要先知道磷脂分子亲水头部、疏水尾部的特点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h010__cnb_h012",
+      "sourceTopicId": "cnb_h010",
+      "targetTopicId": "cnb_h012",
+      "relation": "prerequisite",
+      "reason": "膜上的蛋白质有多种功能，需要先了解蛋白质的结构与功能。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h011__cnb_h012",
+      "sourceTopicId": "cnb_h011",
+      "targetTopicId": "cnb_h012",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修1《分子与细胞》的教学顺序，先学「核酸的组成与功能和生物大分子」，再学「细胞膜的结构」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h012__cnb_h013",
+      "sourceTopicId": "cnb_h012",
+      "targetTopicId": "cnb_h013",
+      "relation": "prerequisite",
+      "reason": "细胞膜的功能是由它的结构（磷脂双分子层和膜蛋白）决定的，要先学结构。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h003__cnb_h014",
+      "sourceTopicId": "cnb_h003",
+      "targetTopicId": "cnb_h014",
+      "relation": "recommended_before",
+      "reason": "原核与真核分类可帮助比较细胞器，不等于原核细胞没有任何细胞器；核糖体也存在于原核细胞。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h012__cnb_h014",
+      "sourceTopicId": "cnb_h012",
+      "targetTopicId": "cnb_h014",
+      "relation": "prerequisite",
+      "reason": "细胞器的膜结构以磷脂双分子层为基础，要先学细胞膜的结构。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j006__cnb_h014",
+      "sourceTopicId": "cnb_j006",
+      "targetTopicId": "cnb_h014",
+      "relation": "prerequisite",
+      "reason": "初中已学过叶绿体和线粒体是细胞中的能量转换器，是学习各细胞器的起点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h013__cnb_h014",
+      "sourceTopicId": "cnb_h013",
+      "targetTopicId": "cnb_h014",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修1《分子与细胞》的教学顺序，先学「细胞膜的功能」，再学「细胞器的结构与功能」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h014__cnb_h015",
+      "sourceTopicId": "cnb_h014",
+      "targetTopicId": "cnb_h015",
+      "relation": "prerequisite",
+      "reason": "分泌蛋白的合成与运输涉及核糖体、内质网、高尔基体和线粒体，要先知道各细胞器的功能。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h011__cnb_h016",
+      "sourceTopicId": "cnb_h011",
+      "targetTopicId": "cnb_h016",
+      "relation": "prerequisite",
+      "reason": "染色质的主要成分之一是 DNA，细胞核储存遗传信息，要先知道核酸的功能。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h015__cnb_h016",
+      "sourceTopicId": "cnb_h015",
+      "targetTopicId": "cnb_h016",
+      "relation": "recommended_before",
+      "reason": "核膜与内质网膜相连，是生物膜系统的一部分。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j057__cnb_h016",
+      "sourceTopicId": "cnb_j057",
+      "targetTopicId": "cnb_h016",
+      "relation": "recommended_before",
+      "reason": "初中已知道染色体由 DNA 和蛋白质组成、基因在染色体上，是认识染色质的基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h013__cnb_h017",
+      "sourceTopicId": "cnb_h013",
+      "targetTopicId": "cnb_h017",
+      "relation": "prerequisite",
+      "reason": "细胞膜控制物质进出，是细胞吸水、失水的结构基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j004__cnb_h017",
+      "sourceTopicId": "cnb_j004",
+      "targetTopicId": "cnb_h017",
+      "relation": "prerequisite",
+      "reason": "质壁分离涉及细胞壁和液泡，要先认识植物细胞的结构。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h016__cnb_h017",
+      "sourceTopicId": "cnb_h016",
+      "targetTopicId": "cnb_h017",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修1《分子与细胞》的教学顺序，先学「细胞核的结构和功能」，再学「水进出细胞的原理」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h017__cnb_h018",
+      "sourceTopicId": "cnb_h017",
+      "targetTopicId": "cnb_h018",
+      "relation": "recommended_before",
+      "reason": "渗透是被动运输实例，但自由扩散可由膜和浓度梯度直接理解。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h018__cnb_h019",
+      "sourceTopicId": "cnb_h018",
+      "targetTopicId": "cnb_h019",
+      "relation": "recommended_before",
+      "reason": "主动与被动运输适合比较，先学被动运输不是唯一途径。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h015__cnb_h020",
+      "sourceTopicId": "cnb_h015",
+      "targetTopicId": "cnb_h020",
+      "relation": "recommended_before",
+      "reason": "分泌蛋白运输是胞吐实例，胞吞胞吐的直接基础是细胞膜流动性。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h019__cnb_h020",
+      "sourceTopicId": "cnb_h019",
+      "targetTopicId": "cnb_h020",
+      "relation": "recommended_before",
+      "reason": "对比主动运输，才能理解胞吞胞吐不需要转运蛋白但同样耗能。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h010__cnb_h021",
+      "sourceTopicId": "cnb_h010",
+      "targetTopicId": "cnb_h021",
+      "relation": "prerequisite",
+      "reason": "绝大多数酶是蛋白质，要先知道蛋白质的结构与功能，才能理解酶的性质。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h020__cnb_h021",
+      "sourceTopicId": "cnb_h020",
+      "targetTopicId": "cnb_h021",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修1《分子与细胞》的教学顺序，先学「胞吞与胞吐」，再学「酶的作用和本质」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h021__cnb_h022",
+      "sourceTopicId": "cnb_h021",
+      "targetTopicId": "cnb_h022",
+      "relation": "prerequisite",
+      "reason": "酶的特性是在认识酶的本质和作用的基础上进一步学习的。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h022__cnb_h023",
+      "sourceTopicId": "cnb_h022",
+      "targetTopicId": "cnb_h023",
+      "relation": "recommended_before",
+      "reason": "分析温度pH实验的直接基础是酶的催化作用，专一性等其他特性非必备。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h023__cnb_h024",
+      "sourceTopicId": "cnb_h023",
+      "targetTopicId": "cnb_h024",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修1《分子与细胞》的教学顺序，先学「影响酶活性的条件」，再学「ATP的结构与能量供应」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j028__cnb_h025",
+      "sourceTopicId": "cnb_j028",
+      "targetTopicId": "cnb_h025",
+      "relation": "prerequisite",
+      "reason": "初中已知道呼吸作用消耗氧气、产生二氧化碳，是设计本实验的基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h024__cnb_h025",
+      "sourceTopicId": "cnb_h024",
+      "targetTopicId": "cnb_h025",
+      "relation": "recommended_before",
+      "reason": "探究呼吸方式，目的是认识细胞怎样分解有机物、释放能量并生成 ATP。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h025__cnb_h026",
+      "sourceTopicId": "cnb_h025",
+      "targetTopicId": "cnb_h026",
+      "relation": "recommended_before",
+      "reason": "酵母实验是支持证据和探究活动，学会全部实验设计不是理解有氧呼吸过程的必要条件。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h014__cnb_h026",
+      "sourceTopicId": "cnb_h014",
+      "targetTopicId": "cnb_h026",
+      "relation": "prerequisite",
+      "reason": "第二、三阶段发生在线粒体中，要先知道线粒体的结构和功能。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h024__cnb_h026",
+      "sourceTopicId": "cnb_h024",
+      "targetTopicId": "cnb_h026",
+      "relation": "prerequisite",
+      "reason": "有氧呼吸释放的能量一部分用于合成 ATP，要先知道 ATP 的作用。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h026__cnb_h027",
+      "sourceTopicId": "cnb_h026",
+      "targetTopicId": "cnb_h027",
+      "relation": "recommended_before",
+      "reason": "两类呼吸可共享糖酵解基础，不要求学完有氧全过程才可理解无氧呼吸。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h014__cnb_h028",
+      "sourceTopicId": "cnb_h014",
+      "targetTopicId": "cnb_h028",
+      "relation": "prerequisite",
+      "reason": "色素分布在叶绿体中，要先知道叶绿体的结构。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j027__cnb_h028",
+      "sourceTopicId": "cnb_j027",
+      "targetTopicId": "cnb_h028",
+      "relation": "prerequisite",
+      "reason": "初中已知道叶片的绿色与光合作用有关，叶绿素是光合作用的关键色素。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h027__cnb_h028",
+      "sourceTopicId": "cnb_h027",
+      "targetTopicId": "cnb_h028",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修1《分子与细胞》的教学顺序，先学「无氧呼吸及细胞呼吸原理的应用」，再学「绿叶中色素的提取和分离」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h028__cnb_h029",
+      "sourceTopicId": "cnb_h028",
+      "targetTopicId": "cnb_h029",
+      "relation": "recommended_before",
+      "reason": "色素提取分离操作不是光合作用原理的必要先修，色素功能可在本主题给出。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h024__cnb_h029",
+      "sourceTopicId": "cnb_h024",
+      "targetTopicId": "cnb_h029",
+      "relation": "prerequisite",
+      "reason": "光反应合成 ATP，暗反应消耗 ATP，要先知道 ATP 的作用。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h029__cnb_h030",
+      "sourceTopicId": "cnb_h029",
+      "targetTopicId": "cnb_h030",
+      "relation": "prerequisite",
+      "reason": "分析影响因素，要先掌握光反应、暗反应各需要哪些条件。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h026__cnb_h030",
+      "sourceTopicId": "cnb_h026",
+      "targetTopicId": "cnb_h030",
+      "relation": "prerequisite",
+      "reason": "净光合速率要扣除呼吸作用消耗，需要掌握呼吸作用的物质变化。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j007__cnb_h031",
+      "sourceTopicId": "cnb_j007",
+      "targetTopicId": "cnb_h031",
+      "relation": "prerequisite",
+      "reason": "初中已学过细胞通过分裂产生新细胞，是理解细胞周期的起点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h016__cnb_h031",
+      "sourceTopicId": "cnb_h016",
+      "targetTopicId": "cnb_h031",
+      "relation": "prerequisite",
+      "reason": "细胞核控制范围有限，间期 DNA 在细胞核中复制，要先学细胞核的结构和功能。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h030__cnb_h031",
+      "sourceTopicId": "cnb_h030",
+      "targetTopicId": "cnb_h031",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修1《分子与细胞》的教学顺序，先学「影响光合作用的因素及其应用」，再学「细胞不能无限长大与细胞周期」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h031__cnb_h032",
+      "sourceTopicId": "cnb_h031",
+      "targetTopicId": "cnb_h032",
+      "relation": "prerequisite",
+      "reason": "有丝分裂是细胞周期中分裂期的主要内容，要先知道细胞周期。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h032__cnb_h033",
+      "sourceTopicId": "cnb_h032",
+      "targetTopicId": "cnb_h033",
+      "relation": "recommended_before",
+      "reason": "分化与有丝分裂适合比较，但不要求先记全有丝分裂阶段才能理解差异表达。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j008__cnb_h033",
+      "sourceTopicId": "cnb_j008",
+      "targetTopicId": "cnb_h033",
+      "relation": "prerequisite",
+      "reason": "动物体的组织是细胞分化形成的，初中已学过细胞、组织、器官的结构层次。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h016__cnb_h034",
+      "sourceTopicId": "cnb_h016",
+      "targetTopicId": "cnb_h034",
+      "relation": "prerequisite",
+      "reason": "衰老细胞的核体积增大、染色质收缩，端粒位于染色体两端，要先学细胞核与染色体。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h033__cnb_h034",
+      "sourceTopicId": "cnb_h033",
+      "targetTopicId": "cnb_h034",
+      "relation": "recommended_before",
+      "reason": "细胞分化后细胞走向衰老，要先学细胞的分化。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h034__cnb_h035",
+      "sourceTopicId": "cnb_h034",
+      "targetTopicId": "cnb_h035",
+      "relation": "recommended_before",
+      "reason": "细胞死亡不必经过衰老，胚胎发育等过程中也有程序性死亡。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j058__cnb_h036",
+      "sourceTopicId": "cnb_j058",
+      "targetTopicId": "cnb_h036",
+      "relation": "prerequisite",
+      "reason": "孟德尔实验中的显性性状、隐性性状，初中已经学过基因的显性和隐性。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h035__cnb_h036",
+      "sourceTopicId": "cnb_h035",
+      "targetTopicId": "cnb_h036",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物课序，学完必修1《分子与细胞》的「细胞的死亡」后进入必修2《遗传与进化》的「一对相对性状的杂交实验」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h036__cnb_h037",
+      "sourceTopicId": "cnb_h036",
+      "targetTopicId": "cnb_h037",
+      "relation": "prerequisite",
+      "reason": "分离定律是对一对相对性状杂交结果的解释，要先知道杂交实验的现象。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h037__cnb_h038",
+      "sourceTopicId": "cnb_h037",
+      "targetTopicId": "cnb_h038",
+      "relation": "prerequisite",
+      "reason": "F2 中每一对性状仍遵循分离定律，要先掌握分离定律。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h038__cnb_h039",
+      "sourceTopicId": "cnb_h038",
+      "targetTopicId": "cnb_h039",
+      "relation": "prerequisite",
+      "reason": "自由组合定律是对 9∶3∶3∶1 实验结果的概括，要先掌握两对相对性状的杂交实验。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h032__cnb_h040",
+      "sourceTopicId": "cnb_h032",
+      "targetTopicId": "cnb_h040",
+      "relation": "recommended_before",
+      "reason": "有丝分裂与减数分裂是可比较的不同过程，完整有丝分裂并非唯一学习入口。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h039__cnb_h040",
+      "sourceTopicId": "cnb_h039",
+      "targetTopicId": "cnb_h040",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修2《遗传与进化》的教学顺序，先学「自由组合定律及其应用」，再学「减数分裂的过程」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h040__cnb_h041",
+      "sourceTopicId": "cnb_h040",
+      "targetTopicId": "cnb_h041",
+      "relation": "prerequisite",
+      "reason": "本主题的典型动物配子形成模型建立在减数分裂染色体行为上；并非所有生物都直接由减数分裂形成配子。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j055__cnb_h041",
+      "sourceTopicId": "cnb_j055",
+      "targetTopicId": "cnb_h041",
+      "relation": "prerequisite",
+      "reason": "受精过程在初中已学过有性生殖，是理解受精作用的基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h037__cnb_h042",
+      "sourceTopicId": "cnb_h037",
+      "targetTopicId": "cnb_h042",
+      "relation": "prerequisite",
+      "reason": "基因在染色体上的证据要对应分离定律中成对遗传因子的行为。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h040__cnb_h042",
+      "sourceTopicId": "cnb_h040",
+      "targetTopicId": "cnb_h042",
+      "relation": "prerequisite",
+      "reason": "基因与染色体的平行关系体现在减数分裂中染色体的行为，要先掌握减数分裂。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h041__cnb_h042",
+      "sourceTopicId": "cnb_h041",
+      "targetTopicId": "cnb_h042",
+      "relation": "recommended_before",
+      "reason": "平行关系中“一个来自父方、一个来自母方”要依据受精作用。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h042__cnb_h043",
+      "sourceTopicId": "cnb_h042",
+      "targetTopicId": "cnb_h043",
+      "relation": "prerequisite",
+      "reason": "伴性遗传是基因位于性染色体上的情形，要先知道基因在染色体上的证据。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j059__cnb_h043",
+      "sourceTopicId": "cnb_j059",
+      "targetTopicId": "cnb_h043",
+      "relation": "prerequisite",
+      "reason": "伴性遗传与性别相关联，要先知道人的性别决定方式（XY 型）。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h011__cnb_h044",
+      "sourceTopicId": "cnb_h011",
+      "targetTopicId": "cnb_h044",
+      "relation": "prerequisite",
+      "reason": "实验的结论是 DNA 而不是蛋白质，要先知道核酸与蛋白质的组成差别。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h043__cnb_h044",
+      "sourceTopicId": "cnb_h043",
+      "targetTopicId": "cnb_h044",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修2《遗传与进化》的教学顺序，先学「伴性遗传」，再学「肺炎链球菌的转化实验」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h044__cnb_h045",
+      "sourceTopicId": "cnb_h044",
+      "targetTopicId": "cnb_h045",
+      "relation": "recommended_before",
+      "reason": "两种实验是互补证据，不要求先掌握一种才能评价另一种。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j020__cnb_h045",
+      "sourceTopicId": "cnb_j020",
+      "targetTopicId": "cnb_h045",
+      "relation": "prerequisite",
+      "reason": "实验材料噬菌体是病毒，要先知道病毒没有细胞结构，只能寄生在活细胞内。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h011__cnb_h046",
+      "sourceTopicId": "cnb_h011",
+      "targetTopicId": "cnb_h046",
+      "relation": "prerequisite",
+      "reason": "DNA 是由脱氧核苷酸连接成的长链，要先知道核酸的基本单位和组成。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h045__cnb_h046",
+      "sourceTopicId": "cnb_h045",
+      "targetTopicId": "cnb_h046",
+      "relation": "recommended_before",
+      "reason": "DNA 是遗传物质，才有必要进一步研究它的结构。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h046__cnb_h047",
+      "sourceTopicId": "cnb_h046",
+      "targetTopicId": "cnb_h047",
+      "relation": "prerequisite",
+      "reason": "复制以 DNA 的两条链为模板，靠碱基互补配对，要先掌握 DNA 的双螺旋结构。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h031__cnb_h047",
+      "sourceTopicId": "cnb_h031",
+      "targetTopicId": "cnb_h047",
+      "relation": "recommended_before",
+      "reason": "细胞周期帮助定位复制时段，但理解半保留复制不要求先学完整细胞周期。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h046__cnb_h048",
+      "sourceTopicId": "cnb_h046",
+      "targetTopicId": "cnb_h048",
+      "relation": "prerequisite",
+      "reason": "基因是 DNA 片段，要先知道 DNA 的结构与碱基排列。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h042__cnb_h048",
+      "sourceTopicId": "cnb_h042",
+      "targetTopicId": "cnb_h048",
+      "relation": "prerequisite",
+      "reason": "基因、DNA、染色体三者关系的梳理，建立在基因在染色体上的基础上。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h047__cnb_h048",
+      "sourceTopicId": "cnb_h047",
+      "targetTopicId": "cnb_h048",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修2《遗传与进化》的教学顺序，先学「DNA的复制」，再学「基因通常是有遗传效应的DNA片段」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h048__cnb_h049",
+      "sourceTopicId": "cnb_h048",
+      "targetTopicId": "cnb_h049",
+      "relation": "prerequisite",
+      "reason": "转录是以基因（DNA 片段）的一条链为模板，要先知道基因与 DNA 的关系。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h049__cnb_h050",
+      "sourceTopicId": "cnb_h049",
+      "targetTopicId": "cnb_h050",
+      "relation": "prerequisite",
+      "reason": "翻译以转录得到的 mRNA 为模板，要先掌握转录。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h014__cnb_h050",
+      "sourceTopicId": "cnb_h014",
+      "targetTopicId": "cnb_h050",
+      "relation": "prerequisite",
+      "reason": "翻译在核糖体上进行，要先知道核糖体的功能。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h050__cnb_h051",
+      "sourceTopicId": "cnb_h050",
+      "targetTopicId": "cnb_h051",
+      "relation": "prerequisite",
+      "reason": "中心法则把复制、转录、翻译三个过程联系在一起，要先掌握翻译。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h047__cnb_h051",
+      "sourceTopicId": "cnb_h047",
+      "targetTopicId": "cnb_h051",
+      "relation": "prerequisite",
+      "reason": "中心法则中有 DNA→DNA 的流向，要先掌握 DNA 复制。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h051__cnb_h052",
+      "sourceTopicId": "cnb_h051",
+      "targetTopicId": "cnb_h052",
+      "relation": "prerequisite",
+      "reason": "基因控制性状要通过表达形成蛋白质，要先掌握遗传信息的流动。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h052__cnb_h053",
+      "sourceTopicId": "cnb_h052",
+      "targetTopicId": "cnb_h053",
+      "relation": "prerequisite",
+      "reason": "表观遗传是基因表达影响性状的特殊情形，要先知道基因与性状的关系。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h047__cnb_h054",
+      "sourceTopicId": "cnb_h047",
+      "targetTopicId": "cnb_h054",
+      "relation": "recommended_before",
+      "reason": "复制差错是突变来源之一，理解突变还可从DNA序列改变入手。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j060__cnb_h054",
+      "sourceTopicId": "cnb_j060",
+      "targetTopicId": "cnb_h054",
+      "relation": "prerequisite",
+      "reason": "初中已学过生物的变异，基因突变是可遗传变异的一种。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h053__cnb_h054",
+      "sourceTopicId": "cnb_h053",
+      "targetTopicId": "cnb_h054",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修2《遗传与进化》的教学顺序，先学「表观遗传」，再学「基因突变」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h039__cnb_h055",
+      "sourceTopicId": "cnb_h039",
+      "targetTopicId": "cnb_h055",
+      "relation": "prerequisite",
+      "reason": "基因重组的一种类型就是非同源染色体上非等位基因的自由组合。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h040__cnb_h055",
+      "sourceTopicId": "cnb_h040",
+      "targetTopicId": "cnb_h055",
+      "relation": "prerequisite",
+      "reason": "基因重组发生在减数分裂过程中，要先掌握减数分裂各时期的特点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h054__cnb_h055",
+      "sourceTopicId": "cnb_h054",
+      "targetTopicId": "cnb_h055",
+      "relation": "recommended_before",
+      "reason": "基因重组与基因突变对比学习，更容易分清二者的区别。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h055__cnb_h056",
+      "sourceTopicId": "cnb_h055",
+      "targetTopicId": "cnb_h056",
+      "relation": "recommended_before",
+      "reason": "交叉互换与易位的对比有帮助，但基因重组不是认识结构变异的必要先修。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h042__cnb_h056",
+      "sourceTopicId": "cnb_h042",
+      "targetTopicId": "cnb_h056",
+      "relation": "prerequisite",
+      "reason": "染色体结构变异使基因的数目或排列顺序改变，要先知道基因在染色体上呈线性排列。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h040__cnb_h057",
+      "sourceTopicId": "cnb_h040",
+      "targetTopicId": "cnb_h057",
+      "relation": "prerequisite",
+      "reason": "多倍体、单倍体的染色体数与配子形成有关，三倍体不育也要用减数分裂联会来解释。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h056__cnb_h057",
+      "sourceTopicId": "cnb_h056",
+      "targetTopicId": "cnb_h057",
+      "relation": "recommended_before",
+      "reason": "染色体变异包括结构变异和数目变异，前者先学可以对比。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h057__cnb_h058",
+      "sourceTopicId": "cnb_h057",
+      "targetTopicId": "cnb_h058",
+      "relation": "prerequisite",
+      "reason": "染色体异常遗传病是染色体数目或结构变异的结果，要先学染色体变异。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h037__cnb_h058",
+      "sourceTopicId": "cnb_h037",
+      "targetTopicId": "cnb_h058",
+      "relation": "prerequisite",
+      "reason": "单基因遗传病的发病概率计算依据分离定律。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h058__cnb_h059",
+      "sourceTopicId": "cnb_h058",
+      "targetTopicId": "cnb_h059",
+      "relation": "prerequisite",
+      "reason": "监测和预防要对应不同类型遗传病的特点，要先知道遗传病的类型。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j062__cnb_h060",
+      "sourceTopicId": "cnb_j062",
+      "targetTopicId": "cnb_h060",
+      "relation": "recommended_before",
+      "reason": "进化历程是证据背景，而共同祖先证据可直接由化石、同源结构等比较建立。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h059__cnb_h060",
+      "sourceTopicId": "cnb_h059",
+      "targetTopicId": "cnb_h060",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物必修2《遗传与进化》的教学顺序，先学「遗传病的检测和预防」，再学「生物有共同祖先的证据」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h060__cnb_h061",
+      "sourceTopicId": "cnb_h060",
+      "targetTopicId": "cnb_h061",
+      "relation": "recommended_before",
+      "reason": "共同祖先证据与自然选择机制相关但不互为唯一逻辑前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j063__cnb_h061",
+      "sourceTopicId": "cnb_j063",
+      "targetTopicId": "cnb_h061",
+      "relation": "prerequisite",
+      "reason": "初中已学过生物进化的原因，是学习自然选择学说的起点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h061__cnb_h062",
+      "sourceTopicId": "cnb_h061",
+      "targetTopicId": "cnb_h062",
+      "relation": "recommended_before",
+      "reason": "基因频率也受遗传漂变、迁移、突变等影响，不应把自然选择当作任何频率变化的必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h037__cnb_h062",
+      "sourceTopicId": "cnb_h037",
+      "targetTopicId": "cnb_h062",
+      "relation": "prerequisite",
+      "reason": "基因频率与基因型频率的计算要用到基因型、等位基因等概念。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h062__cnb_h063",
+      "sourceTopicId": "cnb_h062",
+      "targetTopicId": "cnb_h063",
+      "relation": "prerequisite",
+      "reason": "新物种的形成以种群基因频率的改变为基础，要先学基因频率。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j065__cnb_h063",
+      "sourceTopicId": "cnb_j065",
+      "targetTopicId": "cnb_h063",
+      "relation": "recommended_before",
+      "reason": "初中已学过进化与生物多样性，物种的形成是其进一步展开。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h063__cnb_h064",
+      "sourceTopicId": "cnb_h063",
+      "targetTopicId": "cnb_h064",
+      "relation": "prerequisite",
+      "reason": "生物多样性是新物种不断形成与协同进化的结果，要先学物种的形成。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j065__cnb_h064",
+      "sourceTopicId": "cnb_j065",
+      "targetTopicId": "cnb_h064",
+      "relation": "recommended_before",
+      "reason": "同主题初中内容是有益背景，不要求重复整课才可分析协同进化。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j037__cnb_h065",
+      "sourceTopicId": "cnb_j037",
+      "targetTopicId": "cnb_h065",
+      "relation": "prerequisite",
+      "reason": "血浆是血液中的液体部分，需要先知道血液的组成，才能理解它属于细胞外液。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h064__cnb_h065",
+      "sourceTopicId": "cnb_h064",
+      "targetTopicId": "cnb_h065",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物课序，学完必修2《遗传与进化》的「协同进化与生物多样性的形成」后进入选择性必修1《稳态与调节》的「内环境的组成」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h065__cnb_h066",
+      "sourceTopicId": "cnb_h065",
+      "targetTopicId": "cnb_h066",
+      "relation": "prerequisite",
+      "reason": "要讨论内环境的理化性质，先得清楚内环境由哪些液体构成。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h006__cnb_h066",
+      "sourceTopicId": "cnb_h006",
+      "targetTopicId": "cnb_h066",
+      "relation": "prerequisite",
+      "reason": "血浆渗透压和 pH 的维持都离不开无机盐离子。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h066__cnb_h067",
+      "sourceTopicId": "cnb_h066",
+      "targetTopicId": "cnb_h067",
+      "relation": "prerequisite",
+      "reason": "稳态就是内环境成分和理化性质的相对稳定，必须先了解这些指标。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j042__cnb_h068",
+      "sourceTopicId": "cnb_j042",
+      "targetTopicId": "cnb_h068",
+      "relation": "prerequisite",
+      "reason": "初中学过神经系统由脑、脊髓和神经组成，这里进一步按功能细分。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h067__cnb_h068",
+      "sourceTopicId": "cnb_h067",
+      "targetTopicId": "cnb_h068",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修1《稳态与调节》的教学顺序，先学「内环境的稳态及其调节」，再学「神经系统的基本结构」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h068__cnb_h069",
+      "sourceTopicId": "cnb_h068",
+      "targetTopicId": "cnb_h069",
+      "relation": "recommended_before",
+      "reason": "神经元结构可先于系统分区学习，系统整体结构不是唯一入口。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h069__cnb_h070",
+      "sourceTopicId": "cnb_h069",
+      "targetTopicId": "cnb_h070",
+      "relation": "prerequisite",
+      "reason": "反射弧中的传入神经、传出神经都由神经元的突起构成。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h019__cnb_h071",
+      "sourceTopicId": "cnb_h019",
+      "targetTopicId": "cnb_h071",
+      "relation": "prerequisite",
+      "reason": "钠钾泵逆浓度梯度运输 Na+ 和 K+，属于主动运输，用来恢复离子分布。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h069__cnb_h071",
+      "sourceTopicId": "cnb_h069",
+      "targetTopicId": "cnb_h071",
+      "relation": "prerequisite",
+      "reason": "兴奋是沿神经元轴突等突起传导的，要先知道神经纤维的结构。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h070__cnb_h071",
+      "sourceTopicId": "cnb_h070",
+      "targetTopicId": "cnb_h071",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修1《稳态与调节》的教学顺序，先学「反射与反射弧」，再学「神经冲动的产生和在神经纤维上的传导」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h020__cnb_h072",
+      "sourceTopicId": "cnb_h020",
+      "targetTopicId": "cnb_h072",
+      "relation": "prerequisite",
+      "reason": "神经递质以胞吐的方式从突触前膜释放，依赖膜的流动性。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h071__cnb_h072",
+      "sourceTopicId": "cnb_h071",
+      "targetTopicId": "cnb_h072",
+      "relation": "prerequisite",
+      "reason": "兴奋先在轴突上以电信号传到末梢，才能触发突触传递。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h070__cnb_h073",
+      "sourceTopicId": "cnb_h070",
+      "targetTopicId": "cnb_h073",
+      "relation": "prerequisite",
+      "reason": "分级调节讨论的是各级神经中枢在反射中的位置与关系。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h072__cnb_h073",
+      "sourceTopicId": "cnb_h072",
+      "targetTopicId": "cnb_h073",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修1《稳态与调节》的教学顺序，先学「兴奋在神经元之间的传递」，再学「神经系统的分级调节」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h073__cnb_h074",
+      "sourceTopicId": "cnb_h073",
+      "targetTopicId": "cnb_h074",
+      "relation": "recommended_before",
+      "reason": "人脑高级功能可以由大脑皮层结构入手，完整分级调节不是必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_j044__cnb_h075",
+      "sourceTopicId": "cnb_j044",
+      "targetTopicId": "cnb_h075",
+      "relation": "prerequisite",
+      "reason": "初中已认识激素和主要内分泌腺，高中阶段进一步讨论其化学本质与作用特点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h074__cnb_h075",
+      "sourceTopicId": "cnb_h074",
+      "targetTopicId": "cnb_h075",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修1《稳态与调节》的教学顺序，先学「人脑的高级功能」，再学「激素与内分泌系统」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h075__cnb_h076",
+      "sourceTopicId": "cnb_h075",
+      "targetTopicId": "cnb_h076",
+      "relation": "prerequisite",
+      "reason": "血糖调节是激素调节的典型实例，要先理解激素和靶细胞的概念。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h007__cnb_h076",
+      "sourceTopicId": "cnb_h007",
+      "targetTopicId": "cnb_h076",
+      "relation": "prerequisite",
+      "reason": "肝糖原的分解和葡萄糖的储存需要先了解糖类，特别是糖原。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h075__cnb_h077",
+      "sourceTopicId": "cnb_h075",
+      "targetTopicId": "cnb_h077",
+      "relation": "prerequisite",
+      "reason": "分级调节和反馈调节讨论的是几种内分泌腺所分泌激素之间的相互关系。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h076__cnb_h077",
+      "sourceTopicId": "cnb_h076",
+      "targetTopicId": "cnb_h077",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修1《稳态与调节》的教学顺序，先学「血糖平衡的调节」，再学「激素分泌的分级调节与反馈调节」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h073__cnb_h078",
+      "sourceTopicId": "cnb_h073",
+      "targetTopicId": "cnb_h078",
+      "relation": "prerequisite",
+      "reason": "体温调节中枢在下丘脑，需要先知道各级中枢的分工。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h077__cnb_h078",
+      "sourceTopicId": "cnb_h077",
+      "targetTopicId": "cnb_h078",
+      "relation": "prerequisite",
+      "reason": "寒冷时甲状腺激素的增加依赖下丘脑—垂体—甲状腺轴的调节。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h066__cnb_h079",
+      "sourceTopicId": "cnb_h066",
+      "targetTopicId": "cnb_h079",
+      "relation": "prerequisite",
+      "reason": "水盐调节的目标是稳定细胞外液渗透压，需要理解渗透压的来源。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h075__cnb_h079",
+      "sourceTopicId": "cnb_h075",
+      "targetTopicId": "cnb_h079",
+      "relation": "prerequisite",
+      "reason": "抗利尿激素与醛固酮都是通过体液运输、作用于肾小管的激素。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h078__cnb_h079",
+      "sourceTopicId": "cnb_h078",
+      "targetTopicId": "cnb_h079",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修1《稳态与调节》的教学顺序，先学「体温调节」，再学「水盐平衡调节」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h070__cnb_h080",
+      "sourceTopicId": "cnb_h070",
+      "targetTopicId": "cnb_h080",
+      "relation": "prerequisite",
+      "reason": "神经调节的特点要对照反射弧的结构来理解。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h075__cnb_h080",
+      "sourceTopicId": "cnb_h075",
+      "targetTopicId": "cnb_h080",
+      "relation": "prerequisite",
+      "reason": "体液调节的特点要对照激素的运输和作用来理解。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h079__cnb_h080",
+      "sourceTopicId": "cnb_h079",
+      "targetTopicId": "cnb_h080",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修1《稳态与调节》的教学顺序，先学「水盐平衡调节」，再学「神经调节与体液调节的关系」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j046__cnb_h081",
+      "sourceTopicId": "cnb_j046",
+      "targetTopicId": "cnb_h081",
+      "relation": "prerequisite",
+      "reason": "初中已学过免疫的基本概念和人体三道防线，这里进一步细化免疫系统的组成。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h080__cnb_h081",
+      "sourceTopicId": "cnb_h080",
+      "targetTopicId": "cnb_h081",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修1《稳态与调节》的教学顺序，先学「神经调节与体液调节的关系」，再学「免疫系统的组成和功能」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h081__cnb_h082",
+      "sourceTopicId": "cnb_h081",
+      "targetTopicId": "cnb_h082",
+      "relation": "prerequisite",
+      "reason": "体液免疫涉及多种免疫细胞和活性物质，需要先认识免疫系统的组成。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h010__cnb_h082",
+      "sourceTopicId": "cnb_h010",
+      "targetTopicId": "cnb_h082",
+      "relation": "prerequisite",
+      "reason": "抗体是一类蛋白质，要理解它如何特异性地结合抗原。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h082__cnb_h083",
+      "sourceTopicId": "cnb_h082",
+      "targetTopicId": "cnb_h083",
+      "relation": "recommended_before",
+      "reason": "细胞免疫与体液免疫协同但不是前后必需链，应共享免疫系统和细胞识别基础。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h082__cnb_h084",
+      "sourceTopicId": "cnb_h082",
+      "targetTopicId": "cnb_h084",
+      "relation": "prerequisite",
+      "reason": "过敏反应涉及抗体的产生和再次免疫，需要先掌握体液免疫。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h083__cnb_h084",
+      "sourceTopicId": "cnb_h083",
+      "targetTopicId": "cnb_h084",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修1《稳态与调节》的教学顺序，先学「细胞免疫」，再学「过敏反应」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h083__cnb_h085",
+      "sourceTopicId": "cnb_h083",
+      "targetTopicId": "cnb_h085",
+      "relation": "prerequisite",
+      "reason": "免疫缺陷与 T 细胞的功能密切相关，需要先掌握细胞免疫和辅助性 T 细胞的作用。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h084__cnb_h085",
+      "sourceTopicId": "cnb_h084",
+      "targetTopicId": "cnb_h085",
+      "relation": "recommended_before",
+      "reason": "三类免疫失调需要对照比较，过敏反应是其中最先学的一类。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h082__cnb_h086",
+      "sourceTopicId": "cnb_h082",
+      "targetTopicId": "cnb_h086",
+      "relation": "prerequisite",
+      "reason": "疫苗的作用就是借助体液免疫的二次反应获得记忆细胞，需要先理解该过程。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h085__cnb_h086",
+      "sourceTopicId": "cnb_h085",
+      "targetTopicId": "cnb_h086",
+      "relation": "recommended_before",
+      "reason": "免疫抑制剂与免疫失调的认识有助于理解移植后的用药。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h086__cnb_h087",
+      "sourceTopicId": "cnb_h086",
+      "targetTopicId": "cnb_h087",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修1《稳态与调节》的教学顺序，先学「免疫学的应用」，再学「生长素的发现过程」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h087__cnb_h088",
+      "sourceTopicId": "cnb_h087",
+      "targetTopicId": "cnb_h088",
+      "relation": "recommended_before",
+      "reason": "经典发现实验是证据材料，不要求先完整记忆实验史才能理解生长素作用。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h019__cnb_h088",
+      "sourceTopicId": "cnb_h019",
+      "targetTopicId": "cnb_h088",
+      "relation": "prerequisite",
+      "reason": "理解生长素极性运输的耗能与转运机制需认识主动运输；极性指运输的形态学方向，并不意味着任何时刻都必定逆浓度梯度。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h088__cnb_h089",
+      "sourceTopicId": "cnb_h088",
+      "targetTopicId": "cnb_h089",
+      "relation": "prerequisite",
+      "reason": "这个实验检验的是生长素类调节剂的两重性，需要先掌握生长素的作用特点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h088__cnb_h090",
+      "sourceTopicId": "cnb_h088",
+      "targetTopicId": "cnb_h090",
+      "relation": "recommended_before",
+      "reason": "多种植物激素是并列调节因素，生长素是比较对象而非全部激素的必要前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h089__cnb_h090",
+      "sourceTopicId": "cnb_h089",
+      "targetTopicId": "cnb_h090",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修1《稳态与调节》的教学顺序，先学「探索生长素类调节剂促进插条生根的最适浓度」，再学「其他植物激素」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h090__cnb_h091",
+      "sourceTopicId": "cnb_h090",
+      "targetTopicId": "cnb_h091",
+      "relation": "prerequisite",
+      "reason": "植物生长调节剂的功能多数与某种植物激素类似，需要先了解各类植物激素的作用。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h088__cnb_h092",
+      "sourceTopicId": "cnb_h088",
+      "targetTopicId": "cnb_h092",
+      "relation": "prerequisite",
+      "reason": "重力引起生长素的横向运输和不均匀分布是向重力性的基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h091__cnb_h092",
+      "sourceTopicId": "cnb_h091",
+      "targetTopicId": "cnb_h092",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修1《稳态与调节》的教学顺序，先学「植物生长调节剂的应用」，再学「环境因素参与调节植物的生命活动」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j049__cnb_h093",
+      "sourceTopicId": "cnb_j049",
+      "targetTopicId": "cnb_h093",
+      "relation": "prerequisite",
+      "reason": "初中学过生物与环境的相互作用，种群密度是进一步定量描述生物与环境关系的起点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h092__cnb_h093",
+      "sourceTopicId": "cnb_h092",
+      "targetTopicId": "cnb_h093",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物课序，学完选择性必修1《稳态与调节》的「环境因素参与调节植物的生命活动」后进入选择性必修2《生物与环境》的「种群密度及其调查方法」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h093__cnb_h094",
+      "sourceTopicId": "cnb_h093",
+      "targetTopicId": "cnb_h094",
+      "relation": "prerequisite",
+      "reason": "各种数量特征都是围绕种群密度的变化展开的，需要先理解种群密度的概念。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h094__cnb_h095",
+      "sourceTopicId": "cnb_h094",
+      "targetTopicId": "cnb_h095",
+      "relation": "prerequisite",
+      "reason": "增长模型是出生率、死亡率等特征随时间变化的综合结果。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h095__cnb_h096",
+      "sourceTopicId": "cnb_h095",
+      "targetTopicId": "cnb_h096",
+      "relation": "prerequisite",
+      "reason": "影响因素决定了种群是 J 形增长还是 S 形增长，以及 K 值的大小。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h096__cnb_h097",
+      "sourceTopicId": "cnb_h096",
+      "targetTopicId": "cnb_h097",
+      "relation": "recommended_before",
+      "reason": "种间关系是影响种群的因素，不要求先学完整种群数量影响因素才能理解群落。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h097__cnb_h098",
+      "sourceTopicId": "cnb_h097",
+      "targetTopicId": "cnb_h098",
+      "relation": "prerequisite",
+      "reason": "群落的空间结构建立在群落的物种组成和种间关系之上。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h098__cnb_h099",
+      "sourceTopicId": "cnb_h098",
+      "targetTopicId": "cnb_h099",
+      "relation": "recommended_before",
+      "reason": "生态位还涉及资源和时间利用，群落空间结构不是唯一前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h098__cnb_h100",
+      "sourceTopicId": "cnb_h098",
+      "targetTopicId": "cnb_h100",
+      "relation": "recommended_before",
+      "reason": "群落类型可由物种组成和环境识别，不必先学完整空间结构。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h099__cnb_h100",
+      "sourceTopicId": "cnb_h099",
+      "targetTopicId": "cnb_h100",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修2《生物与环境》的教学顺序，先学「群落的生态位」，再学「群落的主要类型」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h098__cnb_h101",
+      "sourceTopicId": "cnb_h098",
+      "targetTopicId": "cnb_h101",
+      "relation": "prerequisite",
+      "reason": "演替是群落物种组成和结构的更替，需要先理解群落的结构。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h100__cnb_h101",
+      "sourceTopicId": "cnb_h100",
+      "targetTopicId": "cnb_h101",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修2《生物与环境》的教学顺序，先学「群落的主要类型」，再学「群落的演替」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j050__cnb_h102",
+      "sourceTopicId": "cnb_j050",
+      "targetTopicId": "cnb_h102",
+      "relation": "prerequisite",
+      "reason": "初中已学过生态系统的组成和食物链，这里进一步用营养方式划分成分。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h101__cnb_h102",
+      "sourceTopicId": "cnb_h101",
+      "targetTopicId": "cnb_h102",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修2《生物与环境》的教学顺序，先学「群落的演替」，再学「生态系统的组成成分」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h102__cnb_h103",
+      "sourceTopicId": "cnb_h102",
+      "targetTopicId": "cnb_h103",
+      "relation": "prerequisite",
+      "reason": "食物链只包含生产者和消费者，需要先区分生态系统的各种成分。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h103__cnb_h104",
+      "sourceTopicId": "cnb_h103",
+      "targetTopicId": "cnb_h104",
+      "relation": "prerequisite",
+      "reason": "能量是沿着食物链和食物网流动的，需要先掌握营养级的概念。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h029__cnb_h104",
+      "sourceTopicId": "cnb_h029",
+      "targetTopicId": "cnb_h104",
+      "relation": "recommended_before",
+      "reason": "光合全过程有助解释能量输入，但理解能量收支只需生产者固能概念，不要求掌握分子反应全过程。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h104__cnb_h105",
+      "sourceTopicId": "cnb_h104",
+      "targetTopicId": "cnb_h105",
+      "relation": "prerequisite",
+      "reason": "要理解传递特点，需要先清楚各营养级同化能量的去向。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h029__cnb_h106",
+      "sourceTopicId": "cnb_h029",
+      "targetTopicId": "cnb_h106",
+      "relation": "prerequisite",
+      "reason": "CO2 进入生物群落的主要途径是光合作用。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h026__cnb_h106",
+      "sourceTopicId": "cnb_h026",
+      "targetTopicId": "cnb_h106",
+      "relation": "recommended_before",
+      "reason": "碳循环需理解呼吸释放碳，不要求先记有氧呼吸全部阶段。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h102__cnb_h106",
+      "sourceTopicId": "cnb_h102",
+      "targetTopicId": "cnb_h106",
+      "relation": "prerequisite",
+      "reason": "判断碳循环模式图中的各成分，需要先理解生产者、消费者和分解者。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h105__cnb_h106",
+      "sourceTopicId": "cnb_h105",
+      "targetTopicId": "cnb_h106",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修2《生物与环境》的教学顺序，先学「能量流动的特点及其应用」，再学「碳循环」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h106__cnb_h107",
+      "sourceTopicId": "cnb_h106",
+      "targetTopicId": "cnb_h107",
+      "relation": "prerequisite",
+      "reason": "碳循环是物质循环的典型实例，需要先掌握其过程。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h097__cnb_h108",
+      "sourceTopicId": "cnb_h097",
+      "targetTopicId": "cnb_h108",
+      "relation": "recommended_before",
+      "reason": "种间信息是实例，个体内和种内信息也可独立理解。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h107__cnb_h108",
+      "sourceTopicId": "cnb_h107",
+      "targetTopicId": "cnb_h108",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修2《生物与环境》的教学顺序，先学「物质循环的特点与生物富集」，再学「生态系统的信息传递」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h103__cnb_h109",
+      "sourceTopicId": "cnb_h103",
+      "targetTopicId": "cnb_h109",
+      "relation": "prerequisite",
+      "reason": "稳定性与食物网的复杂程度密切相关，需要先掌握食物链和食物网。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h108__cnb_h109",
+      "sourceTopicId": "cnb_h108",
+      "targetTopicId": "cnb_h109",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修2《生物与环境》的教学顺序，先学「生态系统的信息传递」，再学「生态系统的稳定性」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h106__cnb_h110",
+      "sourceTopicId": "cnb_h106",
+      "targetTopicId": "cnb_h110",
+      "relation": "recommended_before",
+      "reason": "碳循环是气候变化的一个解释框架，不是评价所有人类环境影响的必备前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h109__cnb_h110",
+      "sourceTopicId": "cnb_h109",
+      "targetTopicId": "cnb_h110",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修2《生物与环境》的教学顺序，先学「生态系统的稳定性」，再学「人类活动对生态环境的影响」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h110__cnb_h111",
+      "sourceTopicId": "cnb_h110",
+      "targetTopicId": "cnb_h111",
+      "relation": "recommended_before",
+      "reason": "保护多样性可由多样性价值与威胁直接理解，不必先学完全部人类环境影响。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h107__cnb_h112",
+      "sourceTopicId": "cnb_h107",
+      "targetTopicId": "cnb_h112",
+      "relation": "prerequisite",
+      "reason": "循环原理以物质循环再生为核心，需要先掌握物质循环的特点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h109__cnb_h112",
+      "sourceTopicId": "cnb_h109",
+      "targetTopicId": "cnb_h112",
+      "relation": "prerequisite",
+      "reason": "生态工程利用生态系统的自我调节能力来修复和维持稳定。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h111__cnb_h112",
+      "sourceTopicId": "cnb_h111",
+      "targetTopicId": "cnb_h112",
+      "relation": "recommended_before",
+      "reason": "物种的合理选择与布设以保护生物多样性为基础。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h027__cnb_h113",
+      "sourceTopicId": "cnb_h027",
+      "targetTopicId": "cnb_h113",
+      "relation": "prerequisite",
+      "reason": "乳酸菌发酵就是乳酸菌的无氧呼吸，产物是乳酸。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h112__cnb_h113",
+      "sourceTopicId": "cnb_h112",
+      "targetTopicId": "cnb_h113",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物课序，学完选择性必修2《生物与环境》的「生态工程」后进入选择性必修3《生物技术与工程》的「泡菜的制作与传统发酵技术」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h025__cnb_h114",
+      "sourceTopicId": "cnb_h025",
+      "targetTopicId": "cnb_h114",
+      "relation": "recommended_before",
+      "reason": "酵母呼吸探究是证据活动，发酵原理可直接建立在有氧/无氧代谢概念上。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h113__cnb_h114",
+      "sourceTopicId": "cnb_h113",
+      "targetTopicId": "cnb_h114",
+      "relation": "recommended_before",
+      "reason": "果酒、果醋与泡菜一样属于传统发酵，要对比不同菌种的呼吸类型。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j018__cnb_h115",
+      "sourceTopicId": "cnb_j018",
+      "targetTopicId": "cnb_h115",
+      "relation": "prerequisite",
+      "reason": "培养基的设计依据细菌的营养和繁殖方式，初中已有基本认识。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h114__cnb_h115",
+      "sourceTopicId": "cnb_h114",
+      "targetTopicId": "cnb_h115",
+      "relation": "recommended_before",
+      "reason": "传统发酵依靠混合菌种，纯培养技术则用于获得单一菌种，二者对比学习。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h115__cnb_h116",
+      "sourceTopicId": "cnb_h115",
+      "targetTopicId": "cnb_h116",
+      "relation": "prerequisite",
+      "reason": "选择培养和计数都建立在培养基配制和无菌操作的基础上。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h115__cnb_h117",
+      "sourceTopicId": "cnb_h115",
+      "targetTopicId": "cnb_h117",
+      "relation": "prerequisite",
+      "reason": "发酵工程使用单一菌种的纯培养，依赖无菌技术和培养基配制。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h116__cnb_h117",
+      "sourceTopicId": "cnb_h116",
+      "targetTopicId": "cnb_h117",
+      "relation": "recommended_before",
+      "reason": "菌种选育与扩大培养中常用选择培养和计数的方法。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h117__cnb_h118",
+      "sourceTopicId": "cnb_h117",
+      "targetTopicId": "cnb_h118",
+      "relation": "prerequisite",
+      "reason": "应用都是通过发酵工程的基本环节实现的。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h033__cnb_h119",
+      "sourceTopicId": "cnb_h033",
+      "targetTopicId": "cnb_h119",
+      "relation": "prerequisite",
+      "reason": "植物细胞全能性是组织培养的理论基础，需要先理解细胞分化和全能性。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h115__cnb_h119",
+      "sourceTopicId": "cnb_h115",
+      "targetTopicId": "cnb_h119",
+      "relation": "recommended_before",
+      "reason": "无菌与营养是共同原则，但完整微生物培养操作不是植物组织培养原理的必要先修。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h118__cnb_h119",
+      "sourceTopicId": "cnb_h118",
+      "targetTopicId": "cnb_h119",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修3《生物技术与工程》的教学顺序，先学「发酵工程的应用」，再学「植物组织培养技术」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h119__cnb_h120",
+      "sourceTopicId": "cnb_h119",
+      "targetTopicId": "cnb_h120",
+      "relation": "prerequisite",
+      "reason": "杂种细胞需要借助植物组织培养发育成完整植株。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h012__cnb_h120",
+      "sourceTopicId": "cnb_h012",
+      "targetTopicId": "cnb_h120",
+      "relation": "prerequisite",
+      "reason": "原生质体融合依赖细胞膜的流动性。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h119__cnb_h121",
+      "sourceTopicId": "cnb_h119",
+      "targetTopicId": "cnb_h121",
+      "relation": "prerequisite",
+      "reason": "各项应用都是植物组织培养技术的延伸。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h120__cnb_h121",
+      "sourceTopicId": "cnb_h120",
+      "targetTopicId": "cnb_h121",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修3《生物技术与工程》的教学顺序，先学「植物体细胞杂交技术」，再学「植物细胞工程的应用」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h115__cnb_h122",
+      "sourceTopicId": "cnb_h115",
+      "targetTopicId": "cnb_h122",
+      "relation": "recommended_before",
+      "reason": "两类培养共享条件控制原则，不应把微生物培养全套技术当动物细胞培养的必要门槛。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h121__cnb_h122",
+      "sourceTopicId": "cnb_h121",
+      "targetTopicId": "cnb_h122",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修3《生物技术与工程》的教学顺序，先学「植物细胞工程的应用」，再学「动物细胞培养」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h122__cnb_h123",
+      "sourceTopicId": "cnb_h122",
+      "targetTopicId": "cnb_h123",
+      "relation": "prerequisite",
+      "reason": "核移植的供体细胞和重构胚都需要经过动物细胞培养。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h016__cnb_h123",
+      "sourceTopicId": "cnb_h016",
+      "targetTopicId": "cnb_h123",
+      "relation": "prerequisite",
+      "reason": "细胞核是遗传信息库，是核移植实验的前提。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h082__cnb_h124",
+      "sourceTopicId": "cnb_h082",
+      "targetTopicId": "cnb_h124",
+      "relation": "prerequisite",
+      "reason": "抗体由浆细胞（B 细胞分化而来）产生，要先理解体液免疫的过程。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h122__cnb_h124",
+      "sourceTopicId": "cnb_h122",
+      "targetTopicId": "cnb_h124",
+      "relation": "prerequisite",
+      "reason": "杂交瘤细胞的培养属于动物细胞培养。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h123__cnb_h124",
+      "sourceTopicId": "cnb_h123",
+      "targetTopicId": "cnb_h124",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修3《生物技术与工程》的教学顺序，先学「动物体细胞核移植与克隆动物」，再学「动物细胞融合与单克隆抗体」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h041__cnb_h125",
+      "sourceTopicId": "cnb_h041",
+      "targetTopicId": "cnb_h125",
+      "relation": "prerequisite",
+      "reason": "胚胎工程的理论基础是配子形成与受精作用，需要先学减数分裂与受精。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h124__cnb_h125",
+      "sourceTopicId": "cnb_h124",
+      "targetTopicId": "cnb_h125",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修3《生物技术与工程》的教学顺序，先学「动物细胞融合与单克隆抗体」，再学「胚胎工程的理论基础」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h125__cnb_h126",
+      "sourceTopicId": "cnb_h125",
+      "targetTopicId": "cnb_h126",
+      "relation": "prerequisite",
+      "reason": "胚胎工程技术操作的对象是早期胚胎，需要先掌握其发育过程。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h046__cnb_h127",
+      "sourceTopicId": "cnb_h046",
+      "targetTopicId": "cnb_h127",
+      "relation": "prerequisite",
+      "reason": "限制酶切断的是磷酸二酯键，识别的是特定碱基序列，需要先了解 DNA 的结构。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h022__cnb_h127",
+      "sourceTopicId": "cnb_h022",
+      "targetTopicId": "cnb_h127",
+      "relation": "prerequisite",
+      "reason": "限制酶只识别特定序列，体现了酶的专一性。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h126__cnb_h127",
+      "sourceTopicId": "cnb_h126",
+      "targetTopicId": "cnb_h127",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修3《生物技术与工程》的教学顺序，先学「胚胎工程技术及其应用」，再学「重组DNA技术的基本工具」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h047__cnb_h128",
+      "sourceTopicId": "cnb_h047",
+      "targetTopicId": "cnb_h128",
+      "relation": "prerequisite",
+      "reason": "PCR 的原理就是 DNA 半保留复制，需要引物和聚合酶。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h127__cnb_h128",
+      "sourceTopicId": "cnb_h127",
+      "targetTopicId": "cnb_h128",
+      "relation": "recommended_before",
+      "reason": "获取目的基因是基因工程的第一步，要与限制酶等工具的使用联系起来。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h127__cnb_h129",
+      "sourceTopicId": "cnb_h127",
+      "targetTopicId": "cnb_h129",
+      "relation": "prerequisite",
+      "reason": "构建载体要用到限制酶、DNA 连接酶和质粒。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h049__cnb_h129",
+      "sourceTopicId": "cnb_h049",
+      "targetTopicId": "cnb_h129",
+      "relation": "prerequisite",
+      "reason": "启动子和终止子的功能与 RNA 聚合酶催化转录有关。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h128__cnb_h129",
+      "sourceTopicId": "cnb_h128",
+      "targetTopicId": "cnb_h129",
+      "relation": "recommended_before",
+      "reason": "目的基因的获取是构建载体的上一步。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h129__cnb_h130",
+      "sourceTopicId": "cnb_h129",
+      "targetTopicId": "cnb_h130",
+      "relation": "prerequisite",
+      "reason": "导入的是已经构建好的基因表达载体。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h130__cnb_h131",
+      "sourceTopicId": "cnb_h130",
+      "targetTopicId": "cnb_h131",
+      "relation": "prerequisite",
+      "reason": "各项应用都要依靠目的基因的导入和表达。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h129__cnb_h132",
+      "sourceTopicId": "cnb_h129",
+      "targetTopicId": "cnb_h132",
+      "relation": "prerequisite",
+      "reason": "蛋白质工程最终仍要通过基因表达载体让改造后的基因表达。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h051__cnb_h132",
+      "sourceTopicId": "cnb_h051",
+      "targetTopicId": "cnb_h132",
+      "relation": "prerequisite",
+      "reason": "蛋白质工程的思路按中心法则逆推：从蛋白质到基因。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h131__cnb_h132",
+      "sourceTopicId": "cnb_h131",
+      "targetTopicId": "cnb_h132",
+      "relation": "recommended_before",
+      "reason": "与基因工程的应用对照，更容易看出蛋白质工程的特点。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h131__cnb_h133",
+      "sourceTopicId": "cnb_h131",
+      "targetTopicId": "cnb_h133",
+      "relation": "recommended_before",
+      "reason": "安全评价需个案证据、比较和暴露条件，不要求先学完所有基因工程应用。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h132__cnb_h133",
+      "sourceTopicId": "cnb_h132",
+      "targetTopicId": "cnb_h133",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修3《生物技术与工程》的教学顺序，先学「蛋白质工程的原理和应用」，再学「转基因产品的安全性」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h123__cnb_h134",
+      "sourceTopicId": "cnb_h123",
+      "targetTopicId": "cnb_h134",
+      "relation": "prerequisite",
+      "reason": "克隆人涉及的就是体细胞核移植技术。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_h133__cnb_h134",
+      "sourceTopicId": "cnb_h133",
+      "targetTopicId": "cnb_h134",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修3《生物技术与工程》的教学顺序，先学「转基因产品的安全性」，再学「关注生殖性克隆人」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j045__cnb_h135",
+      "sourceTopicId": "cnb_j045",
+      "targetTopicId": "cnb_h135",
+      "relation": "recommended_before",
+      "reason": "传染病知识提供背景，但生物武器也可能涉及毒素；伦理规范讨论不以学完传染病为唯一前提。",
+      "contentOrigin": "revised"
+    },
+    {
+      "id": "cnb_h134__cnb_h135",
+      "sourceTopicId": "cnb_h134",
+      "targetTopicId": "cnb_h135",
+      "relation": "recommended_before",
+      "reason": "按人教版高中生物选择性必修3《生物技术与工程》的教学顺序，先学「关注生殖性克隆人」，再学「禁止生物武器」。",
+      "contentOrigin": "inherited"
+    },
+    {
+      "id": "cnb_j004__cnb_j007",
+      "sourceTopicId": "cnb_j004",
+      "targetTopicId": "cnb_j007",
+      "relation": "prerequisite",
+      "reason": "理解细胞分裂时细胞核和细胞质变化，需要细胞基本结构。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_j005__cnb_j008",
+      "sourceTopicId": "cnb_j005",
+      "targetTopicId": "cnb_j008",
+      "relation": "prerequisite",
+      "reason": "动物结构层次中的细胞、组织、器官需要动物细胞结构实例。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_j004__cnb_j009",
+      "sourceTopicId": "cnb_j004",
+      "targetTopicId": "cnb_j009",
+      "relation": "prerequisite",
+      "reason": "植物结构层次需要植物细胞及其组成结构。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_j004__cnb_j018",
+      "sourceTopicId": "cnb_j004",
+      "targetTopicId": "cnb_j018",
+      "relation": "prerequisite",
+      "reason": "比较细菌缺少成形细胞核等特点，需要细胞基本结构参照。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_j004__cnb_j019",
+      "sourceTopicId": "cnb_j004",
+      "targetTopicId": "cnb_j019",
+      "relation": "prerequisite",
+      "reason": "真菌具有细胞结构，需区分细胞壁、细胞核等结构与植物光合结构。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_j004__cnb_j020",
+      "sourceTopicId": "cnb_j004",
+      "targetTopicId": "cnb_j020",
+      "relation": "prerequisite",
+      "reason": "判断病毒无细胞结构，需要知道细胞基本结构的含义。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_j009__cnb_j026",
+      "sourceTopicId": "cnb_j009",
+      "targetTopicId": "cnb_j026",
+      "relation": "prerequisite",
+      "reason": "根茎叶是吸水、运输和蒸腾的主要器官，需要植物器官层次认识。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_j006__cnb_j028",
+      "sourceTopicId": "cnb_j006",
+      "targetTopicId": "cnb_j028",
+      "relation": "prerequisite",
+      "reason": "呼吸作用是细胞利用有机物释放能量的活动，需要细胞物质和能量活动认识。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_j032__cnb_j034",
+      "sourceTopicId": "cnb_j032",
+      "targetTopicId": "cnb_j034",
+      "relation": "prerequisite",
+      "reason": "评价营养搭配需要了解食物中的主要营养物质及作用。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_j037__cnb_j040",
+      "sourceTopicId": "cnb_j037",
+      "targetTopicId": "cnb_j040",
+      "relation": "prerequisite",
+      "reason": "排泄中需区分进入肾与离开肾的血液和代谢废物运输。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_j007__cnb_j056",
+      "sourceTopicId": "cnb_j007",
+      "targetTopicId": "cnb_j056",
+      "relation": "prerequisite",
+      "reason": "讨论基因与性状至少需要细胞核遗传物质随细胞传递的基础。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_j049__cnb_j063",
+      "sourceTopicId": "cnb_j049",
+      "targetTopicId": "cnb_j063",
+      "relation": "prerequisite",
+      "reason": "自然选择需要生物与环境相互作用及生存繁殖条件。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_j004__cnb_j006",
+      "sourceTopicId": "cnb_j004",
+      "targetTopicId": "cnb_j006",
+      "relation": "recommended_before",
+      "reason": "植物细胞可作为理解细胞生活的参照实例，动物细胞也是可用的替代实例。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h013__cnb_h018",
+      "sourceTopicId": "cnb_h013",
+      "targetTopicId": "cnb_h018",
+      "relation": "prerequisite",
+      "reason": "区分被动运输需理解细胞膜选择透过性。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h013__cnb_h019",
+      "sourceTopicId": "cnb_h013",
+      "targetTopicId": "cnb_h019",
+      "relation": "prerequisite",
+      "reason": "分析主动运输需明确跨膜运输与选择透过性。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h012__cnb_h020",
+      "sourceTopicId": "cnb_h012",
+      "targetTopicId": "cnb_h020",
+      "relation": "prerequisite",
+      "reason": "囊泡融合及膜形变的结构基础是细胞膜及其流动性。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h021__cnb_h023",
+      "sourceTopicId": "cnb_h021",
+      "targetTopicId": "cnb_h023",
+      "relation": "prerequisite",
+      "reason": "酶活性实验需知道酶催化反应及活性指标含义。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_j028__cnb_h026",
+      "sourceTopicId": "cnb_j028",
+      "targetTopicId": "cnb_h026",
+      "relation": "prerequisite",
+      "reason": "有氧呼吸可由初中呼吸作用的有机物分解与能量释放概念进入。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_j028__cnb_h027",
+      "sourceTopicId": "cnb_j028",
+      "targetTopicId": "cnb_h027",
+      "relation": "prerequisite",
+      "reason": "无氧呼吸需先理解细胞分解有机物释放能量的基本概念。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h014__cnb_h029",
+      "sourceTopicId": "cnb_h014",
+      "targetTopicId": "cnb_h029",
+      "relation": "prerequisite",
+      "reason": "光合作用分区与结构相联系，需要认识叶绿体。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h016__cnb_h035",
+      "sourceTopicId": "cnb_h016",
+      "targetTopicId": "cnb_h035",
+      "relation": "prerequisite",
+      "reason": "细胞死亡的调控涉及细胞核及遗传信息的基本认识。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h031__cnb_h040",
+      "sourceTopicId": "cnb_h031",
+      "targetTopicId": "cnb_h040",
+      "relation": "prerequisite",
+      "reason": "在典型二倍体动物模型中，区分分裂前复制与连续两次分裂需基本细胞增殖认识。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h011__cnb_h045",
+      "sourceTopicId": "cnb_h011",
+      "targetTopicId": "cnb_h045",
+      "relation": "prerequisite",
+      "reason": "评价DNA与蛋白质标记证据需区分核酸及蛋白质。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h046__cnb_h054",
+      "sourceTopicId": "cnb_h046",
+      "targetTopicId": "cnb_h054",
+      "relation": "prerequisite",
+      "reason": "基因突变首先需要理解DNA碱基序列是可变化的信息载体。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_j056__cnb_h062",
+      "sourceTopicId": "cnb_j056",
+      "targetTopicId": "cnb_h062",
+      "relation": "prerequisite",
+      "reason": "计算等位基因频率需先理解基因与性状、等位基因的区别。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h081__cnb_h083",
+      "sourceTopicId": "cnb_h081",
+      "targetTopicId": "cnb_h083",
+      "relation": "prerequisite",
+      "reason": "细胞免疫的直接基础是免疫细胞及其识别功能。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h075__cnb_h090",
+      "sourceTopicId": "cnb_h075",
+      "targetTopicId": "cnb_h090",
+      "relation": "prerequisite",
+      "reason": "植物激素作用可由微量信号与靶组织响应的基本概念进入。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h094__cnb_h097",
+      "sourceTopicId": "cnb_h094",
+      "targetTopicId": "cnb_h097",
+      "relation": "prerequisite",
+      "reason": "群落与种群关系的辨析需要种群的基本数量与边界概念。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h097__cnb_h099",
+      "sourceTopicId": "cnb_h097",
+      "targetTopicId": "cnb_h099",
+      "relation": "prerequisite",
+      "reason": "生态位的资源利用与种间关系需先有群落组成的概念。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h097__cnb_h100",
+      "sourceTopicId": "cnb_h097",
+      "targetTopicId": "cnb_h100",
+      "relation": "prerequisite",
+      "reason": "识别群落类型需要比较物种组成与优势类群。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h102__cnb_h104",
+      "sourceTopicId": "cnb_h102",
+      "targetTopicId": "cnb_h104",
+      "relation": "prerequisite",
+      "reason": "能量输入与各类群去向需先区分生产者、消费者和分解者。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h027__cnb_h114",
+      "sourceTopicId": "cnb_h027",
+      "targetTopicId": "cnb_h114",
+      "relation": "prerequisite",
+      "reason": "果酒发酵需理解酵母无氧代谢，醋酸形成还需另检查氧条件。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h012__cnb_h119",
+      "sourceTopicId": "cnb_h012",
+      "targetTopicId": "cnb_h119",
+      "relation": "prerequisite",
+      "reason": "组织培养中活细胞的营养与物质交换需要细胞膜结构基础。",
+      "contentOrigin": "added"
+    },
+    {
+      "id": "cnb_h031__cnb_h122",
+      "sourceTopicId": "cnb_h031",
+      "targetTopicId": "cnb_h122",
+      "relation": "prerequisite",
+      "reason": "动物细胞培养中的增殖与密度限制需基本细胞增殖认识。",
+      "contentOrigin": "added"
+    }
+  ],
+  "prerequisiteGroups": [
+    {
+      "id": "cnb_j006_cell_example",
+      "targetTopicId": "cnb_j006",
+      "mode": "any_of",
+      "memberTopicIds": [
+        "cnb_j004",
+        "cnb_j005"
+      ],
+      "reason": "至少熟悉一种有细胞核的细胞结构实例，用于理解细胞的物质与能量活动；不要求两种都先掌握。"
+    }
+  ]
+}
